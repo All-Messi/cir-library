@@ -7,6 +7,7 @@ date: '2026-02-16'
 draft: false
 title: "GOOD AND EVIL IN ETERNAL PERSPECTIVE:"
 weight: 2
+subtitle: "HELP FROM REVELATION"
 ---
 
 <style>
@@ -28,18 +29,6 @@ weight: 2
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>GOOD
-AND EVIL IN ETERNAL PERSPECTIVE: </span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>HELP
-FROM REVELATION</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>Good triumphs over evil.</span></p>
 
@@ -190,15 +179,4 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&n
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Evil
 comes to a final, irreversible end.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:5.0in;text-align:justify;text-indent:.5in'><span style='font-size:
-12.0pt;line-height:115%;font-family:"Times New Roman",serif'>     </span><span
-style='font-family:"Times New Roman",serif'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 </div>

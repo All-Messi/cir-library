@@ -28,21 +28,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>THE UNEVANGELIZED AND INTERPERSONALISM</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>            The unevangelized have a
 frame of reference by which they can approximate God’s intentions for human
@@ -209,7 +194,4 @@ chance of knowing him or his Son. If the real situation is some other way than
 the one hypothesized above, well and good. But those reasonings do at least remove
 a supposed problem in the case of the unevangelized when we speak of their needing
 salvation through Christ alone.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:11.0pt'>                                                                                                                                     christir.org</span></p>
 </div>

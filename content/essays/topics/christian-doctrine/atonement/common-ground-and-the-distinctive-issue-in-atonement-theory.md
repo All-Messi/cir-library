@@ -28,24 +28,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>COMMON GROUND AND THE DISTINCTIVE ISSUE </span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>IN ATONEMENT THEORY</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-family:"Arial",sans-serif'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>I. Common Ground</span></p>
 
@@ -161,16 +143,4 @@ any texts that are incompatible with identification theory. In fact, our search
 for an alternative to John Calvin’s popular penal substitution theory arose
 because of texts and concepts that did not fit with substitution language taken
 as straightforward explanation. </span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                         
-</span><span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

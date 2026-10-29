@@ -35,14 +35,6 @@ span.HeaderChar
 <div class="word-content">
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                  2.   Xenoglossia</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                        Glossolalia covers a range of
 speaking phenomena, including ecstatic utterance and “angelic tongues.” Cases occasionally
 come up in which someone speaks an actual language—xenoglossia. The following
@@ -368,33 +360,4 @@ as Learned Behavior<i>.</i>”<i> Canadian Journal of Theology</i>. XV (1969), p
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                              “Language in
 Resocialization.” <i>Practical Anthropology</i>. XVII (1970), pp. 269-79.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:11.0pt'>                                                                                                                                     
-christir.org</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

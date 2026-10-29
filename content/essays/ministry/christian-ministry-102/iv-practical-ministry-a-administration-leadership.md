@@ -6,6 +6,8 @@ categories:
 - 'Ministry'
 - 'Christian Ministry 102'
 draft: false
+aliases:
+- /essays/ministry/christian-ministry-102/iv-practical-ministry/
 ---
 
 <style>
@@ -468,8 +470,4 @@ style='font-size:12.0pt'>            Sociology</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            Written Composition</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

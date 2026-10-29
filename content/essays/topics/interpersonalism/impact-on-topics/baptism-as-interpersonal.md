@@ -44,21 +44,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>BAPTISM AS INTERPERSONAL</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>             As a matter of standard
 procedure, baptism is an act of personal identification with Jesus Christ,
@@ -1132,8 +1117,4 @@ erroneous, or counterproductive.</span></p>
 18.0pt'><span style='font-size:12.0pt'>            For more elaborated
 treatments of many of these questions, see <i>What the Bible Says About
 Salvation</i>, pp. 225-409</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>                                                                                                                                         
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

@@ -1,8 +1,11 @@
 {{ define "main" }}
+{{ $kindLabel := dict "study-prompt" "Study prompts" "title-page" "Title page" "outline" "Outline" "chart" "Chart" "notes" "Notes" }}
 {{/* ── ESSAYS SECTION LAYOUT — always essay-style drilldown ── */}}
 {{/* Book-toc browsing is handled separately by categories/term.html */}}
 <div class="essays-landing">
-    <header class="el-header">
+    <header class="el-header" data-pagefind-body>
+        {{ $parent := "" }}{{ with .Parent }}{{ if ne .Kind "home" }}{{ $parent = .Title | lower | title }}{{ end }}{{ end }}
+        {{ partial "pagefind-tags.html" (dict "filter" (dict "type" "section") "meta" (dict "type" "section" "parent" $parent "pages" (len .RegularPagesRecursive))) }}
         <h1>{{ .Title | lower | title }}</h1>
         <div class="el-rule"></div>
         {{ with .Content }}<div class="el-desc">{{ . }}</div>{{ end }}
@@ -52,13 +55,13 @@
                     {{ if .Params.book }}
                     {{ range .RegularPages.ByWeight }}
                     <a href="{{ .Permalink }}" class="el-child-essay">
-                        {{ .Title | lower | title }}
+                        {{ .Title | lower | title }}{{ with .Params.content_kind }}<span class="el-kind">{{ index $kindLabel . }}</span>{{ end }}
                     </a>
                     {{ end }}
                     {{ else }}
                     {{ range .RegularPages.ByTitle }}
                     <a href="{{ .Permalink }}" class="el-child-essay">
-                        {{ .Title | lower | title }}
+                        {{ .Title | lower | title }}{{ with .Params.content_kind }}<span class="el-kind">{{ index $kindLabel . }}</span>{{ end }}
                     </a>
                     {{ end }}
                     {{ end }}
@@ -76,13 +79,13 @@
             {{ if .Params.book }}
             {{ range .RegularPages.ByWeight }}
             <a href="{{ .Permalink }}" class="el-essay-row">
-                {{ .Title | lower | title }}
+                {{ .Title | lower | title }}{{ with .Params.content_kind }}<span class="el-kind">{{ index $kindLabel . }}</span>{{ end }}
             </a>
             {{ end }}
             {{ else }}
             {{ range .RegularPages.ByTitle }}
             <a href="{{ .Permalink }}" class="el-essay-row">
-                {{ .Title | lower | title }}
+                {{ .Title | lower | title }}{{ with .Params.content_kind }}<span class="el-kind">{{ index $kindLabel . }}</span>{{ end }}
             </a>
             {{ end }}
             {{ end }}
@@ -136,6 +139,7 @@
 .el-essay-row { display: block; padding: 0.35rem 0; font-family: 'Source Sans Pro', sans-serif; font-size: 0.88rem; color: #444; text-decoration: none; border-bottom: 1px solid #f5f3ef; transition: color .15s; overflow-wrap: anywhere; }
 .el-essay-row:last-child { border-bottom: none; }
 .el-essay-row:hover { color: #2f4c3a; }
+.el-kind { display: inline-block; font-size: 0.66rem; line-height: 1.3; color: #8a8a8a; border: 1px solid #ddd; border-radius: 3px; padding: 0 0.3rem; margin-left: 0.4rem; vertical-align: middle; white-space: nowrap; }
 
 .el-book-link { text-decoration: none; cursor: pointer; }
 .el-book-link:hover .el-subcat-name { color: #2f4c3a; }

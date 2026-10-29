@@ -33,9 +33,9 @@ next: chapter-16
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And [the] Pilate again having-answered, was-saying to-them, <i>“What then [do-you-want]<sup>ms</sup> (that) I-should-do-with [whom you-call]<sup>ms</sup> the king of-the Jews?”</i></span><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></sup></b></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  13</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the/they shouted again, <i>“Crucify him!”</i> </span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the/they shouted again, <i>“Crucify him!”</i> </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  14</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And [the] Pilate kept-saying to-them, <i>“For what evil-thing did-he-do?”</i> </span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And [the] Pilate kept-saying to-them, <i>“For what evil-thing did-he-do?”</i> </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            But the/they shouted all-the-more, <i>“Crucify him!”</i> </span></p>
 

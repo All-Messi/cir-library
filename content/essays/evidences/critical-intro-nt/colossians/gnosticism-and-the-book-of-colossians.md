@@ -28,26 +28,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>GNOSTICISM AND THE BOOK OF COLOSSIANS</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:10.5pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='position:relative;z-index:251657216'><span style='left:0px;position:
@@ -178,24 +158,4 @@ style='font-size:12.0pt'>;<b> 1</b>:9-10, 27), catered to
 intellectual/informational exclusivism; but Christ is for all people (Ephesians
 <b>3</b>:14-16; cp. Isaiah <b>55</b>; <b>60</b>:1-3; the Book of Jonah; and
 Acts <b>15</b>:16-18 &lt; Amos <b>9</b>:11-12).</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

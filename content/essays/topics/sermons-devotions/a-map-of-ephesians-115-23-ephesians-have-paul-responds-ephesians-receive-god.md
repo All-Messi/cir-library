@@ -6,6 +6,9 @@ categories:
 - 'Topics'
 - 'Sermons Devotions'
 draft: false
+content_kind: chart
+aliases:
+- /essays/topics/sermons-devotions/a-map-of-ephesians-115-23/
 ---
 
 <style>
@@ -61,13 +64,4 @@ about                                     �
 <p class=MsoNormal style='text-align:justify'>&nbsp;</p>
 
 <p class=MsoNormal style='text-align:justify'><b>1</b>:15                             <b>1</b>:16                 <b>1</b>:17-19                                                <b>1</b>:20-23                        </p>
-
-<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
-
-<p class=MsoNormal style='text-align:justify'>Virgil Warren</p>
-
-<p class=MsoNormal style='text-align:justify'>                                                                                                                          
-<span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
 </div>

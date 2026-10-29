@@ -63,7 +63,7 @@ next: chapter-23
 ### The Question About Resurrection
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  23</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That day, some Sadducees, saying there’s no resurrection, approached him, </span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That day, some Sadducees, saying there’s no resurrection, approached him, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Rabbi, Moses said<b>,</b> </span></i></span></p>
 

@@ -21,15 +21,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>SUMMARY OF OFFICES IN THE CHURCH</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
 style='font-size:12.0pt'>                                                  general              supernatural          
@@ -162,8 +153,4 @@ laid at the apostles’ feet to be distributed to the poor; the apostles were th
 ones who called for selecting others for the task in Jerusalem so they
 themselves could concentrate on ministry of the word (Acts<b> 4</b>:35, 36;<b>
 5</b>:2).</span></p>
-
-<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                        
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

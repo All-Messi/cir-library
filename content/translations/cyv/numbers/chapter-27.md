@@ -23,7 +23,7 @@ next: chapter-28
 
 <p class="section-ref">Num 27:1-4</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                5</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses brought the case to Yahveh.</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses brought the case to Yahveh.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                <b>6</b></span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told him, </span></p>
 
@@ -44,7 +44,7 @@ next: chapter-28
 </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>When you’ve seen it, you’ll pass on to your people like Aaron did. </span></i></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the Wilderness of Zin, during the conflict with the community, you rebelled against my command to honor me as holy in front of them at the water”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> (</span><span style='font-family:"Times New Roman",serif'>of Meribah at Kadesh</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>).</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>  Num 27:5-14</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                  15</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses said, </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses said, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“May Yahveh, the God that gives breath to all flesh, appoint a man </span></i></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to lead the community so they won’t be like sheep without a shepherd.”</span></i></span></p>

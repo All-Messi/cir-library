@@ -36,21 +36,6 @@ span.FooterChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>1 TIMOTHY 2:8-15: SITUATIONAL OR GENERAL?</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            Interpreters have proposed several ways
 for removing from present observance of New Testament directives about
@@ -771,8 +756,4 @@ lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>
 style='font-size:12.0pt'>;]? We have taken “nature” in the sense of “what is
 natural,” which can be something based in perception more than reality, culture
 rather than nature. Comparable usages are Ephesians <b>2</b>:3 and 2 Peter <b>1</b>:4.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                        
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

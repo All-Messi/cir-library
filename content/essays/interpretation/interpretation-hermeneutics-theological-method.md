@@ -31,17 +31,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>INTERPRETATION,
-HERMENEUTICS, THEOLOGICAL METHOD</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In
 dealing with controversial passages, interpreters make their choice by their
@@ -189,11 +178,4 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Li
 we cannot rely on finding another passage that eliminates an incorrect reading
 of this one. While that sometimes happen, the procedure often calls for a more
 involved effort of thought and research—efforts such as those indicated above.</span></p>
-
-<p class=MsoNormal style='text-align:justify;text-indent:.5in'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                            </span><span
-style='font-family:"Times New Roman",serif'>                   christir.org</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 </div>

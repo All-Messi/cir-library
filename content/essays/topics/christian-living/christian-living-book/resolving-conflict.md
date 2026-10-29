@@ -20,26 +20,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>RESOLVING CONFLICT</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>INTRODUCTION</span></p>
@@ -752,10 +732,4 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 style='font-size:12.0pt'>            Some problems we can only solve
 attitudinally, not just in the sense of preparing mentalities for conceptual
 change, but for ongoing relationship without altered convictions.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

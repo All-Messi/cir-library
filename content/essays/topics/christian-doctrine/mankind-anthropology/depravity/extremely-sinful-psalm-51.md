@@ -34,23 +34,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-line-height:normal'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>EXTREMELY
-SINFUL: Psalm 51</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-line-height:normal'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-line-height:normal'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;line-height:
-normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 .5in;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Psalm
 <b>51</b> records David’s response to his sin with Bathsheba:  heading of the
@@ -320,9 +303,4 @@ Impossible concept </span></b></p>
 normal'><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                        </span></b><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif'>Sin is an act,
 which by nature cannot be inherited.    </span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;line-height:
-normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                  
-                                                                                                    christir.org   
-</span></p>
 </div>

@@ -29,21 +29,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>THE THIRD REASON</span></b></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'>Introductory Comment</span></p>
 
@@ -275,14 +260,4 @@ of Jesus as what he claimed to be: <i>“dead men don’t resurrect.”</i> The
 resurrection powerfully declared Jesus of Nazareth to be the Son of God (Romans
 <b>1</b>:1-4). Consequently, the church legitimately exists, which says that we
 can legitimately accept Jesus of Nazareth as Messiah, Son of the living God. </span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

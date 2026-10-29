@@ -851,13 +851,4 @@ activates “Bible.” <u>Fellowship</u> activates “Other Christians.” <u>Pr
 activates “Circumstance.” <u>Meditation/contemplation/communion</u> and the
 other three activate “Relationship.” Scripture provides the content; the other
 three make it real.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:11.0pt'>                                                                                                                                     
-christir.org</span></p>
 </div>

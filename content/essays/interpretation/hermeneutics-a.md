@@ -30,15 +30,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>Hermeneutics A</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b>&nbsp;</b></p>
-
-<p class=MsoNormal align=center style='text-align:center'>Virgil Warren, PhD</p>
-
-<p class=MsoNormal align=center style='text-align:center'><b>&nbsp;</b></p>
-
 <p class=MsoNormal style='margin-left:.25in;text-align:justify;text-indent:
 -.25in'>A.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span>Interpretation
 of texts often comes in terms of the assumed overall viewpoints, more than by
@@ -75,16 +66,4 @@ the possible meanings for the texts in question. At the level of the whole
 than confirmatory evidence; otherwise, the interpretation process is rooted in
 the (1) interpreter’s personality rather than in (2) the Big Picture or in (3)
 specific clear texts.</p>
-
-<p class=MsoNormal style='margin-left:.25in;text-align:justify'>&nbsp;</p>
-
-<p class=MsoNormal style='margin-left:.25in;text-align:justify'>                                                                                                                  <span
-style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-left:.25in;text-align:justify;text-indent:
--.25in'>&nbsp;</p>
-
-<p class=MsoNormal style='margin-left:.5in;text-align:justify'>&nbsp;</p>
-
-<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
 </div>

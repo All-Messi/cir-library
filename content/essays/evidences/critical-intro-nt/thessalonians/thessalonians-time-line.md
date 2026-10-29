@@ -7,6 +7,7 @@ categories:
 - 'Critical Intro Nt'
 - 'Thessalonians'
 draft: false
+content_kind: chart
 ---
 
 <style>
@@ -33,20 +34,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>THESSALONIANS
-TIME LINE</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:8.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-line-height:normal'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><b><span
 style='font-size:14.0pt;font-family:"Times New Roman",serif'>                           </span></b><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif'>spring 51 (or 50)                                 </span></p>

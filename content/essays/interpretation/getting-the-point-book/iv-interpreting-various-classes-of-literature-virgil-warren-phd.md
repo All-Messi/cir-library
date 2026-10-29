@@ -1445,13 +1445,4 @@ myth is a made-up account. Unrealistic elements are brought into the picture. It
 might be built up around a key event or person, but it is elaborated with
 unreal material. Myth states timeless, placeless truths; hence, it says little about
 people, places, actual events, dates, and other features of real occurrence.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                  
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

@@ -22,23 +22,23 @@ next: chapter-05
 ### Azariah son of Zadok was priest.
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  3</span></sup></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Elihoreph</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> and <b>Ahijah</b>, sons of Shisha, were secretaries.</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Elihoreph</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> and <b>Ahijah</b>, sons of Shisha, were secretaries.</span></span></p>
 
 
 ### Jehoshaphat son of Ahilud was recorder.
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  4</span></sup></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Benaiah</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> son of Jehoiada was the general over the army.</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Benaiah</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> son of Jehoiada was the general over the army.</span></span></p>
 
 
 ### Zadok and Abiathar were priests.
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  5</span></sup></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Azariah</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> son of Nathan oversaw the deputies.</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Azariah</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> son of Nathan oversaw the deputies.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>Zabud</b> son of Nathan, a priest, was the king’s personal advisor.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  6</span></sup></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ahishar</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> governed the household.</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ahishar</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> governed the household.</span></span></p>
 
 
 ### Adoniram son of Abda oversaw forced labor.
@@ -64,7 +64,7 @@ next: chapter-05
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-family:"Times New Roman",serif'>                        Taphath.)</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  12</span></sup></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Baana</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> son of Ahilud in Taanach, Megiddo, and Beth-shean, which is beside </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Baana</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> son of Ahilud in Taanach, Megiddo, and Beth-shean, which is beside </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Zarethan below Jezreel, from Beth-shean to Abelmeholah as far as the </span></p>
 

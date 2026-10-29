@@ -34,14 +34,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>A
-SKETCH ON BAPTISM FROM ACTS 2:38</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Repent 
        be baptized  into    the <u>name</u> of Jesus Messiah     remission of
@@ -149,8 +141,4 @@ BAPTISM IN ITS INTERPERSONAL CONTEXT </span></b></p>
 <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>SO
 IT DOES NOT BECOME A RITUAL, A LEGAL ACT.</span></b></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:5.0in;text-indent:.5in'><span style='font-family:"Times New Roman",serif'>     
-christir.org</span></p>
 </div>

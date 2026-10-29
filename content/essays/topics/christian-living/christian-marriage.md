@@ -26,26 +26,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>CHRISTIAN MARRIAGE</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>  </span></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>INTRODUCTION </span></p>
@@ -903,35 +883,4 @@ may impact men-women relations outside that setting as with the unmarried
 deaconesses? as in 1 Timothy <b>5</b>). Over-reading New Testament comments
 even on a married woman’s role should be offset by the range of her activities
 praised in Proverbs <b>31</b>.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                              </span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

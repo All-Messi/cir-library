@@ -65,7 +65,7 @@ next: chapter-12
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            just remember, God will judge you for all of them. </span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122425878"><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         10</span></sup></b></a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So don’t worry; take care of your health, </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122425878"><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So don’t worry; take care of your health, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            because childhood and the prime of life soon pass.<b>   </b></span></p>
 

@@ -35,21 +35,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>THE NECESSITY OF “TONGUE SPEAKING”: A CRITIQUE</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
-style='font-size:12.0pt'>  </span></b></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
 style='font-size:12.0pt'>                        </span></b><span
 style='font-size:12.0pt'>Christian groups have different expectancies about “tongue
@@ -258,8 +243,4 @@ sensitive souls. <u>Psychologically speaking</u>, if it does not drive them to
 despair or disillusion them about the faith, it fosters the tendency to
 misidentify speaking in languages with overcoming the adult inhibition against
 babbling.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                         
-christir.org</span></p>
 </div>

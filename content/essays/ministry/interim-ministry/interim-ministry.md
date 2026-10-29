@@ -32,12 +32,6 @@ span.HeaderChar
 
 <div class="word-content">
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Interim Ministry</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'>                                                                                                                                
 May 24</span></p>
 
@@ -162,10 +156,4 @@ passage they must complete before a church will hire them.</span></p>
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                        I trust that these comments
 serve the purpose you had in mind when you wrote. I remain</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>Virgil Warren                                                                                                                  christir.org</span></p>
 </div>

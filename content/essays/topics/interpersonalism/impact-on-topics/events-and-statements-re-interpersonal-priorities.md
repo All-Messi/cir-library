@@ -28,21 +28,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-31.5pt;text-align:center'><b><span
-style='font-size:14.0pt'>EVENTS AND STATEMENTS RE INTERPERSONAL PRIORITIES</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-31.5pt;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-31.5pt;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-31.5pt;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-31.5pt;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal align=center style='margin-right:-31.5pt;text-align:center'><span
 style='font-size:12.0pt'>The Priority of Interpersonal over <u>Formal</u> Matters</span></p>
 
@@ -110,12 +95,4 @@ observance of <u>animal sacrifices</u>.</span></p>
 <p class=MsoNormal style='margin-right:-31.5pt;text-align:justify'><span
 style='font-size:12.0pt'>8.   Abraham’s relationship to God preceded
 circumcision and the Law (Romans<b> 4</b>:6-15, <i>etc</i>.).</span></p>
-
-<p class=MsoNormal style='margin-right:-31.5pt;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                         
-</span></p>
-
-<p class=MsoNormal style='margin-right:-31.5pt;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                          
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

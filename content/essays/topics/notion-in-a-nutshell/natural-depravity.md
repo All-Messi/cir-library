@@ -26,15 +26,9 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>NATURAL DEPRAVITY</span></b></p>
-
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'><span
 style='font-size:12.0pt;line-height:115%'>There is no <u>clear</u> <u>biblical</u>
 evidence that Adam’s ability in <u>spiritual matters</u> was any different
 after the fall than it was <u>before the fall</u> <u>in a biologically
 inheritable sense</u>.</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
-line-height:115%'>Virgil Warren, PhD                 </span>christir.org</p>
 </div>

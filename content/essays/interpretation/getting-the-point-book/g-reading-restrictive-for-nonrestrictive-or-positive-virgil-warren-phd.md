@@ -271,13 +271,4 @@ in contrast to current leaders who had not been with Jesus. Jesus’ love may
 also be what impressed him most, since he was earlier a “son of thunder” (Mark <b>3</b>:17).
 The writer’s practice may be a literary device for keeping his name out of the
 narrative for humility’s sake.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt;color:#7030A0'>                                                                                                                                    
-</span><span style='font-size:11.0pt;color:windowtext'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:10.0pt'>&nbsp;</span></p>
 </div>

@@ -18,11 +18,11 @@ prev: chapter-11
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>“I don’t enjoy them </i>anymore<i>”</i>; </span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         2</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>before the sun, moon, and stars grow faint </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>before the sun, moon, and stars grow faint </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and clouds remain after rain; </span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         3</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>when the watchmen </span><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>[arms and hands?] </span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>of the house </span><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>[body]</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> are palsied </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>when the watchmen </span><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>[arms and hands?] </span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>of the house </span><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>[body]</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> are palsied </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and strong men </span><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>[shoulders?]</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> hunch over; </span></p>
 
@@ -54,7 +54,7 @@ prev: chapter-11
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            while wailers walk the streets; </span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         6</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>before the silver cord snaps, </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>before the silver cord snaps, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            the golden bowl breaks, </span></p>
 
@@ -62,11 +62,11 @@ prev: chapter-11
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            the pulley at the cistern doesn’t work anymore; </span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         7</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>when the dust returns to the earth where it was </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>when the dust returns to the earth where it was </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and the spirit returns to the God who gave it.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         8</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Completely pointless,”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> the Preacher says; <i>“it’s all pointless.”</i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Completely pointless,”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> the Preacher says; <i>“it’s all pointless.”</i></span></span></p>
 
 
 ### Eccl 12:5-8

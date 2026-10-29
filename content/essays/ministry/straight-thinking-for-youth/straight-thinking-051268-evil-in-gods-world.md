@@ -107,7 +107,4 @@ Revelation <b>20</b>:10,14-15</span><span style='font-size:12.0pt;line-height:
 <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
 line-height:115%'>Virgil Warren, <u>Straight</u>, May 11, 1968                                                                                        
 christir.org</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
-line-height:115%'>&nbsp;</span></p>
 </div>

@@ -7,6 +7,8 @@ categories:
 - 'Critical Intro Nt'
 - 'Acts'
 draft: false
+aliases:
+- /essays/evidences/critical-intro-nt/acts/internal-evidence-on-the-authorship-of/
 ---
 
 <style>
@@ -34,24 +36,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>INTERNAL EVIDENCE ON THE AUTHORSHIP OF </span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>ACTS OF APOSTLES</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            The “we passages” in Acts provide the best
 indication of its authorship. They occur in a series of sections as follows:</span></p>
@@ -202,10 +186,4 @@ physician can be somewhat qualified by periods of time when he may not have
 been with Paul, notably that possible five-year stretch in Acts <b>18</b>:11 + <b>19</b>:8-10
 + <b>20</b>:3 + travel times. On the other hand, the absence of “we” may not
 indicate absence from the apostle. </span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:11.0pt'>christir.org</span></p>
 </div>

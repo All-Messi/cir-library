@@ -31,15 +31,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>THINKING ABOUT GOD’S WILL</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
-
-<p class=MsoNormal align=center style='text-align:center'>Virgil Warren, PhD </p>
-
-<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
-
 <p class=MsoNormal style='text-align:justify'>            Asking whether
 something that happened was God’s will, depends on what the question means. There
 are two possibilities:</p>
@@ -281,9 +272,4 @@ God is trying to tell us something. What is happening is part of the way God set
 up the world to run. We must decide for ourselves whether resistance to our
 good intentions means we should try harder (to conquer the opposition) or back
 off and let what happens guide our next choices.</p>
-
-<p class=MsoNormal>                                                                                                                              
-<span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal>&nbsp;</p>
 </div>

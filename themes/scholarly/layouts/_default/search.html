@@ -29,23 +29,26 @@
 <script>
 let searchIndex = null;
 
-// Load search index
-fetch('{{ "index.json" | absURL }}')
-    .then(response => response.json())
-    .then(data => {
-        searchIndex = data;
-        // Check if there's a query parameter
-        const urlParams = new URLSearchParams(window.location.search);
-        const query = urlParams.get('q');
-        if (query) {
-            document.getElementById('search-input').value = query;
-            performSearch();
-        }
-    })
-    .catch(err => {
-        console.error('Failed to load search index:', err);
-        document.getElementById('search-results').innerHTML = '<p class="search-note">Search index not available. Please rebuild the site.</p>';
-    });
+// content_kind front-matter values (scripts/assign_content_kind.py) -> label + rank penalty
+const KIND_LABEL = {
+    'study-prompt': 'Study prompts', 'title-page': 'Title page',
+    'outline': 'Outline', 'chart': 'Chart', 'notes': 'Notes'
+};
+const KIND_PENALTY = { 'study-prompt': 60, 'title-page': 70, 'outline': 40, 'chart': 25, 'notes': 25 };
+
+// Legacy index.json (title + first 500 chars) — only loaded if Pagefind is unavailable
+let legacyLoading = false;
+function loadLegacyIndex() {
+    if (searchIndex || legacyLoading) return;
+    legacyLoading = true;
+    fetch('{{ "index.json" | absURL }}')
+        .then(response => response.json())
+        .then(data => { searchIndex = data; performSearchLegacy(); })
+        .catch(err => {
+            console.error('Failed to load search index:', err);
+            document.getElementById('search-results').innerHTML = '<p class="search-note">Search index not available. Please rebuild the site.</p>';
+        });
+}
 
 // Restore filter state from sessionStorage
 (function restoreFilters() {
@@ -99,7 +102,7 @@ function itemMatchesFilters(item, filters) {
     return filters.essays;
 }
 
-function performSearch() {
+function performSearchLegacy() {
     saveFilters();
     const query = document.getElementById('search-input').value.toLowerCase().trim();
     const resultsDiv = document.getElementById('search-results');
@@ -110,6 +113,7 @@ function performSearch() {
     }
     if (!searchIndex) {
         resultsDiv.innerHTML = '<p class="search-note">Loading search index...</p>';
+        loadLegacyIndex();
         return;
     }
 
@@ -123,17 +127,30 @@ function performSearch() {
         return titleMatch || contentMatch || categoryMatch;
     });
 
-    // Sort: sections first, then essays, then bible/harmony/resources
+    // Sort: sections first, then essays, then bible/harmony/resources.
+    // Within a tier (2026-10-28): title match > category match > body match,
+    // minus a penalty for non-essay kinds (jump-starter prompt sheets, title
+    // pages, outlines, charts, notes), then longer pages first. A 50-word
+    // prompt sheet no longer outranks the essays on the same topic.
+    const tierOf = item => {
+        if (item.pageType === 'section') return 0;
+        if (!item.book && !((item.permalink||'').includes('/resources/'))) return 1;
+        return 2;
+    };
+    const scoreOf = item => {
+        let s = 0;
+        if (item.title && item.title.toLowerCase().includes(query)) s += 100;
+        if (item.categories && item.categories.join(' ').toLowerCase().includes(query)) s += 40;
+        if (item.content && item.content.toLowerCase().includes(query)) s += 10;
+        s -= KIND_PENALTY[item.kind] || 0;
+        return s;
+    };
     results.sort((a, b) => {
-        const aSection = a.pageType === 'section';
-        const bSection = b.pageType === 'section';
-        if (aSection && !bSection) return -1;
-        if (!aSection && bSection) return 1;
-        const aIsEssay = !a.book && !((a.permalink||'').includes('/resources/'));
-        const bIsEssay = !b.book && !((b.permalink||'').includes('/resources/'));
-        if (aIsEssay && !bIsEssay) return -1;
-        if (!aIsEssay && bIsEssay) return 1;
-        return 0;
+        const t = tierOf(a) - tierOf(b);
+        if (t !== 0) return t;
+        const sc = scoreOf(b) - scoreOf(a);
+        if (sc !== 0) return sc;
+        return (b.words || 0) - (a.words || 0);
     });
 
     if (results.length === 0) {
@@ -162,6 +179,9 @@ function performSearch() {
             cardClass = 'resource-result'; badgeText = 'Resource'; badgeClass = 'badge-resource';
         } else {
             cardClass = 'essay-result';
+            if (result.kind && KIND_LABEL[result.kind]) {
+                badgeText = KIND_LABEL[result.kind]; badgeClass = 'badge-kind';
+            }
         }
 
         html += '<article class="search-result-card ' + cardClass + '">';
@@ -210,9 +230,133 @@ function getSnippet(content, query) {
     return snippet.replace(regex, '<mark>$1</mark>');
 }
 
+
+// ============================================================================
+// Full-document search via Pagefind (2026-10-28).
+// The old index.json held only the first 500 characters of each essay, so a term
+// mentioned on page 3 of an essay was invisible. Pagefind indexes every word of
+// every page (built by `npx pagefind --site public` after `hugo`, see the deploy
+// workflows) and loads only the index fragments a query needs. Templates mark the
+// indexed region with data-pagefind-body and set type/kind/category filters+meta.
+// If /pagefind/pagefind.js is missing (plain `hugo server`), the legacy
+// index.json search above runs instead, so local dev still works.
+// ============================================================================
+const KIND_WEIGHT = { 'study-prompt': 0.35, 'title-page': 0.25, 'outline': 0.5, 'chart': 0.7, 'notes': 0.7 };
+const PAGE_SIZE = 30;
+let pagefind = null, pagefindFailed = false, currentResults = [], shown = 0, currentQuery = '';
+
+async function getPagefind() {
+    if (pagefind || pagefindFailed) return pagefind;
+    try {
+        pagefind = await import('{{ "pagefind/pagefind.js" | relURL }}');
+        await pagefind.options({ excerptLength: 36 });
+    } catch (e) {
+        pagefindFailed = true;
+        console.warn('Pagefind index not available; using legacy search.', e);
+    }
+    return pagefind;
+}
+
+function selectedTypes() {
+    const f = getFilters();
+    const t = [];
+    if (f.sections) t.push('section');
+    if (f.essays) t.push('essay');
+    if (f.bible) t.push('bible');
+    if (f.harmony) t.push('harmony');
+    if (f.resources) t.push('resource');
+    return t;
+}
+
+async function performSearch() {
+    const pf = await getPagefind();
+    if (!pf) return performSearchLegacy();
+    saveFilters();
+    const query = document.getElementById('search-input').value.trim();
+    const resultsDiv = document.getElementById('search-results');
+    if (!query || query.length < 2) {
+        resultsDiv.innerHTML = '<p class="search-note">Please enter at least 2 characters to search.</p>';
+        return;
+    }
+    const types = selectedTypes();
+    if (types.length === 0) {
+        resultsDiv.innerHTML = '<p class="search-note">Turn on at least one filter.</p>';
+        return;
+    }
+    resultsDiv.innerHTML = '<p class="search-note">Searching…</p>';
+    currentQuery = query;
+    const search = await pf.search(query, { filters: { type: { any: types } } });
+    if (query !== currentQuery) return;   // a newer search superseded this one
+    // Rank: Pagefind score, scaled down for non-essay kinds; category pages ("Browse") first.
+    const head = search.results.slice(0, 200);
+    const datas = await Promise.all(head.map(r => r.data()));
+    currentResults = head.map((r, i) => {
+        const d = datas[i];
+        const kind = (d.meta && d.meta.kind) || '';
+        const type = (d.meta && d.meta.type) || (d.filters && d.filters.type && d.filters.type[0]) || 'essay';
+        return { d, type, kind, score: r.score * (KIND_WEIGHT[kind] || 1) };
+    });
+    currentResults.sort((a, b) => {
+        const t = (a.type === 'section' ? 0 : 1) - (b.type === 'section' ? 0 : 1);
+        return t !== 0 ? t : (b.score - a.score);
+    });
+    const total = search.results.length;
+    if (total === 0) {
+        resultsDiv.innerHTML = '<p class="search-note">No results found for "' + escapeHtml(query) + '"</p>';
+        return;
+    }
+    shown = 0;
+    resultsDiv.innerHTML = '<p class="search-count">' + total + ' result' + (total !== 1 ? 's' : '') + ' found' +
+        (total > currentResults.length ? ' (showing the best ' + currentResults.length + ')' : '') +
+        '</p><div class="search-results-grid" id="pf-grid"></div><div id="pf-more"></div>';
+    renderMore();
+}
+
+function renderMore() {
+    const grid = document.getElementById('pf-grid');
+    const more = document.getElementById('pf-more');
+    const slice = currentResults.slice(shown, shown + PAGE_SIZE);
+    grid.insertAdjacentHTML('beforeend', slice.map(renderCard).join(''));
+    shown += slice.length;
+    more.innerHTML = shown < currentResults.length
+        ? '<button class="search-more" onclick="renderMore()">Show more (' + (currentResults.length - shown) + ' left)</button>'
+        : '';
+}
+
+function renderCard(item) {
+    const d = item.d, m = d.meta || {};
+    let cardClass = 'essay-result', badgeText = '', badgeClass = '';
+    if (item.type === 'section')       { cardClass = 'section-result';  badgeText = 'Browse';   badgeClass = 'badge-section'; }
+    else if (item.type === 'harmony')  { cardClass = 'harmony-result';  badgeText = 'Harmony';  badgeClass = 'badge-harmony'; }
+    else if (item.type === 'bible')    { cardClass = 'bible-result';    badgeText = 'Bible';    badgeClass = 'badge-bible'; }
+    else if (item.type === 'resource') { cardClass = 'resource-result'; badgeText = 'Resource'; badgeClass = 'badge-resource'; }
+    else if (item.kind && KIND_LABEL[item.kind]) { badgeText = KIND_LABEL[item.kind]; badgeClass = 'badge-kind'; }
+    let meta = '';
+    if (item.type === 'section') meta = 'Category' + (m.parent ? ' · ' + escapeHtml(m.parent) : '') + (m.pages ? ' · ' + m.pages + ' pages' : '');
+    else if (item.type === 'bible') meta = escapeHtml((m.book || '') + (m.translation ? ' · ' + m.translation : ''));
+    else if (item.type === 'harmony') meta = escapeHtml(m.reference || 'Gospel Harmony');
+    else if (m.category) meta = escapeHtml(m.category);
+    let html = '<article class="search-result-card ' + cardClass + '">';
+    if (badgeText) html += '<div class="result-badges"><span class="result-type-badge ' + badgeClass + '">' + badgeText + '</span></div>';
+    html += '<h3><a href="' + d.url + '">' + escapeHtml(m.title || d.url) + '</a></h3>';
+    if (meta) html += '<p class="result-meta">' + meta + '</p>';
+    if (d.excerpt) html += '<p class="result-snippet">' + d.excerpt + '</p>';
+    html += '</article>';
+    return html;
+}
+
+function escapeHtml(s) {
+    return String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+}
+
 document.getElementById('search-input').addEventListener('keypress', function(e) {
     if (e.key === 'Enter') performSearch();
 });
+// Run a ?q= query from the header search box
+(function () {
+    const q = new URLSearchParams(window.location.search).get('q');
+    if (q) { document.getElementById('search-input').value = q; performSearch(); }
+})();
 </script>
 
 <style>
@@ -346,6 +490,9 @@ document.getElementById('search-input').addEventListener('keypress', function(e)
 
 /* Badges */
 .result-badges { margin-bottom: 0.3rem; }
+.search-more { display: block; margin: 1.5rem auto 0; padding: 0.6rem 1.4rem; font-family: 'Source Sans Pro', sans-serif; font-size: 0.9rem; font-weight: 600; color: #2f4c3a; background: #fff; border: 1px solid #2f4c3a; border-radius: 4px; cursor: pointer; }
+.search-more:hover { background: #f3f6f4; }
+.result-snippet mark { background: #fff3c4; padding: 0 0.1em; }
 .result-type-badge {
     display: inline-block;
     font-size: 0.68rem;
@@ -361,6 +508,7 @@ document.getElementById('search-input').addEventListener('keypress', function(e)
 .badge-bible    { background: #9c7c38; }
 .badge-harmony  { background: #7030A0; }
 .badge-resource { background: #3a5a6b; }
+.badge-kind     { background: #8a8a8a; }
 
 .result-meta {
     font-family: var(--font-ui, 'Source Sans Pro', sans-serif);

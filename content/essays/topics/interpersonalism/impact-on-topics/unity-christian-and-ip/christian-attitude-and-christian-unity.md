@@ -33,13 +33,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:6.0pt;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>CHRISTIAN ATTITUDE AND CHRISTIAN
-UNITY</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:.25in;text-align:center'><span
-style='font-size:12.0pt;line-height:115%'>Virgil Warren, PhD</span></p>
-
 <p class=MsoNormal style='margin-bottom:6.0pt;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt;line-height:115%'>This article encourages using
 interpersonal principles in the quest for Christian unity.<sup>1</sup> We are
@@ -219,17 +212,4 @@ perseverance and eternal security, see the last three chapters of <i>What the
 Bible Says About Salvation </i>(College Press, 1982). Likewise, on the
 connection between believer’s baptism and remission of sins and related issues,
 see the same volume, pp. 225-409.</span></p>
-
-<p class=MsoNormal style='margin-bottom:6.0pt;text-align:justify;text-indent:
-.5in'><span style='font-size:12.0pt;line-height:115%'>                                                                                                                             
-</span>christir.org</p>
-
-<p class=MsoNormal style='text-align:justify'><u><span style='font-size:12.0pt;
-line-height:115%'><span style='text-decoration:none'>&nbsp;</span></span></u></p>
-
-<p class=MsoNormal style='margin-bottom:.25in;text-align:justify;text-indent:
-.5in'><span style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:.25in;text-align:center'><span
-style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
 </div>

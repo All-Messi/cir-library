@@ -33,14 +33,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>INTERPERSONALISM
-AND ORDINANCES</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Baptism
 and the Lord’s Supper are performative acts, acts by which the performer “says
@@ -50,8 +42,4 @@ grace comes to us automatically by virtue of the ritual itself somehow or by
 virtue of the legitimized authority of the administrator. There is value that
 comes on us, but it comes on us from God on the prior condition of our
 commitment to him as communicated by the performative act.</span></p>
-
-<p class=MsoNormal style='text-align:justify;text-indent:.5in'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                              
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 </div>

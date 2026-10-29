@@ -45,17 +45,6 @@ span.FooterChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>“FRIENDS”
-OR “SONS”? IMPLICATIONS FOR PERSEVERANCE </span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 .5in;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“He’s
 God’s friend.” That is about the nicest thing a person can say about someone. In
@@ -1112,14 +1101,4 @@ still consider whether there was any genuine conversion earlier. But more than
 that, the later condition in life’s walk is no different from the typical
 unconverted person in the world, so why believe there is any such thing as
 salvation to feel secure about?</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                         
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'> </span></p>
-
-<p class=MsoNormal style='text-align:justify;text-indent:.5in'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 </div>

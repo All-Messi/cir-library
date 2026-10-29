@@ -46,7 +46,7 @@ next: chapter-04
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The-one having (an) ear, let-him-hear what the Spirit is-saying to-the churches.’</span></i></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>14<i>“</i></span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And to-the angel/evangelist/messenger of-the church in Laodicia, write:</span></i></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i>“</i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And to-the angel/evangelist/messenger of-the church in Laodicia, write:</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        ‘These-things says the Amen,</span></i></p>
 

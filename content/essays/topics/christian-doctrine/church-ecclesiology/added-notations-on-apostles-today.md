@@ -32,21 +32,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>ADDED NOTATIONS ON APOSTLES TODAY</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt;font-family:"Arial",sans-serif'> </span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt;font-family:"Arial",sans-serif'>  </span></p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:6.0pt;
 margin-left:0in;text-align:justify'><span style='font-size:12.0pt;font-family:
 "Arial",sans-serif'>            </span><span style='font-size:12.0pt'>We may
@@ -245,10 +230,4 @@ the laying on of the hands of the Antioch elders (Acts <b>13</b>:1-3), but
 there is no way to be sure that their imposition of hands was more than a
 gesture of Godspeed in the work to which the Holy Spirit had called him and
 Barnabas.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:11.0pt'>christir.org</span></p>
 </div>

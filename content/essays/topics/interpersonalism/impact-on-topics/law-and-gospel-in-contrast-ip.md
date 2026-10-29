@@ -28,21 +28,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-31.5pt;text-align:center'><b><span
-style='font-size:14.0pt'>LAW AND GOSPEL IN CONTRAST (IP)</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-31.5pt;text-align:center;
-text-indent:.5in'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-31.5pt;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-31.5pt;text-align:center;
-text-indent:.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-31.5pt;text-align:center;
-text-indent:.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-31.5pt;text-align:justify;text-indent:
 .5in;line-height:18.0pt'><span style='font-size:12.0pt'>In 2 Corinthians <b>3</b>:6
 Paul declares that the “letter” kills, but the spirit gives life. His point
@@ -78,8 +63,4 @@ believers.”</span></p>
 important characteristics of law. Law does not have to conform to the nature of
 reality to be in force or require compliance. The connectors in legal process
 are authority; in interpersonal process the connectors are choices.</span></p>
-
-<p class=MsoNormal style='margin-right:-31.5pt;text-align:justify;text-indent:
-.5in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                                              
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

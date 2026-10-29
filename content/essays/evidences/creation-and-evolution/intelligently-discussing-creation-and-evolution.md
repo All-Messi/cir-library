@@ -23,20 +23,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>INTELLIGENTLY DISCUSSING CREATION AND EVOLUTION</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD </span></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal style='text-align:justify'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>            The
 presentation here is not for <u>solving</u> the creation-evolution problem, but
 for <u>clarifying</u> the issue and <u>correcting</u> inappropriate thinking
@@ -154,12 +140,4 @@ we seriate the origin of interdependent parts? Can a mechanic change a
 Harley-Davidson into a Lincoln Continental and keep it running the whole time? Even
 if that could be done, it would be illustrating creationism rather than
 evolution.</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>            </span></p>
 </div>

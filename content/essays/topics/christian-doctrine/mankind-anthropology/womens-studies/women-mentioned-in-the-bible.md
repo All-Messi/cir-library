@@ -35,21 +35,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>WOMEN MENTIONED IN THE BIBLE</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt'>To maintain a balanced approach in the
 current women’s studies debate, we should keep in mind what women did with
@@ -260,7 +245,4 @@ Timothy <b>5</b>:14).</span></p>
 style='font-size:12.0pt'>                                                                                                                                    
 </span><span style='font-size:11.0pt'>christir</span><span style='font-size:
 12.0pt'>.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

@@ -8,6 +8,8 @@ categories:
 - 'Mankind Anthropology'
 - 'Womens Studies'
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/mankind-anthropology/womens-studies/james-b-torrance-worship-community-the-triune-god-of-grace-downers-grove-illinois-intervarsity-press-1997-130pp-reviewed-by-virgil-warren-manhattan-kansas/
 ---
 
 <style>
@@ -150,13 +152,4 @@ integrate a wide range of insights and draw on a vast array of resources. Finall
 a good writer stimulates thoughts that are not part of his own presentation;
 they may in fact be in contrast to it. Either way, progress comes in the
 understanding of matters that would not move forward without the experience.</span></p>
-
-<p class=MsoBodyTextIndent style='margin-left:0in;text-align:justify;
-text-indent:.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoBodyTextIndent style='margin-left:0in;text-align:justify;
-text-indent:.5in'><span style='font-size:12.0pt'>                                                                                                                 
-</span><span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoBodyTextIndent style='margin-left:0in'><span style='font-size:12.0pt'>            </span></p>
 </div>

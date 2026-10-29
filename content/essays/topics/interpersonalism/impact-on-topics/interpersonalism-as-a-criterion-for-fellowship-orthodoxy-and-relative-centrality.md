@@ -7,6 +7,8 @@ categories:
 - 'Interpersonalism'
 - 'Impact On Topics'
 draft: false
+aliases:
+- /essays/topics/interpersonalism/impact-on-topics/interpersonalism-as-a-criterion-for/
 ---
 
 <style>
@@ -24,27 +26,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-left:0in;text-align:center'><b><span
-style='font-size:14.0pt'>INTERPERSONALISM AS A CRITERION FOR</span></b></p>
-
-<p class=MsoNormal align=center style='margin-left:0in;text-align:center;
-text-indent:.5in'><b><span style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-left:0in;text-align:center'><b><span
-style='font-size:14.0pt'>FELLOWSHIP, ORTHODOXY, AND RELATIVE CENTRALITY</span></b></p>
-
-<p class=MsoNormal align=center style='margin-left:0in;text-align:center;
-text-indent:.5in'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-left:0in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-left:0in;text-align:center;
-text-indent:.5in'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-left:0in;text-align:center;
-text-indent:.5in'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
 .5in;line-height:18.0pt'><span style='font-size:12.0pt'>Interpersonalism serves
 as a general criterion for deciding what is part of the faith. It is the
@@ -80,8 +61,4 @@ distinguish the various values of command forms (note imperatival intent). If
 the nature and purpose of the faith are interpersonal (induction), we have the
 context for clarifying texts and sorting through interpretations of them
 (deduction). </span></p>
-
-<p class=MsoNormal style='margin-left:0in;text-align:justify;text-indent:
-.5in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                                             
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

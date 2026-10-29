@@ -30,21 +30,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>FOREIGN TERMS IN THE NEW TESTAMENT</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>Abaddon (</span><span lang=EL style='font-size:12.0pt'>Ἀβαδδών</span><span
 style='font-size:12.0pt'>): “Destroyer” (Revelation<b> 9</b>:11**)</span></p>
@@ -432,11 +417,4 @@ style='font-size:12.0pt'>Three Taverns (</span><span lang=EL style='font-size:
 12.0pt'>Τριῶν</span><span lang=EL style='font-size:12.0pt'> </span><span
 lang=EL style='font-size:12.0pt'>Ταβερνῶν</span><span style='font-size:12.0pt'>):
 Acts<b> 28</b>:15</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:11.0pt'>                                                                                                                                        
-christir.org</span></p>
 </div>

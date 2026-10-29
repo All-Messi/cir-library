@@ -31,21 +31,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>WHAT THE VERY EXISTENCE OF BAPTISM SHOWS</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center;line-height:12.0pt'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center;line-height:12.0pt'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='text-align:justify;line-height:12.0pt'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='text-align:justify;line-height:12.0pt'><span
-style='font-size:12.0pt'> </span></p>
-
 <p class=MsoNormal style='text-align:justify;line-height:12.0pt'><span
 style='font-size:12.0pt'>            The very fact that baptism exists shows
 that salvation is not by works of law, works in a <u>legal</u> sense, works in
@@ -114,19 +99,4 @@ shows that there is something more in Christian concern beyond other necessary
 matters like behavioral change. There is something more than the other things
 we see Christianity address. That bigger something is fellowship with God
 through Jesus Christ. <u>That</u> is what baptism expresses.</span></p>
-
-<p class=MsoNormal style='text-align:justify;line-height:12.0pt'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-12.0pt'><span style='font-size:11.0pt'>                                                                                                                                    christir.org</span></p>
-
-<p class=MsoNormal style='text-align:justify;line-height:12.0pt'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

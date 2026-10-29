@@ -10,6 +10,8 @@ categories:
 - 'Gal 3 28'
 weight: 2
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/mankind-anthropology/womens-studies/gal-3-28/addendum-male-and-female/
 ---
 
 <style>
@@ -294,8 +296,4 @@ Society in Lisle, Illinois, on November 18, 1994, It was later published in <i>E
 Hermeneutics: Selected Essays from the 1994 Evangelical Theological Society
 Convention, </i>Ed. by Michael Bauman and David Hall. Camp Hill,<i> </i>PA:
 Christian Publications, Inc., 1995, pp.123-45.</span></p>
-
-<p class=MsoNormal style='text-align:justify;text-indent:27.0pt'><span
-style='font-size:12.0pt'>                                                                                                                                 </span><span
-style='font-size:11.0pt'>christir.org</span></p>
 </div>

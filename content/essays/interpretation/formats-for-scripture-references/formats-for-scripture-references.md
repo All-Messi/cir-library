@@ -38,22 +38,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>FORMATS FOR SCRIPTURE REFERENCES</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'> </span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 49.5pt'><span style='font-size:12.0pt'>(<b>NOTE</b>: This author has adopted
 the non-standard policy of using bold type for chapters as an aid to the eye in
@@ -981,9 +965,4 @@ the chapter. As a result, if you cite 1 John <b>5</b>:7 from the King James
 Version, you need to indicate that the quotation is from the King James Version;
 otherwise, the reader will be confused if he reads the verse from a
 twentieth-century translation.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:66.75pt;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                   
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

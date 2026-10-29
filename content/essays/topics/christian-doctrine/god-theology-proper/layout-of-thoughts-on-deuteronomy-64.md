@@ -7,6 +7,7 @@ categories:
 - 'Christian Doctrine'
 - 'God Theology Proper'
 draft: false
+content_kind: chart
 ---
 
 <style>
@@ -32,21 +33,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>               LAYOUT OF THOUGHTS ON DEUTERONOMY 6:4</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>          </span></p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:13.5pt;margin-bottom:.0001pt;text-align:justify'><span lang=HE
 dir=RTL style='font-size:14.0pt'>יהוה אלהינו יהוה אהד</span></p>
@@ -238,12 +224,4 @@ style='font-size:12.0pt'>(“one”) flesh.</span></p>
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'>                              Note: The preferred
 translation of Deuteronomy<b> 6</b>:4 is <i>“Yahveh is our God, Yahveh  alone.”</i></span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:11.0pt'>christir.org</span></p>
 </div>

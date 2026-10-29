@@ -33,14 +33,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>SURVEY
-OF CHRISTIAN DOCTRINE</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>BIBLE</span></p>
 
@@ -245,16 +237,4 @@ reality there is. All the great summaries of functional truth reflect that
 conviction: God’s great love for the world (John <b>3</b>:16), the First and Second
 Great Commandments (Deuteronomy <b>6</b>:5; Leviticus <b>19</b>:18), the Golden
 Rule (Matthew<b> 7</b>:12), and <i>“what God requires of us”</i> (Micah <b>6</b>:8).</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-family:"Times New Roman",serif'>christir.org</span></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:115%;font-family:
-"Times New Roman",serif'>&nbsp;</span></p>
 </div>

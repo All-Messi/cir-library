@@ -41,25 +41,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>STUDY GUIDE ON ELDERSHIP</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:22.5pt;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:10.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:22.5pt;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><b><span
-style='font-size:10.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><b><span
-style='font-size:10.0pt'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><b><u><span
 style='font-size:10.0pt'>Passage</span></u></b><b><span style='font-size:10.0pt'>                <u>Term</u>                <u>#</u>         <u>Reference</u>                                                 
@@ -758,11 +739,4 @@ style='font-size:10.0pt'>(f) <span style='font:7.0pt "Times New Roman"'>&nbsp;&n
 </span></span><span style='font-size:12.0pt'>twenty-four elders of the
 Apocalypse: <b>4</b>:4, 10; <b>5</b>:5, 6, 8, 11, 14; <b>7</b>:11, 13; <b>11</b>:16;
 <b>14</b>:3; <b>19</b>:4.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'>&nbsp;</p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:11.0pt'>christir.org</span></p>
 </div>

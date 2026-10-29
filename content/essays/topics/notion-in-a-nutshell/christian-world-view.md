@@ -32,10 +32,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>CHRISTIAN
-WORLD VIEW</span></b></p>
-
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
 basic reality in Christianity is interpersonalism. God is personal, and
@@ -43,7 +39,4 @@ everything else and everyone else derive from him by his creation. Interpersonal
 is the most complex reality there is. It stands in contrast to nature, law, and
 ideas (metaphysics). Interpersonalism operates by love, nature by natural law,
 law by authority, and metaphysics by form. </span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman",serif'>Virgil
-Warren     christir.org</span></p>
 </div>

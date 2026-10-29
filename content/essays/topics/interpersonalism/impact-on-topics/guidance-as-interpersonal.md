@@ -28,18 +28,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:.5in'><b><span style='font-size:14.0pt'>GUIDANCE AS INTERPERSONAL</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:.5in'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:.5in'><span style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 .5in;line-height:18.0pt'><span style='font-size:12.0pt'>Divine guidance takes
 place with people; hence, it includes choices, thinking, feelings, and other
@@ -77,8 +65,4 @@ Permissive begins with people and proceeds with the attitude <i>“if the Lord
 will”</i> (James<b> 4</b>:13-15; Acts <b>18</b>:21;    1 Corinthians <b>4</b>:19;
 <b>16</b>:7). Either way it is God’s will, hence, his guidance. God “passes on”
 any choice a person makes, and his allowing means choosing to allow.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                                             
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

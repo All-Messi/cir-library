@@ -24,19 +24,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center;
-line-height:117%'><b><span style='font-size:14.0pt;line-height:117%'>COMMENTS
-ON DIVORCE: MATTHEW 5:32</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center;
-line-height:117%'><span style='font-size:14.0pt;line-height:117%'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center;
-line-height:117%'>Virgil Warren, PhD</p>
-
-<p class=MsoNormal style='margin-right:-.25in;line-height:117%'><span
-style='font-size:14.0pt;line-height:117%'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
 117%'><i>“Everyone that puts away his wife—except for sexual immorality—treats*
 her like an adulteress, and whoever marries a divorced woman commits adultery.”</i></p>
@@ -135,13 +122,4 @@ would consider “peace.”</p>
 .5in;line-height:117%'>Beyond matters noted here, a more complete treatment of
 divorce should consider the impact of repentance on the question as well as circumstances
 like desertion or physical, emotional, and verbal abuse.</p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
-117%'>&nbsp;</p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
-117%'><span style='font-size:11.0pt;line-height:117%'>                                                                                                                                      christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
-117%'>&nbsp;</p>
 </div>

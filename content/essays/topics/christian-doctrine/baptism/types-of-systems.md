@@ -29,21 +29,6 @@ p.MsoNoSpacing, li.MsoNoSpacing,
 </style>
 
 <div class="word-content">
-<p class=MsoNoSpacing align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>TYPES OF SYSTEMS</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            Not all systems are alike. They often
 operate in respect to different kinds of matters, but the main contrast lies in
@@ -132,17 +117,4 @@ baptism act has. The confusion stems from reading this interpersonal sequence
 as if it were a natural or legal one. The confusion unconsciously transfers to
 Christian baptism the kind and manner of connection and the type of meaning and
 necessity that belongs to the other two systems.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                          
-</span><span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                  </span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

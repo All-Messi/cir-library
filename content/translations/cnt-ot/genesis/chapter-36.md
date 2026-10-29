@@ -13,8 +13,7 @@ next: chapter-37
 
 <p class="MsoNormal" align=center style='margin-top:0in; margin-bottom:0in;margin-left:0in;text-align:center'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esau’s (Edom’s) Generations </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </span>
-<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esau married Canaanite women: <u>Adah</u> daughter of Elon the Hittite; <u>Oholibamah</u> daughter of Anah and granddaughter of Zibeon the Hivite; </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esau married Canaanite women: <u>Adah</u> daughter of Elon the Hittite; <u>Oholibamah</u> daughter of Anah and granddaughter of Zibeon the Hivite; </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and
 <u>Basemath</u>/</span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Mahalath</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Ishmael’s daughter, sister of Nebaioth. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Adah had Eliphaz; Basemath had Reuel, </span></span>
@@ -47,7 +46,7 @@ next: chapter-37
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.0in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jeush, Jalam, Korah—descendants by Oholibamah, daughter of Anah</span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  19</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esau’s sons and their chiefs</span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esau’s sons and their chiefs</span></span></p>
 
 <p class="section-ref">Gen 36:10-19</p>
 

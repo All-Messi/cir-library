@@ -159,14 +159,4 @@ not as a&nbsp;<u>cause</u> of&nbsp;it so as to <i>“pay for”</i> it.</span></
 .5in;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
 color:black'>These notations lead on to dealing with the theory of divine
 satisfaction, and that goes on for a while; so I’ll break off here. </span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;line-height:
-normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-color:black'>&nbsp;&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;line-height:
-normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-color:black'>Virgil Warren</span></p>
-
-<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
 </div>

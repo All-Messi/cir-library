@@ -34,21 +34,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>CREATION IN INTERPERSONAL CONTEXT</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:.5in'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 .5in;line-height:18.0pt'><span style='font-size:12.0pt'>Interpersonalism puts
 the personal ahead of the impersonal. Person and personal aspects like mind,
@@ -106,8 +91,4 @@ we worship the God who created nature.</span></p>
 pictures God as speaking the universe into existence: <i>“And God said.”</i> The
 created realm comes from a person by personal means. It does not demonstrate
 sheer power, but powerful, personal word.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                                             
-christir.org</span></p>
 </div>

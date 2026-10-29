@@ -9,6 +9,8 @@ categories:
 - 'Ma Thesis'
 weight: 10
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/church-ecclesiology/ma-thesis/chapter-i/
 ---
 
 <style>
@@ -30,9 +32,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
 style='font-size:14.0pt'>CHAPTER I</span></b></p>
 
@@ -1090,32 +1089,4 @@ unification Earle E. Cairns styles “organic reunion” as distinguished from, 
 more than, “confederation” and “co-operation”; see <i>Christianity Through the
 Centuries: A History of the Christian Church</i>, pp. 485-92, or <i>Christianity
 in the United States</i>, pp. 168-74.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                             
-</span><span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt;position:relative;top:-3.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

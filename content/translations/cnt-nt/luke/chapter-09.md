@@ -123,7 +123,8 @@ next: chapter-10
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus answered, <i>“</i>You <i>unbelieving, perverse bunch, how long am I going to be here and deal with you? Bring me your boy.”</i></span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While he was coming, the demon attacked him and threw him into convulsions. Jesus rebuked the unclean spirit and healed the boy and gave him back to his dad. </span><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>43a</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They were all amazed at God’s greatness.                          </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While he was coming, the demon attacked him and threw him into convulsions. Jesus rebuked the unclean spirit and healed the boy and gave him back to his dad. </span></span>
+<span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> a<span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They were all amazed at God’s greatness.                          </span></span></p>
 
 <p class="section-ref">Lk 9:37-43a</p>
 

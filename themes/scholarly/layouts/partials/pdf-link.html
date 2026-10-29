@@ -53,8 +53,19 @@
     {{ $tooltip = "Download PDF" }}
 {{ end }}
 
-{{/* ---- RENDER ---- */}}
+{{/* ---- EXISTENCE GUARD (2026-10-28) ----
+     Only render the button when the PDF is actually in static/. RelPermalink is
+     percent-encoded (Greek/accented slugs), so decode before touching the filesystem.
+     306 PDFs were missing on 2026-09-30 (see CIR-broken-links-2026-09-30.xlsx); this
+     turns those 404s into "no button" until the PDFs are generated. */}}
+{{ $pdfExists := false }}
 {{ if $pdfPath }}
+    {{ $decoded := (urls.Parse (printf "/%s" $pdfPath)).Path | strings.TrimPrefix "/" }}
+    {{ $pdfExists = fileExists (printf "static/%s" $decoded) }}
+{{ end }}
+
+{{/* ---- RENDER ---- */}}
+{{ if $pdfExists }}
     {{ if eq $style "toolbar" }}
         {{/* Icon-only for chapter toolbar — borderless, subtle */}}
         <a href="{{ $pdfPath | relURL }}" target="_blank" class="toolbar-btn pdf-btn-minimal" data-tip="PDF">

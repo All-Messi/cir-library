@@ -7,6 +7,8 @@ categories:
 - 'Interpersonalism'
 - 'Impact On Topics'
 draft: false
+aliases:
+- /essays/topics/interpersonalism/impact-on-topics/eschatology-as-interpersonal/
 ---
 
 <style>
@@ -31,24 +33,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>ESCHATOLOGY AS INTERPERSONAL</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>(Last Things)</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 .5in;line-height:18.0pt'><span style='font-size:12.0pt'>Under the
 (inter)personal worldview, there is eschatology because the future is going
@@ -170,8 +154,4 @@ existence is like, we are not in a position to understand the positive and
 negative destinies that lie within it. Such matters indicate that sanctified
 imagination is only suggestive and provisional. It is another application of
 the admission that “we do not know what we will be.”</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                                              
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

@@ -44,13 +44,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:14.0pt;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>(3) JAMES: SELF-DETERMINATION CONVERTED
-TO PRAYER</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:.25in;text-align:center'><span
-style='font-size:12.0pt;line-height:115%'>Virgil Warren, PhD</span></p>
-
 <p class=MsoNormal style='margin-bottom:6.0pt;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt;line-height:115%'>Perhaps our prayer life
 most accurately indicates the level of our spiritual development. It is no
@@ -335,13 +328,4 @@ people-for-themselves become people-for-others. So doing commits to the
 priority of God over self so that prayer does not just provide another avenue
 for self-determination, but a determination for the self by the One who hears
 our prayers and directs our lives.</span></p>
-
-<p class=MsoNormal style='margin-bottom:6.0pt;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:6.0pt;text-align:justify'>christir.org</p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-justify:
-distribute-all-lines;text-indent:.5in'><span style='font-size:12.0pt;
-line-height:115%'>&nbsp;</span></p>
 </div>

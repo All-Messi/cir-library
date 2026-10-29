@@ -26,12 +26,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>Showers of Blessings</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:.25in;text-align:center'><span
-style='font-size:9.0pt;line-height:115%'>041966</span></p>
-
 <p class=MsoNormal style='text-align:justify'><i><span style='font-size:12.0pt;
 line-height:115%'>Sunday. </span></i><span style='font-size:9.0pt;line-height:
 115%'>SALVATION. </span><span style='font-size:12.0pt;line-height:115%'>Our
@@ -108,17 +102,4 @@ cannot see. (</span><span style='font-size:10.0pt;line-height:115%'>Read 1 John
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
 line-height:115%'>Virgil Warren, <u>Straight</u>, April 10, 1966, p13</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
-line-height:115%'>                                                                                                                                             
-christir.org</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
-line-height:115%'>&nbsp;</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
-line-height:115%'>&nbsp;</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
-line-height:115%'>&nbsp;</span></p>
 </div>

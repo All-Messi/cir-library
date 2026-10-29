@@ -29,21 +29,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center'><b><span
-style='font-size:14.0pt'>2 TIMOTHY 3:16</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal style='margin-right:-.25in'><b><span lang=EL
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='margin-right:-.25in'><b><span lang=EL
 style='font-size:12.0pt'>πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος</span></b></p>
 
@@ -175,11 +160,4 @@ style='font-size:12.0pt'>4. <span style='font:7.0pt "Times New Roman"'>&nbsp;&nb
 we conclude that <i>God-breathed</i> is non-restrictive (hence, commas) with <i>is</i>
 placed afterwards or that it is a predicate adjective parallel to <i>profitable</i>
 with <i>is</i> ahead of it.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.25in;margin-bottom:
-0in;margin-left:2.0in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                    </span><span
-style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

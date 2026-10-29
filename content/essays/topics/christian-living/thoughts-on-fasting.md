@@ -23,15 +23,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>THOUGHTS ON FASTING</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
-
-<p class=MsoNormal align=center style='text-align:center'>Virgil Warren, PhD</p>
-
-<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
-
 <p class=MsoNormal style='text-align:justify'>            The originating idea
 behind fasting may have come from the observation that when we are consumed
 with something important we may forget to eat (hunger). A similar thing can
@@ -75,8 +66,4 @@ Mt. Sinai and Elijah in the Negev).</p>
 <p class=MsoNormal style='text-align:justify'>            Fasting may not be a
 good option for people with certain health conditions like hypoglycemia or
 diabetes.</p>
-
-<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
-
-<p class=MsoNormal style='text-align:justify'>christir.org</p>
 </div>

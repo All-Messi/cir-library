@@ -34,26 +34,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>INTRODUCTORY CONSIDERATIONS ON JONAH</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:14.0pt'> </span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            A. Observations against Jonah as history</span></p>
@@ -858,9 +838,4 @@ a city half the size of Nineveh, indicates a population of 69,574 in 879 B.C. (H
 archaeological remains that Nineveh could house 175,000. Robert T. Boyd, in <i>Tells,
 Tombs, and Treasures</i>, p. 140, recounts that 70,000 aristocrats from Nineveh
 attended the dedication banquet of King Ashurbanipal II. </span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                 
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

@@ -34,22 +34,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:.5in'><b><span style='font-size:14.0pt'>CONNECTIONS BETWEEN
-INTERPERSONALISM AND CHRISTOLOGY</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:.5in'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:.5in'><span style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 .5in;line-height:18.0pt'><span style='font-size:12.0pt'>Scripture makes clear
 that Jesus the Messiah possessed deity in the distinctive, ontological sense. From
@@ -119,8 +103,4 @@ more to less central features of the faith. </span></p>
 .5in;line-height:18.0pt'><span style='font-size:12.0pt'>From this point, then,
 the study needs to move on to the information that clarifies the deity of Jesus
 Christ, as presented elsewhere in these essays.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                                             
-christir.org</span></p>
 </div>

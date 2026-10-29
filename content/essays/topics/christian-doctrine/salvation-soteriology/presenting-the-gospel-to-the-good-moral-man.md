@@ -32,19 +32,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><b><span style='font-size:14.0pt'>PRESENTING THE GOSPEL TO
-“THE GOOD MORAL MAN”</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>            What do you do with a man
 like “Bob”? He really is a “good guy.” A happy, outgoing person that is glad to
@@ -577,7 +564,4 @@ article traces the connection in the opposite direction.</span></p>
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                                                                                                                                       
 </span><span style='font-size:11.0pt'>christior.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

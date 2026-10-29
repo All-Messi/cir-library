@@ -35,7 +35,7 @@ next: chapter-121
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For too long I’ve lived where people hate peace.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         7</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m for peace; but when I speak up, they’re for war.</span><span lang=HE dir=RTL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m for peace; but when I speak up, they’re for war.</span><span lang=HE dir=RTL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></span></p>
 
 <p class="section-ref">Ps 120:1-7</p>
 

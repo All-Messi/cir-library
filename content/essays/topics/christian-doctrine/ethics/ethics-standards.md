@@ -31,21 +31,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>ETHICS STANDARDS</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
-style='font-size:12.0pt'> </span></b></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
-style='font-size:12.0pt'> </span></b></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>What is the standard and the <u>basis</u> for it? </span></p>
 
@@ -228,16 +213,4 @@ style='font-size:12.0pt'>_______________</span></p>
 style='font-size:12.0pt'>            <sup>1</sup>Another, better way of taking
 Jesus’ statement invokes a distinction between what is actionable under human legal
 process and what has always been God’s moral intention.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

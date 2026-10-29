@@ -35,18 +35,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>HYPOCRISY</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>                  Even though the Sermon
 on the Mount is wisdom literature and therefore less structured, it has pattern
@@ -279,8 +267,4 @@ are always looking for people they can trust. So when we do righteousness, let�
 do it without hypocrisy. Let’s make our giving real, our prayers sincere, our
 fasting purposeful, our religious observances genuine. In effect, God is
 praised, others are helped, and we are rewarded openly. </span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>                                                                                                                                          
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

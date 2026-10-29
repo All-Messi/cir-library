@@ -9,6 +9,8 @@ categories:
 - 'Nature Of Man Book'
 weight: 6
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/mankind-anthropology/nature-of-man-book/ethical-observations-on-the-image-as/
 ---
 
 <style>
@@ -37,23 +39,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:4.5pt;line-height:18.0pt'><b><span style='font-size:14.0pt'>ETHICAL
-OBSERVATIONS ON THE IMAGE AS </span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:4.5pt;line-height:18.0pt'><b><span style='font-size:14.0pt'>THE INTERPERSONAL
-CAPACITY</span></b></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:.5in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'>Ethical Use of <i>Imago dei</i></span></p>
 
@@ -703,9 +688,4 @@ moot question for them.</span></p>
 style='font-size:12.0pt'>The texts that deal with weaker brother situations
 include Romans <b>14</b>:1-<b>15</b>:9; 1 Corinthians 8:1-<b>11</b>:1;
 Galatians <b>6</b>:1-2; Ephesians<b> 4</b>:13-16; 1 Thessalonians <b>5</b>:14.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:5.75in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                                                 
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

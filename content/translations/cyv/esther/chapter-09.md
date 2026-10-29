@@ -52,9 +52,9 @@ next: chapter-10
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Aridai, and </span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Vaizatha.
-</span><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>10b</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But
+</span><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> b<span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But
 <u>they didn’t take any plunder</u>.<b>                                                  
-</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esther 9:1-10</span></b></p>
+</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esther 9:1-10</span></b></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That day, the number killed in Susa was reported to the king. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told Queen Esther, </span></span></p>

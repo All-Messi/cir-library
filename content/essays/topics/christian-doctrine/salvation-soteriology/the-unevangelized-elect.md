@@ -25,20 +25,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>THE UNEVANGELIZED ELECT?</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><b><span
 style='font-size:12.0pt'>The Notion in a Nutshell: An Opinion</span></b></p>
@@ -105,8 +91,4 @@ they have.”</span></p>
 style='font-size:12.0pt'>            Describing this possibility removes one
 other criticism of the faith. God is wise enough to deal consistently with
 non-standard situations.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                                                                                                 
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

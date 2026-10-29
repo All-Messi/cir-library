@@ -34,21 +34,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>BIBLICAL BRAIN TEASERS</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:12.0pt'>  </span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>            Many
 of the examples below raise issues that are not in themselves very important. We
 offer them, however, as (1) “exercises” in hermeneutical creativity on matters

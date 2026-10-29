@@ -8,6 +8,8 @@ categories:
 - 'Mankind Anthropology'
 - 'Womens Studies'
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/mankind-anthropology/womens-studies/ministry-before-consensus-on-womens-roles/
 ---
 
 <style>
@@ -41,24 +43,6 @@ span.FooterChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>MINISTRY BEFORE CONSENSUS ON WOMEN’S ROLES </span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>IN THE CHURCH</span></b></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'>Introduction</span></p>
 
@@ -643,11 +627,4 @@ psyche than it does against female inclinations and does so in a way that is
 not explained by social conditioning. Furthermore, I have a hard time
 discounting some kind of connection between the rise of secular feminism, the
 dissolution of the American home, and the increase of sexual dysphorias.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                         
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

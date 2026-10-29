@@ -23,25 +23,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><b><span style='font-size:14.0pt'>MANAGING THE CREATION</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>      </span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>                              <img
-width=254 height=83 src="/images/essays/managing-the-creation/image001.png"></span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><b><span style='font-size:12.0pt'>            </span></b><span
 style='font-size:12.0pt'>God maintains contact with his creation and control
@@ -108,15 +89,4 @@ prayer” covers just the invisible portion of intervention.</span></p>
 18.0pt'><span style='font-size:12.0pt'>            By combining these ways of operating,
 God accomplishes his goals and provides for his people in the ongoing flow of
 history.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>            </span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

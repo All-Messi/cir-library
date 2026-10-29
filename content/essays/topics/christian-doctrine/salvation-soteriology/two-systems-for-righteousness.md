@@ -33,14 +33,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>TWO
-SYSTEMS FOR RIGHTEOUSNESS</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
 <p class=MsoNormal style='margin-bottom:0in'><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>                                    <b>LAW</b>
 [Moses]                                                 <b>GRACE</b> [Messiah]
@@ -193,8 +185,4 @@ as fulfilling the Law so that Gentiles by identifying with him were in turn to i
 with Israel by circumcision as still required to be saved (Acts <b>15</b>:1).
 There would still be no salvation outside of national Israel; so to the
 Judaizers, grace amended the Law, not replaced it.</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                          
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 </div>

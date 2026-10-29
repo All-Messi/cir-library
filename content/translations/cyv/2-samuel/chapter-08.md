@@ -34,7 +34,8 @@ next: chapter-09
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David dedicated them to Yahveh together with the silver and gold from the<i> </i>nations he subdued: </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Aram, Moab, the Ammonites, the Philistines, Amalek, along with the spoils from Hadadezer. </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  13</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David’s reputation kept growing. When he came back, he killed 18,000 Edomites in the Valley of Salt. </span><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He put garrisons all over Edom, and the Edomites served him. Yahveh gave him victory wherever he went.</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David’s reputation kept growing. When he came back, he killed 18,000 Edomites in the Valley of Salt. </span></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He put garrisons all over Edom, and the Edomites served him. Yahveh gave him victory wherever he went.</span></span></p>
 
 
 ### David’s Officials

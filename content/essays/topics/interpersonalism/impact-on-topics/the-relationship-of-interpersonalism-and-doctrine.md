@@ -34,21 +34,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>THE RELATIONSHIP OF INTERPERSONALISM AND DOCTRINE</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>  </span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
 style='font-size:12.0pt'>Sets the character of doctrines</span></b></p>
 
@@ -134,8 +119,4 @@ defines the range of things that may not destroy the reality involved.</span></p
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>        10.    Interpersonalism supplies the
 appropriate kind and degree of motivation for doctrinal accuracy.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                        
-christir.org</span></p>
 </div>

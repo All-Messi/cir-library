@@ -39,7 +39,7 @@ next: chapter-16
 
 <p class="section-ref">Num 15:8-16</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                17-18</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses to tell Israel,</span><span style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17-18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses to tell Israel,</span><span style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When you go into the land where I’m taking you </span></i><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and you eat the food that’s there, lift up an offering to Yahveh.   </span></i></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20-21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From the first of your dough, lift up a cake as an offering from the threshing floor.  </span></i></span></span></p>

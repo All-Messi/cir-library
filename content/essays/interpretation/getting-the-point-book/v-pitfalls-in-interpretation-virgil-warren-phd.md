@@ -361,8 +361,4 @@ style='font-size:12.0pt'>                  There is little bound
 can get out of the scripture this way. Allegorizing comparisons is not
 exegesis, but a kind of eisegesis; they read their own ideas into the scripture’s
 wording.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                         
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

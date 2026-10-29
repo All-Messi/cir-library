@@ -7,6 +7,8 @@ categories:
 - 'Christian Doctrine'
 - 'God Theology Proper'
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/god-theology-proper/trinity-thoughts/
 ---
 
 <style>
@@ -101,8 +103,4 @@ his rights and prerogatives as deity without ceasing to have his identity or
 nature/deity. The exact nature of his experience in the incarnate condition is,
 of course, not capable of being reflected in ourselves because we are not Jesus
 and our experience as persons is not his type of personhood.</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:13.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

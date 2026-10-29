@@ -34,7 +34,8 @@ next: chapter-22
 
 <p class="section-ref">Jer 21:3-7</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                           8</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell the people Yahveh says, ‘I’m giving you a</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> choice,<i> a way to live and a way to die. </i></span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you stay in the city, you’ll die by sword, famine, and disease. If you surrender, you’ll have your life as the reward of war. </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell the people Yahveh says, ‘I’m giving you a</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> choice,<i> a way to live and a way to die. </i></span></span>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you stay in the city, you’ll die by sword, famine, and disease. If you surrender, you’ll have your life as the reward of war. </span></i></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve decided to give this city to the king of Babylon to burn.’</span></i></span></span></p>
 
 <p class="section-ref">Jer 21:8-10</p>

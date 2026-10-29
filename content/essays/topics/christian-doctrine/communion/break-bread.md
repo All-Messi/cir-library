@@ -7,6 +7,7 @@ categories:
 - 'Christian Doctrine'
 - 'Communion'
 draft: false
+subtitle: "BREAKING BREAD"
 ---
 
 <style>
@@ -31,21 +32,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>BREAKING BREAD</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            Since bread was a food staple in ancient
 near eastern societies, “bread” came to stand for food in general. As a result,
@@ -367,10 +353,4 @@ custom. </span></p>
 style='font-size:12.0pt'>            (See also separate documents “Worship on <u>Sunday</u>”
 as well as “The Sabbath, the Lord’s Day, and the Christian”; and “Added
 Notations on Sabbath Observance.”)</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:11.0pt'>christir.org</span></p>
 </div>

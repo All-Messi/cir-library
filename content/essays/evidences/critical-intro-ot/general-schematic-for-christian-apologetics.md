@@ -32,17 +32,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>GENERAL
-SCHEMATIC FOR CHRISTIAN APOLOGETICS</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>            To locate the
 study of critical introduction to the Old Testament within the total picture of
@@ -62,13 +51,4 @@ helps us identify more clearly the real needs among, and plus, perceived needs.
 This stage helps us understand the message itself more clearly, and so on. The
 process forms an ongoing dynamic of reciprocal causations between the three “poles.”
 </span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>                               </span><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><img
-width=300 height=181 id="Picture 1" src="/images/essays/general-schematic-for-christian-apologetics/image001.png"></span></p>
-
-<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
-
-<p class=MsoNormal>christir.org</p>
 </div>

@@ -7,6 +7,8 @@ categories:
 - 'Christian Doctrine'
 - 'Ethics'
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/ethics/stray-notations-on-the-complexity/
 ---
 
 <style>
@@ -31,24 +33,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>STRAY NOTATIONS ON THE COMPLEXITY </span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>OF ETHICAL BEHAVIOR</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>  </span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            Ethics and morality relate to the
 interpersonal realm, with humankind. Since persons in relationship constitutes
@@ -361,13 +345,4 @@ when there is a definite right or wrong involved. There are qualifying factors
 like motive and attitude that reduce the harmful effect of behavior on
 relationships. There are retrieval systems that can reverse the effect of past
 sin on present relationship—reconciliation.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:11.0pt'>                                                                                                                                            christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:11.0pt'>&nbsp;</span></p>
 </div>

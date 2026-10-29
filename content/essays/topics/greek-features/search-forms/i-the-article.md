@@ -26,14 +26,6 @@ draft: false
 
 <div class="word-content">
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><b><span style='font-size:12.0pt'>       I. 
-The Article</span></b></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><b><span lang=EL style='font-size:
-12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:9.0pt;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>               article-noun . . . noun in same case
 [Sharp’s rule]  Do not specify same gender and number because we want to see

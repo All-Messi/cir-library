@@ -25,18 +25,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>TESTING MIRACLE BY DOCTRINE AND DOCTRINE BY MIRACLE</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                        A problem has been suggested
 in connection with testing miracle by doctrine. On the one hand, we say miracle
@@ -109,11 +97,4 @@ not absolute tests because <u>miracle</u> may not always be clearly divine
 rather than something else. <u>Doctrine</u> is not always absolute because an
 observer may not correctly understand the doctrine and the doctrine may not have
 come up in previous revelation.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:11.0pt'>                                                                                                                                          
-christir.org</span></p>
 </div>

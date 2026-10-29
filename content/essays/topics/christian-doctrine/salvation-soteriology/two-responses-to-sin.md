@@ -24,18 +24,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>TWO RESPONSES TO SIN</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b>&nbsp;</b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
-
-<p class=MsoNormal style='text-align:justify'>            </p>
-
 <p class=MsoNormal style='text-align:justify'>            <span
 style='font-size:12.0pt'>Sin involves two issues that correspond to the two
 sides of a sin situation. There is the doing of a moral wrong and the reacting
@@ -180,11 +168,4 @@ eyes.”</i> By “letting it go,” people are using good sense and better judg
 not to open themselves up to misuse and abuse again. They are being <i>“wise as
 serpents and harmless as doves</i>”; <i>“they are not casting their pearls
 before swine.”</i></span></p>
-
-<p class=MsoNormal style='text-align:justify'><i><span style='font-size:12.0pt'>                                                                                                                              
-</span></i><span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>            </span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>            </span></p>
 </div>

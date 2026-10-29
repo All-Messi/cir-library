@@ -35,19 +35,19 @@ next: chapter-137
 ### His love is everlasting.
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>         5</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to him that made the sky in his wisdom,</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to him that made the sky in his wisdom,</span></span></p>
 
 
 ### His love is everlasting.
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>         6</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to him that spread out the dry land higher than the water,</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to him that spread out the dry land higher than the water,</span></span></p>
 
 
 ### His love is everlasting.
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>         7</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to him that made the great lights,</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to him that made the great lights,</span></span></p>
 
 
 ### His love is everlasting;
@@ -65,7 +65,7 @@ next: chapter-137
 
 <p class="section-ref">Ps 136:1-9</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>         10</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to him that struck the Egyptians and their firstborn</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to him that struck the Egyptians and their firstborn</span></span></p>
 
 
 ### His love is everlasting;
@@ -89,7 +89,7 @@ next: chapter-137
 ### His love is everlasting.
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                  14</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and passed Israel through it,</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and passed Israel through it,</span></span></p>
 
 
 ### His love is everlasting;
@@ -101,7 +101,7 @@ next: chapter-137
 
 <p class="section-ref">Ps 136:10-15</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>         16</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to him that led his people through the desert,</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to him that led his people through the desert,</span></span></p>
 
 
 ### His love is everlasting;
@@ -119,7 +119,7 @@ next: chapter-137
 ### His love is everlasting.
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                           19</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sihon, king of the Amorites,</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sihon, king of the Amorites,</span></span></p>
 
 
 ### His love is everlasting,
@@ -143,19 +143,19 @@ next: chapter-137
 
 <p class="section-ref">Ps 136:16-22</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>      </span><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         23</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>who remembered us in our low estate</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>      </span><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>who remembered us in our low estate</span></span></p>
 
 
 ### His love is everlasting;
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                  24</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and rescued us from our enemies,</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and rescued us from our enemies,</span></span></p>
 
 
 ### His love is everlasting,
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>         25</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>who gives good to every person.</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in'><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>who gives good to every person.</span></span></p>
 
 
 ### His love is everlasting.

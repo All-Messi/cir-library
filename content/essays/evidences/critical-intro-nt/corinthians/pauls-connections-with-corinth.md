@@ -7,6 +7,7 @@ categories:
 - 'Critical Intro Nt'
 - 'Corinthians'
 draft: false
+content_kind: chart
 ---
 
 <style>
@@ -31,13 +32,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>PAUL’S CONNECTIONS WITH CORINTH</span></b></p>
-
-<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:10.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:10.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:10.0pt'>                                                         <u>Writing
 of 2 Corinthians</u> (2 Cor. <b>1</b>:1-2)</span></p>
 
@@ -301,15 +295,4 @@ VISIT TO CORINTH</u>                  Acts <b>20</b>:2-3a</span
 
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:10.0pt'>                                                                            
 = second benefit (2 Cor<b>. 1</b>:15)</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:10.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:10.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:10.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:10.0pt'>        
-</span></p>
 </div>

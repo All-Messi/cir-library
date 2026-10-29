@@ -27,22 +27,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-lang=EL style='font-size:14.0pt'>ΑΥΘΕΝΤΗΣ</span></b><b><span style='font-size:
-14.0pt'>  (AUTHENTĒS)</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            An important item in 1 Timothy <b>2</b> is
 a case of </span><span lang=EL style='font-size:12.0pt'>αὐθεντέω</span><span
@@ -116,14 +100,4 @@ Wolters concluded as does Baldwin and Barnett/Harris that Wilshire’s decision
 for <i>“domineer, be aggressive”</i> does not hold for the period from the six
 centuries prior to A.D. 311. A significant portion of time should be devoted to
 studying this little problem.  </span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                       
-christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

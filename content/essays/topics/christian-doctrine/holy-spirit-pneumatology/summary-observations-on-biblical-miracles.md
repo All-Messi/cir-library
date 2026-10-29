@@ -7,6 +7,7 @@ categories:
 - 'Christian Doctrine'
 - 'Holy Spirit Pneumatology'
 draft: false
+content_kind: notes
 ---
 
 <style>
@@ -33,20 +34,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>SUMMARY
-OBSERVATIONS ON BIBLICAL MIRACLES</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><b><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>     </span></b><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I.  Types
@@ -195,9 +182,4 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 margin-left:45.0pt;text-align:justify;text-indent:-45.0pt'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>         M. Public:
 <i>vs</i>. known by rumor</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:45.0pt;text-align:justify;text-indent:-45.0pt'><span
-style='font-family:"Times New Roman",serif'>                                                                                                                                        
-christir.org</span></p>
 </div>

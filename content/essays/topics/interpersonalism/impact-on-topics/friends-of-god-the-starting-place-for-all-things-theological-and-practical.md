@@ -7,6 +7,8 @@ categories:
 - 'Interpersonalism'
 - 'Impact On Topics'
 draft: false
+aliases:
+- /essays/topics/interpersonalism/impact-on-topics/friends-of-god-the-starting-place-for-all-things/
 ---
 
 <style>
@@ -45,18 +47,6 @@ span.FooterChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:6.0pt;text-align:center;
-line-height:110%'><b><span style='font-size:14.0pt;line-height:110%;font-family:
-"Times New Roman",serif'>“FRIENDS OF GOD”: THE STARTING PLACE FOR ALL THINGS</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center;line-height:110%'><b><span
-style='font-size:14.0pt;line-height:110%;font-family:"Times New Roman",serif'>THEOLOGICAL
-AND PRACTICAL</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 .5in;line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“He
 is a friend of God.” </span></i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>That

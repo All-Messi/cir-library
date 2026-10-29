@@ -44,21 +44,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-text-indent:.5in'><b><span style='font-size:14.0pt;line-height:115%;font-family:
-"Times New Roman",serif'>CAPITAL CRIMES IN MOSAISM</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-text-indent:.5in'><b><span style='font-size:14.0pt;line-height:115%;font-family:
-"Times New Roman",serif'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-text-indent:.5in'><span style='font-size:12.0pt;line-height:115%;font-family:
-"Times New Roman",serif'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><b><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Adultery/Incest
 </span></b></p>
@@ -1232,16 +1217,4 @@ line-height:115%;font-family:"Times New Roman",serif'>            </s
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Apostasy
 at Shittim (Number <b>25</b>:1-18 &gt; 1 Corinthians <b>10</b>:8; 23,000/24,000
 died)</span></p>
-
-<p class=MsoListBulletCxSpFirst style='text-align:justify'><b><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
-<p class=MsoListBulletCxSpMiddle style='text-align:justify'><span
-style='font-family:"Times New Roman",serif'>christir.org</span></p>
-
-<p class=MsoListBulletCxSpMiddle style='text-align:justify'><b><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
-<p class=MsoListBulletCxSpLast style='text-align:justify'><b><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
 </div>

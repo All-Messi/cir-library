@@ -18,7 +18,8 @@
         {{ end }}
     </header>
 
-    <div class="article-content">
+    <div class="article-content" data-pagefind-body>
+        {{ partial "pagefind-tags.html" (dict "filter" (dict "type" "resource") "meta" (dict "type" "resource" "title" .Title)) }}
         {{ .Content }}
     </div>
 

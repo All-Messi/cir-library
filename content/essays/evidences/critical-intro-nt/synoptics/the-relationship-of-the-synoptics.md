@@ -7,6 +7,7 @@ categories:
 - 'Critical Intro Nt'
 - 'Synoptics'
 draft: false
+content_kind: chart
 ---
 
 <style>
@@ -28,34 +29,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>THE RELATIONSHIP OF THE SYNOPTICS</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt'><span style='font-size:12.0pt'><img
-width=409 height=171 id="Picture 1" src="/images/essays/the-relationship-of-the-synoptics/image001.png"></span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt'><b><span style='font-size:12.0pt'>                   
 </span></b><span style='font-size:12.0pt'>PERICOPES</span></p>
@@ -115,10 +88,4 @@ margin-left:.5in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>    �
 margin-left:.5in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>*The
 diagram above comes from class notes taken under Dr. Lewis A. Foster, former
 Dean of the Graduate School at The Cincinnati Christian Seminary. </span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt'><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

@@ -34,21 +34,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>STRENGTHENING THE WILL AND INTERPERSONALISM</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>                  Will is an aspect of people
 that links mind, emotion, and action to create what we call “person.” In
@@ -103,8 +88,4 @@ habit. People are hardened by the deceitfulness of sin (Hebrews <b>3</b>:13). In
 not miracle, provides satisfactory assistance for breaking the power of past
 behavior on present resolve. (See notations about empowerment under the
 interpersonal essay “Holy Spirit.”)</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:11.0pt'>                                                                                                                                         
- christir.org</span></p>
 </div>

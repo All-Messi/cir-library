@@ -26,21 +26,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>CHRISTIANS AND TEMPORAL AUTHORITIES</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            In non-Christian societies, people wonder
 whether they can continue in their jobs if they become Christians. The minister
@@ -103,8 +88,4 @@ superior authority, who takes the penalty if it is wrong. </span></p>
 style='font-size:12.0pt'>            In Christ, the one who does the wrong is
 guilty of the wrong and bears the penalty for it. If we prioritize Christ’s authority
 in moral matters, we can remain in whatever calling we had before we accepted him.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                              
-           </span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

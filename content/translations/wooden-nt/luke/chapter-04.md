@@ -76,7 +76,7 @@ next: chapter-05
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And having-rolled-up the scroll, having-given (it) to-the attendant, he-sat-down; and the eyes of-all in the synagogue were looking-at him. </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he-began-by-saying to them [that], <i>“Today [the] this scripture has-been-fulfilled in the ears of-you.” </i></span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And all were-testifying to-him and were-marveling at the words of-[the] grace [the] coming-out of the mouth of-him, and they-began to-say, <i>“Is this-One not (the) son of-Joseph?”</i> </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>12</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And all were-testifying to-him and were-marveling at the words of-[the] grace [the] coming-out of the mouth of-him, and they-began to-say, <i>“Is this-One not (the) son of-Joseph?”</i> </span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he-said to-them, </span></span></p>
 

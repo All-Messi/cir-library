@@ -36,20 +36,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><b><span style='font-size:14.0pt'>IMAGE AND LIKENESS</span></b></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in;line-height:18.0pt'><u><span style='font-size:12.0pt'><span
- style='text-decoration:none'>&nbsp;</span></span></u></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:.5in;line-height:18.0pt'><u><span style='font-size:12.0pt'><span
- style='text-decoration:none'>&nbsp;</span></span></u></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 .5in;line-height:18.0pt'><span style='font-size:12.0pt'>We have not made a
 distinction between “image” and “likeness,” even though Genesis <b>1</b>:26
@@ -233,8 +219,4 @@ nothing as in “built” something new. It can apply to cases where something n
 is made from previously existing matter. God “created” Israel when he
 constituted the Israelites as a nation at the crossing of the Red Sea (Isaiah <b>43</b>:1,
 15; 1 Corinthians <b>10</b>:1-2).</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in'><span style='font-size:12.0pt'>                                                                                                                             
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

@@ -7,6 +7,8 @@ categories:
 - 'Interpersonalism'
 - 'Impact On Topics'
 draft: false
+aliases:
+- /essays/topics/interpersonalism/impact-on-topics/the-relationship-of-interpersonalism/
 ---
 
 <style>
@@ -34,27 +36,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>THE RELATIONSHIP OF INTERPERSONALISM</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:6.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>TO NON-INTERPERSONAL MATTERS</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>            Interpersonalism refers to
 the fundamental character of reality. As such, it is a claim about worldview. <u>Interpersonal</u>
@@ -247,8 +228,4 @@ baptism are rites of passage. Their function is to reduce a process to a point.
 The formal rite is instituted as a manner of expressing dynamic matters to the
 viewer and as a means of focalizing dynamic matters for the doer. There is a
 reciprocal interaction between self-expression and self-impression.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>                                                                                                                                          
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

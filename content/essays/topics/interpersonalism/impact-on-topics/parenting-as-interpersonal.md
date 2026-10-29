@@ -25,18 +25,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>PARENTING AS INTERPERSONAL</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>            Parenting takes place first
 by interpersonal means. It is on top of interpersonal process that any
@@ -67,9 +55,4 @@ parents’ aspirations. They are not for being <u>used</u>; that would reduce th
 personhood. We can let them make a <u>difference</u> by letting them have input
 into decisions that affect them, by taking time with them, by listening to
 them.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>                                                           
-                                                                               </span><span
-style='font-size:11.0pt'>christir.org</span></p>
 </div>

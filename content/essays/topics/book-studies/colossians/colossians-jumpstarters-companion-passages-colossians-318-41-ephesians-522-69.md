@@ -7,6 +7,9 @@ categories:
 - 'Book Studies'
 - 'Colossians'
 draft: false
+content_kind: study-prompt
+aliases:
+- /essays/topics/book-studies/colossians/colossians-jumpstarters/
 ---
 
 <style>
@@ -107,10 +110,4 @@ other people’s actions:</p>
 
 <p class=MsoNormal style='text-align:justify'>What substitutes are used for
 influence?</p>
-
-<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='text-align:justify'>christir.org</p>
 </div>

@@ -28,18 +28,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>ASPECTS OF HUMAN RIGHTEOUSNESS</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'>Virgil Warren, PhD</p>
-
-<p class=MsoNormal align=center style='text-align:center'><b>&nbsp;</b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b>  </b></p>
-
 <p class=MsoNormal style='text-align:justify'>            Goodness has several
 aspects. In relation to a <u>standard</u>, goodness is humanly measurable
 behavior relative to the divine ideal—as to its “letter” and its “spirit.” As
@@ -197,9 +185,4 @@ tries to help improve the lot and life of others even when we have no
 responsibility for them. When we decide not to do a command about morality, we
 sin. When we decide not to take advice in wisdom, we take a risk. When we
 decide not to minister, we pass up an opportunity.</p>
-
-<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
-
-<p class=MsoNormal style='text-align:justify'>                                                                                                                              
-<span style='font-size:11.0pt'>christir.org</span></p>
 </div>

@@ -24,8 +24,8 @@ next: chapter-24
 
 <p class="section-ref">Num 23:1-6</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                  7</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balaam
-</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>took up this oracle:              </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balaam
+</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>took up this oracle:              </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Balak brought me from Aram,</span></i></p>
 

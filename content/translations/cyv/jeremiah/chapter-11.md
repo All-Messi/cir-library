@@ -75,7 +75,7 @@ next: chapter-12
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So this is what Yahveh says about the ones in Anathoth that tell me they’ll kill me if I prophesy in his name:<i> </i></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in; line-height:normal'><b><sup><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>         22</span></sup></b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“</span></i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Their<i> young men will die by the sword; </i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in; line-height:normal'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“</span></i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Their<i> young men will die by the sword; </i></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in; line-height:normal'><b><sup><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>                  </span></sup></b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>their boys and girls will starve to death; </span></i></p>
 

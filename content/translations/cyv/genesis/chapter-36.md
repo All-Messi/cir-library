@@ -13,8 +13,7 @@ next: chapter-37
 
 <p class="MsoNormal" align=center style='margin-bottom:0in;margin-bottom:0in; margin-top:0in;text-align:center'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esau’s (Edom’s) Generations </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </span>
-<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esau married Canaanite women: <u>Adah</u> Bat-Elon the Hittite; <u>Oholibamah</u> Bat-Anah Ben-Zibeon the Hivite; </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esau married Canaanite women: <u>Adah</u> Bat-Elon the Hittite; <u>Oholibamah</u> Bat-Anah Ben-Zibeon the Hivite; </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and
 <u>Basemath</u>/</span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Mahalath</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Bat-Ishmael, sister of Nebaioth. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Adah had Eliphaz; Basemath had Reuel, </span></span>

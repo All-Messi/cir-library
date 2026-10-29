@@ -27,19 +27,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center;
-line-height:18.0pt'><b><span style='font-size:14.0pt'>FORMAL PREPARATION FOR
-MINISTRY: THE 18-30 YEARS</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center;
-line-height:18.0pt'><b><span style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>            Graduating someone with a
 ministry degree does not necessarily increase the number of personnel in
@@ -122,34 +109,4 @@ skills that cannot easily be taught in formal education.</span></p>
 to enjoy ministry in the long term. By deliberately setting a twelve-year
 expectancy, we help them settle into a natural progress toward leadership
 ministry. We believe they and the churches benefit in the long run.</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt;color:windowtext'>                                                                                                                                    
-</span><span style='font-size:11.0pt;color:windowtext'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

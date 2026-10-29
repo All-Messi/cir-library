@@ -7,6 +7,7 @@ categories:
 - 'Book Studies'
 - 'Colossians'
 draft: false
+content_kind: study-prompt
 ---
 
 <style>
@@ -109,9 +110,4 @@ of Christ  <b>1</b>:24</p>
 <p class=MsoNormal style='text-align:justify'>&nbsp;</p>
 
 <p class=MsoNormal style='text-align:justify'>Metaphors of “salvation”</p>
-
-<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
-
-<p class=MsoNormal style='text-align:justify'>                                                                                                                                                                                                                                                                        <span
-style='font-size:11.0pt'>christir.org</span></p>
 </div>

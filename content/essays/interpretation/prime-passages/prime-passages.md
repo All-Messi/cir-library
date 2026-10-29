@@ -32,17 +32,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>PRIME
-PASSAGES</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Genesis
 <b>3</b>:20: <i>“He named his wife Eve because she was the mother of all
@@ -991,11 +980,4 @@ passage is a warning against clerical obeisance.</span></p>
 <p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:.5in'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>See
 also Revelation <b>22</b>:8-9.</span></p>
-
-<p class=MsoNormal style='margin-left:.5in;text-align:justify;text-indent:.5in'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                               
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 </div>

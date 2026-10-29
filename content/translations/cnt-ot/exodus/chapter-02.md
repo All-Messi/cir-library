@@ -46,7 +46,7 @@ next: chapter-03
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>Moses was afraid, <i>“Clearly, people know what I did.” </i></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'> 15</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Pharaoh heard about it, he tried to execute Moses, but he fled to Midian.</span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Pharaoh heard about it, he tried to execute Moses, but he fled to Midian.</span></span></p>
 
 <p class="section-ref">Ex 2:11-15</p>
 

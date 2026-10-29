@@ -34,22 +34,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><b><span style='font-size:14.0pt'>“IN THE DAYS OF THOSE
-KINGS”: DANIEL 2:44</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>                  In Daniel <b>2</b>:44 <i>those
 kings</i> [</span><span lang=HE dir=RTL style='font-size:12.0pt'>מ</span><span
@@ -223,10 +207,4 @@ he will cause eventually to replace them. No longer will the misused iron rule
 God gave man (cp. Romans <b>13</b>:1ff.) be mingled with the voice of popular
 opinion (Daniel <b>2</b>:43). God will fully establish a just rule in which he
 alone will direct the affairs of his eternal kingdom.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

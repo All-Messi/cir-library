@@ -27,19 +27,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>FAITH AND SIGHT/SCIENCE</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>            </span></p>
-
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>            Science
 deals with the experience of recurrent natural processes in the present. The
 technology science uses enhances the degree and kinds of sense perception in
@@ -137,13 +124,4 @@ style='font-size:8.0pt'>&nbsp;</span></b></p>
 
 <p class=MsoNormal align=center style='text-align:center'><b><span
 style='font-size:12.0pt'>KNOWLEDGE</span></b></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt'>                     <img
-width=318 height=237 id="Picture 1" src="/images/essays/faith-and-sightscience/image001.png"></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

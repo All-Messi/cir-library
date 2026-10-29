@@ -45,24 +45,6 @@ ul
 
 <div class="word-content">
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>STRICTURES ON THE PENAL SUBSTITUTIONARY ATONEMENT  THEORY:</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>IDENTIFICATION AS AN ALTERNATIVE PROPOSAL</span></b></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
 style='font-size:12.0pt'>Introduction</span></b></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -501,9 +483,9 @@ absolute;left:57px;top:-664px;width:358px;height:78px'>
  </tr>
  <tr>
   <td height=78></td>
-  <td align=left valign=top><img width=146 height=78 src=missing.gif></td>
+  <td align=left valign=top></td>
   <td></td>
-  <td align=left valign=top><img width=178 height=78 src=missing.gif></td>
+  <td align=left valign=top></td>
  </tr>
 </table>
 
@@ -1577,16 +1559,4 @@ Peter<b> 1</b>:2, 19; 1 John <b>1</b>:7;<b> 5</b>:8; Revelation <b>1</b>:5; <b>5
 .5in'><span style='font-size:12.0pt;position:relative;top:-3.0pt'>13</span><i><span
 style='font-size:12.0pt'>op. cit</span></i><span style='font-size:12.0pt'>., p.
 425.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:9.0pt'>                                                                                                                                                                                                 </span><span
-style='font-size:10.0pt'>Christir.org</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
-style='font-size:12.0pt'>                                       </span></b></p>
 </div>

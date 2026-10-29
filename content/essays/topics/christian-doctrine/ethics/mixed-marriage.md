@@ -24,20 +24,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center;
-line-height:117%'><b><span style='font-size:14.0pt;line-height:117%'>MIXED
-MARRIAGE</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center;
-line-height:117%'><b><span style='font-size:12.0pt;line-height:117%'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center;
-line-height:117%'><span style='font-size:12.0pt;line-height:117%'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
-117%'><span style='font-size:12.0pt;line-height:117%'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
 117%'><span style='font-size:12.0pt;line-height:117%'>            Scripture says
 so much about marriage because it is a <u>universal</u> experience. Besides, it
@@ -198,16 +184,4 @@ opposite is more likely the point: <i>“What makes you think that you can win a
 unbelieving spouse that is wanting a divorce, trying to desert you, or perhaps
 beginning to ‘run around’ on you?”</i> The preceding verse seems to deal with a
 deteriorating situation rather than a neutral one.</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
-117%'><span style='font-size:12.0pt;line-height:117%'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
-117%'><span style='font-size:11.0pt;line-height:117%'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
-117%'><span style='font-size:12.0pt;line-height:117%'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;line-height:117%'><span
-style='font-size:12.0pt;line-height:117%'>&nbsp;</span></p>
 </div>

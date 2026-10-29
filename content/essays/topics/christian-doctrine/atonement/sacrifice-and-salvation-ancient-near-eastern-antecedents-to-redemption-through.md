@@ -7,6 +7,8 @@ categories:
 - 'Christian Doctrine'
 - 'Atonement'
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/atonement/sacrifice-and-salvation-ancient-near-eastern/
 ---
 
 <style>
@@ -34,26 +36,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:6.0pt;margin-left:0in;text-align:center'><b><span
-style='font-size:14.0pt'>SACRIFICE AND SALVATION: ANCIENT NEAR EASTERN </span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:6.0pt;margin-left:0in;text-align:center'><b><span
-style='font-size:14.0pt'>ANTECEDENTS TO REDEMPTION THROUGH CHRIST</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
 style='font-size:12.0pt'>Introduction</span></b></p>
 
@@ -485,25 +467,4 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                                                                                                                                            
 </span><span style='font-size:11.0pt'>christ.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

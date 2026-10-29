@@ -9,6 +9,8 @@ categories:
 - 'Nature Of Man Book'
 weight: 5
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/mankind-anthropology/nature-of-man-book/natural-observations-on-the-image/
 ---
 
 <style>
@@ -44,23 +46,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>NATURAL OBSERVATIONS ON THE IMAGE </span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:4.5pt'><b><span style='font-size:14.0pt'>AS THE INTERPERSONAL
-CAPACITY</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:.5in'><b><span style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in;line-height:18.0pt'><u><span style='font-size:12.0pt'><span
- style='text-decoration:none'>&nbsp;</span></span></u></p>
-
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'>Introduction</span></p>
 
@@ -1110,8 +1095,4 @@ with a presentation on his omniscience (<b>139</b>:1-6, 11ff). It seems likely
 then that God’s omnipresence is by virtue of his omniscience; he is omnipresent
 in the sense that he is omniscient. Since we do not know the nature of deific
 spirit, we cannot know whether location even applies to God. </span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in'><span style='font-size:12.0pt'>                                                                                                                             
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

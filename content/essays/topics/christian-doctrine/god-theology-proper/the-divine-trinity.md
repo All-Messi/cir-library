@@ -38,21 +38,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center'><b><span
-style='font-size:14.0pt'>THE DIVINE TRINITY</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.25in;text-align:justify'><span
 style='font-size:12.0pt'> I. Methodology</span></p>
 
@@ -877,8 +862,4 @@ is difficult to prove conclusively the <u>eternal</u> pre-existent and
 eschatological distinction between them. It is also difficult to <u>dis</u>prove
 the createdness of the Son, but it is not positively taught either. The burden
 of proof is always on the affirmative.</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt'>                                                                                                                                christir.org</span></p>
 </div>

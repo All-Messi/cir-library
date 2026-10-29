@@ -28,26 +28,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>CHARACTERISTICS AND PECULIARITIES OF ACTS</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>    1.    Along with Luke, Acts has short paragraphs
@@ -136,12 +116,4 @@ margin-left:49.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'
 style='font-size:12.0pt'>  13.    Frequently (79 times) uses <i>“Jews”</i>
 especially in chapters <b>9-28</b>, dedicated more to non-Judaean territories.
 Only 2 appear in chapters <b>1-8</b>: <b>2</b>:5, 10). John’s gospel has 68.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:49.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:49.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-31.5pt'><span
-style='font-size:11.0pt'>christir.org</span></p>
 </div>

@@ -30,18 +30,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>BAPTISM: MEANING</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'>Virgil Warren, PhD</p>
-
-<p class=MsoNormal><b>&nbsp;</b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b>&nbsp;</b></p>
-
 <p class=MsoNormal style='text-align:justify'><b>            </b>Baptism is for
 personal identification with Jesus Christ. In consequence of identity with
 Christ, God forgives sin, gives the Holy Spirit, and make us member in the body
@@ -136,7 +124,4 @@ Christians, but we are Christians only </p>
 -.25in'>8.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span>Provides
 a framework for thinking about the unevangelized before, at, or after the time
 of Christ.</p>
-
-<p class=MsoNormal style='margin-left:4.5in;text-align:justify;text-indent:
-.5in'>      <span style='font-size:11.0pt'>christir.org</span></p>
 </div>

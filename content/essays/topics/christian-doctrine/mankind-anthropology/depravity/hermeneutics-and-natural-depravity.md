@@ -36,21 +36,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>HERMENEUTICS AND NATURAL DEPRAVITY</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'>Exegetical Impasse</span></p>
 
@@ -824,10 +809,4 @@ style='font-size:12.0pt'> (“receive”) in keeping with Leon Morris’ comment
 verb [receive] has an air of welcoming about it, being the usual word for
 receiving a guest”</i> (<i>The First Epistle of Paul to the Corinthians: An
 Introduction and Commentary</i>, p. 60).</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:11.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:11.0pt'>christir.org</span></p>
 </div>

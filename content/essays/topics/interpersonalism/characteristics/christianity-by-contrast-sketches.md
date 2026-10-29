@@ -29,22 +29,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal style='margin-bottom:0in'><b>                             </b><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>CHRISTIANITY
-BY CONTRAST: SKETCHES    </span></b></p>
-
-<p class=MsoNormal style='margin-bottom:0in'><b><span style='font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><b><span
 style='font-family:"Times New Roman",serif'>                                                                   </span></b><b><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Prolegomena</span></b></p>
@@ -314,16 +298,4 @@ General Proposition: The things that have perverted the faith over the
 centuries are approximately the things that destroy its distinctiveness from
 other religious systems. They amount to some kind of non-interpersonal elements
 that are not already in the Christian system in secondary position.</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in'><span style='font-family:"Times New Roman",serif'>                                                                                                                                          
-christir.org</span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-text-indent:.5in'><u><span style='font-family:"Times New Roman",serif'> </span></u></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-.5in'><span style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-family:"Times New Roman",serif'>                                                                              </span></p>
 </div>

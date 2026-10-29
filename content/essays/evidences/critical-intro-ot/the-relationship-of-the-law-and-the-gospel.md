@@ -32,14 +32,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center;text-indent:.5in'><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>T<b>HE
-RELATIONSHIP OF THE LAW AND THE GOSPEL</b></span></p>
-
-<p class=MsoNormal align=center style='text-align:center;text-indent:.5in'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            When
 the Christian gospel came on the scene of redemptive history, the status and
@@ -224,6 +216,4 @@ Christian living. The concomitant point is that, morally and religiously,
 nothing beyond the contents of the New Testament is normative and binding for
 Christians. There is one people of God and one constitution over them at the
 present age.</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 </div>

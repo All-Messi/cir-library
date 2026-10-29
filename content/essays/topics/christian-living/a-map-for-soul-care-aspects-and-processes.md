@@ -31,17 +31,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:6.0pt;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>A
-MAP FOR SOUL CARE: ASPECTS AND PROCESSES</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><b>            </b><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
 Map and diagrams below picture the over-all process of Christian living and

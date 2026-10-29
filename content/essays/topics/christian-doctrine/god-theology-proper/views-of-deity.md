@@ -35,21 +35,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>VIEWS OF DEITY</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
 style='font-size:12.0pt'>            </span></b><i><span style='font-size:12.0pt'>God/god</span></i><span
 style='font-size:12.0pt'> refers to ultimate reality. Christianity views God as
@@ -427,13 +412,4 @@ are alike in having a physical connection with deity.</span></p>
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>      <u>Monotheism</u>, both forms of <u>monarchianism</u>/patripassianism/Sabellianism,
 <u>trinitarianism</u>, and <u>deism</u> are alike in having one God.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>      </span></p>
 </div>

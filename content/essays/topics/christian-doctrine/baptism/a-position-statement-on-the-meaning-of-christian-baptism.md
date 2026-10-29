@@ -7,6 +7,8 @@ categories:
 - 'Christian Doctrine'
 - 'Baptism'
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/baptism/a-position-statement/
 ---
 
 <style>
@@ -42,34 +44,6 @@ span.FooterChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:4.5pt;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>A POSITION STATEMENT </span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:4.5pt;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:4.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:4.5pt;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>ON THE MEANING OF CHRISTIAN BAPTISM</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:4.5pt;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:4.5pt;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:4.5pt;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:4.5pt;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
 style='font-size:12.0pt'>          As part of our standard response to the
@@ -1034,18 +1008,4 @@ touched on in this presentation, see <i>What the Bible Says About Salvation</i>
 (Joplin, MO: College Press, 1982). Scripture indices, topical index, and the
 table of contents will indicate chapters that apply to baptism materials in pp.
 194-409. </span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:11.0pt'>                                                                                                                                        
-christir.org</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:4.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                                                                               </span></p>
-
-<p class=MsoNormal style='margin-left:4.5pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

@@ -34,7 +34,7 @@ that’s at the head of the fertile valley
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The proud crown of Ephraim’s drunks </span></b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>will get tramped on;</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    4</span></sup></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the fading flower of its glorious beauty</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the fading flower of its glorious beauty</span></b></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                      </span></sup></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that’s at the head of the fertile valley</span></b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>,</span></p>
 
@@ -201,7 +201,7 @@ that’s at the head of the fertile valley
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                </span><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>because his God has taught him how to do it?</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                      27</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A farmer</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> doesn’t thresh dill with a sledge</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A farmer</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> doesn’t thresh dill with a sledge</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                or drive a cart wheel over cummin;    </span></p>
 

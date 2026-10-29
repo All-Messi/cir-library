@@ -7,6 +7,7 @@ categories:
 - 'Critical Intro Ot'
 weight: 29
 draft: false
+content_kind: chart
 ---
 
 <style>
@@ -33,14 +34,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>THE
-STRUCTURE OF JOB</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
 <p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>The Set-Up: Behind the
 Scenes: 1-2</span></p>

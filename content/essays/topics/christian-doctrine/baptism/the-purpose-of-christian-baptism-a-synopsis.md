@@ -1,5 +1,5 @@
 ---
-title: "THE PURPOSE OF CHRISTIAN BAPTISM: A SYNOPSIS*"
+title: "THE PURPOSE OF CHRISTIAN BAPTISM: A SYNOPSIS"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:
@@ -7,6 +7,7 @@ categories:
 - 'Christian Doctrine'
 - 'Baptism'
 draft: false
+substantial: true  # title carried Virgil's * sigil (About page: substantial document)
 ---
 
 <style>
@@ -23,22 +24,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>THE PURPOSE OF CHRISTIAN BAPTISM: A SYNOPSIS</span></b><b><span
-style='font-size:12.0pt'>*</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>  </span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='margin-right:-.5in'><b><span style='font-size:12.0pt'>                               CHRISTIANITY
 AS AN INTERPERSONAL “SYSTEM”         </span></b></p>
 
@@ -66,11 +51,4 @@ to Christ's body, the church. </span></p>
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>*For
 a more detailed presentation, see <i>What the Bible Says About Salvation</i>
 (Joplin, Missouri: College Press, 1982), by Virgil Warren, pp. 194-409.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                                                                                                                                          
-</span><span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                                                                                 </span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

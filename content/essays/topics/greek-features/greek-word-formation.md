@@ -28,17 +28,6 @@ draft: false
 
 <div class="word-content">
 <p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>GREEK
-WORD FORMATION</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal style='text-align:justify'><b><span lang=EL
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>SUFFIXES</span></b></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;

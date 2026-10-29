@@ -22,25 +22,25 @@ next: chapter-05
 ### Azariah Ben-Zadok was priest.
 
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%'>                  3</span></sup></b><b><span style='font-size:12.0pt;line-height:115%'>Elihoreph</span></b><span style='font-size:12.0pt;line-height:115%'> and <b>Ahijah</b>, Ben-Shisha, were secretaries.</span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <b><span style='font-size:12.0pt;line-height:115%'>Elihoreph</span></b><span style='font-size:12.0pt;line-height:115%'> and <b>Ahijah</b>, Ben-Shisha, were secretaries.</span></span></p>
 
 
 ### Jehoshaphat Ben-Ahilud was recorder.
 
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%'>                  4</span></sup></b><b><span style='font-size:12.0pt;line-height:115%'>Benaiah</span></b><span style='font-size:12.0pt;line-height:115%'> Ben-Jehoiada was the general over the army.</span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <b><span style='font-size:12.0pt;line-height:115%'>Benaiah</span></b><span style='font-size:12.0pt;line-height:115%'> Ben-Jehoiada was the general over the army.</span></span></p>
 
 
 ### Zadok and Abiathar were priests.
 
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%'>                  5</span></sup></b><b><span style='font-size:12.0pt;line-height:115%'>Azariah</span></b><span style='font-size:12.0pt;line-height:115%'> Ben-Nathan oversaw the deputies.</span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <b><span style='font-size:12.0pt;line-height:115%'>Azariah</span></b><span style='font-size:12.0pt;line-height:115%'> Ben-Nathan oversaw the deputies.</span></span></p>
 
 
 ### Zabud Ben-Nathan, a priest, was the king’s personal advisor.
 
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%'>                  6</span></sup></b><b><span style='font-size:12.0pt;line-height:115%'>Ahishar</span></b><span style='font-size:12.0pt;line-height:115%'> governed the household.</span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <b><span style='font-size:12.0pt;line-height:115%'>Ahishar</span></b><span style='font-size:12.0pt;line-height:115%'> governed the household.</span></span></p>
 
 
 ### Adoniram Ben-Abda oversaw forced labor.
@@ -61,7 +61,7 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'>                        Taphath.)</p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%'>                  12</span></sup></b><b><span style='font-size:12.0pt;line-height:115%'>Baana</span></b><span style='font-size:12.0pt;line-height:115%'> Ben-Ahilud in Taanach, Megiddo, and Beth-shean, which is beside </span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <b><span style='font-size:12.0pt;line-height:115%'>Baana</span></b><span style='font-size:12.0pt;line-height:115%'> Ben-Ahilud in Taanach, Megiddo, and Beth-shean, which is beside </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>                        Zarethan below Jezreel, from Beth-shean to Abelmeholah as far as the </span></p>
 

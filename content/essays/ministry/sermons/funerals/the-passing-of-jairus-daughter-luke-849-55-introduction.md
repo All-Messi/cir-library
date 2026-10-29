@@ -7,6 +7,8 @@ categories:
 - 'Sermons'
 - 'Funerals'
 draft: false
+aliases:
+- /essays/ministry/sermons/funerals/the-passing-of-jairus-daughter/
 ---
 
 <style>
@@ -31,9 +33,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>THE PASSING OF JAIRUS’ DAUGHTER</span></b></p>
-
 <p class=MsoNormal align=center style='text-align:center'><b><span
 style='font-size:14.0pt'>(Luke 8:49-55)</span></b></p>
 
@@ -178,8 +177,4 @@ Warren</span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>Vermillion,
 Kansas </span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

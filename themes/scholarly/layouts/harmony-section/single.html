@@ -74,7 +74,8 @@
     </header>
 
     <!-- Main Content -->
-    <div class="chapter-content harmony-content" id="chapter-text">
+    <div class="chapter-content harmony-content" id="chapter-text" data-pagefind-body>
+        {{ partial "pagefind-tags.html" (dict "filter" (dict "type" "harmony") "meta" (dict "type" "harmony" "title" .Title "reference" (.Params.reference | default "" | plainify))) }}
         {{ .Content }}
     </div>
 

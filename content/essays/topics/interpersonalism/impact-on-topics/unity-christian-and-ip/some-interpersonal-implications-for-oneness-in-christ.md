@@ -8,6 +8,8 @@ categories:
 - 'Impact On Topics'
 - 'Unity Christian And Ip'
 draft: false
+aliases:
+- /essays/topics/interpersonalism/impact-on-topics/unity-christian-and-ip/some-interpersonal-implications/
 ---
 
 <style>
@@ -44,15 +46,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>SOME INTERPERSONAL IMPLICATIONS </span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>FOR ONENESS IN CHRIST</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:.25in;text-align:center'><span
-style='font-size:12.0pt;line-height:115%'>Virgil Warren, PhD</span></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt;line-height:115%'>Efforts at Christian
 unity have variously stressed one or more bases: organizational union, common
@@ -196,13 +189,4 @@ style='font-size:12.0pt;line-height:115%'>We dare not allow Christian unity to
 become a historical vestige of our pursuit of sound doctrine or <i>vice versa</i>.
 Unity and doctrine tend to create a tension that we can manage only by the
 interpersonal skills that scripture includes in spiritual fruit.</span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
-margin-bottom:12.0pt;margin-left:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%'>                                                                                                                                         
-christir.org</span></p>
-
-<p class=MsoListParagraphCxSpLast style='margin-top:0in;margin-right:0in;
-margin-bottom:12.0pt;margin-left:0in;text-align:justify;text-indent:.5in'><span
-style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
 </div>

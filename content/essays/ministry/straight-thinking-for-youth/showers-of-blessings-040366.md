@@ -26,12 +26,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>Showers of Blessings</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:.25in;text-align:center'><span
-style='font-size:10.0pt;line-height:115%'>040366</span></p>
-
 <p class=MsoNormal style='text-align:justify'><i><span style='font-size:12.0pt;
 line-height:115%'>Sunday. </span></i><span style='font-size:9.0pt;line-height:
 115%'>SOURCE</span><span style='font-size:12.0pt;line-height:115%'>. When Jesus
@@ -103,8 +97,4 @@ Romans<b> 1</b>:20-23</span><span style='font-size:12.0pt;line-height:115%'>).</
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
 line-height:115%'>Virgil Warren, <u>Straight</u>, April 3, 1966, p11</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in'><span style='font-size:10.0pt;
-line-height:115%'>                                                                                                                                            
-christir.org</span></p>
 </div>

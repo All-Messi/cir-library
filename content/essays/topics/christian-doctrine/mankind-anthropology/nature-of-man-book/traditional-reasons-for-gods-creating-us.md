@@ -37,23 +37,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center;
-line-height:18.0pt'><b><span style='font-size:14.0pt'>TRADITIONAL REASONS FOR GOD’S
-CREATING US</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center;
-line-height:18.0pt'><b><span style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
 style='font-size:12.0pt'>            Issues can be relatively simple in
@@ -1336,8 +1319,4 @@ style='font-size:12.0pt'>            <span style='position:relative;t
 Weldon Johnson, <i>The Creation</i> (see in <i>Caroling Dusk</i>, edited by
 Countee Cullen. N. Y.: Harper &amp; Row, 1927, p. 19). Even under poetic
 license, a statement like this is misleading.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

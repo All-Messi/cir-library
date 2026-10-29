@@ -31,14 +31,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>GAMALIEL’S
-ARGUMENT FOR THE RESURRECTION OF JESUS</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
 resurrection of Jesus provides a plausible explanation for his followers’
@@ -376,8 +368,4 @@ appreciate the power of the points he himself was making. Nevertheless, we
 should have confidence now; the fact that we are here shows we should be here. The
 empty-tomb resurrection of Jesus and the existence of his body the church stand
 or fall together.</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                          
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 </div>

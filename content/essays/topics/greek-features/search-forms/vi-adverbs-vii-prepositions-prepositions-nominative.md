@@ -7,6 +7,8 @@ categories:
 - 'Greek Features'
 - 'Search Forms'
 draft: false
+aliases:
+- /essays/topics/greek-features/search-forms/vi-adverbs/
 ---
 
 <style>

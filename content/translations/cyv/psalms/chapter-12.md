@@ -45,7 +45,7 @@ next: chapter-13
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Keep us; protect us from this generation</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         8</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that struts around,</span><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></sup></b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>displaying its contempt.                     </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that struts around,</span><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></sup></b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>displaying its contempt.                     </span></span></p>
 
 <p class="section-ref">Ps 12:6-8</p>
 

@@ -35,21 +35,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>CRITIQUE OF AUGUSTINE’S VIEW OF EVIL</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:14.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>            Augustine’s treatment of the
 problem of evil falls short for two related reasons. (1) <u>He did not properly
@@ -718,10 +703,4 @@ noted here also. See <i>Contra academicos</i> <b>3</b>:31; <i>De ordine</i> <b>1
 top:-3.0pt'>7</span>Ecclesiasticus <b>39</b>:21 influenced his thinking in the
 same way, <i>“A man need not say, ‘What is this? Why is that?’ because he has
 created all things for their uses.”</i></span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><i><span style='font-size:12.0pt'>&nbsp;</span></i></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

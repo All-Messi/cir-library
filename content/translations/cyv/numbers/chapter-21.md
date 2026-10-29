@@ -38,7 +38,8 @@ next: chapter-22
 ### Israel’s Journey to Moab
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                10</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Israelites moved out and camped in Oboth, </span><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> from there to Iyeabarim in the desert east of Moab, </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Israelites moved out and camped in Oboth, </span></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> from there to Iyeabarim in the desert east of Moab, </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from there to Wadi Zered, </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and then to the other side of the Arnon in the desert that comes out of the border of the Amorite. The Arnon forms the border between Moab and the Amorites. </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Book of the Wars of Yahveh</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> says,</span></span></p>
@@ -120,7 +121,8 @@ next: chapter-22
 ### King Og Defeated
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                31</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So Israel lived in the territory of the Amorites. </span><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses sent </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>men
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So Israel lived in the territory of the Amorites. </span></span>
+<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses sent </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>men
 </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to spy out Jazer, and they captured its villages and expelled the Amorites there.
 </span></span></p>
 

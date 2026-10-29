@@ -28,19 +28,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>WISDOM LITERATURE</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='text-align:justify'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal style='text-align:justify'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>Introduction</span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>&nbsp;</span></p>
@@ -150,8 +137,4 @@ format. So to speak, the petals may not be sequenced in any particular order,
 but then again in some cases the author might use a deliberate sequence within
 the pattern. Not all the petals have to be the same size; that is, some points
 may be treated more briefly than others.</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

@@ -7,6 +7,8 @@ categories:
 - 'Greek Features'
 - 'Greek Vocab Project'
 draft: false
+aliases:
+- /essays/topics/greek-features/greek-vocab-project/adjectives/
 ---
 
 <style>
@@ -632,8 +634,4 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
 style='font-size:12.0pt'>Root</span></b><span style='font-size:12.0pt'>  [See
 Metzger <u>Lex Aids</u> 49; Trenchard <u>Voc Guide</u>, 5]</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

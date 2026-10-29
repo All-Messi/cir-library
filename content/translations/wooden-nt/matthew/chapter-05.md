@@ -18,23 +18,23 @@ next: chapter-06
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        because of-them is the kingdom of-[the] heaven[s].</span></i></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>4<i>“</i></span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Blessed (are) the-ones mourning,</span></i></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i>“</i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Blessed (are) the-ones mourning,</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        because they will-be-comforted.</span></i></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>5<i>“</i></span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Blessed (are) the humble,</span></i></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i>“</i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Blessed (are) the humble,</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        because they will-inherit the earth.</span></i></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>6<i>“</i></span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Blessed (are) the-ones hungering and thirsting-for righteousness,</span></i></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i>“</i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Blessed (are) the-ones hungering and thirsting-for righteousness,</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        because they-will-be-satisfied.</span></i></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>7<i>“</i></span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Blessed (are) the merciful,</span></i></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i>“</i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Blessed (are) the merciful,</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        because they will-receive-mercy.</span></i></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>8<i>“</i></span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Blessed (are) the pure in-[the] heart,</span></i></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i>“</i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Blessed (are) the pure in-[the] heart,</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        because they-will-see [the] God. </span></i></p>
 
@@ -42,11 +42,12 @@ next: chapter-06
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        because they-will-be-called sons of-God.</span></i></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>10<i>“</i></span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Blessed (are) the peace-makers,</span></i></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i>“</i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Blessed (are) the peace-makers,</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        because of-them is the kingdom of-[the] heaven[s].</span></i></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>11<i>“</i></span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Blessed are-you when they-insult you and persecute (you) and say all evil against you<sup>pl</sup> [falsely]<sup>ms</sup> for-the-sake-of me. </span></i><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Rejoice and be-glad, because the reward of-you is much in [the] heaven[s]. For thus they-persecuted the prophets [the] before you.</span></i></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i>“</i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Blessed are-you when they-insult you and persecute (you) and say all evil against you<sup>pl</sup> [falsely]<sup>ms</sup> for-the-sake-of me. </span></i></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Rejoice and be-glad, because the reward of-you is much in [the] heaven[s]. For thus they-persecuted the prophets [the] before you.</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<u>You</u> are the salt of-the earth; but if [the] salt loses the/its saltiness, by-what will-it-be-made salty? It-is-strong for nothing yet except<sup>2</sup> having-been-thrown outside to-be-trampled by [the] men. </span></i></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You</span></u></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> are the light of-the world. A city set on (a) hill is┘not└able to-be-hid. </span></i></span>

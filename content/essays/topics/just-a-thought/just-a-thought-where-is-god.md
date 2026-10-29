@@ -6,6 +6,8 @@ categories:
 - 'Topics'
 - 'Just A Thought'
 draft: false
+aliases:
+- /essays/topics/just-a-thought/just-a-thought/
 ---
 
 <style>
@@ -18,14 +20,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>JUST A THOUGHT</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:14.0pt'>“Where Is God?”</span></p>
-
-<p class=MsoNormal><span style='font-size:14.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'>Not only is God
 someone we <u>don’t</u> see; he is someone we <u>can’t</u> see (1 Timothy <b>3</b>:16).
 We may wonder, though, why he doesn’t show himself someway at least once in a
@@ -42,12 +36,4 @@ of failure or be always self-conscious about our inadequacies? </p>
 being gracious to us by keeping out of sight. Maybe he is showing confidence in
 us that we will do the best we can with as little prompting as possible. After
 all, we want to be treated like adults.</p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal>Virgil Warren     <span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt'>&nbsp;</span></p>
 </div>

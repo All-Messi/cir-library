@@ -8,6 +8,8 @@ date: '2026-02-16'
 draft: false
 title: Memorial Day Meditation
 weight: 3
+aliases:
+- /essays/ministry/sermons/memorial-day/memorial-day-meditation-morrison-lutheran-lillis-catholic/
 ---
 
 <style>
@@ -28,9 +30,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'>Memorial Day
-Meditation</p>
-
 <p class=MsoNormal align=center style='text-align:center'>May 28, 2007</p>
 
 <p class=MsoNormal align=center style='text-align:center'>Morrison, Salem
@@ -90,7 +89,4 @@ resources, the know-how, the power, to pass over on our own. We must rely on
 God, because we have not passed this way before (Joshua <b>3</b>:4). We must
 put our destiny in his powerful and loving hands. In so doing, we will leave a
 priceless memory by which other people will be encouraged to do the same.</p>
-
-<p class=MsoNormal style='text-align:justify'>                                                                                                                              
-<span style='font-size:11.0pt'>christir.org</span></p>
 </div>

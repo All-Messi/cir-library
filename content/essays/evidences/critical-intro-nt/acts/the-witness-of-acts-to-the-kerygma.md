@@ -41,17 +41,6 @@ span.FooterChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>THE
-WITNESS OF ACTS TO THE <i>KERYGMA</i></span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
 <p class=MsoNormal align=center style='text-align:center'><span
 style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>Introduction</span></p>
 
@@ -4236,13 +4225,4 @@ normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif'>  �
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;line-height:
 normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif'>   Witnesses 39,
 41                  31                                                    6-10                  12-15</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;line-height:
-normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;line-height:
-normal'><span style='font-size:10.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;line-height:
-normal'><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 </div>

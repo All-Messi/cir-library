@@ -9,6 +9,8 @@ categories:
 - 'Womens Studies'
 - 'Eph 5 21'
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/mankind-anthropology/womens-studies/eph-5-21/greek-elements-in-the-interpretation/
 ---
 
 <style>
@@ -33,29 +35,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:6.0pt;margin-left:0in;text-align:center'><b><span
-style='font-size:14.0pt'>GREEK ELEMENTS IN THE INTERPRETATION</span></b></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
-style='font-size:4.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:6.0pt;margin-left:0in;text-align:center'><b><span
-style='font-size:14.0pt'>OF EPHESIANS 5:21</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
-style='font-size:12.0pt'>  </span></b></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>editorial question                                                                Ephesians
 <b>5</b>:21</span></p>
@@ -413,23 +392,4 @@ lang=EL style='font-size:12.0pt'> </span><span style='font-size:12.0pt'>since
 the adverb is not one of quantity but of time, manner, or condition. Another
 take is that the husband should love his wife because she is his own body. This
 point is perhaps interesting, but rather afield from the meaning of “as.”</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                       
-christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

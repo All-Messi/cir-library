@@ -203,18 +203,6 @@ span.FooterChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
-margin-bottom:0in;margin-left:13.5pt;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>THE
-RATIONALE FOR ATONEMENT THROUGH CHRIST</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:.25in;text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
 <p class=MsoNormal align=center style='text-align:center'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Introduction</span></p>
 
@@ -1184,11 +1172,4 @@ will of the Father who sent him to establish perfect righteousness in human
 realm. <i>“God loved the world so much that he gave his Son so people who put
 their trust in him can have eternal fellowship with God”</i> (John <b>3</b>:16;
 Romans <b>5</b>:8-11).</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                    </span><span
-style='font-family:"Times New Roman",serif'>     christir.org</span></p>
 </div>

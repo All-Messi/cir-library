@@ -1,0 +1,7 @@
+{{- /* pagefind-tags.html — emit one hidden element per Pagefind filter / meta pair (2026-10-28).
+       Pagefind does NOT split comma-separated lists inside one data-pagefind-filter attribute
+       (it stored "bible, translation:CNT, book:…" as a single `type` value), so each key gets its
+       own element. Must be placed INSIDE the data-pagefind-body region.
+       Usage: {{ partial "pagefind-tags.html" (dict "filter" (dict "type" "essay") "meta" (dict "title" .Title)) }} */ -}}
+{{- range $k, $v := .filter }}{{ with $v }}<span hidden data-pagefind-filter="{{ $k }}:{{ $v }}"></span>{{ end }}{{ end -}}
+{{- range $k, $v := .meta }}{{ with $v }}<span hidden data-pagefind-meta="{{ $k }}:{{ $v }}"></span>{{ end }}{{ end -}}

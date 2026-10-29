@@ -7,6 +7,7 @@ categories:
 - 'Christian Doctrine'
 - 'Holy Spirit Pneumatology'
 draft: false
+subtitle: "GIFT(S) OF THE SPIRIT"
 ---
 
 <style>
@@ -25,21 +26,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>GIFT(S) OF THE SPIRIT</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'> I. Greek Terminology for Giving</span></p>
 
@@ -289,8 +275,4 @@ to do because <u>everybody has a gift</u>.</span></p>
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                        4.   The proposed view <u>affirms
 people</u> as God made them.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                     
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

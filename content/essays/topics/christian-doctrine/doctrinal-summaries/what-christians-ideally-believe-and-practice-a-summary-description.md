@@ -7,6 +7,8 @@ categories:
 - 'Christian Doctrine'
 - 'Doctrinal Summaries'
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/doctrinal-summaries/what-christians-ideally-believe-and-practice/
 ---
 
 <style>
@@ -36,21 +38,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>WHAT
-CHRISTIANS IDEALLY BELIEVE AND PRACTICE:</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>A
-SUMMARY DESCRIPTION</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>            Christian
 churches began as an effort to foster <u>Christian unity</u> by returning to
@@ -486,15 +473,4 @@ of the Christian faith summarized above combines faithfulness to Christ with
 freedom in Christ in the process of fulfilling his Commission to bring the
 whole world under the one loving, holy God who creates and redeems <i>“to the
 praise of his glorious grace”</i> (Ephesians <b>1</b>:6, 12, 14).</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>            </span></p>
-
-<p class=MsoNormal dir=RTL style='text-align:justify;direction:rtl;unicode-bidi:
-embed'><span dir=LTR style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 </div>

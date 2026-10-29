@@ -36,17 +36,6 @@ span.FooterChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>RIGHTLY DIVIDING THE WORD OF TRUTH IN ACTS 2:38</span></b></p>
-
-<p class=MsoNormal>&nbsp;</p>
-
-<p class=MsoNormal align=center style='text-align:center'>Virgil Warren, PhD</p>
-
-<p class=MsoNormal align=center style='text-align:center'><b>&nbsp;</b></p>
-
-<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><i>Christian baptism
 is a self-expression of personal identification with Jesus Christ, and God
@@ -807,11 +796,4 @@ lang=EL> </span><span lang=EL>ἁμαρτιῶν</span>: with Christ’s blood (
 with Christian baptism (Acts <b>2</b>:38); with repentance (Mark <b>1</b>:4 [=
 Luke<b> 3</b>:3]; Luke <b>24</b>:47). Standard usage is <i>in</i> plus dative
 for “in/among” and <i>in</i> plus accusative for “into.”</p>
-
-<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
-
-<p class=MsoNormal style='margin-left:4.5in;text-align:justify;text-indent:
-.5in'><span style='font-size:11.0pt'>      christir.org</span></p>
-
-<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
 </div>

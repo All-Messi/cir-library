@@ -33,20 +33,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>PRIME
-FACTS ABOUT THE HOLY SPIRIT</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>1. 
 The Spirit is a <u>person</u>, not a force, idea, emotional surge.</span></p>
@@ -155,13 +141,4 @@ margin-left:.5in;text-align:justify'><span style='font-size:12.0pt;line-height:
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>10.
 The Spirit of the prophet is subject to the prophet: 1 Corinthians <b>14</b>:32.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;text-align:justify'><u><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'><span style='text-decoration:
- none'>&nbsp;</span></span></u></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:5.0in;text-align:justify;text-indent:.5in'><span style='font-family:
-"Times New Roman",serif'>     christir.org</span></p>
 </div>

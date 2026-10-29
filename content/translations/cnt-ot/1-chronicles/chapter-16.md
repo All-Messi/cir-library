@@ -47,7 +47,7 @@ next: chapter-17
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>      the miracles and judgments he’s spoken,</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>         13</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>descendants of Israel his servant,</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>descendants of Israel his servant,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>      sons of Jacob his chosen ones.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                         1 Ch 16:8-13</span></b></p>
 
@@ -59,7 +59,7 @@ next: chapter-17
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            the message he commanded to a thousand generations,  </span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>         16</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>his covenant with Abraham,</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>his covenant with Abraham,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            his oath to Isaac.</span></p>
 
@@ -67,13 +67,13 @@ next: chapter-17
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            to Israel as an everlasting covenant,</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>         18</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll give you Canaan for an inheritance.”</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll give you Canaan for an inheritance.”</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they were just a few</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>      </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>      with temporary residents included,</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>         20</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>they wandered about from nation to nation,</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>they wandered about from nation to nation,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            from one kingdom to another.
             </span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>1 Ch 16:14-20</span></b></p>
@@ -82,7 +82,7 @@ next: chapter-17
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            he reproved kings for their sakes:</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>         22</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t touch my anointed ones;</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t touch my anointed ones;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            don’t harm my prophets.”</span></i></p>
 

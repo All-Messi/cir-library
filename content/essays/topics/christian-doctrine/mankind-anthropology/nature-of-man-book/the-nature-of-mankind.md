@@ -37,18 +37,6 @@ span.HeaderChar
 
 <div class="word-content">
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><b><span style='font-size:14.0pt'>THE NATURE OF MANKIND</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:.5in;line-height:18.0pt'><b><span style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:.5in;line-height:18.0pt'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'>Preface</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
@@ -305,11 +293,4 @@ formulation of that doctrine need not involve a theological shift to the
 “live with” the difficulties that doctrine raises for unbelievers when we
 present them the good news of reconciliation between people and the God who
 created them in his own image.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                                              
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

@@ -36,18 +36,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>THE
-ANTIQUITY AND CHARACTER OF RITUAL SACRIFICE</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-text-indent:.5in'><span style='font-size:12.0pt;line-height:115%;font-family:
-"Times New Roman",serif'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-text-indent:.5in'><span style='font-size:12.0pt;line-height:115%;font-family:
-"Times New Roman",serif'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>According
 to the higher critical reconstruction of Hebrew history, ritual sacrifice
@@ -338,10 +326,4 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&n
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-family:"Times New Roman",serif'>chrisstir.org</span></p>
-
-<p class=MsoNormal style='text-align:justify;text-indent:.5in'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></p>
-
-<p class=MsoNormal style='text-align:justify;text-indent:.5in'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 </div>

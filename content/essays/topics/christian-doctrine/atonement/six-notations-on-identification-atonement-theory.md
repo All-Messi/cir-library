@@ -32,20 +32,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>SIX NOTATIONS ON IDENTIFICATION ATONEMENT THEORY</span></b></p>
-
-<p class=MsoNormal style='margin-right:-.5in'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
 style='font-size:12.0pt'>I. Identification as the Whole Basis</span></b></p>
 
@@ -501,14 +487,4 @@ style='font-size:12.0pt'>            </span></i><sup><span style='fon
 discount restitution when it is possible. In many cases restitution is not
 possible. We can consider the recommitment to God in Christ as the restitution;
 we can consider transforming our behavior as the equivalent of restitution.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:11.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:11.0pt'>                                                                                                                                         
-christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:18.0pt'>&nbsp;</span></p>
 </div>

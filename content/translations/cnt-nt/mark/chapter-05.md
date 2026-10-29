@@ -57,8 +57,7 @@ next: chapter-06
 
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>When Jesus crossed back over to the other side in the boat, a big crowd had gathered beside the lake. </span></span>
-<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>A ruler of the synagogue, named Jairus, saw him, came<sup>p</sup> and fell down<sup>p</sup> to him, </span></span>
-<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>and pleaded<sup>p</sup>,
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>A ruler of the synagogue, named Jairus, saw him, came<sup>p</sup> and fell down<sup>p</sup> to him, </span><b><sup><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>2</span></sup></b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>and pleaded<sup>p</sup>,
 <i>“My little girl is at the point of death. Please come and lay hands on her so she’ll live.”</i> </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>Jesus went with him. </span></span></p>
 

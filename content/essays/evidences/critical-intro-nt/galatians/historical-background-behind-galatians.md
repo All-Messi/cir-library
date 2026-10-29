@@ -7,6 +7,7 @@ categories:
 - 'Critical Intro Nt'
 - 'Galatians'
 draft: false
+content_kind: chart
 ---
 
 <style>
@@ -35,24 +36,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>HISTORICAL BACKGROUND BEHIND GALATIANS</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt'><u><span style='font-size:10.0pt'>Acts</span></u><span
 style='font-size:10.0pt'>                                                      <u>Secular
@@ -250,8 +233,4 @@ margin-left:.25in;margin-bottom:.0001pt'><u><span style='font-size:10.0pt'>and
 3 months</span></u><span style='font-size:10.0pt'> at Ephesus (<b>18</b>:23-                                              <b>writing
 of Galatians </b>(at Ephesus or     <b>21</b>:16)                            in
 Macedonia)?</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt'>                                                                                                                        
-<span style='font-size:10.0pt'>christir.org</span></p>
 </div>

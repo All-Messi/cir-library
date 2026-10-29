@@ -7,6 +7,9 @@ categories:
 - 'Book Studies'
 - 'Colossians'
 draft: false
+content_kind: study-prompt
+aliases:
+- /essays/topics/book-studies/colossians/colossians-1/
 ---
 
 <style>
@@ -110,16 +113,4 @@ mystery”?</p>
 
 <p class=MsoNormal style='text-align:justify'>The goal of the gospel and the
 ministry of the gospel  <b>1</b>:29</p>
-
-<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
-
-<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
-
-<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
-
-<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
 </div>

@@ -7,6 +7,8 @@ categories:
 - 'Christian Doctrine'
 - 'Dispensations'
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/dispensations/old-testament-backgrounds-and-the/
 ---
 
 <style>
@@ -23,22 +25,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><b><span style='font-size:14.0pt'>OLD TESTAMENT BACKGROUNDS
-AND THE </span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><b><span style='font-size:14.0pt'>MESSIANIC COVENANT</span></b></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;line-height:18.0pt'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'>Introduction</span></p>
 
@@ -645,15 +631,4 @@ Ezekiel <b>16</b>:60, 62; <b>34</b>:25; <b>37</b>:26; Hosea<b> 2</b>:18)</span><
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>Marriage (Malachi <b>2</b>:14; Proverbs<b>
 2</b>:17)</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

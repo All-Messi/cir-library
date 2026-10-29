@@ -310,9 +310,4 @@ style='font-size:12.0pt'>                        Cases lik
 (&lt; Psalm <b>69</b>:25 + <b>109</b>:8) are <u>applications</u> of Old
 Testament principles, not instances that imply <u>interpretation</u> of
 authorial intent as if meant in reference to this particular New Testament event.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                   
-christir.org</span></p>
 </div>

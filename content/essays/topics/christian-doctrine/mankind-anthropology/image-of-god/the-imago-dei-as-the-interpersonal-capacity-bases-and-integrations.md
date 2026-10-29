@@ -8,6 +8,8 @@ categories:
 - 'Mankind Anthropology'
 - 'Image Of God'
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/mankind-anthropology/image-of-god/the-imago-dei-as-the-interpersonal-capacity/
 ---
 
 <style>
@@ -34,21 +36,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>THE
-<i>IMAGO DEI</i> AS THE INTERPERSONAL CAPACITY:</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>BASES
-AND INTEGRATIONS</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><b><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This
@@ -395,12 +382,4 @@ with (3) dementia patients and comatose persons. We <u>regard them</u> as human
 because of what they have been (#3), what they will become (#2), or on the
 basis of origin (#1), even though they cannot function as humans
 characteristically function.</span></p>
-
-<p class=MsoNormal style='margin-bottom:2.0pt'><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>                        </span></p>
 </div>

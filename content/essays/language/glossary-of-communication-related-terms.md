@@ -6,6 +6,7 @@ layout: "glossary"
 categories:
 - 'Language'
 draft: false
+subtitle: "GLOSSARY OF COMMUNICATION-RELATED TERMS"
 ---
 
 <style>
@@ -5655,27 +5656,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>  </span></b><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>GLOSSARY
-OF COMMUNICATION-RELATED TERMS</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:0in;
-margin-top:0in;text-align:center'><b><span style='font-size:14.0pt;line-height:
-115%;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:0in;
-margin-top:0in;text-align:center'><span style='font-size:12.0pt;line-height:
-115%;font-family:"Times New Roman",serif'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:0in;
-margin-top:0in;text-align:center'><span style='font-size:12.0pt;line-height:
-115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:0in;
-margin-top:0in;text-align:center'><span style='font-size:12.0pt;line-height:
-115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:0in;margin-top:0in;
 text-align:justify'><span style='font-size:12.0pt;line-height:115%;font-family:
 "Times New Roman",serif'>            The Glossary of Communication-Related

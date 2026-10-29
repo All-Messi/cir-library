@@ -7,6 +7,9 @@ categories:
 - 'Critical Intro Nt'
 - 'Canon Nt Books'
 draft: false
+content_kind: chart
+aliases:
+- /essays/evidences/critical-intro-nt/canon-nt-books/dates-and-origin-of-new-testament-writings/
 ---
 
 <style>
@@ -34,25 +37,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>DATES AND ORIGIN OF NEW TESTAMENT WRITINGS</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>by Four Scholars Compared</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD  </span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt'><span style='font-size:16.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>        <b><u>Book</u>             <u>Guthrie</u>          <u>Harrison</u>        <u>Thiessen</u>            <u>Hiebert</u></b></span></p>
 
@@ -280,12 +264,4 @@ style='font-size:12.0pt;line-height:150%'>Revelation             90-
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;line-height:150%'><span
 style='font-size:12.0pt;line-height:150%'>                                                      Patmos                                       Ephesus</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;line-height:150%'><span
-style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.5in;line-height:150%'><span
-style='font-size:11.0pt;line-height:150%'>christir.org</span></p>
 </div>

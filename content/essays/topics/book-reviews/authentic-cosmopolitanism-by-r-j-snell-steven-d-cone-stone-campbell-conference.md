@@ -6,6 +6,8 @@ categories:
 - 'Topics'
 - 'Book Reviews'
 draft: false
+aliases:
+- /essays/topics/book-reviews/comments-by-virgil-warren-on-disorder-and-revolt-in/
 ---
 
 <style>
@@ -445,10 +447,4 @@ unnecessary projection about reality as based on the fact that there is a word.<
 .5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>17.
 Sin is an act, guilt arises from an act, penalty is for guilt. Act-guilt-penalty
 are personal, individual, and non-transferable (cp. Ezekiel <b>18</b>:4-24).</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-family:"Times New Roman",serif'>christir.org</span></p>
 </div>

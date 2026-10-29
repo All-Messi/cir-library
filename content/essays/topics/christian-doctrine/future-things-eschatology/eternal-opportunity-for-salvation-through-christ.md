@@ -31,21 +31,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center'><b><span
-style='font-size:14.0pt'>ETERNAL OPPORTUNITY FOR SALVATION THROUGH CHRIST?</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.25in;text-align:justify'><span
 style='font-size:12.0pt'> I. An Unnecessary Concept </span></p>
 
@@ -339,10 +324,4 @@ unevangelized elect relate to the issue. The page references appear under “une
 in the “Topical Index” plus 20-21, 77-78, <u>104-12</u>, 115, 521, 553, 555. Finally,
 (e) the evidence for irreversible destinies after the judgment is available in <i>WBSAS</i>
 again, pp. 112-24</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in'><span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

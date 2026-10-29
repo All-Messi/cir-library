@@ -27,22 +27,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-left:0in;text-align:center'><b>&nbsp;</b></p>
-
-<p class=MsoNormal align=center style='margin-left:0in;text-align:center'><b>&nbsp;</b></p>
-
-<p class=MsoNormal align=center style='margin-left:0in;text-align:center'><b><span
-style='font-size:14.0pt'>EVANGELICAL PERSPECTIVES ON MEN-WOMEN RELATIONSHIP </span></b></p>
-
-<p class=MsoNormal align=center style='margin-left:0in;text-align:center'><b>&nbsp;</b></p>
-
-<p class=MsoNormal align=center style='margin-left:0in;text-align:center'><b><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></b></p>
-
-<p class=MsoNormal align=center style='margin-left:0in;text-align:center'>&nbsp;</p>
-
-<p class=MsoNormal align=center style='margin-left:0in;text-align:center'>&nbsp;</p>
-
 <p class=MsoNormal align=center style='margin-left:0in;text-align:center'><b><span
 style='font-size:12.0pt'>Introductory Observations</span></b></p>
 
@@ -370,38 +354,4 @@ style='font-size:12.0pt'>Ph. (847) 573-8210</span></p>
 
 <p class=MsoNormal style='margin-left:0in;text-align:justify'><span
 style='font-size:12.0pt'>FAX: (847) 573-8211</span></p>
-
-<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                    </span><span
-style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-left:0in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-left:0in;text-align:justify'><u><span
-style='font-size:12.0pt'><span style='text-decoration:none'>&nbsp;</span></span></u></p>
 </div>

@@ -28,26 +28,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:22.5pt;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>CHARACTERISTICS AND PECULIARITIES OF EPHESIANS</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:22.5pt;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:22.5pt;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>  1.    distinctive expressions include </span></p>
@@ -101,12 +81,4 @@ most with the eternal, full scope of God’s purpose. It addresses the eternal
 length and human breadth of God’s purposes in Christ, from before the
 foundation of the world to the full realization of hope (<b>4</b>:2-4), from
 one side of humanity to the other.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:49.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-27.0pt'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:49.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-27.0pt'><span
-style='font-size:11.0pt'>christir.org</span></p>
 </div>

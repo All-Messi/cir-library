@@ -121,7 +121,8 @@ next: chapter-22
 ### King Og Defeated
 
 
-<p class="MsoListBulletCxSpMiddle" ><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  31</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So Israel lived in the territory of the Amorites. </span><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses sent </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>men
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So Israel lived in the territory of the Amorites. </span></span>
+<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses sent </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>men
 </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to spy out Jazer, and they captured its villages and expelled the Amorites there.
 </span></span></p>
 

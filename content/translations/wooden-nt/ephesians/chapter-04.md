@@ -39,8 +39,9 @@ next: chapter-05
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>being darkened in-the understanding (of-them), excluded-from the life of-[the] God on-account-of the ignorance [the] being in them, on-account-of the hardness of-the heart of-them, </span></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>who, having-become-insensitive, gave┘themselves└over to-[the] indecency for (the) doing of-every impurity in covetousness, </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but
-<u>you</u> did┘not so└learn [the] Christ, </span><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>21
-</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>if you-heard him and were taught by him as (the) truth is in [the] Jesus. </span></span>
+<u>you</u> did┘not so└learn [the] Christ, </span></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> 
+<span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>if you-heard him and were taught by him as (the) truth is in [the] Jesus. </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(I am telling you this) so according-to the former way-of-life your-laying aside the old man [the] corrupted according-to the lusts of-[the] deceit, </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and being-made-new in-the spirit of-the mind of-you, </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and putting-on the new man [the] created according-to God in righteousness and holiness of-the truth.</span></span></p>

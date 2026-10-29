@@ -46,7 +46,7 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            with sledges that had iron teeth.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         4</span></sup></b><b><i><span style='font-family:"Times New Roman",serif'>So</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> I’ll send down fire on </span></i></b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>the house of Hazael</span></i><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,</span></i></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <b><i><span style='font-family:"Times New Roman",serif'>So</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> I’ll send down fire on </span></i></b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>the house of Hazael</span></i><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,</span></i></b></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>      consume the fortresses of </b>Benhadad,</span></i></p>
 
@@ -70,11 +70,11 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they deported an entire population to Edom.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         7</span></sup></b><b><i><span style='font-family:"Times New Roman",serif'>So</span></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <b>I’ll send down fire on the walls of </b>Gaza</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <b><i><span style='font-family:"Times New Roman",serif'>So</span></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <b>I’ll send down fire on the walls of </b>Gaza</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>and consume its fortresses.</b></span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         8</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll eliminate the people from Ashdod</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll eliminate the people from Ashdod</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and the one that holds the scepter in Ashkelon.</span></i></p>
 
@@ -96,7 +96,7 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and broke the treaty between kin.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         10</span></sup></b><b><i><span style='font-family:"Times New Roman",serif'>So</span></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <b>I’ll send down fire on the walls of </b>Tyre</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <b><i><span style='font-family:"Times New Roman",serif'>So</span></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <b>I’ll send down fire on the walls of </b>Tyre</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>and burn its fortresses.”</b></span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                            </span></p>
 
@@ -136,14 +136,14 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            when they extended their borders.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         14</span></sup></b><b><i><span style='font-family:"Times New Roman",serif'>So</span></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <b>I’ll
-</b>kindle <b>a fire on the walls of </b>Rabbah</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <b><i><span style='font-family:"Times New Roman",serif'>So</span></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <b>I’ll
+</b>kindle <b>a fire on the walls of </b>Rabbah</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and burn its fortresses</span></i></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  amid war cries like a storm.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         15</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Their king will go into exile with his officials.” </span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>           </span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Their king will go into exile with his officials.” </span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>           </span></b></span></span></p>
 
 <p class="section-ref">Amos 1:13-15</p>
 

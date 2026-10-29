@@ -27,21 +27,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>TRUTH AND EDUCATION IN A CHRISTIAN WORLDVIEW</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>            At the trial of Jesus,
 Pilate remarked, <i>“What is truth?”</i> Jesus had just explained that he came
@@ -141,9 +126,4 @@ because love summarizes the positive manner of relationship between persons.</sp
 18.0pt'><span style='font-size:12.0pt'>            We must center educational
 philosophy and practice on the personal character of truth and the interpersonal
 manner of presenting truth.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                                                                                                                                                                                                                                                                                                      
-</span><span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

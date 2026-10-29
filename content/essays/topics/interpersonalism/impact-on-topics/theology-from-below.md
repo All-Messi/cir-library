@@ -24,23 +24,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.25in;
-margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>THEOLOGY FROM BELOW</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.25in;
-margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center'>&nbsp;</p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.25in;
-margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center'>Virgil
-Warren, PhD</p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.25in;
-margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center'>&nbsp;</p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.25in;
-margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center'>&nbsp;</p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:-.25in;margin-bottom:
 0in;margin-left:0in;margin-bottom:.0001pt;text-align:justify'>            Isaiah
 declares that a wayfaring fool need not err in the way of the Lord (<b>35</b>:8).
@@ -108,11 +91,4 @@ way of ritual or external behavior when our “hearts are not in it.” We canno
 manipulate God or use manipulative techniques on other people, because over
 time even people will catch on. We cannot get by <u>substituting</u> something
 else, something easier, for the naturally required thing.</p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.25in;margin-bottom:
-0in;margin-left:0in;margin-bottom:.0001pt;text-align:justify'>&nbsp;</p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.25in;margin-bottom:
-0in;margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:11.0pt'> christir.org</span></p>
 </div>

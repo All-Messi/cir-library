@@ -23,23 +23,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.25in;
-margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>BASIC CONCEPTS IN CREATIONIST-EVOLUTIONARY THOUGHT</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.25in;
-margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center'><b>&nbsp;</b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.25in;
-margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center'>Virgil
-Warren, PhD</p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.25in;
-margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center'><b>&nbsp;</b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.25in;
-margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center'><b>&nbsp;</b></p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:-.25in;margin-bottom:
 0in;margin-left:0in;margin-bottom:.0001pt;text-align:justify;text-indent:
 .5in'><u>Can we put in sequence the origin of reciprocating parts that are
@@ -130,11 +113,4 @@ naturalism has no power to deny causation outside its own realm.</p>
 nature of the case, what is not possible by endogenous causation must be made
 possible by exogenous causation. What is not within natural is outside nature;
 it is “supernatural.”</p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.25in;margin-bottom:
-0in;margin-left:0in;margin-bottom:.0001pt;text-align:justify'>&nbsp;</p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.25in;margin-bottom:
-0in;margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:11.0pt'>christir.org</span></p>
 </div>

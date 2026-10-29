@@ -32,19 +32,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>PREDESTINATION IN SHORT</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'>Virgil Warren, PhD</p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='text-align:justify'>Choice, act, consequence (free <i>vs</i>.
 fixed)</p>
 
@@ -159,7 +146,4 @@ are put out of the Garden and cut off from the tree of life.) Death is the
 inescapable reality and boundary which shows that we do not have that ability
 or right: we do not choose our own destiny, fate, or purpose. We cannot decide
 what is good or evil for ourselves.</p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt'>                                                                                               
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

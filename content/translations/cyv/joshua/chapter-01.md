@@ -27,7 +27,7 @@ next: chapter-02
 
 <p class="section-ref">Josh 1:1-9</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  10</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joshua told the officers of the people, </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joshua told the officers of the people, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go through the camp and tell the people to get baggage ready. Three days from now, you’re going to cross the Jordan to take the land Yahveh your God is giving you.”</span></i></span></p>
 

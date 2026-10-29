@@ -44,23 +44,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoListParagraphCxSpFirst align=center style='margin-bottom:12.0pt;
-text-align:center;text-indent:0in'><b><span style='font-size:14.0pt;
-line-height:115%'>(1)<span style='font:7.0pt "Times New Roman"'> </span></span></b><b><span
-style='font-size:14.0pt;line-height:115%'> JAMES: COMPETITION CONVERTED TO LOVE</span></b></p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
-margin-bottom:14.0pt;margin-left:0in'><b><span style='font-size:12.0pt;
-line-height:115%'>&nbsp;</span></b></p>
-
-<p class=MsoListParagraphCxSpMiddle align=center style='margin-top:0in;
-margin-right:0in;margin-bottom:14.0pt;margin-left:0in;text-align:center'><span
-style='font-size:12.0pt;line-height:115%'>Virgil Warren, PhD</span></p>
-
-<p class=MsoListParagraphCxSpMiddle align=center style='margin-top:0in;
-margin-right:0in;margin-bottom:14.0pt;margin-left:0in;text-align:center'><span
-style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
-
 <p class=MsoListParagraphCxSpLast style='margin-top:0in;margin-right:0in;
 margin-bottom:6.0pt;margin-left:0in;text-align:justify;text-indent:.5in'><span
 style='font-size:12.0pt;line-height:115%'>Religion is not good for some people;
@@ -251,9 +234,4 @@ competitive personality. Furthermore, not changing from that approach to living
 leaves us bereft of a big portion of the abundant life. Competition does not
 provide a very satisfying life compared to what comes from practicing the Royal
 Law.</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'>christir.org</p>
 </div>

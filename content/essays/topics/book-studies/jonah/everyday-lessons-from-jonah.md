@@ -32,12 +32,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>EVERYDAY LESSONS FROM JONAH</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:.25in;text-align:center'><span
-style='font-size:12.0pt;line-height:115%'>Virgil Warren, PhD</span></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt;line-height:115%'>The Book of Jonah is
 anything but “everyday.” It features extraordinary events we would seldom, if
@@ -228,11 +222,4 @@ Ninevites repented when Jonah warned them about their coming destruction (Matthe
 own experiences. We can avoid some grief from life’s mistakes by watching what
 happens to other people when they err. That applies even more to the record of
 what has happened to people we read about in a Book like Jonah.</span></p>
-
-<p class=MsoNormal style='margin-bottom:6.0pt;text-align:justify'>christir.org</p>
-
-<p class=MsoNormal style='margin-bottom:.25in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
 </div>

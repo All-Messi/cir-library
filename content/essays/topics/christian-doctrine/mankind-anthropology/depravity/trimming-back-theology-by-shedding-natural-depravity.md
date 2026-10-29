@@ -8,6 +8,8 @@ categories:
 - 'Mankind Anthropology'
 - 'Depravity'
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/mankind-anthropology/depravity/trimming-back-theology/
 ---
 
 <style>
@@ -41,25 +43,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;font-family:"Times New Roman",serif'>TRIMMING BACK
-THEOLOGY</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;font-family:"Times New Roman",serif'>BY SHEDDING
-NATURAL DEPRAVITY</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
 <p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman",serif'>A
 Contribution of “Restorationism”</span></p>
 
@@ -317,10 +300,4 @@ font-family:"Times New Roman",serif'>&nbsp;</span></p>
 <p class=MsoNormal><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Based
 on a presentation at the </span><span style='font-family:"Times New Roman",serif'>Stone-Campbell
 Conference, April 14, 2023</span></p>
-
-<p class=MsoNormal><span style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
-
-<p class=MsoNormal><span style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
 </div>

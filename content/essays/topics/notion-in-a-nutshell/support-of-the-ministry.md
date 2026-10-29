@@ -23,17 +23,7 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:16.0pt'>SUPPORT OF THE MINISTRY</span></b></p>
-
-<p class=MsoNormal style='text-align:justify'><b><span style='font-size:16.0pt'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'>Ministry
 personnel are not paid for their work; they are supported so they can do the
 work.</p>
-
-<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
-
-<p class=MsoNormal style='text-align:justify'>Virgil Warren     <span
-style='font-size:11.0pt'>christir.org</span></p>
 </div>

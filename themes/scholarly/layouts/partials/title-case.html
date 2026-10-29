@@ -1,0 +1,10 @@
+{{- /* title-case.html — one place for display casing of converter titles (2026-10-28).
+       Virgil's Word titles are ALL CAPS; essays/single.html already shows them as
+       `lower | title`, but listings, category cards and search results printed the
+       raw caps. AP-style title case, then restore common acronyms that `title`
+       would otherwise mangle (NT -> Nt). Usage: {{ partial "title-case.html" .Title }} */ -}}
+{{- $t := . | lower | title -}}
+{{- $t = $t | replaceRE `\bNt\b` "NT" | replaceRE `\bOt\b` "OT" | replaceRE `\bLxx\b` "LXX" | replaceRE `\bMt\b` "MT" -}}
+{{- $t = $t | replaceRE `\bPhd\b` "PhD" | replaceRE `\bIp\b` "IP" | replaceRE `\bKjv\b` "KJV" | replaceRE `\bNiv\b` "NIV" | replaceRE `\bNasb\b` "NASB" | replaceRE `\bEsv\b` "ESV" | replaceRE `\bRsv\b` "RSV" -}}
+{{- $t = $t | replaceRE `\bMa\b` "MA" | replaceRE `\bNtw\b` "NTW" | replaceRE `\bOtw\b` "OTW" | replaceRE `\bCir\b` "CIR" -}}
+{{- return $t -}}

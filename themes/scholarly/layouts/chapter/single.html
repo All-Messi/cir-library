@@ -159,7 +159,10 @@
             <div class="pane-header" id="pane-header-left" style="display:none;">
                 <span class="pane-label">{{ $currentAbbrev }}</span>
             </div>
-            <div class="chapter-content">
+            <div class="chapter-content" data-pagefind-body>
+                {{ partial "pagefind-tags.html" (dict
+                    "filter" (dict "type" "bible" "translation" .Params.translation "book" .Params.book)
+                    "meta"   (dict "type" "bible" "title" (printf "%s %v (%s)" .Params.book .Params.chapter .Params.translation) "translation" .Params.translation "book" .Params.book)) }}
                 {{ .Content }}
             </div>
         </div>

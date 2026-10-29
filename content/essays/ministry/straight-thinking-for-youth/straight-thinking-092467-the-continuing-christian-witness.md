@@ -107,7 +107,4 @@ Luke <b>9</b>:23-25, 59-62</span><span style='font-size:12.0pt;line-height:
 <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
 line-height:115%'>Virgil Warren, <u>Straight</u>, September 24, 1967, p13                                                                         
 christir.org</span></p>
-
-<p class=MsoNormal style='text-align:justify'><u><span style='font-size:10.0pt;
-line-height:115%'><span style='text-decoration:none'>&nbsp;</span></span></u></p>
 </div>

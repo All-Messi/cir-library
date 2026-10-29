@@ -48,14 +48,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>A
-RATIONALE FOR THE STRUCTURE OF GENESIS 1:1-2:3</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:6.0pt;text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
 <p class=MsoNormal style='margin-bottom:6.0pt'><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>Précis</span></p>
 

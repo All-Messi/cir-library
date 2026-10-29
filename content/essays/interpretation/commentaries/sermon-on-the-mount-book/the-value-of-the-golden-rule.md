@@ -26,22 +26,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:4.5pt'><b><span style='font-size:14.0pt'>THE VALUE OF THE GOLDEN
-RULE</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:4.5pt'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:4.5pt'><span style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-4.5pt;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-4.5pt;line-height:18.0pt'><span style='font-size:12.0pt'>  </span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 4.5pt;line-height:18.0pt'><span style='font-size:12.0pt'>                The
 previous study on Matthew <b>7</b>:12 dealt with the <u>meaning</u> of the

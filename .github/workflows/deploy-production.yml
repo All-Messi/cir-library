@@ -24,6 +24,9 @@ jobs:
       - name: Build for production
         run: hugo --minify --baseURL "https://christir.org/"
 
+      - name: Build search index (Pagefind)
+        run: npx -y pagefind@1.5.2 --site public
+
       - name: Deploy to christir-org repo
         run: |
           # Configure git

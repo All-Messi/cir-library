@@ -1,4 +1,5 @@
 {{ define "main" }}
+{{ $kindLabel := dict "study-prompt" "Study prompts" "title-page" "Title page" "outline" "Outline" "chart" "Chart" "notes" "Notes" }}
 <div class="essays-landing">
     <header class="el-header">
         <h1>Essays &amp; Studies</h1>
@@ -47,7 +48,7 @@
                     {{ $showLimit := 3 }}
                     {{ range $i, $p := $essays }}
                     <a href="{{ $p.Permalink }}" class="el-essay-row{{ if ge $i $showLimit }} el-overflow-item{{ end }}"{{ if ge $i $showLimit }} style="display:none"{{ end }}>
-                        {{ $p.Title }}
+                        {{ partial "title-case.html" $p.Title }}{{ with $p.Params.content_kind }}<span class="el-kind">{{ index $kindLabel . }}</span>{{ end }}
                     </a>
                     {{ end }}
                     {{ if gt $count $showLimit }}
@@ -175,6 +176,7 @@
     transition: color .15s;
 }
 .el-essay-row:last-of-type { border-bottom: none; }
+.el-kind { display: inline-block; font-size: 0.66rem; line-height: 1.3; color: #8a8a8a; border: 1px solid #ddd; border-radius: 3px; padding: 0 0.3rem; margin-left: 0.4rem; vertical-align: middle; white-space: nowrap; }
 .el-essay-row:hover { color: #2f4c3a; }
 
 .el-show-more {

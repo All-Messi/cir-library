@@ -46,21 +46,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>CHRISTIAN UNITY</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'> </span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>I. The Importance of Christian Unity</span></p>
 
@@ -556,12 +541,4 @@ to do it through political fiat or organizational </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                unification.                                             </span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-0in;line-height:18.0pt'><span style='font-size:12.0pt'>                                                                                                                                                                                       </span><span
-style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-0in;line-height:18.0pt'><u><span style='font-size:12.0pt'><span
- style='text-decoration:none'>&nbsp;</span></span></u></p>
 </div>

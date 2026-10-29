@@ -9,6 +9,8 @@ categories:
 - 'Ma Thesis'
 weight: 14
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/church-ecclesiology/ma-thesis/chapter-iii/
 ---
 
 <style>

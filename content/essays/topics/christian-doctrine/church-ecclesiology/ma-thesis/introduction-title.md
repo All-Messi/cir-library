@@ -9,6 +9,8 @@ categories:
 - 'Ma Thesis'
 weight: 8
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/church-ecclesiology/ma-thesis/introduction/
 ---
 
 <style>
@@ -36,9 +38,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
 style='font-size:12.0pt'>INTRODUCTION</span></b></p>
 
@@ -636,20 +635,4 @@ cp. also Matthew <b>9</b>:8 (= Mark <b>2</b>:12; Lk. <b>4</b>:24, 26); <b>15</b>
 Luke <b>7</b>:15; <b>13</b>:13;<b> 17</b>:14; <b>23</b>:47; Acts<b> 4</b>:21. God’s
 people–hence, the church–are to be such that the world will glorify God because
 of them.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in'><span style='font-size:12.0pt'>                                                                                                                             
-</span><span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

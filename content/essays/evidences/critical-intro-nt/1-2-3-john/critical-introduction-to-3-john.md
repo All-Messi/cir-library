@@ -26,11 +26,6 @@ p
 </style>
 
 <div class="word-content">
-<p align=center style='text-align:center'><b><span style='font-size:14.0pt'>CRITICAL
-INTRODUCTION TO 3 JOHN</span></b></p>
-
-<p align=center style='text-align:center'>Virgil Warren, PhD</p>
-
 <p style='text-align:justify'> I. Authorship</p>
 
 <p style='text-align:justify'>It is uncertain whether there is any evidence for
@@ -51,8 +46,4 @@ in its warnings against similar false teaching.</p>
 <p style='text-align:justify'>There is little to establish a date except the
 lifetime of John the apostle, although it is usually thought by conservatives
 that 2 and 3 John were written at nearly the same time for similar reasons.</p>
-
-<p style='text-align:justify'><span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
 </div>

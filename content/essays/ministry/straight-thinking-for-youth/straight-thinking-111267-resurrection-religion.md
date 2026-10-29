@@ -107,6 +107,4 @@ Christian religion is resurrection religion. (</span><span style='font-size:
 
 <p class=MsoNormal>Virgil Warren, <u>Straight</u>, November 12, 1967, p13                                                                
 chiristir.org</p>
-
-<p class=MsoNormal>&nbsp;</p>
 </div>

@@ -37,16 +37,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:107%;font-family:"Times New Roman",serif'>FEMALE
-METAPHORS FOR GOD</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:14.0pt;line-height:107%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal><b><span style='font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:.5in;margin-bottom:8.0pt;
 margin-left:.5in;text-align:justify'><b><span style='font-size:12.0pt;
 line-height:107%;font-family:"Times New Roman",serif'>Genesis 1:27 Women and
@@ -181,7 +171,4 @@ lamp, sweep the house, and search carefully until she finds it? When she has
 found it, she calls together her friends and neighbors saying, ‘Rejoice with
 me, for I have found the coin that I had lost.’ Just so, I tell you, there is
 joy in the presence of the angels of God over one sinner who repents.”</span></i></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:1.0in;margin-bottom:8.0pt;
-margin-left:.5in;text-align:justify'><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 </div>

@@ -267,9 +267,4 @@ for example, calls itself <i>“a word of exhortation”</i> (<b>13</b>:22; cp. 
 That accounts for the great number of “let us” expressions in the book: <b>4</b>:1,
 11, 14, 16; <b>6</b>:1; <b>10</b>:22, 23, 24; <b>12</b>:1b, 1c, 28; <b>13</b>:13,
 15.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                   
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

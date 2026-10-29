@@ -42,19 +42,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><b><span style='font-size:14.0pt'>EVANGELISM AS
-INTERPERSONAL</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;line-height:18.0pt'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-12.0pt;
 line-height:18.0pt'><span style='font-size:12.0pt'>I.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
@@ -514,8 +501,4 @@ object, it requires a decision by the <u>hearer</u>.</span></p>
 notes these principles relative to missions, see Rondal B. Smith and Ed Buell’s
 chapter 9, “Using and Applying Interpersonal Skills,” in <i>Discovering the
 Missionary Hidden in Your Church</i>.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>                                                                                                                                          
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

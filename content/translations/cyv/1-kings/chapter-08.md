@@ -34,7 +34,7 @@ next: chapter-09
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>            <i>“You’ve<sup>Y</sup> said you’d be in the dark cloud.</i></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%'>                  13</span></sup></b><i><span style='font-size:12.0pt;line-height:115%'>I’ve built you a glorious temple, a permanent place to live.”</span></i></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%'>I’ve built you a glorious temple, a permanent place to live.”</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%'>Then he faced <i>the people</i> and blessed the assembly standing there, </span></span></p>
 

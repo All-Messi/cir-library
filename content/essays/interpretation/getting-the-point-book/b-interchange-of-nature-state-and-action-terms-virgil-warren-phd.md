@@ -1656,13 +1656,4 @@ a light for the Gentiles </i></span></p>
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><i><span
 style='font-size:12.0pt;color:#7030A0'>                       that you should
 be for salvation to the uttermost parts of the earth.”</span></i></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><i><span
-style='font-size:12.0pt;color:#7030A0'>&nbsp;</span></i></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><i><span
-style='font-size:12.0pt;color:#7030A0'>                                                                                                                                 
-</span></i><span style='font-size:11.0pt;color:#7030A0'>christir.org</span></p>
 </div>

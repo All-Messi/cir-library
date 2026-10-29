@@ -7,6 +7,8 @@ categories:
 - 'Christian Doctrine'
 - 'Dispensations'
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/dispensations/the-distinction-between-covenants-and-some/
 ---
 
 <style>
@@ -43,21 +45,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'>            <b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>THE
-DISTINCTION BETWEEN COVENANTS AND SOME</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>RELEVANT
-APPLICATIONS: A SKETCH</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
 <p class=MsoListParagraph style='margin-top:0in;margin-right:0in;margin-bottom:
 0in;margin-left:.75in;text-align:justify;text-indent:-.5in'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I.<span
@@ -581,19 +568,4 @@ margin-left:.25in;text-align:justify'><span style='font-size:12.0pt;line-height:
 everything we can identify as weaknesses of the church ancient and modern
 involves some kind of deficiency in the application of the interpersonal
 character of the New Covenant.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.25in;text-align:justify'><span style='font-size:12.0pt;line-height:
-115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.25in;text-align:justify'><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.25in;text-align:justify'><span style='font-size:12.0pt;line-height:
-115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.25in;text-align:justify'><span style='font-size:12.0pt;line-height:
-115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 </div>

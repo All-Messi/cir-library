@@ -20,18 +20,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><b><span style='font-size:14.0pt'>THE NATURE OF SALVATION</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>            Salvation as reconciliation is
 the most distinctive feature of Christianity. Herein lies the primary
@@ -73,9 +61,9 @@ style='left:0px;position:absolute;left:57px;top:-79px;width:358px;height:78px'>
  </tr>
  <tr>
   <td height=78></td>
-  <td align=left valign=top><img width=146 height=78 src=missing.gif></td>
+  <td align=left valign=top></td>
   <td></td>
-  <td align=left valign=top><img width=178 height=78 src=missing.gif></td>
+  <td align=left valign=top></td>
  </tr>
 </table>
 
@@ -411,8 +399,4 @@ determining what is central and what is less central. Several alternatives
 identify matters that are indeed problems, but the difficulty comes in (a)
 trying to make them central or in (b) the means by which they are supposedly
 solved.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;line-height:18.0pt'><span
-style='font-size:12.0pt'>                                                                                                                                          
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

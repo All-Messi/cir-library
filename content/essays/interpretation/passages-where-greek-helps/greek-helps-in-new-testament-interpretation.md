@@ -5652,15 +5652,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-9.0pt;text-align:center'><a
-name="_Hlk157084986"></a><b><span style='font-size:14.0pt;line-height:115%;
-font-family:"Times New Roman",serif'>GREEK HELPS IN NEW TESTAMENT
-INTERPRETATION</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-9.0pt;text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
 <p class=MsoNormal style='margin-right:-9.0pt;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In
 general, Greek raises possibilities of interpretation we would not think from
@@ -27594,12 +27585,4 @@ read “sprinkled” instead of “dipped.” </span></p>
 0in;margin-left:0in;text-align:justify'><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                        
 </span><span style='font-family:"Times New Roman",serif'>christirt.org</span></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-9.0pt;
-margin-bottom:0in;margin-left:0in;text-align:center'><b><span style='font-size:
-12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-9.0pt;margin-bottom:
-0in;margin-left:0in;text-align:justify'><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>            </span></p>
 </div>

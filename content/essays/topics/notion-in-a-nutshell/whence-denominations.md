@@ -7,6 +7,8 @@ date: '2026-02-16'
 draft: false
 title: WHENCE DENOMINATIONS?
 weight: 2
+aliases:
+- /essays/topics/notion-in-a-nutshell/whence-denominations-dear-____/
 ---
 
 <style>
@@ -24,11 +26,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;color:black'>WHENCE DENOMINATIONS?</span></b></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-
 <p class=MsoNormal style='text-align:justify'><span style='color:black'>Dear
 ____,</span></p>
 
@@ -163,12 +160,4 @@ Christ and his way of life under God the Father.</span></p>
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'><span
 style='color:black'>These notations may help answer the questions you raised.
 Good luck.</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='color:black'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
-color:black'>christir.org</span></p>
 </div>

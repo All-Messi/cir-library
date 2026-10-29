@@ -7,6 +7,8 @@ categories:
 - 'Sermons'
 - 'Funerals'
 draft: false
+aliases:
+- /essays/ministry/sermons/funerals/the-legacy-of-dorcas/
 ---
 
 <style>

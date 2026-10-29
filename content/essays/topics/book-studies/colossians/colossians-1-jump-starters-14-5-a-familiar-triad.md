@@ -7,6 +7,7 @@ categories:
 - 'Book Studies'
 - 'Colossians'
 draft: false
+content_kind: study-prompt
 ---
 
 <style>
@@ -95,10 +96,4 @@ format</p>
 
 <p class=MsoNormal style='text-align:justify'><b>1</b>:20-22  the essential
 thing in “salvation”</p>
-
-<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
-
-<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

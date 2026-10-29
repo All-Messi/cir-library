@@ -8,6 +8,8 @@ categories:
 - 'Mankind Anthropology'
 - 'Depravity'
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/mankind-anthropology/depravity/items-affected-by-the-doctrine/
 ---
 
 <style>
@@ -35,24 +37,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>ITEMS AFFECTED BY THE DOCTRINE </span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>OF NATURAL DEPRAVITY</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            Since the nature of mankind is a central
 consideration in Christian theology, the doctrine of natural depravity in mankind
@@ -387,13 +371,4 @@ calling.</span></p>
 style='font-size:12.0pt'>            <span style='position:relative;top:-3.0pt'>35</span>Cp.
 Augustine’s theory of knowledge (epistemology), known as illumination, which
 contrasts with anamnesis (Plato) as well as empiricism and rationalism. </span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

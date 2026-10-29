@@ -8,7 +8,7 @@
   {{- $trunc := 500 -}}
   {{- if .Params.book }}{{ $trunc = 2000 }}{{ end -}}
   {{- $isEssay := not .Params.book -}}
-  {{- $index = $index | append (dict "title" .Title "permalink" .Permalink "content" (.Plain | truncate $trunc) "categories" $titleCats "book" .Params.book "translation" .Params.translation "isEssay" $isEssay "pageType" "page") -}}
+  {{- $index = $index | append (dict "title" (cond (eq .Type "essays") (partial "title-case.html" .Title) .Title) "permalink" .Permalink "content" (.Plain | truncate $trunc) "categories" $titleCats "book" .Params.book "translation" .Params.translation "isEssay" $isEssay "pageType" "page" "kind" (.Params.content_kind | default "") "words" .WordCount) -}}
 {{- end -}}
 {{- /* Also index section pages (_index.md) so category browsing pages appear in search */ -}}
 {{- range .Site.Pages -}}
@@ -16,7 +16,7 @@
     {{- $parts := split .RelPermalink "/" -}}
     {{- $parentTitle := "" -}}
     {{- if .Parent }}{{ if ne .Parent.Kind "home" }}{{ $parentTitle = .Parent.Title }}{{ end }}{{ end -}}
-    {{- $index = $index | append (dict "title" .Title "permalink" .Permalink "content" (.Plain | truncate 300) "categories" (slice) "book" "" "translation" "" "isEssay" false "pageType" "section" "sectionParent" $parentTitle) -}}
+    {{- $index = $index | append (dict "title" .Title "permalink" .Permalink "content" (.Plain | truncate 300) "categories" (slice) "book" "" "translation" "" "isEssay" false "pageType" "section" "sectionParent" $parentTitle "kind" "" "words" 0) -}}
   {{- end -}}
 {{- end -}}
 {{- $index | jsonify -}}

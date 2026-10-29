@@ -77,7 +77,7 @@ next: chapter-07
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and give you peace.”</span></i></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    27</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“In that way they’ll invoke my name on the people, and I’ll bless them.”             </span></i></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“In that way they’ll invoke my name on the people, and I’ll bless them.”             </span></i></span></p>
 
 <p class="section-ref">Num 6:22-27</p>
 

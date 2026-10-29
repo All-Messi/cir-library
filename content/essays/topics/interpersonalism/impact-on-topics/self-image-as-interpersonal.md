@@ -28,18 +28,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-40.5pt;text-align:center'><b><span
-style='font-size:14.0pt'>SELF-IMAGE AS INTERPERSONAL</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-40.5pt;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-40.5pt;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-40.5pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-40.5pt;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>            Christians sometimes object
 to good self-image and feeling good about ourselves as somehow bad. The problem

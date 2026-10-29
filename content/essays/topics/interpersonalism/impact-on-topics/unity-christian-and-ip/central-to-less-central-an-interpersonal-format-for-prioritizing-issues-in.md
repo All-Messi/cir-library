@@ -8,6 +8,8 @@ categories:
 - 'Impact On Topics'
 - 'Unity Christian And Ip'
 draft: false
+aliases:
+- /essays/topics/interpersonalism/impact-on-topics/unity-christian-and-ip/central-to-less-central-an-interpersonal-format/
 ---
 
 <style>
@@ -33,17 +35,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>Central to Less Central: An
-Interpersonal Format </span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>for Prioritizing Issues in Christian
-Unity</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:.25in;text-align:center'><span
-style='font-size:12.0pt;line-height:115%'>Virgil Warren, PhD</span></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt;line-height:115%'>This presentation proposes
 a way to help fulfill two responsibilities that we tend to put in tension with
@@ -312,17 +303,4 @@ that variable into account to avoid operating contrary to the nature of the
 situation. Since Christianity centers on interpersonal concerns, Christians
 must apply that variable deliberately in gaining and retaining their oneness in
 Christ. In seeking unity, Christians must work from the center out.</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-.5in'><span style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-.5in'><span style='font-size:12.0pt;line-height:115%'>                                                                                                                             
-</span>christir.org</p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-.5in'><span style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
 </div>

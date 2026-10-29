@@ -41,21 +41,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>MISAPPLYING THE CHRISTIAN SYSTEM (IP)</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>            If interpersonalism
 characterizes the Christian worldview, it follows that any deviation in its
@@ -764,8 +749,4 @@ exercise patience as long as they have hope based on that improvement. Attitude,
 caring, willingness to listen and repent are corrective because other persons
 are willing to forgive the diminishing distance between performance and
 perfection if the first person shows concern to minimize that distance.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>                                                                                                                             
-           </span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

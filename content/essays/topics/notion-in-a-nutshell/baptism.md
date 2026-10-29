@@ -32,15 +32,9 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center;text-indent:.5in'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>BAPTISM</span></b></p>
-
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Baptism
 is for interpersonal identification with Christ. In consequence of identity
 with him, God gives whatever the situation calls for: forgiveness of sins, gift
 of the Spirit, membership in the body of Christ.</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-family:"Times New Roman",serif'>Virgil
-warren     christir.org</span></p>
 </div>

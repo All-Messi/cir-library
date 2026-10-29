@@ -136,13 +136,13 @@ next: chapter-16
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v54" id="v54"><sup class="verse-num">54</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Humtah, Kiriath-arba (</span><span style='font-family:"Times New Roman",serif'>Hebron</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>), and Zior—9 towns with their villages.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  55</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Maon, Carmel, Ziph, Juttah, </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v55" id="v55"><sup class="verse-num">55</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Maon, Carmel, Ziph, Juttah, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v56" id="v56"><sup class="verse-num">56</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jezreel, Jokdeam, Zanoah, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v57" id="v57"><sup class="verse-num">57</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Kain, Gibeah, and Timnah—10 towns with their villages.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  58</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Halhul, Beth-zur, Gedor, </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v58" id="v58"><sup class="verse-num">58</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Halhul, Beth-zur, Gedor, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v59" id="v59"><sup class="verse-num">59</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Maarath, Beth-anoth, and Eltekon—6 towns with their villages.</span></span></p>
 

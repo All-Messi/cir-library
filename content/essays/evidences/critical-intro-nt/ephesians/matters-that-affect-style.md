@@ -38,21 +38,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-left:.25in;text-align:center'><b><span
-style='font-size:14.0pt'>MATTERS THAT AFFECT STYLE</span></b></p>
-
-<p class=MsoNormal align=center style='margin-left:.25in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-left:.25in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-left:.25in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-left:.25in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
 style='font-size:12.0pt'>            Higher critics do not allow a wide enough
 range of style variance in New Testament authors. The items below have
@@ -174,19 +159,4 @@ unity of 2 Corinthians, Philippians, and Matthew (the Great Commission, <b>28</b
 stylistic differences did not bother the ancients as much because Greek was
 their mother tongue and they had a better feel for how a native speaker might
 vary,</span></p>
-
-<p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
-style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

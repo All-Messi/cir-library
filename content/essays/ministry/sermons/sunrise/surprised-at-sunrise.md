@@ -8,6 +8,8 @@ date: '2026-02-16'
 draft: false
 title: SURPRISED AT SUNRISE
 weight: 3
+aliases:
+- /essays/ministry/sermons/sunrise/surprised-at-sunrise-surprised-at-sunrise-were-two-women-two-women-making-their/
 ---
 
 <style>
@@ -25,15 +27,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>SURPRISED AT SUNRISE</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
-
-<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
-
-<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
-
 <p class=MsoNormal style='text-align:justify'>            Surprised at sunrise
 were two women,</p>
 
@@ -123,6 +116,4 @@ relive the sunrise to keep the surprise alive.</p>
 
 <p class=MsoNormal style='text-align:justify'>April 16, 2006                                                                                                      
 <span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
 </div>

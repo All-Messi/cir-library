@@ -7,6 +7,8 @@ categories:
 - 'Critical Intro Ot'
 weight: 4
 draft: false
+aliases:
+- /essays/evidences/critical-intro-ot/methodology-for-critical-introduction/
 ---
 
 <style>
@@ -36,21 +38,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>METHODOLOGY
-FOR CRITICAL INTRODUCTION</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>TO
-THE OLD TESTAMENT</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-.5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For
 Christians, critical introduction to the Old Testament has the advantage of
@@ -151,10 +138,4 @@ forth. Difficulties destroy the phenomenological method because the conclusions
 must use the data as evidence, difficulties and all. The evangelical method takes
 a position that comes from elsewhere, and holds difficulties in abeyance until
 further light removes them as it has frequently done in the past.</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-family:"Times New Roman",serif'>christir.org</span></p>
 </div>

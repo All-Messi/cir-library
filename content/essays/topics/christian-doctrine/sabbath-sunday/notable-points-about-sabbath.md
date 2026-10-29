@@ -38,12 +38,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>NOTABLE POINTS ABOUT SABBATH</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%'>Virgil Warren, PhD</span></p>
-
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
 line-height:115%'>Mosaic Legislation on Sabbath</span></p>
 
@@ -126,9 +120,4 @@ off grain heads (“harvesting,” Matthew <b>12</b>:1-8; Mark <b>2</b>:23-28; L
 Mark <b>3</b>:1-6; Luke <b>6</b>:6-11), healing a man born blind (John <b>9</b>:1-<u>16</u>-41),
 healing a woman bent double (Luke <b>13</b>:10-17), healing a man with dropsy
 (Luke <b>14:</b>1-24).</span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-align:justify'><span
-style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
-
-<p class=MsoListParagraphCxSpLast style='text-align:justify'>christir.org</p>
 </div>

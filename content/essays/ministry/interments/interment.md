@@ -7,6 +7,8 @@ date: '2026-02-16'
 draft: false
 title: INTERMENT
 weight: 2
+aliases:
+- /essays/ministry/interments/interment-020317/
 ---
 
 <style>
@@ -28,10 +30,6 @@ weight: 2
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>INTERMENT 
-</span></b></p>
-
 <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center'><span
 style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>020317</span><b><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 

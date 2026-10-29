@@ -5,6 +5,8 @@ date: '2026-04-02'
 categories:
 - 'Interpretation'
 draft: false
+aliases:
+- /essays/interpretation/some-implications-of-legal-process-for/
 ---
 
 <style>
@@ -54,29 +56,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>SOME
-IMPLICATIONS OF LEGAL PROCESS FOR</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>HERMENEUTICS,
-FAITH, AND PRACTICE</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>IN
-THE CHRISTIAN SYSTEM</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
-margin-bottom:0in;margin-left:.5in;text-align:center;text-indent:.5in'><b><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 .5in'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Basic
 claim</span></b><span style='font-size:12.0pt;line-height:115%;font-family:
@@ -923,12 +902,4 @@ margin-left:.5in;text-indent:.5in'><span style='font-size:12.0pt;line-height:
 <p class=MsoNormal style='margin-bottom:0in'><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>            Bestowed
 Result (given by the sovereign to the dependent)</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in'><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                       
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
-</span></p>
 </div>

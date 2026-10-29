@@ -29,18 +29,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>SUMMARY STATEMENT ON NATURAL DEPRAVITY</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            The proposition counter to natural
 depravity is as follows: there is no (1) <u>clear</u> (2) <u>biblical</u> basis
@@ -102,11 +90,4 @@ from previous sin. It is the pull of past sin on present resolve, ingrained
 habit rather than inborn defect. Psychological depravity comes from “self-depravitization”
 rather than hereditary corruption. The natural-depravity proposal represents
 overkill for explaining universal, all-pervasive sin in us.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                      
-                                                     </span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:11.0pt'>christir.org</span></p>
 </div>

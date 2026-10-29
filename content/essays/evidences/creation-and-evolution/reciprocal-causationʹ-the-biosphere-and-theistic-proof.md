@@ -32,19 +32,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>RECIPROCAL
-CAUSATION</span></b><span style='font-size:14.0pt;line-height:115%;font-family:
-"Times New Roman",serif'>ʹ<b>, THE BIOSPHERE,</b></span></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>AND
-THEISTIC PROOF</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>            The following
 observations evaluate the possibility of general evolution in the organic
@@ -636,10 +623,4 @@ finitude must end at a base-level start-up. So, it does not matter how complex
 or simple the reality is, reciprocal causation eliminates straight-line
 causality as an ultimate explanation of the biosphere and therefore of reality
 as a whole.</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-family:"Times New Roman",serif'>christir.org</span></p>
 </div>

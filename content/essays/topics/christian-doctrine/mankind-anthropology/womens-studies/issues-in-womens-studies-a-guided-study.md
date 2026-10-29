@@ -8,6 +8,8 @@ categories:
 - 'Mankind Anthropology'
 - 'Womens Studies'
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/mankind-anthropology/womens-studies/issues-in-womens-studies/
 ---
 
 <style>
@@ -26,28 +28,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:10.0pt;font-family:"Arial",sans-serif'>         </span></b><b><span
-style='font-size:14.0pt'>ISSUES IN WOMEN’S STUDIES</span></b></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>A Guided Study</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                 Below are six items for thought and
 research on women’s studies. Some points may be referred to in <u>Hermeneutics:
@@ -213,8 +193,4 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 0in'><span style='font-size:12.0pt'>                       F. What “custom”
 is Paul talking about in 1 Corinthians <b>11</b>:16, wearing a veil or not
 wearing a veil?</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                         
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

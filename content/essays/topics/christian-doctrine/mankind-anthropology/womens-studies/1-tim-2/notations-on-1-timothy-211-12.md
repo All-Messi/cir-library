@@ -33,21 +33,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>NOTATIONS ON 1 TIMOTHY 2:11-12</span></b></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
-style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
-style='font-size:12.0pt'> </span></b></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
 style='font-size:12.0pt'>Does </span></b><b><span lang=EL style='font-size:
 12.0pt'>αὐθεντεῖν</span></b><b><span style='font-size:12.0pt'> mean “exercise
@@ -316,11 +301,4 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 style='font-size:12.0pt'>Is 2:11-12 situational or general? </span></b><span
 style='font-size:12.0pt'>See essay entitled “1 Timothy <b>2</b>:8-15: Situational
 or General?”</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                         
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

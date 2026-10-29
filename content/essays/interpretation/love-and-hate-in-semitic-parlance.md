@@ -42,14 +42,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>LOVE
-AND HATE IN SEMITIC PARLANCE</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:0in;margin-top:0in;
 text-align:justify'><b><span style='font-size:12.0pt;line-height:115%;
 font-family:"Times New Roman",serif'>            </span></b><span
@@ -687,8 +679,4 @@ Proper thinking comes from (2) having a grasp of <u>all relevant information</u>
 and from (3) understanding <u>how language works</u> (linguistics). Those three
 factors—especially the third—inform the above comments about <i>love</i> and <i>hate</i>
 in Hebrew parlance.</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-.5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                              
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 </div>

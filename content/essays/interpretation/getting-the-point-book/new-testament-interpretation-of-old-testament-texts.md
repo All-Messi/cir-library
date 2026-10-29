@@ -155,8 +155,4 @@ reasons for citation to justify him. It is not a matter of viewing Matthew’s
 treatment from a first-century perspective rather than a twentieth-century one;
 time has nothing to do with it. It is “forever correct” or incorrect; what it
 meant is what it means and <i>vice versa</i>.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                        
-christir.org</span></p>
 </div>

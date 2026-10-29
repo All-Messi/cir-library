@@ -7,6 +7,8 @@ categories:
 - 'Critical Intro Ot'
 weight: 10
 draft: false
+aliases:
+- /essays/evidences/critical-intro-ot/notations-on-the-documentary-theory/
 ---
 
 <style>
@@ -32,22 +34,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-left:.25in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>NOTATIONS
-ON THE DOCUMENTARY THEORY</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>FOR
-ORIGINS OF THE PENTATEUCH</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-left:.25in;text-align:justify;text-indent:
-.5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
-</span></p>
-
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Criteria
 for Source Identification</span></p>
@@ -448,7 +434,4 @@ in Genesis <b>31</b>; Exodus<b> 19</b>, <b>34</b>; Joshua; and Deuteronomy <b>1-
 get crisscrossed by the theoretical documents. Treaty forms are literary forms
 known from elsewhere for the late second millennium B.C. and should take
 precedence in criticism over theoretical reconstructions.</span></p>
-
-<p class=MsoNormal style='text-align:justify'>                                                                                                                                            
-christir.org</p>
 </div>

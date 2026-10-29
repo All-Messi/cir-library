@@ -26,21 +26,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>TWO BASIC POINTS ABOUT BAPTISM</span></b></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
-style='font-size:10.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:10.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:10.0pt;font-family:"Arial",sans-serif'>            </span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'>            </span><span
 style='font-size:12.0pt'>Two points should be highlighted in presentations
@@ -91,11 +76,4 @@ aspect. The whole of life comes into the picture, not just sins or
 reconciliation or church membership or other subsequent divine blessings.
 Consequently, salvation as a whole and baptism as a particular fit with one
 prime characteristic of interpersonalism, that is, holism.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:11.0pt'>                                                                                                                                         
-christir.org</span></p>
 </div>

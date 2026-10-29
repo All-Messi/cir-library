@@ -35,21 +35,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center'><b><span
-style='font-size:14.0pt'>ETHICS AS INTERPERSONAL</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.25in;text-align:justify;text-indent:
 0in;line-height:18.0pt'><span style='font-size:12.0pt'>            I. Ethics,
 morality, and goodness pertain to behavior in personal relationships.</span></p>
@@ -453,11 +438,4 @@ love, the prime interpersonal pattern of acting, lies in its ability to provide
 us an approximate basis of behavior. Even in cases where we do not know “how to
 love,” the other person sees us as being consistent at least in loving if we do
 not always express it well.</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>                                                                                                                                         
-</span><span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

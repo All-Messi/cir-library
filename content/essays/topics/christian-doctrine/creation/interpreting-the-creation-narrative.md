@@ -5658,17 +5658,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>INTERPRETING THE CREATION NARRATIVE</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'>Virgil Warren, PhD</p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:16.0pt'>&nbsp;</span></b></p>
-
 <p class=MsoNormal align=center style='text-align:center'><span
 style='font-size:16.0pt'>An Interpretative Approach</span></p>
 
@@ -7996,10 +7985,4 @@ church, and society. Specifying the place of final responsibility is a
 practical measure that avoids using competition to settle the matter. Included
 in this comment may also be an implied directive not to allow undue feminine
 influence in the future to mislead him as it had done in the temptation.</p>
-
-<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='text-align:justify;text-indent:.5in'>&nbsp;</p>
 </div>

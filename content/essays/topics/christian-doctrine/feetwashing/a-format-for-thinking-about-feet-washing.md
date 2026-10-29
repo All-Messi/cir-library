@@ -29,16 +29,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:6.0pt;margin-left:0in;text-align:center;line-height:18.0pt'><b><span
-style='font-size:14.0pt'>A FORMAT FOR THINKING ABOUT FEET WASHING</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>            Washing feet comes up in
 three New Testament texts. <b>(a)</b> Luke <b>7</b>:44 refers to it in an
@@ -214,13 +204,4 @@ it.</span></p>
 style='font-size:12.0pt'>            It is worth noting as well that Jesus
 institutes the bread and cup together. The feetwashing was a separate incident
 of the evening.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

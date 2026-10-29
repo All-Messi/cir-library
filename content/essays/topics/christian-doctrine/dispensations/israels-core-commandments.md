@@ -43,12 +43,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>ISRAEL’S CORE COMMANDMENTS</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%'>Virgil Warren, PhD</span></p>
-
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
 line-height:115%'>The List of Commandments</span></p>
 
@@ -275,11 +269,4 @@ style='font-size:10.0pt;line-height:115%'>ORD</span><span style='font-size:
 12.0pt;line-height:115%'> gave Israel reasons to trust him; then he called on
 them to respect and obey him and to live together according to these core
 commandments.</span></p>
-
-<p class=MsoNormal style='text-align:justify'>christir.org</p>
-
-<p class=MsoNormal style='text-align:justify;text-indent:.5in'><span
-style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
 </div>

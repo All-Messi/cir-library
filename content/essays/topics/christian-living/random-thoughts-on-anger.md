@@ -6,6 +6,7 @@ categories:
 - 'Topics'
 - 'Christian Living'
 draft: false
+subtitle: "Ephesians 4:26 < Psalm 4:4"
 ---
 
 <style>
@@ -43,18 +44,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>RANDOM
-THOUGHTS ON ANGER</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ephesians
-4:26 &lt; Psalm 4:4</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Be
 angry,</span></i></p>
@@ -191,9 +180,4 @@ with other issues of that person’s other past actions.</span></p>
 margin-left:.5in;text-align:justify'><span style='font-size:12.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>            <i>“Sleep on it.” “Time
 will tell.”</i></span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;text-align:justify'><i><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                        </span></i><span
-style='font-family:"Times New Roman",serif'>christir.org</span></p>
 </div>

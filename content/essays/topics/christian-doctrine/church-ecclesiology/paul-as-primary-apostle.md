@@ -34,18 +34,6 @@ span.FooterChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><b><span style='font-size:14.0pt'>PAUL AS PRIMARY APOSTLE</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;line-height:18.0pt'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 31.5pt;line-height:18.0pt'><span style='font-size:12.0pt'>Some have questioned
 whether Paul belonged to the primary group of Jesus’ followers called “apostles.”
@@ -691,10 +679,4 @@ indicates that ministry terminology was still fluid, and the meaning of the
 words’ roots was still associated with the terms. For example, <i>elder</i>, <i>bishop</i>,
 <i>pastor</i>, <i>ruler</i>, <i>teacher</i>, and <i>leader</i> all designate
 the same slot.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

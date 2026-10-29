@@ -28,21 +28,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center'><b><span
-style='font-size:14.0pt'>TEMPTATION AND INTERPERSONALISM</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>            Temptation tries to get us
 to exchange the welfare of everyone for the welfare of self. In so doing, it
@@ -61,8 +46,4 @@ represent. We also trust God not to allow us to be tempted above what we can
 handle (1 Corinthians <b>10</b>:13). The interpersonal spiritual exercises,
 regularly practiced, strengthen us ahead of time for confronting problems when
 they appear.</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
-18.0pt'><span style='font-size:11.0pt'>                                                                                                                                     
-christir.org</span></p>
 </div>

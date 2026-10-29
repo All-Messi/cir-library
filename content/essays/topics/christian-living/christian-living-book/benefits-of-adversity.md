@@ -32,26 +32,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>BENEFITS OF ADVERSITY</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>  </span></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-27.0pt;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>INTRODUCTION</span></p>
 
@@ -335,9 +315,4 @@ to the benefits of adversity helps us deal with the present experience of it.</s
 
 <p class=MsoNormal style='margin-right:-27.0pt'><span style='font-size:12.0pt'>                  Dealing
 with adversity ahead of time prepares us for when it comes.</span></p>
-
-<p class=MsoNormal style='margin-right:-27.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-27.0pt'><span style='font-size:12.0pt'>      </span><span
-style='font-size:11.0pt'>christir.org</span></p>
 </div>

@@ -34,17 +34,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>2
-PETER AND JUDE IN PARALLEL</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:14.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
 </div>
 
 <span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'><br

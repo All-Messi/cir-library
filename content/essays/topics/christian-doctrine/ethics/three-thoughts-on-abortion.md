@@ -39,12 +39,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>THREE THOUGHTS ON ABORTION</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:.25in;text-align:center'><span
-style='font-size:12.0pt;line-height:115%'>Virgil Warren, PhD</span></p>
-
 <p class=MsoNormal style='margin-bottom:6.0pt;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%'> I.  Not My Body, Not My Choice</span></p>
 
@@ -156,11 +150,4 @@ population levels. </span></p>
 .5in'><span style='font-size:12.0pt;line-height:115%'>            (c) Abortion
 as a general practice is one more departure from interpersonalism as the
 highest frame of reference for human life and living. </span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'>christir.org</p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'>&nbsp;</p>
 </div>

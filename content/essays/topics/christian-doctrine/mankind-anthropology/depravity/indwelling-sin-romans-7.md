@@ -26,21 +26,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-lang=DA style='font-size:14.0pt'>INDWELLING SIN: ROMANS 7</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-lang=DA style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-lang=DA style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
-lang=DA style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
-lang=DA style='font-size:12.0pt'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span lang=DA
 style='font-size:12.0pt'>            </span><span style='font-size:12.0pt'>When
 Paul speaks of sin resident within him (or indwelling sin), perhaps he means it
@@ -103,13 +88,4 @@ correspondingly higher responsibility because research has isolated the genetic
 components of certain behavior tendencies or extremes and has developed
 antidotes for some of them. Now we have the responsibility based on <u>knowledge</u>
 to take our “medicine.” </span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                            </span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
-style='font-size:11.0pt'>&nbsp;</span></b></p>
 </div>

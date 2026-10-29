@@ -6,6 +6,8 @@ categories:
 - 'Topics'
 - 'Music'
 draft: false
+aliases:
+- /essays/topics/music/leading-congregational-singing/
 ---
 
 <style>
@@ -46,10 +48,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>LEADING
-CONGREGATIONAL SINGING:</span></b></p>
-
 <p class=MsoNormal align=center style='text-align:center'><b><span
 style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>SONG
 LEADERS AND INSTRUMENTALISTS</span></b></p>
@@ -326,8 +324,4 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 things go without saying. Instruments should be in tune and in tune with each
 other. Musicians should have the music mastered so mistakes do not distract
 from the experience.</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                         
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 </div>

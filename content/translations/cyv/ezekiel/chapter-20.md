@@ -104,7 +104,7 @@ next: chapter-21
 <span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>‘Listen to what the Lord Yahveh says, “I’m about to light a fire in you that will burn up every tree in you, green or dry. It won’t be put out till it has burned the whole surface from south to north. </span></i></span>
 <span class="verse verse-v48" id="v48"><sup class="verse-num">48</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Everybody will see that I lit it.”’”</span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                     49</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then I said, <i>“Lord Yahveh, they’re saying I’m just telling stories.”</i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then I said, <i>“Lord Yahveh, they’re saying I’m just telling stories.”</i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b></span></p>
 
 
 <style>

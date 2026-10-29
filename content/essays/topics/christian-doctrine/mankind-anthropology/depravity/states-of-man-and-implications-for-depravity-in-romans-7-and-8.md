@@ -8,6 +8,8 @@ categories:
 - 'Mankind Anthropology'
 - 'Depravity'
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/mankind-anthropology/depravity/states-of-man-and-implications-for-depravity/
 ---
 
 <style>
@@ -36,22 +38,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><b><span style='font-size:14.0pt'>STATES OF MAN AND
-IMPLICATIONS FOR DEPRAVITY</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><b><span style='font-size:14.0pt'>IN ROMANS 7 AND 8</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><b><span style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>  </span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>            Romans <b>7</b>:5-<b>8</b>:15
 is one of several sections in Romans that have raised considerable controversy.
@@ -1277,10 +1263,4 @@ blow”</i> in Matthew<b> 7</b>:25; Acts <b>27</b>:40, <i>etc</i>.). </span></p>
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            <span style='position:relative;top:-3.0pt'>13</span>See
 <i>Institutes of the Christian Religion</i><b> 4</b>:14:23.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:11.0pt'>christir.org</span></p>
 </div>

@@ -9,6 +9,8 @@ categories:
 - 'Womens Studies'
 - 'Eph 5 21'
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/mankind-anthropology/womens-studies/eph-5-21/submitting-to-one-another/
 ---
 
 <style>
@@ -36,30 +38,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:6.0pt;margin-left:22.3pt;text-align:center'><b><span
-style='font-size:14.0pt'>SUBMITTING TO ONE ANOTHER:</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:22.5pt;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>Ephesians 5:21-6:9</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:22.5pt;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:22.5pt;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>         This portion of Ephesians deals with “household
@@ -457,9 +435,4 @@ whether Paul’s commands apply to cultures beyond his own. That last item is
 where the question about present-day marriage and home relationships belongs. But
 whatever we decide on that point has nothing to do with what Paul meant when he
 wrote to the Ephesians in the first century.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                  
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

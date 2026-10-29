@@ -24,19 +24,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>IT IS GOOD TO REMEMBER</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='text-align:justify'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal style='text-align:justify'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='text-align:justify'><b><span style='font-size:12.0pt'>            </span></b><span
 style='font-size:12.0pt'>In the grand cycle of life, only four or five
 generations of humanity are accessible to our experience at any one moment in
@@ -184,8 +171,4 @@ material existence in the world. We do well to remember today the universal and
 eternal importance of this factor because from it issues all that we value and
 hold dear. And therein rests most of all our appreciation, our humility, our
 responsibility.</span></p>
-
-<p class=MsoNormal style='text-align:justify;text-indent:.5in'><span
-style='font-size:12.0pt'>                                                                                                                  
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

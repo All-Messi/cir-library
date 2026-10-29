@@ -1337,10 +1337,4 @@ authority</u> for guiding interpretation (authority)</span></p>
 style='color:black'>                                                            (3)
 any idea that scripture is not subject to the common-sense application of the
 pertinent laws of thought (language and rationality)</span></p>
-
-<p class=MsoNormal style='text-align:justify;text-indent:0in'><span
-style='color:black'>                                                                                                                                                                 
-</span><span style='font-size:11.0pt;color:black'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-left:.25in'><span style='color:black'>&nbsp;</span></p>
 </div>

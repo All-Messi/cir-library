@@ -31,24 +31,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>FRAGMENTING PHILIPPIANS</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'> I. Mood shift between<b> 3</b>:1 and<b> 3</b>:2</span></p>
@@ -90,7 +72,7 @@ top:-54px;width:304px;height:96px'>
  </tr>
  <tr>
   <td height=34></td>
-  <td colspan=2 align=left valign=top><img width=85 height=34 src=missing.gif></td>
+  <td colspan=2 align=left valign=top></td>
  </tr>
  <tr>
   <td height=1></td>
@@ -98,8 +80,7 @@ top:-54px;width:304px;height:96px'>
  <tr>
   <td height=20></td>
   <td></td>
-  <td colspan=2 rowspan=3 align=left valign=top><img width=69 height=61
-  src=missing.gif></td>
+  <td colspan=2 rowspan=3 align=left valign=top></td>
  </tr>
  <tr>
   <td height=25></td>
@@ -260,12 +241,4 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            C.  A later interpolation (but it fits the
 context too well to look like an interpolation)</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:11.0pt'>christir.org</span></p>
 </div>

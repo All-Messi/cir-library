@@ -37,18 +37,6 @@ span.FooterChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><i><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>SELAH</span></i></b><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-IN THE PSALMS</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>        I. Derivation of </span><span
 lang=HE dir=RTL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>סֶלָה</span><span
@@ -2159,19 +2147,4 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So
 <i>selah</i> appears with instrument indications in Psalm <b>47, 49, 57, 68,
 81, 87</b>; but not in Psalm <b>33, 43, 71, 92, 98, 108, 137, 144, 147, 149,
 150</b>.</span></p>
-
-<p class=MsoNormal style='margin-left:27.0pt;text-align:justify'><span
-style='font-family:"Times New Roman",serif'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-left:27.0pt;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></p>
-
-<p class=MsoNormal style='margin-left:27.0pt;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>         </span></p>
 </div>

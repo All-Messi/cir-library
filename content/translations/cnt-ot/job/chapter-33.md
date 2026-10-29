@@ -27,7 +27,7 @@ next: chapter-34
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>                  the breath of the Almighty gives me breath.</span></i></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>                  5</span></sup></b><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>Answer me if you can;</span></i></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>Answer me if you can;</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>                  state your case; take your stand.</span></i></p>
 
@@ -41,7 +41,7 @@ next: chapter-34
 ### I won’t come down hard on you.                           Job 33:1-7
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'> 8</span></sup></b><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#00B0F0'>“You’ve spoken where I could hear you;</span></i></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#00B0F0'>“You’ve spoken where I could hear you;</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>                  <a name="_Hlk125059280">I’ve heard what you said:</a></span></i></p>
 

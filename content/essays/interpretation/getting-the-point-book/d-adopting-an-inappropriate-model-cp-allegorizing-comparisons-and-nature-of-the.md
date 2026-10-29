@@ -100,9 +100,4 @@ riding a bicycle and walking are mutually exclusive possibilities on a given
 occasion, but across a series of experiences singing and playing an instrument
 are not mutually exclusive. This argument illustrates the problem of putting
 compatible things in opposition with each other (opposing compatibles).</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-45.0pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt;color:#7030A0'>                                                                                                                                      
-</span><span style='font-size:11.0pt;color:windowtext'>christir.org</span></p>
 </div>

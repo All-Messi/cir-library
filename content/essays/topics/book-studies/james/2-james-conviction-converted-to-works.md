@@ -33,13 +33,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>(2) JAMES: CONVICTION CONVERTED TO
-WORKS</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:.25in;text-align:center'><span
-style='font-size:12.0pt;line-height:115%'>Virgil Warren, PhD</span></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt;line-height:115%'>In the history of
 Christian thought, two opposite tendencies have plagued the church with respect
@@ -248,9 +241,4 @@ whether people always do what they can do. In that area of difference between
 what they can do and what they do, apostasy may occur. From a practical
 standpoint, nevertheless, the big concern is not so much with perseverance
 because everything comes out the same.</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'>christir.org</p>
 </div>

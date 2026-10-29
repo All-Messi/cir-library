@@ -25,21 +25,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-27.0pt;text-align:center'><b><span
-style='font-size:14.0pt'>COMMUNION ELEMENTS </span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-27.0pt;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-27.0pt;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><b><span
 style='font-size:12.0pt'>     </span></b><span style='font-size:12.0pt'>I. Unleavened
 Elements</span></p>

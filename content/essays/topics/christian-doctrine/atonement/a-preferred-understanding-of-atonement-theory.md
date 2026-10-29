@@ -52,9 +52,6 @@ ul
 
 <div class="word-content">
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>A PREFERRED UNDERSTANDING OF ATONEMENT THEORY:</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
 style='font-size:14.0pt'>IDENTIFICATION WITH CHRIST:</span></b></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
@@ -840,11 +837,4 @@ inter-ideograph'><span style='font-size:12.0pt'>            <span
 style='position:relative;top:-3.0pt'>5</span>Don Richardson recounts this
 well-known story in his <i>Peace Child</i> (Regal Books: Ventura, California,
 1976, 3rd ed.).</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-justify:
-inter-ideograph'><span style='font-size:12.0pt'>                                                                                                                                         
-</span><span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-justify:
-inter-ideograph'><span style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

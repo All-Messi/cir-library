@@ -33,18 +33,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>What
-Do You Have That You Didn’t Receive?</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren</span></p>
-
-<p class=MsoNormal align=center style='text-align:center;text-indent:.5in'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
-</span></p>
-
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Lord,
 today we consider our place in the larger scheme of things, and so acknowledge
@@ -93,11 +81,4 @@ gratitude—not to forget we are debtors, every one, and to resolve that we will
 not be a weak link in the chain of remembrance. We pay our heritage forward and
 provide in our legacy the difference between what we have received and what we
 have to give. Ours is the rest of the story. We must tell it well.</span></p>
-
-<p class=MsoNormal style='text-align:justify;text-indent:.5in'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                              
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 </div>

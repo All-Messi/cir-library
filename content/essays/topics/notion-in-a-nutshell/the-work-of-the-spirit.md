@@ -27,12 +27,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>THE</span></b><b><span
-style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>WORK
-OF THE SPIRIT</span></b></p>
-
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
 ordinary work of the Spirit has three aspects: guidance, empowerment, and
@@ -40,8 +34,4 @@ intercession. He operates indirectly through the message,  circumstance and
 other Christians, and by his sheer interpersonal presence with us. That leaves
 special and supernatural operations as potential but not uniform with all
 Christians.</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>Virgil Warren     </span><span
-style='font-family:"Times New Roman",serif'>christir.org</span></p>
 </div>

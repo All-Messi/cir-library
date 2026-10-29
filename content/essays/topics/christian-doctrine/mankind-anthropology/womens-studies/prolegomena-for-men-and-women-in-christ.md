@@ -30,17 +30,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>PROLEGOMENA
-FOR MEN AND WOMEN IN CHRIST</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:.5in;margin-bottom:10.0pt;
 margin-left:.5in;text-align:justify'><span style='font-size:12.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>Précis   Neglected or misunderstood factors
@@ -243,14 +232,12 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&n
 
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'><span
 style='position:relative;z-index:251658240'><span style='left:0px;position:
-absolute;left:-4px;top:-483px;width:255px;height:237px'><img width=255
-height=237 src=missing.gif></span></span><span style='font-size:12.0pt;
+absolute;left:-4px;top:-483px;width:255px;height:237px'></span></span><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <br clear=ALL>
 
-<p class=MsoNormal align=center style='text-align:center;text-indent:.5in'><img
-width=166 height=231 src=missing.gif></p>
+<p class=MsoNormal align=center style='text-align:center;text-indent:.5in'></p>
 
 <p class=MsoNormal align=center style='text-align:center;text-indent:.5in'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
@@ -334,11 +321,4 @@ New Testament passages together with (2) identifying custom and culture
 originally and now. The hermeneutics between (1) and (2) involves decisions
 about (a) implied cultural limitation and (b) the advice-commandment
 distinction. </span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:115%;font-family:
-"Times New Roman",serif'>                                                                                                                                    </span><span
-style='font-family:"Times New Roman",serif'>    christir.org</span></p>
 </div>

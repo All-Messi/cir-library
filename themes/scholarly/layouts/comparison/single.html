@@ -11,7 +11,8 @@
         {{ end }}
     </header>
 
-    <div class="comparison-content">
+    <div class="comparison-content" data-pagefind-body>
+        {{ partial "pagefind-tags.html" (dict "filter" (dict "type" "resource") "meta" (dict "type" "resource" "title" .Title)) }}
         {{ .Content }}
     </div>
 </div>

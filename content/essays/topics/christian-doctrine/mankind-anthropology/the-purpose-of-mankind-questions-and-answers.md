@@ -8,6 +8,8 @@ categories:
 - 'Mankind Anthropology'
 weight: 5
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/mankind-anthropology/the-purpose-of-mankind/
 ---
 
 <style>
@@ -41,24 +43,6 @@ span.FooterChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>THE PURPOSE OF MANKIND:</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>QUESTIONS AND ANSWERS</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>Section I: God’s Delight</span></p>
 
@@ -655,11 +639,4 @@ can we help eliminate sin that comes in through the physical aspect of our
 nature (1 Corinthians 7:1-2)?</b> One idea is to fulfill bodily desires in
 acceptable ways; materials in <i>Basic Christianity</i> under “Coping with
 Temptation” may help here.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                         
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

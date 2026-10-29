@@ -65,7 +65,7 @@ next: chapter-13
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                  like the palate tastes food?</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124960834"><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                  12</span></sup></b></a><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif;color:gray'>Old people have wisdom;</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124960834"><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> </a><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif;color:gray'>Old people have wisdom;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                  long life brings insight.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'> </span></b><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif;color:gray'>    </span></b></span></p>
 

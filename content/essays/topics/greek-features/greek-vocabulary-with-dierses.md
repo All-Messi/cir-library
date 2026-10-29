@@ -6,6 +6,7 @@ categories:
 - 'Topics'
 - 'Greek Features'
 draft: false
+content_kind: chart
 ---
 
 <style>
@@ -40,21 +41,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>GREEK VOCABULARY WITH DIERSES</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>* = words of Hebrew origin (names and expressions) </span></p>
 
@@ -266,14 +252,4 @@ style='font-size:12.0pt'>χοϊκός</span><span style='font-size:12.0pt'>, </
 lang=EL style='font-size:12.0pt'>ή</span><span style='font-size:12.0pt'>, </span><span
 lang=EL style='font-size:12.0pt'>όν</span><span style='font-size:12.0pt'>  <i>made
 out of dirt </i>or<i> dust, earthly</i></span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><i><span
-style='font-size:12.0pt'>&nbsp;</span></i></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:11.0pt'>                                                                                                                                            
-christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><i><span
-style='font-size:12.0pt'>&nbsp;</span></i></p>
 </div>

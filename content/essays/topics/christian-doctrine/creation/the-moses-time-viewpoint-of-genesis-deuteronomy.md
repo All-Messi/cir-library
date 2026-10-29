@@ -34,23 +34,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>THE
-MOSES-TIME VIEWPOINT OF GENESIS-DEUTERONOMY</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in'><b><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
-<p class=MsoNormal style='margin-bottom:0in'><b><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><b><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
@@ -177,8 +160,4 @@ dir=RTL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",s
 dir=LTR></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
 dir=LTR></span>7.  The week as a seven-point outline of God’s main creative
 acts.</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                          
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 </div>

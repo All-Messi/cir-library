@@ -23,13 +23,13 @@ next: chapter-06
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              the people volunteered.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    3</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hear, you kings; listen, you officials;</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hear, you kings; listen, you officials;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              I’ll sing to Yahveh;</span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              I’ll praise Israel’s God.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    4</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh, when you went out from Seir,</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh, when you went out from Seir,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              when you marched from Edom,</span></i></p>
 
@@ -39,23 +39,23 @@ next: chapter-06
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    yes, the clouds dripped water.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    5</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The mountains shook in front of Yahveh;</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The mountains shook in front of Yahveh;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              you, Sinai, shook in front of Israel’s God.            </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 5:1-5</span></b></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>                  6</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“In the days of Shamgar Ben-Anath,</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“In the days of Shamgar Ben-Anath,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  in the days of Jael, caravans ceased;</span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  travelers kept to the back roads.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>                  7</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rural people ceased in Israel; </span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rural people ceased in Israel; </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  they ceased till you arose, Deborah,</span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  as a mother in Israel.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>                  8</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the people chose new gods,</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the people chose new gods,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  war was in the gates.</span></i></p>
 
@@ -63,7 +63,7 @@ next: chapter-06
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  among 40,000 in Israel.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>                  9</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>My heart goes out to Israel’s commanders,</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>My heart goes out to Israel’s commanders,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  who volunteered willingly among the people.</span></i></p>
 
@@ -71,13 +71,13 @@ next: chapter-06
 ### Bless Yahveh.              Jud 5:6-9
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>                  10</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Sing, you that ride white donkeys,</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Sing, you that ride white donkeys,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><i><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>                           </span></sup></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>who sit on rich carpets</span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  and travel on the highway.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>                  11</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At the sound of those who separate flocks </span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At the sound of those who separate flocks </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  by the watering places,</span></i></p>
 

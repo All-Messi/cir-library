@@ -7,6 +7,7 @@ date: '2026-02-16'
 draft: false
 title: "Appendix: Jewish Expectations of the Kingdom of God"
 weight: 101
+subtitle: "AND SOME IMPLICATIONS FOR NEW TESTAMENT INTERPRETATION"
 ---
 
 <style>
@@ -37,24 +38,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>JEWISH EXPECTATIONS OF THE KINGDOM OF GOD</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>AND SOME IMPLICATIONS FOR NEW TESTAMENT INTERPRETATION</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'>Introduction</span></p>
 
@@ -365,8 +348,4 @@ thought. That idea came especially in the teaching of the Gnostics that Paul
 had to confront. John’s writings also have Gnostic ideas as that over against
 which many comments appear. The effect gives a more concrete feel for New
 Testament writings as living documents in the real world.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                        </span><span
-style='font-size:11.0pt'>                   christir.org</span></p>
 </div>

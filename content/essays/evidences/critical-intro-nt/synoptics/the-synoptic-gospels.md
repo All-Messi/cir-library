@@ -35,21 +35,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>THE SYNOPTIC GOSPELS</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>  </span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
 style='font-size:12.0pt'>                  </span></b><span style='font-size:
 12.0pt'>Scholars speculate about synoptic origins in an effort to create a scenario
@@ -841,13 +826,4 @@ consciousness may provide models for the Spirit’s assistance or media through
 which he worked, but such natural phenomena are not themselves the actual
 mechanisms we call inspiration/God-breathedness. Total recall and the sound
 equivalent of photographic memory do not strike us as sufficient likely causes<i>.</i></span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><i><span
-style='font-size:12.0pt'>&nbsp;</span></i></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

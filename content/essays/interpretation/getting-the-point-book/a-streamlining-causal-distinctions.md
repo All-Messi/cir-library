@@ -7,6 +7,8 @@ categories:
 - 'Getting The Point Book'
 weight: 10
 draft: false
+aliases:
+- /essays/interpretation/getting-the-point-book/ii-selected-linguistic-phenomena-note-dr-warrens-phd-dissertation-the-implication-of-divine-self-consistency-for-the-doctrine-of-natural-depravity-pp-152-70/
 ---
 
 <style>
@@ -1605,9 +1607,4 @@ of these variables are significant because (a) they impact our understanding of
 the <u>nature of language</u>—Semitic language especially—and the conclusions
 we draw from its statements; and (b) because they relate to the <u>nature of
 God</u> as omniscient and omnipotent.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                    
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

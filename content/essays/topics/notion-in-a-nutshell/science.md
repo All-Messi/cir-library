@@ -32,16 +32,9 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>SCIENCE</span></b></p>
-
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Science
 deals with recurrent natural processes in the present.  Consequently, science (hard
 science) does not, strictly speaking, deal with history, the supernatural, or
 the metaphysical.</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>Virgil Warren     </span><span
-style='font-family:"Times New Roman",serif'>christir.org</span></p>
 </div>

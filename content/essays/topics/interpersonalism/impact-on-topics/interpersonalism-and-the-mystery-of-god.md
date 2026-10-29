@@ -25,22 +25,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:4.5pt;margin-bottom:.0001pt;text-align:center;
-line-height:18.0pt'><b><span style='font-size:14.0pt'>INTERPERSONALISM AND THE
-MYSTERY OF GOD</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:4.5pt;margin-bottom:.0001pt;text-align:center;
-line-height:18.0pt'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:4.5pt;margin-bottom:.0001pt;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:31.5pt;
 line-height:18.0pt'><span style='font-size:12.0pt'>Interpersonalism integrates
@@ -67,13 +51,4 @@ to us because (c) his self-disclosure in history and scripture is not complete;
 by the nature of the case, it cannot be otherwise. While we know enough to
 relate to him and to understand his expectations of us, the full range of his
 nature and purposes lies beyond us.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
-style='font-size:12.0pt'>                                                                                                                                        
-</span><span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

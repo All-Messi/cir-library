@@ -5657,10 +5657,6 @@ ul
 <div class="word-content">
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify;line-height:12.0pt'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;line-height:12.0pt'><b><span
 style='font-size:12.0pt'> III. GENERAL MECHANICS BEHIND INTERPRETATION         </span></b><span
 style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
 
@@ -8833,13 +8829,4 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify;line-height:12.0pt'><
 style='font-size:12.0pt'>                        1 Timothy <b>2</b>:12: <i>“teach
 or exercise authority over a man”</i> likely means teach authoritatively (hendiadys)
 rather than teach as one act and exercise authority as another.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;line-height:12.0pt'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify;line-height:12.0pt'><span
-style='font-size:12.0pt'>                                                                                                                                    
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

@@ -24,18 +24,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center'><b><span
-style='font-size:14.0pt'>EDUCATION FOR USE</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center'><b><span
-style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.25in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>The Teaching Task</span></p>
 
@@ -294,10 +282,4 @@ congregations.</span></p>
 18.0pt'><span style='font-size:12.0pt'>            Efforts such as those
 outlined above help ensure that the nature of preparation corresponds with the
 nature of ministry for which students are preparing.</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>                                                                                                                                   
-</span><span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.25in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

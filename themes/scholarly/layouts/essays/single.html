@@ -11,7 +11,7 @@
 {{ $next := index $pages (add $currentIdx 1) }}
 
 {{ if $isBook }}
-<nav class="book-chapter-nav book-chapter-nav-top">
+<nav class="book-chapter-nav book-chapter-nav-top" data-pagefind-ignore>
     <a href="{{ with .Parent.Params.book_redirect }}{{ . | absURL }}{{ else }}{{ .Parent.Permalink }}{{ end }}" class="book-nav-back">← {{ .Parent.Title }}</a>
     <span class="book-nav-chapter">Ch. {{ add $currentIdx 1 }} of {{ len $pages }}</span>
 </nav>
@@ -19,9 +19,14 @@
 {{ if $hasNext }}<a href="{{ $next.Permalink }}" class="book-float-arrow book-float-next" title="Next chapter">›</a>{{ end }}
 {{ end }}
 
-<div class="es-page">
+{{- /* Pagefind (2026-10-28): index this page as an essay; filters/meta drive search.html */ -}}
+{{ $cats := slice }}{{ range .Params.categories }}{{ $cats = $cats | append (replace (. | lower | title) "," " /") }}{{ end }}
+<div class="es-page" data-pagefind-body>
+    {{ partial "pagefind-tags.html" (dict
+        "filter" (dict "type" "essay" "kind" .Params.content_kind)
+        "meta"   (dict "type" "essay" "kind" .Params.content_kind "words" .WordCount "category" (delimit $cats " › "))) }}
     {{ if not $isBook }}
-    <nav class="es-breadcrumb">
+    <nav class="es-breadcrumb" data-pagefind-ignore>
         <a href="{{ "essays/" | absURL }}">Essays</a>
         {{ range .Ancestors.Reverse }}
             {{ if and (ne .Kind "home") (ne .Kind "taxonomy") }}
@@ -35,16 +40,31 @@
 
     <header class="es-header">
         <h1>{{ .Title | lower | title }}</h1>
+        {{ with .Params.subtitle }}<p class="es-subtitle">{{ if findRE `[a-z]` . }}{{ . }}{{ else }}{{ partial "title-case.html" . }}{{ end }}</p>{{ end }}
         <div class="es-header-accent"></div>
-        <div class="es-header-meta">
+        <div class="es-header-meta" data-pagefind-ignore>
             {{ if .Params.author }}<span class="es-author">{{ .Params.author }}</span>{{ end }}
             {{ partial "pdf-link.html" . }}
         </div>
-        {{ if or .Params.level .Params.greek .Params.hebrew .Params.substantial }}
-        <div class="es-badges">
+        {{ with .Params.content_kind }}
+        {{ $kindNote := dict
+            "study-prompt" "Discussion prompts for a class study, not a finished essay."
+            "outline" "A working outline, not a developed essay."
+            "chart" "A reference chart or list rather than an essay."
+            "notes" "Study notes in outline form."
+            "title-page" "The title page of a book; the content is in its chapter pages." }}
+        {{ with index $kindNote . }}<p class="es-kind-note" data-pagefind-ignore>{{ . }}</p>{{ end }}
+        {{ end }}
+        {{/* Greek/Hebrew badges (2026-10-28): the About page's sigla promise g/h markers, but no
+             page carries them in front matter. Derive from the text: 5+ words of the script.
+             Front matter `greek: true` / `hebrew: true` still force the badge. */}}
+        {{ $greek := or .Params.greek (ge (len (findRE `\p{Greek}{2,}` .Plain)) 5) }}
+        {{ $hebrew := or .Params.hebrew (ge (len (findRE `\p{Hebrew}{2,}` .Plain)) 5) }}
+        {{ if or .Params.level $greek $hebrew .Params.substantial }}
+        <div class="es-badges" data-pagefind-ignore>
             {{ if .Params.level }}<span class="es-badge">Level {{ .Params.level }}</span>{{ end }}
-            {{ if .Params.greek }}<span class="es-badge">Greek</span>{{ end }}
-            {{ if .Params.hebrew }}<span class="es-badge">Hebrew</span>{{ end }}
+            {{ if $greek }}<span class="es-badge">Greek</span>{{ end }}
+            {{ if $hebrew }}<span class="es-badge">Hebrew</span>{{ end }}
             {{ if .Params.substantial }}<span class="es-badge">Substantial</span>{{ end }}
         </div>
         {{ end }}
@@ -53,7 +73,7 @@
     <div class="es-layout">
         {{ $toc := .TableOfContents }}
         {{ if and $toc (findRE `<li>` $toc) }}
-        <aside class="es-sidebar">
+        <aside class="es-sidebar" data-pagefind-ignore>
             <div class="es-toc">
                 <span class="es-toc-label">Contents</span>
                 {{ $toc }}
@@ -77,10 +97,10 @@
     </aside>
     {{ end }}
 
-    {{ partial "see-also.html" . }}
+    <div data-pagefind-ignore>{{ partial "see-also.html" . }}</div>
 
     {{ if not $isBook }}
-    <nav class="es-bottom-nav">
+    <nav class="es-bottom-nav" data-pagefind-ignore>
         <a href="{{ .Parent.Permalink }}" class="es-back-link">← Back to {{ .Parent.Title | lower | title }}</a>
         <div class="es-prev-next">
             {{ $siblings := .Parent.RegularPages.ByTitle }}
@@ -139,6 +159,24 @@
     /* Long unbreakable tokens in converter-extracted titles (URLs, Greek
        runs) must wrap rather than widen the page. (Rendered audit 2026-07-03) */
     overflow-wrap: anywhere;
+}
+.es-subtitle {
+    font-family: 'Source Serif Pro', serif;
+    font-size: 1.05rem;
+    font-style: italic;
+    color: #555;
+    text-align: center;
+    max-width: 620px;
+    margin: -0.5rem auto 0.75rem;
+    overflow-wrap: anywhere;
+}
+.es-kind-note {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.85rem;
+    font-style: italic;
+    color: #7a7a7a;
+    max-width: 620px;
+    margin: 0.6rem auto 0;
 }
 .es-header-meta {
     display: flex;

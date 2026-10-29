@@ -7,6 +7,9 @@ categories:
 - 'Book Studies'
 - 'Colossians'
 draft: false
+content_kind: study-prompt
+aliases:
+- /essays/topics/book-studies/colossians/colossians-2/
 ---
 
 <style>
@@ -109,7 +112,4 @@ draft: false
 
 <p class=MsoNormal style='text-align:justify'>Perish with using vs. increase
 with the using (<b>2</b>:22)</p>
-
-<p class=MsoNormal style='text-align:justify'>                                                                                                                            
-<span style='font-size:11.0pt'>christir.org</span></p>
 </div>

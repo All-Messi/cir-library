@@ -9,6 +9,8 @@ categories:
 - 'Nature Of Man Book'
 weight: 4
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/mankind-anthropology/nature-of-man-book/primary-evidence-for-the-image/
 ---
 
 <style>
@@ -37,21 +39,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>PRIMARY EVIDENCE FOR THE IMAGE</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>AS THE INTERPERSONAL CAPACITY</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'>Introduction</span></p>
 
@@ -1284,10 +1271,4 @@ experience as a self . . . not directly or immediately, not by becoming a
 subject to himself, but only so far as he becomes an object to himself just as
 other individuals are objects to him, . . . and he becomes an object to himself
 only by taking the attitude of other individuals toward himself.”</span></i></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:.5in'><i><span
-style='font-size:12.0pt'>                                                                                    </span></i><span
-style='font-size:11.0pt'>                                                                        
-                               christir.org</span></p>
 </div>

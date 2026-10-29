@@ -7,6 +7,8 @@ categories:
 - 'Greek Features'
 - 'Greek Vocab Project'
 draft: false
+aliases:
+- /essays/topics/greek-features/greek-vocab-project/verbs/
 ---
 
 <style>
@@ -649,8 +651,4 @@ style='font-size:12.0pt'>            -uvrw [denominatives]</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            -w</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

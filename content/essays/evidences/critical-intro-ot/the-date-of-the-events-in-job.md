@@ -56,17 +56,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>THE
-DATE OF THE EVENTS IN JOB</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
 <p class=MsoNormal align=center style='text-align:center'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Introduction</span></p>
 
@@ -1169,8 +1158,4 @@ style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>10
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gleason
 L. Archer, <i>A Survey of Old Testament Introduction</i> (Chicago: Moody Press,
 1964), p. 441.</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                          
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 </div>

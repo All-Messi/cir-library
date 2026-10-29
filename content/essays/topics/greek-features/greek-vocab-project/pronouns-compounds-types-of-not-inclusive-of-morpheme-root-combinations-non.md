@@ -7,6 +7,9 @@ categories:
 - 'Greek Features'
 - 'Greek Vocab Project'
 draft: false
+content_kind: notes
+aliases:
+- /essays/topics/greek-features/greek-vocab-project/pronouns/
 ---
 
 <style>
@@ -310,15 +313,4 @@ style='font-size:10.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'>Root  [Metzger <u>Lex
 Aids</u>, 49; Trenchard <u>Voc Guide</u>, 5]</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:10.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:10.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'>&nbsp;</p>
 </div>

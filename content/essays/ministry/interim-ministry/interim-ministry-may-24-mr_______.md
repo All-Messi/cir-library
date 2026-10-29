@@ -161,10 +161,4 @@ passage they must complete before a church will hire them.</span></p>
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                        I trust that these comments
 serve the purpose you had in mind when you wrote. I remain</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>Virgil Warren                                                                                                                  christir.org</span></p>
 </div>

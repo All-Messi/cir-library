@@ -43,7 +43,7 @@ next: chapter-20
 ### David Returns to Jerusalem
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  15</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king started back and got as far as the Jordan. Judah came to Gilgal to meet him and escort him across.</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king started back and got as far as the Jordan. Judah came to Gilgal to meet him and escort him across.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Shimei son of Gera, the Benjamite from Bahurim, hurried down with the men of Judah to meet David. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>1,000 Benjamites came with him, with Ziba the steward of Saul’s household, and Ziba’s own 15 sons and 20 servants. They rushed to the Jordan ahead of the king. </span></span>

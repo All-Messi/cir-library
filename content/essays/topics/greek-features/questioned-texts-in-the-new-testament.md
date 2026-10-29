@@ -38,17 +38,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>QUESTIONED
-TEXTS IN THE NEW TESTAMENT</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><b><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Below
 is a list of forty-one more noticeable places in the New Testament where the
@@ -1224,10 +1213,4 @@ the most part, the original text underneath the variants is <u>sufficiently retr
 Omissions are particularly so, as in cases of homoioteleuton, where material
 between the same wordings gets left out by the slip of a copyist’s eye as he
 looks back and forth from text to his copy.  </span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-.5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-family:"Times New Roman",serif'>christir.org</span></p>
 </div>

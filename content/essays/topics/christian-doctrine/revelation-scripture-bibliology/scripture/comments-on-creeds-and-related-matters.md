@@ -34,17 +34,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>COMMENTS
-ON CREEDS AND RELATED MATTERS</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>            </span></p>
-
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>            <u>Scripture
 alone</u> (<i>sola scriptura</i>) means using the Bible as the sole authority
@@ -118,8 +107,4 @@ communication, they should not “speak presumptuously” in the Lord’s name l
 incur greater condemnation. Unless <u>those persons’ hearers</u> have some indisputable
 basis for authenticating them, they should set those claims aside, because the
 word of God already received is sufficient for all good works (2 Timothy <b>3</b>:16-17).</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                         
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 </div>

@@ -6,6 +6,8 @@ categories:
 - 'Evidences'
 - 'Creation And Evolution'
 draft: false
+aliases:
+- /essays/evidences/creation-and-evolution/reciprocal-causationʹ-the-biosphere/
 ---
 
 <style>
@@ -203,20 +205,6 @@ span.FooterChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:6.0pt;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>RECIPROCAL
-CAUSATION</span></b><span style='font-size:18.0pt;line-height:115%;font-family:
-"Times New Roman",serif'>ʹ</span><b><span style='font-size:14.0pt;line-height:
-115%;font-family:"Times New Roman",serif'>, THE BIOSPHERE, </span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:6.0pt;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>AND
-INTELLIGENT DESIGN</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD  </span></p>
-
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>Introduction</span></p>
 
@@ -1871,10 +1859,4 @@ materials in the male or female? If a mutation occurs in the male or female,
 how does it match up with the reproductive form (coherence) in the other sex so
 the combination can “work”? Does the same compatible mutation have to occur in
 both sexes at the same time and place?</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-family:"Times New Roman",serif'>christir.org</span></p>
 </div>

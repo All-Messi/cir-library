@@ -7,6 +7,8 @@ categories:
 - 'Critical Intro Nt'
 - 'Hebrews'
 draft: false
+aliases:
+- /essays/evidences/critical-intro-nt/hebrews/sketch-of-propositions-and-presuppositions/
 ---
 
 <style>
@@ -31,28 +33,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-left:.25in;text-align:center'><b><span
-style='font-size:14.0pt'>SKETCH OF PROPOSITIONS AND PRESUPPOSITIONS</span></b></p>
-
-<p class=MsoNormal align=center style='margin-left:.25in;text-align:center'><b><span
-style='font-size:4.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-left:.25in;text-align:center'><b><span
-style='font-size:14.0pt'>on the use of 2 Samuel 7:14 in Hebrews 1:5<span
-style='position:relative;top:-3.0pt'>b</span></span></b></p>
-
-<p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
-style='font-size:12.0pt'>      </span></p>
-
-<p class=MsoNormal align=center style='margin-left:.25in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-left:.75in;text-align:justify;text-indent:
 -.5in'><span style='font-size:12.0pt'>    I.      While 2 Samuel <b>7</b>:14
 must refer to Solomon because Solomon so understood it (1 Kings<b> 6</b>:11-13;
@@ -173,10 +153,4 @@ type-antitype), but that is not the case in this use of 2 Samuel <b>7</b>:14. Th
 point made can be derived from the Old Testament through the principles of <u>hermeneutics;</u>
 so <u>revelation</u> is not necessary to understand this Old Testament text in
 the way the Hebrew writer takes it.</span></p>
-
-<p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
-style='font-size:11.0pt'>christir.org</span></p>
 </div>

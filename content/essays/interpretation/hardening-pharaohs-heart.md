@@ -26,15 +26,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>HARDENING PHARAOH’S HEART</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><span
-style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%'>Mode    Text                           
 Wording                                     sign             Pharaoh’s             </span></p>
@@ -355,24 +346,4 @@ margin-left:1.0in;text-align:justify'><span style='font-size:12.0pt;line-height:
 115%'>way (Job <b>1-2</b>, <b>42</b>; cp. Genesis<b> 43</b>:23;<b> 45</b>:5, 8;
 Exodus <b>14</b>:3-4; <b>21</b>:12-14; Judges<b> 21</b>:15; John <b>19</b>:11).
 (“streamlining causal distinctions”)</span></p>
-
-<p class=MsoNormal dir=RTL style='margin-top:0in;margin-right:0in;margin-bottom:
-0in;margin-left:.5in;text-align:justify;direction:rtl;unicode-bidi:embed'><span
-dir=LTR style='font-size:12.0pt;line-height:115%'>                        </span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%'>                                                                                                                                          
-</span>christir.org</p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
-line-height:115%'>&nbsp;</span></p>
 </div>

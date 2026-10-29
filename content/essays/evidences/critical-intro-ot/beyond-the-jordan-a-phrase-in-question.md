@@ -37,18 +37,6 @@ span.FooterChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>“BEYOND
-THE JORDAN”:  A PHRASE IN QUESTION</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
- </span></b></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                   <i>“Beyond
 the Jordan”</i> is a recurring biblical phrase that requires detailed study. It
@@ -1703,14 +1691,4 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>10</span></sup></b><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Matthew<b>
 4</b>:15, 25; <b>19</b>:1; Mark <b>3</b>:8; <b>10</b>:1; John <b>1</b>:28; <b>3</b>:26</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-family:"Times New Roman",serif'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.25in;text-align:justify'><span style='font-size:12.0pt;line-height:
-115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 </div>

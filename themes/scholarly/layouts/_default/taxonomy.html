@@ -1,4 +1,5 @@
 {{ define "main" }}
+{{ $kindLabel := dict "study-prompt" "Study prompts" "title-page" "Title page" "outline" "Outline" "chart" "Chart" "notes" "Notes" }}
 {{/* Check if this category has a specific layout */}}
 {{ if eq .Params.layout "book-toc" }}
 {{/* Bible.com-style book navigation */}}
@@ -226,7 +227,7 @@
         <div class="essays-grid">
             {{ range .Pages.ByTitle }}
             <article class="essay-card">
-                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                <h3><a href="{{ .RelPermalink }}">{{ partial "title-case.html" .Title }}</a>{{ with .Params.content_kind }}<span class="el-kind">{{ index $kindLabel . }}</span>{{ end }}</h3>
                 {{ if .Params.categories }}
                 <p class="essay-categories">
                     {{ range .Params.categories }}
@@ -267,6 +268,7 @@
     gap: 1.5rem;
 }
 
+.el-kind { display: inline-block; font-size: 0.66rem; line-height: 1.3; font-weight: 400; color: #8a8a8a; border: 1px solid #ddd; border-radius: 3px; padding: 0 0.3rem; margin-left: 0.4rem; vertical-align: middle; white-space: nowrap; }
 .essay-card {
     background: #fff;
     padding: 1.5rem;

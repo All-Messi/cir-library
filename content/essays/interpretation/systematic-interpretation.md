@@ -23,16 +23,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=Blockquote align=center style='margin-top:5.0pt;margin-right:0in;
-margin-bottom:5.0pt;margin-left:0in;text-align:center'><b><span
-style='font-size:14.0pt'>SYSTEMATIC INTERPRETATION</span></b></p>
-
-<p class=Blockquote align=center style='margin-top:5.0pt;margin-right:0in;
-margin-bottom:5.0pt;margin-left:0in;text-align:center'>Virgil Warren, PhD</p>
-
-<p class=Blockquote style='margin-top:5.0pt;margin-right:.5in;margin-bottom:
-5.0pt;margin-left:0in;text-align:justify'>&nbsp;</p>
-
 <p class=Blockquote style='margin-top:5.0pt;margin-right:0in;margin-bottom:
 0in;margin-left:0in;text-align:justify;text-indent:.5in'>Is there a verse or
 set of verses in scripture that supports the hermeneutical principle (biblical/systematic)
@@ -77,8 +67,4 @@ and the many other texts that involve inerrancy, infallibility, reliability
 discussions). If we agree that the Bible has essentially one author—the Holy
 Spirit—as these texts claim, then we treat it the way we would treat any other
 set of writings by a self-consistent writer.</p>
-
-<p class=Blockquote style='margin-top:5.0pt;margin-right:0in;margin-bottom:
-5.0pt;margin-left:0in;text-align:justify;text-indent:.5in'>                                                                                                                             
-<span style='font-size:11.0pt'>christir.org</span></p>
 </div>

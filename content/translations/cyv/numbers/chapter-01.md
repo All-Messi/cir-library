@@ -49,7 +49,7 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from Naphtali, Ahira Ben-Enan.</span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                16</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Those are the appointed leaders by tribes, the heads of clans in Israel.”         </span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Those are the appointed leaders by tribes, the heads of clans in Israel.”         </span></i></span></span></p>
 
 <p class="section-ref">Num 1:1-16</p>
 
@@ -94,7 +94,8 @@ next: chapter-02
 <span class="verse verse-v50" id="v50"><sup class="verse-num">50</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Put them in charge of the Tabernacle and everything associated with it. They’ll transport it and its furnishings, take care of it, and camp around it. </span></i></span>
 <span class="verse verse-v51" id="v51"><sup class="verse-num">51</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When it sets out, they’ll dismantle it. When it camps, they’ll assemble it. Execute any layman that comes near. </span></i></span>
 <span class="verse verse-v52" id="v52"><sup class="verse-num">52</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Israelites will camp in groups by their standard in their armies. </span></i></span>
-<span class="verse verse-v53" id="v53"><sup class="verse-num">53</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the Levites will camp around the Tabernacle so there won’t be any wrath on the Israelites. </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>[</span><b><sup><span style='font-size: 14.0pt;line-height:115%;font-family:"Times New Roman",serif'>54a</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]</span></span></p>
+<span class="verse verse-v53" id="v53"><sup class="verse-num">53</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the Levites will camp around the Tabernacle so there won’t be any wrath on the Israelites. </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>[</span></span>
+<span class="verse verse-v54" id="v54"><sup class="verse-num">54</sup> a<span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel did everything Yahveh commanded Moses.</span></p>
 

@@ -8,6 +8,7 @@ categories:
 - 'Mankind Anthropology'
 - 'Womens Studies'
 draft: false
+subtitle: "Reviewed"
 ---
 
 <style>
@@ -29,21 +30,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><i><span
-style='font-size:14.0pt'>Man &amp; Woman in Christian Perspective</span></i></b><b><span
-style='font-size:14.0pt'>, by Werner Neuer</span></b></p>
-
-<p class=MsoNormal style='margin-right:-.5in'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Reviewed by Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
-style='font-size:12.0pt'>  </span></b></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
 style='font-size:12.0pt'>Werner Neuer. <i>Man &amp; Woman in Christian
 Perspective</i>. Trans. from the 2nd German edition by Gordon J. Wenham. Wheaton,
@@ -142,17 +128,4 @@ operating in a non-clerical, free-church approach to “the ministry of the word
 These features of the presentation, however, do not change the assessment that <i>Man
 &amp; Woman in Christian Perspective</i> does a commendable job of dealing with
 the diverse elements of the current women’s studies debate within the church. </span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                        
-</span><span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

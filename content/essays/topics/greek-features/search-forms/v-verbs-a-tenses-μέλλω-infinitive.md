@@ -7,6 +7,8 @@ categories:
 - 'Greek Features'
 - 'Search Forms'
 draft: false
+aliases:
+- /essays/topics/greek-features/search-forms/v-verbs/
 ---
 
 <style>
@@ -811,7 +813,4 @@ infinitives</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     present-perfect
 infinitives</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

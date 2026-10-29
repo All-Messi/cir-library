@@ -41,7 +41,7 @@ next: chapter-05
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  The son of Othniel was Hathath.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>14b</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Seraiah was father of Joab, founder of Ge-harashim, so-called because they were craftsmen.</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> b<span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Seraiah was father of Joab, founder of Ge-harashim, so-called because they were craftsmen.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>14a</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Meonothai was father of Ophrah.</span></p>
 

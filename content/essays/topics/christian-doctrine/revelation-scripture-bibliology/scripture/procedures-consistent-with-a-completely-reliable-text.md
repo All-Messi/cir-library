@@ -8,6 +8,8 @@ categories:
 - 'Revelation Scripture Bibliology'
 - 'Scripture'
 draft: false
+aliases:
+- /essays/topics/christian-doctrine/revelation-scripture-bibliology/scripture/procedures-consistent/
 ---
 
 <style>
@@ -37,21 +39,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>   
-PROCEDURES CONSISTENT </span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>WITH
-A COMPLETELY RELIABLE TEXT</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></b></p>
-
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>            On the one
 hand, a totally reliable text in principle represents the guiding
@@ -350,18 +337,4 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 everything preserved</u>. Not everything written by inspired men has been
 preserved, as is evident from the different “Histories” of prophets. Just
 because the writing is inspired does not mean it is preserved.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.25in;text-align:justify'><span style='font-size:12.0pt;line-height:
-115%;font-family:"Times New Roman",serif'>                                                                                                                                   
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></p>
-
-<p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 </div>

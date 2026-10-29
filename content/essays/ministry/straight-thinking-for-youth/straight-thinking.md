@@ -27,9 +27,6 @@ weight: 2
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>Straight Thinking</span></b></p>
-
 <p class=MsoNormal align=center style='margin-bottom:.25in;text-align:center'><span
 style='font-size:10.0pt;line-height:115%'>010768</span></p>
 

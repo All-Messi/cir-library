@@ -31,18 +31,6 @@ draft: false
 
 <div class="word-content">
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><b><span style='font-size:14.0pt'>THE IMAGE AND THE BODY</span></b></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:.5in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'>Including the Body in the
 Image</span></p>
 
@@ -515,11 +503,4 @@ style='font-size:12.0pt'>For that matter, procreation might resemble emanation,
 which was used in the ancient church as one conceptualization for trinity—particularly
 by Origen. The Father relates to the Son as the sun relates to a ray of its
 light, and the Son relates to the Spirit in the same way. </span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in'><span style='font-size:12.0pt'>                                                                                                                            
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

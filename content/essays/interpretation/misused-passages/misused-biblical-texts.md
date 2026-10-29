@@ -5644,14 +5644,6 @@ span.msoDel
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>MISUSED
-BIBLICAL TEXTS</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, PhD </span></p>
-
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>            Comments
 below have more to do with interpretation mistakes than with false ideas. Regardless
@@ -10827,8 +10819,4 @@ this same discussion.</span></p>
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>Revelation<b> 7</b>:1 [The
 earth is flat.] See also Isaiah <b>11</b>:12; Psalm <b>93</b>:1.</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                        
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 </div>

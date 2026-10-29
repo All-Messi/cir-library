@@ -1625,9 +1625,4 @@ us</u> into doing and believing things by haranguing or putting undue urgency
 on the matter. We must avoid letting others <u>exhort us</u> into ideas by
 their winsome personality or emotional appeal. We dare not let them exhort us
 before they convince us.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                  
-christir.org</span></p>
 </div>

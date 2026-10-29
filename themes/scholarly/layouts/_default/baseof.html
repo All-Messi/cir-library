@@ -80,7 +80,6 @@
                     <li><a href="{{ "author/" | absURL }}">Virgil Warren, PhD</a></li>
                     <li><a href="{{ "essays/topics/interpersonalism/" | absURL }}">Interpersonalism</a></li>
                     <li><a href="{{ "about/" | absURL }}">About This Site</a></li>
-                    <li><a href="{{ "contact/" | absURL }}">Contact</a></li>
                 </ul>
             </div>
         </div>
@@ -111,15 +110,26 @@
     <script>
     (function() {
         let searchData = null;
-        fetch('{{ "index.json" | absURL }}')
-            .then(r => r.json())
-            .then(data => { searchData = data; })
-            .catch(err => console.log('Search index not yet available'));
+        let searchLoading = false;
+        // index.json is ~6 MB. Fetching it on every page load (2026-10-28: 3,900
+        // pages) cost phone users the whole index before reading one essay.
+        // Load it once, on first focus/tap of the search box.
+        function loadSearchIndex() {
+            if (searchData || searchLoading) return;
+            searchLoading = true;
+            fetch('{{ "index.json" | absURL }}')
+                .then(r => r.json())
+                .then(data => { searchData = data; searchInput.dispatchEvent(new Event('input')); })
+                .catch(err => { searchLoading = false; console.log('Search index not yet available'); });
+        }
+        const KIND_PENALTY = { 'study-prompt': 60, 'title-page': 70, 'outline': 40, 'chart': 25, 'notes': 25 };
 
         const searchInput = document.getElementById('header-search-input');
         const dropdown = document.getElementById('header-search-dropdown');
 
         if (searchInput && dropdown) {
+            searchInput.addEventListener('focus', loadSearchIndex);
+            searchInput.addEventListener('input', loadSearchIndex, { once: true });
             searchInput.addEventListener('input', function() {
                 const query = this.value.toLowerCase().trim();
                 
@@ -133,16 +143,17 @@
                            (item.content && item.content.toLowerCase().includes(query));
                 });
 
-                // Sort: essays/resources first, then chapters
-                results.sort((a, b) => {
-                    const aTitle = a.title && a.title.toLowerCase().includes(query) ? 1 : 0;
-                    const bTitle = b.title && b.title.toLowerCase().includes(query) ? 1 : 0;
-                    const aEssay = !a.book ? 1 : 0;
-                    const bEssay = !b.book ? 1 : 0;
-                    // Title matches first, then essays before chapters
-                    if (aTitle !== bTitle) return bTitle - aTitle;
-                    return bEssay - aEssay;
-                });
+                // Sort: title matches first, then essays before chapters; within
+                // that, non-essay kinds (prompt sheets, outlines...) sink and
+                // longer pages rise (2026-10-28).
+                const score = item => {
+                    let s = 0;
+                    if (item.title && item.title.toLowerCase().includes(query)) s += 100;
+                    if (!item.book) s += 30;
+                    s -= KIND_PENALTY[item.kind] || 0;
+                    return s;
+                };
+                results.sort((a, b) => (score(b) - score(a)) || ((b.words || 0) - (a.words || 0)));
 
                 const shown = results.slice(0, 8);
 

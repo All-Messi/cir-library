@@ -35,21 +35,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>SUNDAY WORSHIP</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><u><span
-style='font-size:12.0pt'><span style='text-decoration:none'>&nbsp;</span></span></u></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><u><span
-style='font-size:12.0pt'><span style='text-decoration:none'>&nbsp;</span></span></u></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><u><span
-style='font-size:12.0pt'><span style='text-decoration:none'>&nbsp;</span></span></u></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>1. Worship on Saturday after sundown </span></p>
 
@@ -168,10 +153,4 @@ Christian practice. Early Christians did not meet on the day they did to be
 more “culturally relevant,” whether to Jewish culture with its interest on
 Sabbath or to Greek culture with its lack of any recurring day that was
 distinctive.</span></p>
-
-<p class=MsoNormal><span style='font-size:11.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal><span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal><span style='font-size:11.0pt'>&nbsp;</span></p>
 </div>

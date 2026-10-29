@@ -7,6 +7,9 @@ categories:
 - 'Greek Features'
 - 'Greek Vocab Project'
 draft: false
+content_kind: chart
+aliases:
+- /essays/topics/greek-features/greek-vocab-project/prepositions/
 ---
 
 <style>

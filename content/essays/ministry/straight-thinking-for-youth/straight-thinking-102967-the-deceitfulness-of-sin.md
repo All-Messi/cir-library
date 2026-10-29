@@ -106,7 +106,4 @@ style='font-size:12.0pt;line-height:115%'>.)</span></p>
 <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
 line-height:115%'>Virgil Warren, <u>Straight</u>, October 29, 1967, p11                                                                              
 christir.org</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
-line-height:115%'>&nbsp;</span></p>
 </div>

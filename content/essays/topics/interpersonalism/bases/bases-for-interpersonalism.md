@@ -48,21 +48,6 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>BASES FOR INTERPERSONALISM</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:4.5pt'><b><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:4.5pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-text-indent:4.5pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'> I. What Is Most Original (the [inter]personal
 character of ultimate reality)</span></p>
@@ -1322,7 +1307,4 @@ with God Before (the) Law: Paul observes that the Law</span></p>
 later (Galatians <b>3</b>:6-<u>19</u>-29; Romans <b>4</b>:1-25; <b>5</b>:20). That
 is the point of using the words <i>“promise”</i> and <i>“faith”</i> in his
 discussions.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:11.0pt'>                                                                                                                                    christir.org</span></p>
 </div>

@@ -7,6 +7,8 @@ date: '2026-02-16'
 draft: false
 title: "YOUTH MINISTER SEARCH COMMITTEE: SUMMARY REPORT"
 weight: 2
+aliases:
+- /essays/ministry/christian-ministry-105/youth-minister-search-committee-summary-report-______________-____________/
 ---
 
 <style>
@@ -31,14 +33,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>YOUTH MINISTER SEARCH COMMITTEE: SUMMARY REPORT</span></b></p>
-
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:12.0pt'>&nbsp;</span></b></p>
-
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
 style='font-size:12.0pt'>______________ ____________</span><b><span

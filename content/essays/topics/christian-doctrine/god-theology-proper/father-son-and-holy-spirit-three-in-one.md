@@ -24,15 +24,6 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>FATHER, SON, AND HOLY SPIRIT: THREE-IN-ONE</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b>&nbsp;</b></p>
-
-<p class=MsoNormal align=center style='text-align:center'>Virgil Warren, PhD</p>
-
-<p class=MsoNormal align=center style='text-align:center'> </p>
-
 <p class=MsoNormal align=center style='text-align:center'>The sense in which Father,
 Son, and Spirit are three </p>
 
@@ -130,10 +121,4 @@ as one creating the others. They are holy God in that they are self-consistent
 and interpersonally moral (moral attributes). They are all-powerful, all-knowing,
 self-existent, and the like (natural attributes). There has never been a deity
 like our God.</p>
-
-<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='text-align:justify'>            </p>
 </div>

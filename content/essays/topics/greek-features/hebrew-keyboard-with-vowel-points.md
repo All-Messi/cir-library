@@ -7,6 +7,9 @@ date: '2026-02-16'
 draft: false
 title: HEBREW KEYBOARD WITH VOWEL POINTS
 weight: 2
+content_kind: chart
+aliases:
+- /essays/topics/greek-features/hebrew-keyboard-with-vowel-points-0-9-8-7-6-5-4-3-2-1-מ-מ-מ-מ-מ-מ-מ-מ-מ-מ-מ-מ-מ/
 ---
 
 <style>
@@ -34,14 +37,6 @@ weight: 2
 </style>
 
 <div class="word-content">
-<p class=MsoNormal><span lang=HE dir=RTL style='font-family:"Arial",sans-serif'>&nbsp;</span></p>
-
-<p class=MsoNormal>&nbsp;</p>
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>HEBREW
-KEYBOARD WITH VOWEL POINTS</span></p>
-
 <p class=MsoNormal><span lang=HE dir=RTL style='font-size:16.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>=  - 0  9   8  7  6  5  4  3  2  1</span><span
 lang=HE dir=RTL style='font-family:"Times New Roman",serif'>  ;</span></p>
@@ -97,7 +92,4 @@ lang=HE dir=RTL>ּ</span><span dir=LTR></span><span lang=HE><span dir=LTR></span
 
 <p class=MsoNormal><span lang=HE dir=RTL style='font-size:20.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>מֻ</span></p>
-
-<p class=MsoNormal><span style='font-size:20.0pt;line-height:115%;font-family:
-"Times New Roman",serif'>&nbsp;</span></p>
 </div>

@@ -104,6 +104,4 @@ line-height:115%'>Read Hebrews <b>11</b>:8-16</span><span style='font-size:
 <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
 line-height:115%'>Virgil Warren, <u>Straight</u>, December 3, 1967, p13                                                                             
 christir.org.</span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:115%'>&nbsp;</span></p>
 </div>

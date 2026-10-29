@@ -32,17 +32,10 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>TRUTH</span></b></p>
-
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Truth
 is reality in contrast to perception of reality, conception about reality,
 words about reality, and the interpretation of words about reality. It is the
 objective (the way it is) in contrast to the subjective (the way it seems to a
 beholder).</span></p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>Virgil Warren     </span><span
-style='font-family:"Times New Roman",serif'>christir.org</span></p>
 </div>

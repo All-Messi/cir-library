@@ -20,13 +20,6 @@ weight: 3
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>For All the Saints Who from Their Labors Rest</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
-
-<p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
-
 <p class=MsoNormal align=center style='text-align:center'><span
 style='font-size:12.0pt'>William Walsham How</span></p>
 
@@ -96,6 +89,4 @@ Alleluia!</p>
 <p class=MsoNormal>Through gates of pearl stream in the countless host,</p>
 
 <p class=MsoNormal>Singing to Father, Son, and Holy Ghost, Alleluia, Alleluia!</p>
-
-<p class=MsoNormal>&nbsp;</p>
 </div>

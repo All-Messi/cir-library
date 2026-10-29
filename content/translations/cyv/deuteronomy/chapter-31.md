@@ -23,8 +23,8 @@ next: chapter-32
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’ll deliver them up to you, and you’ll do to them like I’ve commanded you. </span></i></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Be strong and courageous; don’t tremble with fear at them. Yahveh’s going with you. He won’t fail you or abandon you.”</span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>7
-</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>Then Moses called Joshua and told him in the presence of all Israel, </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> 
+<span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>Then Moses called Joshua and told him in the presence of all Israel, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:31.5pt; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Be strong and courageous. You’ll</span></i><i><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>sg</span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> go with these people into the land and give it to them to inherit. </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh will go ahead of you. He won’t fail you or abandon you. Don’t be afraid or intimidated.
 </span></i></span></p>

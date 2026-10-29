@@ -19,16 +19,6 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>COLOSSIANS 3:18-4:1:  MAJOR IDEAS</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>&nbsp;</span></b></p>
-
-<p class=MsoNormal align=center style='text-align:center'>Virgil Warren, PhD</p>
-
-<p class=MsoNormal align=center style='text-align:center'><b>&nbsp;</b></p>
-
 <p class=MsoNormal style='text-align:justify'>Marriage, parenting, and business
 are all interpersonal processes.</p>
 
@@ -104,10 +94,4 @@ ameliorate less than ideal circumstances</p>
 
 <p class=MsoNormal style='text-align:justify'>How exert influence on other
 people?</p>
-
-<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
-
-<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
-
-<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt'>christir.org</span></p>
 </div>

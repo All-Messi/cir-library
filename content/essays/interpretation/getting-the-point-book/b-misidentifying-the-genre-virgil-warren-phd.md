@@ -228,13 +228,4 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 style='font-size:12.0pt'>                        Is this set of chapters a
 parable for the future history of the church or a straightforward description
 of seven contemporary churches and no more?</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-40.5pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                      
-</span><span style='font-size:11.0pt'>christir.org</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-40.5pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
 </div>

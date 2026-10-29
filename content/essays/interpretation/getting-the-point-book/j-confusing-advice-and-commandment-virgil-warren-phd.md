@@ -343,9 +343,4 @@ style='font-size:12.0pt'>            In choosing how to act and opera
 Christians have several items to consider: commandment (moral commandment,
 positive commandment), practical advice, approved precedent, appropriate inference,
 and significant silence.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                   
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 </div>
