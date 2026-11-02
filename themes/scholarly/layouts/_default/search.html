@@ -35,6 +35,9 @@ const KIND_LABEL = {
     'outline': 'Outline', 'chart': 'Chart', 'notes': 'Notes'
 };
 const KIND_PENALTY = { 'study-prompt': 60, 'title-page': 70, 'outline': 40, 'chart': 25, 'notes': 25 };
+// Parked kinds (2026-11-02): class prompt sheets, title pages and bare outlines
+// always sort after every other result, whatever their score.
+const PARKED_KINDS = { 'study-prompt': 1, 'title-page': 1, 'outline': 1 };
 
 // Legacy index.json (title + first 500 chars) — only loaded if Pagefind is unavailable
 let legacyLoading = false;
@@ -134,6 +137,7 @@ function performSearchLegacy() {
     // prompt sheet no longer outranks the essays on the same topic.
     const tierOf = item => {
         if (item.pageType === 'section') return 0;
+        if (PARKED_KINDS[item.kind]) return 3;
         if (!item.book && !((item.permalink||'').includes('/resources/'))) return 1;
         return 2;
     };
@@ -290,16 +294,31 @@ async function performSearch() {
     // Rank: Pagefind score, scaled down for non-essay kinds; category pages ("Browse") first.
     const head = search.results.slice(0, 200);
     const datas = await Promise.all(head.map(r => r.data()));
-    currentResults = head.map((r, i) => {
+    const flat = head.map((r, i) => {
         const d = datas[i];
         const kind = (d.meta && d.meta.kind) || '';
         const type = (d.meta && d.meta.type) || (d.filters && d.filters.type && d.filters.type[0]) || 'essay';
         return { d, type, kind, score: r.score * (KIND_WEIGHT[kind] || 1) };
     });
-    currentResults.sort((a, b) => {
-        const t = (a.type === 'section' ? 0 : 1) - (b.type === 'section' ? 0 : 1);
-        return t !== 0 ? t : (b.score - a.score);
-    });
+    // Bible chapters collapse into one card per book + translation (2026-11-02):
+    // "colossians" used to list every chapter of every translation as its own
+    // hit. The card links the book page and each matching chapter.
+    const books = new Map();
+    currentResults = [];
+    for (const item of flat) {
+        const m = item.d.meta || {};
+        if (item.type !== 'bible' || !m.book_url) { currentResults.push(item); continue; }
+        let g = books.get(m.book_url);
+        if (!g) {
+            g = { d: item.d, type: 'bible', kind: '', score: item.score, chapters: [] };
+            books.set(m.book_url, g); currentResults.push(g);
+        }
+        g.score = Math.max(g.score, item.score);
+        g.chapters.push({ n: parseInt(m.chapter, 10) || 0, url: item.d.url });
+    }
+    books.forEach(g => g.chapters.sort((a, b) => a.n - b.n));
+    const tierOf = item => item.type === 'section' ? 0 : (PARKED_KINDS[item.kind] ? 2 : 1);
+    currentResults.sort((a, b) => (tierOf(a) - tierOf(b)) || (b.score - a.score));
     const total = search.results.length;
     if (total === 0) {
         resultsDiv.innerHTML = '<p class="search-note">No results found for "' + escapeHtml(query) + '"</p>';
@@ -326,6 +345,7 @@ function renderMore() {
 function renderCard(item) {
     const d = item.d, m = d.meta || {};
     let cardClass = 'essay-result', badgeText = '', badgeClass = '';
+    let html_title = escapeHtml(m.title || d.url), html_url = d.url, html_chapters = '';
     if (item.type === 'section')       { cardClass = 'section-result';  badgeText = 'Browse';   badgeClass = 'badge-section'; }
     else if (item.type === 'harmony')  { cardClass = 'harmony-result';  badgeText = 'Harmony';  badgeClass = 'badge-harmony'; }
     else if (item.type === 'bible')    { cardClass = 'bible-result';    badgeText = 'Bible';    badgeClass = 'badge-bible'; }
@@ -334,12 +354,20 @@ function renderCard(item) {
     let meta = '';
     if (item.type === 'section') meta = 'Category' + (m.parent ? ' · ' + escapeHtml(m.parent) : '') + (m.pages ? ' · ' + m.pages + ' pages' : '');
     else if (item.type === 'bible') meta = escapeHtml((m.book || '') + (m.translation ? ' · ' + m.translation : ''));
+    if (item.chapters) {
+        const label = item.chapters.length === 1 ? 'Chapter ' : 'Chapters ';
+        const links = item.chapters.map(c => '<a class="result-chapter" href="' + c.url + '">' + c.n + '</a>').join(' ');
+        html_title = escapeHtml((m.book || '') + (m.translation ? ' (' + m.translation + ')' : ''));
+        html_url = m.book_url;
+        html_chapters = '<p class="result-chapters">' + label + links + '</p>';
+    }
     else if (item.type === 'harmony') meta = escapeHtml(m.reference || 'Gospel Harmony');
     else if (m.category) meta = escapeHtml(m.category);
     let html = '<article class="search-result-card ' + cardClass + '">';
     if (badgeText) html += '<div class="result-badges"><span class="result-type-badge ' + badgeClass + '">' + badgeText + '</span></div>';
-    html += '<h3><a href="' + d.url + '">' + escapeHtml(m.title || d.url) + '</a></h3>';
+    html += '<h3><a href="' + html_url + '">' + html_title + '</a></h3>';
     if (meta) html += '<p class="result-meta">' + meta + '</p>';
+    html += html_chapters;
     if (d.excerpt) html += '<p class="result-snippet">' + d.excerpt + '</p>';
     html += '</article>';
     return html;
@@ -509,6 +537,9 @@ document.getElementById('search-input').addEventListener('keypress', function(e)
 .badge-harmony  { background: #7030A0; }
 .badge-resource { background: #3a5a6b; }
 .badge-kind     { background: #8a8a8a; }
+.result-chapters { font-family: 'Source Sans Pro', sans-serif; font-size: 0.85rem; color: #666; margin: 0.25rem 0 0.4rem; }
+.result-chapters a { display: inline-block; min-width: 1.6em; padding: 0.05em 0.35em; margin-right: 0.15em; border: 1px solid #d9d2c3; border-radius: 4px; text-align: center; color: #5a4a22; text-decoration: none; }
+.result-chapters a:hover { background: #f3ecdc; }
 
 .result-meta {
     font-family: var(--font-ui, 'Source Sans Pro', sans-serif);

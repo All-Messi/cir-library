@@ -162,7 +162,7 @@
             <div class="chapter-content" data-pagefind-body>
                 {{ partial "pagefind-tags.html" (dict
                     "filter" (dict "type" "bible" "translation" .Params.translation "book" .Params.book)
-                    "meta"   (dict "type" "bible" "title" (printf "%s %v (%s)" .Params.book .Params.chapter .Params.translation) "translation" .Params.translation "book" .Params.book)) }}
+                    "meta"   (dict "type" "bible" "title" (printf "%s %v (%s)" .Params.book .Params.chapter .Params.translation) "translation" .Params.translation "book" .Params.book "chapter" .Params.chapter "book_url" .CurrentSection.RelPermalink)) }}
                 {{ .Content }}
             </div>
         </div>
