@@ -188,7 +188,7 @@ function performSearchLegacy() {
             }
         }
 
-        html += '<article class="search-result-card ' + cardClass + '">';
+        html += '<article class="search-result-card ' + cardClass + '" data-href="' + result.permalink + '">';
 
         // Badge row
         if (badgeText) {
@@ -363,7 +363,7 @@ function renderCard(item) {
     }
     else if (item.type === 'harmony') meta = escapeHtml(m.reference || 'Gospel Harmony');
     else if (m.category) meta = escapeHtml(m.category);
-    let html = '<article class="search-result-card ' + cardClass + '">';
+    let html = '<article class="search-result-card ' + cardClass + '" data-href="' + html_url + '">';
     if (badgeText) html += '<div class="result-badges"><span class="result-type-badge ' + badgeClass + '">' + badgeText + '</span></div>';
     html += '<h3><a href="' + html_url + '">' + html_title + '</a></h3>';
     if (meta) html += '<p class="result-meta">' + meta + '</p>';
@@ -376,6 +376,16 @@ function renderCard(item) {
 function escapeHtml(s) {
     return String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 }
+
+// Whole card is clickable (2026-11-02): the badge and blank space used to be
+// dead. Inner links (title, chapter numbers) keep their own targets, and a
+// text selection drag doesn't navigate.
+document.getElementById('search-results').addEventListener('click', function (e) {
+    const card = e.target.closest('.search-result-card[data-href]');
+    if (!card || e.target.closest('a')) return;
+    if (window.getSelection && String(window.getSelection())) return;
+    window.location.href = card.dataset.href;
+});
 
 document.getElementById('search-input').addEventListener('keypress', function(e) {
     if (e.key === 'Enter') performSearch();
@@ -505,6 +515,8 @@ document.getElementById('search-input').addEventListener('keypress', function(e)
     transition: box-shadow 0.2s;
 }
 .search-result-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.07); }
+.search-result-card[data-href] { cursor: pointer; }
+.search-result-card[data-href]:hover { box-shadow: 0 2px 10px rgba(0,0,0,.08); }
 .search-result-card h3 { margin: 0.25rem 0 0.3rem; font-size: 1.05rem; }
 .search-result-card h3 a { color: var(--color-text, #1a1a1a); text-decoration: none; }
 .search-result-card h3 a:hover { color: var(--color-accent, #9c7c38); }
