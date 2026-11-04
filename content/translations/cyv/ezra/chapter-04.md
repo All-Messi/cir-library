@@ -20,8 +20,8 @@ next: chapter-05
 
 <p class="section-ref">Ezra 4:1-5</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><i><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>6</span></sup></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Years
-</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>later, at the beginning of the reign of Ahasuerus/<i><u>Xerxes</u></i>, they lodged a complaint against Judah and Jerusalem. </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Years
+</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>later, at the beginning of the reign of Ahasuerus/<i><u>Xerxes</u></i>, they lodged a complaint against Judah and Jerusalem. </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Still later</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>, Bishlam, Mithredath, Tabeel, and their associates wrote to <u>Artaxerxes</u>. The letter was in Aramaic <i>script </i>and translated <i>into the Aramaic</i> <i>language for the king</i>. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Rehum the governor and Shimshai the secretary wrote out the letter against Jerusalem to King Artaxerxes—</span></span>

@@ -28,7 +28,8 @@ next: chapter-42
 
 <p class="section-ref">Jer 41:4-10</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>11</span></sup></b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Johanan son of Kareah and his commanders heard what Ishmael had done. </span><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So they took all the men and went to fight him; they found him by the large pool in Gibeon. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Johanan son of Kareah and his commanders heard what Ishmael had done. </span></span>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So they took all the men and went to fight him; they found him by the large pool in Gibeon. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the people with Ishmael saw Johanan and his commanders, they were happy. </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So the ones Ishmael had taken captive defected to Johanan. </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Ishmael escaped from Johanan with 8 men and went to the Ammonites. </span></span>

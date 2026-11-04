@@ -46,7 +46,7 @@ next: chapter-07
 ### And they will-be (the) people of-me.
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>17</span></sup></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                     Wherefore, come-out from (the) midst of-them, </span></b></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                     Wherefore, come-out from (the) midst of-them, </span></b></span></p>
 
 
 ### And be separate,’ says (the) Lord,
@@ -60,7 +60,7 @@ next: chapter-07
 ### And-I will-welcome you,
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>18</span></sup></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                     And I-will-be </span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>to-you<b> [for] (a) Father,</b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                     And I-will-be </span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>to-you<b> [for] (a) Father,</b></span></span></p>
 
 
 <style>

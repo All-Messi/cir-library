@@ -624,44 +624,7 @@ effects of legalism</span></b></p>
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='position:relative;z-index:251659264'><span style='left:0px;position:
-absolute;left:95px;top:-832px;width:110px;height:12px'><img width=110
-height=12 src="/images/essays/some-implications-of-legal-process-for-hermeneutics-faith-and-practice-in-the/image001.png"></span></span><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            hermeneutics<sup>1</sup>                                     practice<sup>3</sup></span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='position:relative;z-index:251660288'><span style='left:0px;position:
-absolute;left:67px;top:-844px;width:159px;height:31px'>
-
-<table cellpadding=0 cellspacing=0 align=left>
- <tr>
-  <td width=0 height=0></td>
-  <td width=67></td>
-  <td width=24></td>
-  <td width=68></td>
- </tr>
- <tr>
-  <td height=29></td>
-  <td rowspan=2 align=left valign=top><img width=67 height=31
-  src="/images/essays/some-implications-of-legal-process-for-hermeneutics-faith-and-practice-in-the/image002.png"></td>
-  <td></td>
-  <td align=left valign=top><img width=68 height=29
-  src="/images/essays/some-implications-of-legal-process-for-hermeneutics-faith-and-practice-in-the/image003.png"></td>
- </tr>
- <tr>
-  <td height=2></td>
- </tr>
-</table>
-
-</span></span><sup><span style='font-size:12.0pt;line-height:115%;font-family:
-"Times New Roman",serif'>&nbsp;</span></sup></p>
-
-<br clear=ALL>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                faith<sup>2
-</sup></span></p>
+<p class="cir-diagram" style="text-align:center;margin:1.25rem 0"><img src="/images/diagrams/legal-process-hermeneutics-faith-practice-1.png" alt="Triangle: hermeneutics (1), faith (2) and practice (3), each with two-way arrows to the others" width="320" style="max-width:100%;height:auto"></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>

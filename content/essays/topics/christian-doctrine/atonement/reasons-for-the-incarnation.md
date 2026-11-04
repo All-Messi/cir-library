@@ -54,7 +54,7 @@ come here?</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>        Knowing what Golgatha was going to be like,
+style='font-size:12.0pt'>        Knowing what Golgotha was going to be like,
 why did Jesus ever become a man?</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -165,12 +165,15 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>           A. Cleansing from legal defilement via the
+style='font-size:12.0pt'>        A. Cleansing from legal defilement via the
 blood of bulls and goats</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                     B. Cleansing from defilement of
-conscience via the giving of the body of Messiah once and for all</span></p>
+style='font-size:12.0pt'>               B. Cleansing from defilement of
+conscience via the giving of the body of Messiah </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>                     once and for all</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
@@ -317,7 +320,11 @@ style='font-size:12.0pt'>              1. Willingness to accept lim
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>              2. Willingness to accept people</span></p>
+style='font-size:12.0pt'>              2. Willingness to endure agony</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
+style='font-size:12.0pt'>              3. Willingness to accept people</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
@@ -348,7 +355,7 @@ style='font-size:12.0pt'>       A. Identification</span></p>
 margin-left:63.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><span
 style='font-size:12.0pt'> B. Timing for readiness: the timing of the
 incarnation (Galatians <b>4</b>:4 <i>“fullness of time”</i>; John <b>16</b>:12,
-<i>“you cannot bear them now”)</i></span></p>
+<i>“You cannot bear them now”)</i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span

@@ -93,7 +93,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            The following comments shoulder a negative
-burden of proof to show that the penal substitution theory is foreign to the Christ’s
+burden of proof to show that the penal substitution theory is foreign to Christ’s
 atonement in the reconciliation process. Such a verdict would not apply, of
 course, if legal theological method were correct, where penal substitution <u>would</u>
 make sense. Penal substitution, however, does not belong in non-legal theology,
@@ -120,8 +120,8 @@ transferred, and the penalty for the guilt cannot be transferred. It does not
 matter whether some second person is willing to take the penalty (as in paying
 someone else’s parking fine), whether he is sinless or not (a son’s speeding
 ticket); whether he is human, divine, or angelic; or whether he or a third
-party prescribed the penalty. The simple fact that he did not commit the sin means
-that he cannot be considered guilty of it or penalized for it. </span></p>
+party prescribed the penalty. The simple fact that he did not commit the sin
+means that he cannot be considered guilty of it or penalized for it. </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            What is true negatively is also true
@@ -302,10 +302,9 @@ thistles (Matthew<b> 7</b>:16; Luke <b>6</b>:44); you reap what you sow
 (Galatians<b> 6</b>:7-9); what is <u>of</u> flesh <u>is</u> flesh (John<b> 3</b>:6).
 In this case, the result is salvation, which is reconciliation, which is
 interpersonal. Law and interpersonalism are parallel categories; they are
-different kinds of things that operate by feature</span><span lang=EL
-style='font-size:12.0pt'>σ</span><span style='font-size:12.0pt'> natural to
-each. Since the result is not legal, the cause is not legal; and substitution
-does not represent how Christ saves us. A relationship cannot be established,
+different kinds of things that operate by features natural to each. Since the
+result is not legal, the cause is not legal; and substitution does not
+represent how Christ saves us. A relationship cannot be established,
 re-established, or experienced vicariously. Jesus Christ is an interpersonal
 basis for reconciliation with God or he is no basis at all.</span></p>
 
@@ -457,65 +456,14 @@ style='font-size:12.0pt'>              In keeping with interpersona
 distinctive characteristic of the Christian worldview, the following diagram
 summarizes the pattern of “salvation” as reflective of 2 Corinthians <b>5</b>:14-21
 and Romans <b>5</b>:10ff. It applies to both individual and corporate humanity.
-As we have identified with Adam unto estrangement so we identify with Christ                                     
-unto reconciliation.    </span></p>
+As we have identified with Adam unto estrangement, so we identify with Christ unto
+reconciliation.    </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
-style='font-size:12.0pt'>                    Fellowship                                              
-Reconciliation</span></b></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='position:relative;z-index:251656192'><span style='left:0px;position:
-absolute;left:57px;top:-664px;width:358px;height:78px'>
-
-<table cellpadding=0 cellspacing=0 align=left>
- <tr>
-  <td width=0 height=0></td>
-  <td width=146></td>
-  <td width=34></td>
-  <td width=178></td>
- </tr>
- <tr>
-  <td height=78></td>
-  <td align=left valign=top></td>
-  <td></td>
-  <td align=left valign=top></td>
- </tr>
-</table>
-
-</span></span><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<br clear=ALL>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                                            <b>Alienation</b></span></p>
+<p class="cir-diagram" style="text-align:center;margin:1.25rem 0"><img src="/images/diagrams/strictures-on-penal-substitutionary-atonement-1.png" alt="Diagram: Fellowship → (identification with Adam: action, sin) → Alienation → (identification with Christ: action, repentance/forgiveness) → Reconciliation" width="560" style="max-width:100%;height:auto"></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -563,7 +511,7 @@ and wanting to be around him as “home” (cp. Philippians <b>3</b>:20; Hebrews
 12</b>:18-29; <i>etc</i>.). We share his destiny, we are “in sympathy with”
 him, we are “on his side,” we participate in any rejection he receives (cp.
 Hebrews <b>13</b>:13), we take his name. Baptism is our performative act of
-initial identification with him; the Lord’s Supper is our periodic reaffirmation
+initial identification with him; the Lord’s Supper is our periodic affirmation
 of that identity. Identification means committing ourselves to the same <u>degree</u>
 of obedience that he demonstrated—even to the point of violent death on a cross
 (Matthew <b>10</b>:38; <b>16</b>:24; Philippians <b>2</b>:8; cp. Hebrews <b>5</b>:7-10).
@@ -609,9 +557,9 @@ correspond with the nature and meaning of the covenant (Jeremiah <b>31</b>:31-34
 <i>“The name”</i> indicates who a Christian is (Matthew <b>28</b>:19; Acts <b>8</b>:16;
 <b>10</b>:48; <b>19</b>:5). In several texts about identity, baptism is part of
 the topic, which means again that baptism is an act of personal identification
-with Jesus Christ. Among other things it marks who we are, and any benefits involved
-follow from that. <i>“Baptism unto Moses”</i> is a comparable expression in 1
-Corinthians <b>10</b>:2. The disciples were called <i>“</i><u>Christians</u><i>”</i>
+with Jesus Christ. Among other things it marks who we are, and any benefits
+involved follow from that. <i>“Baptism unto Moses”</i> is a comparable
+expression in 1 Corinthians <b>10</b>:2. The disciples were called <i>“</i><u>Christians</u><i>”</i>
 in Antioch and thereafter (Acts <b>11</b>:26; cp.<b> 26</b>:28; 1 Peter <b>4</b>:16;
 cp. 1 Corinthians <b>1</b>:14-16).</span></p>
 
@@ -806,16 +754,17 @@ does not imply complete mutuality. We do not negotiate the ethical principles
 that derive from our purpose, nature, and relationship with him. He sets the
 framework and gives us freedom within it.</span></p>
 
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
-style='font-size:12.0pt'>(3)</span></b><span style='font-size:12.0pt'> There is
-a standard of behavior under interpersonalism as surely as there is under law, and
-that standard is perfection as surely as it is under law. Law is simply a kind
-of setting in which the standard exists. Legal systems are rooted in <u>authority</u>
-and driven by authority. A legal standard is rooted in the authority of the
-lawgiver, so it need not even conform to the nature of the case to be valid. In
-legal processes, authority connects cause and result. In interpersonal
-processes, the leader earns the right to set standards and uses <u>influence</u>
-to connect purpose and result.<span style='position:relative;top:-3.0pt'>3</span></span></p>
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><b><span style='font-size:12.0pt'>(3)</span></b><span style='font-size:
+12.0pt'> There is a standard of behavior under interpersonalism as surely as
+there is under law, and that standard is perfection as surely as it is under
+law. Law is simply a kind of setting in which the standard exists. Legal
+systems are rooted in <u>authority</u> and driven by authority. A legal
+standard is rooted in the authority of the lawgiver, so it need not even
+conform to the nature of the case to be valid. In legal processes, authority
+connects cause and result. In interpersonal processes, the leader earns the
+right to set standards and uses <u>influence</u> to connect purpose and result.<span
+style='position:relative;top:-3.0pt'>3</span></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt'>         </span></p>
@@ -865,9 +814,9 @@ reality.</span></p>
 are some elements in common between the imagery and the reality. On the
 negative side, both substitution and “identification” involve another person
 who endures pain because of something we did. Had we not sinned, Jesus would
-not have been involve painfully in the human predicament. On the positive side,
-in both substitution and “identification” there is a connection between our
-righteousness and his. By entering the extremes of our condition, Jesus
+not have been involved painfully in the human predicament. On the positive
+side, in both substitution and “identification” there is a connection between
+our righteousness and his. By entering the extremes of our condition, Jesus
 qualified himself as an appropriate object of identification. In the human
 situation he became righteous by carrying out the will of the Father for him to
 the final degree, thus making him a very appropriate object of identification
@@ -875,10 +824,12 @@ unto righteousness. In both substitution and identification there is a
 connection between our sin and his suffering and between his righteousness and
 our being viewed as righteous. Jesus may be viewed as a substitute, not for
 taking <u>our</u> punishment, but for replacing Adam, so to speak, as the
-representative head of the “new race: with whom we can identify (cp. Romans <b><i>5</i></b>:12).
-On the basis of <u>these common elements</u>, substitution can serve as helpful
-imagery for identification even though in other respects <u>the manner of
-connection between these elements</u> differs in the two mechanisms. In ransom,
+representative head of the “new race” with whom we can identify (cp. Romans <b><i>5</i></b>:12).
+Finally, substitution involves a situation where a person in need receives a
+benefit that his own actions do not produce (faith/commitment). On the basis of
+<u>these common elements</u>, substitution can serve as helpful imagery for
+identification even though in other respects <u>the manner of connection
+between these elements</u> differs in the two mechanisms. In ransom,
 substitution, and Christus Victor, a helpless first person in need is saved by a
 second person without the needing person contributing to causing the salvation.</span></p>
 
@@ -936,9 +887,6 @@ to a significant element in the original Christian community. Besides,
 substitution imagery has the values noted above under III A. Penal substitution
 may be thought of as the functional equivalent under law for what ultimate
 self-sacrifice is under personal relationship.</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt'>One characteristic of an event is that it
@@ -1045,9 +993,9 @@ extension of the Righteous Father (John <b>10</b>:30; <i>etc</i>.). The most
 crucial part of the atonement is this point: a righteousness <u>reckoned</u> to
 us by God because of our identification with the Righteous One; imputing
 righteousness is the positive side of forgiving sin. Jesus Christ is more than
-a martyr to a cause, the founder of a movement, or prophet for God; beyond such
-lesser things, he is the object of identification. Moral influence does not
-address past failure very well, whereas what we are saying addresses it by
+a martyr to a cause, the founder of a movement, or a prophet for God. Beyond
+such lesser things, he is the object of identification. Moral influence does
+not address past failure very well, whereas what we are saying addresses it by
 making forgiveness the decisive factor in eradicating past failure from affecting
 the present situation. Forgiveness eradicates it by God’s mentally removing it
 from consideration in present and future relationship with him.</span></p>
@@ -1175,12 +1123,12 @@ principle of divine jurisprudence’ it was a analogous one.</span></p>
 died for our sins (1 Corinthians <b>15</b>:3; <i>etc</i>.). The question in this
 section of the essay is a theoretical one—how his dying was for our sins and
 whether what he did was the only thing he could have done. As always, readers
-must get past the statements to the reality itself. They do that by
-understanding the full context of revealed information, by contemplating the
-nature of the case itself, and by applying general principles as they read
-specific statements. Applying that interpretation technique is important
-because human language in the Bible may speak about subjects analogically as
-well as strictly, and readers must distinguish the two types of speaking. </span></p>
+must get past the statements to the reality itself. We do that by understanding
+the full context of revealed information, by contemplating the nature of the
+case itself, and by applying general principles as we read specific statements.
+Applying that interpretation technique is important because human language in
+the Bible may speak about subjects analogically as well as strictly, and readers
+must distinguish the two types of speaking. </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt'>For example, the Old Testament says quite
@@ -1230,9 +1178,9 @@ Hebrews<b> 5</b>:7-10 says that Jesus cried out to him who was able to save him
 from death; the Father was <u>not</u> able to save him from death if his death
 was inherently necessary. Under penal substitution God was not sovereign at
 this point; he was bound by the nature of the case he himself previously had to
-establish.<span style='position:relative;top:-3.0pt'>11 </span>Did Satan have
-God “over a barrel?” At least we can say that God’s not removing the cup does
-not show that he could not have removed it.</span></p>
+establish.<span style='position:relative;top:-3.0pt'>11 </span>Again we ask, did
+Satan have God “over a barrel?” At least we can say that God’s not removing the
+cup does not show that he could not have removed it.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt'>It is important to keep in mind one of our
@@ -1251,22 +1199,22 @@ foundation to save.</span></p>
 sacrifices were not actually effective for salvation, why were they instituted
 at all if they did not even foreshadow a future reality?</u> Such a question,
 when answered, is not answered directly from biblical statements, but from
-theological perception based on the nature of the case and guided by the
-principle of consistency. The appropriate response is, first, that animal
-sacrifices were logically <u>after</u> what they prefigured. In light of the
-future fact that the Messiah would be killed, substitutionary animal sacrifices
-for the forgiveness of sins could be instituted as an analogy to the future
-event that culminated in Messiah’s bloody death on a cross. Had there been no
-such event in the offing, the sacrifices might not have been instituted. Sacrifices
-were already part of Near Eastern culture; so God could institute them as a
+theological perception based on the nature of the case and guided by
+consistency. The appropriate response is, first, that animal sacrifices were
+logically <u>after</u> what they prefigured. In light of the future fact that
+the Messiah would be killed, substitutionary animal sacrifices for the
+forgiveness of sins could be instituted as an analogy to the future event that
+culminated in Messiah’s bloody death on a cross. Had there been no such event
+in the offing, the sacrifices might not have been instituted. Sacrifices were
+already part of Near Eastern culture; so God could institute them as a
 culturally relevant practice filled with a new symbolic meaning that derived
-from a future analogous reality. Substitutionary animal sacrifices were instituted
-because by analogy they foreshadowed <u>an even</u>t in which Messiah shed his
-blood in death on a cross for our sins. Animal sacrifices did not foreshadow <u>a
-substitutionary event</u>. Substitution had to do with the animal sacrifices,
-not what they foreshadowed. That is why in part they were not effective.
-Besides not being human <u>or</u> “sinless,” they were substitutes, which are
-artificial in punishment for guilt. </span></p>
+from a future analogous reality. Substitutionary animal sacrifices were
+instituted because by analogy they foreshadowed <u>an even</u>t in which
+Messiah shed his blood in death on a cross for our sins. Animal sacrifices did
+not foreshadow <u>a substitutionary event</u>. Substitution had to do with the
+animal sacrifices, not what they foreshadowed. That is why in part they were
+not effective. Besides not being human <u>or</u> “sinless,” they were
+substitutes, which are artificial in punishment for guilt. </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt'>              </span></p>
@@ -1307,12 +1255,12 @@ takes place “on paper” but between persons, not on stone but in hearts, not
 aside from God in the legal process but in the mind and will of God as person.
 The point is <u>how</u> we are <u>viewed</u> righteous by God in terms of his
 Son and <u>why</u> he views us so. He does not consider us righteous because we
-are righteous nor because someone else’s righteousness has somehow been objectively
-transferred to us, but because we identify with, and commit ourselves to, the
-Righteous One. God subjectively regards us as “like” the One we are willing to identify
-with, commit to, share the values and purposes of, and accept the leadership
-of. God’s attitude toward us is not based decisively even on our repentance,
-but on our identity with the Messiah.</span></p>
+are righteous nor because someone else’s righteousness has somehow been
+objectively transferred to us, but because we identify with, and commit
+ourselves to, the Righteous One. God subjectively regards us as “like” the One
+we are willing to identify with, commit to, share the values and purposes of,
+and accept the leadership of. God’s attitude toward us is not based decisively
+even on our repentance, but on our identity with the Messiah.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -1355,8 +1303,8 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 .5in'><span style='font-size:12.0pt'>Paradoxes and inconsistencies work against
 conversion. Can an unbeliever love, trust, and serve an arbitrary God? Can we
 expect someone outside of Christ to accept what does not make sense? Such
-questions assume that penal substituion theory is irrational, given the rest of
-revelation. The fact that a doctrine does not make sense to someone does not
+questions assume that penal substitution theory is irrational, given the rest
+of revelation. The fact that a doctrine does not make sense to someone does not
 mean it is false or cannot be what God meant. But the question here is not
 about accepting the <u>truth</u>; it is not about God’s will or intention
 itself or about his right to choose; it is about our <u>interpretation</u> of
@@ -1457,22 +1405,35 @@ style='position:relative;top:-3.0pt'>2</span>, 10; <b>15</b>:3; <b>17</b>:14;<b>
 imagery melts into the Suffering Servant background from Isaiah <b>52</b>:13-<b>53</b>:12
 (note Acts <b>8</b>:26-39). The <u>Lord’s Supper</u>, instituted at Passover,
 ties into that background as well (Matthew <b>26</b>:26-29 = Mark <b>14</b>:22-25
-= Luke<b> 22</b>:14-23; cp. 1 Corinthians <b>11</b>:20-32). <b>(5)</b> Christ’s
+= Luke<b> 22</b>:14-23; cp. 1 Corinthians <b>11</b>:20-32). </span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+margin-left:76.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-.25in'><b><span
+style='font-size:12.0pt'> (5)</span></b><span style='font-size:12.0pt'> Christ’s
 “<u>bearing our sins</u>” comes up in Hebrews <b>9</b>:27-28 as well as 1 Peter<b>
-2</b>:24. <b>(6)</b> Combined with ransom imagery, Christ said he would give
-his life as a ransom “<u>in place of</u>” many (Matthew <b>20</b>:28 = Mark <b>10</b>:45).
-<b>(7) </b><i>“Dying ‘<u>on behalf of’</u> sins”</i> (</span><span lang=EL
-style='font-size:12.0pt'>ὑ</span><span style='font-size:12.0pt'>πέρ) is less
-precise, but it could refer to a substitutionary idea (1 Corinthians<b> 15</b>:3;
-Galatians <b>1</b>:4). Likewise, Christ tasted of death “for” every person
-(Hebrews <b>2</b>:9). <b>(8)</b> In playing out the <u>Adam-Christ imagery</u>
-in Romans<b> 5</b>:12-21, Paul says that as by the trespass of the one the many
-were made trespassers, so by the one obedient act of the One the many were made
-righteous.</span></p>
+2</b>:24. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'>         <b>(6)</b> Combined with ransom
+imagery, Christ said he would give his life as a ransom “<u>in place of</u>”
+many (Matthew <b>20</b>:28 = Mark <b>10</b>:45). </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'>         <b>(7) </b><i>“Dying ‘<u>on
+behalf of’</u> sins”</i> (</span><span lang=EL style='font-size:12.0pt'>ὑ</span><span
+style='font-size:12.0pt'>πέρ) is less precise, but it could refer to a substitutionary
+idea (1 Corinthians<b> 15</b>:3; Galatians <b>1</b>:4). Likewise, Christ tasted
+of death “for” every person (Hebrews <b>2</b>:9). </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
+.5in'><span style='font-size:12.0pt'>         <b>(8)</b> In playing out the <u>Adam-Christ
+imagery</u> in Romans<b> 5</b>:12-21, Paul says that as by the trespass of the
+one the many were made trespassers, so by the one obedient act of the One the
+many were made righteous.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt;position:relative;top:-3.0pt'>5</span><span
-style='font-size:12.0pt'>A third reason for the substitutionary imagery could
+style='font-size:12.0pt'>A <b>third</b> reason for the substitutionary imagery could
 be that (3) substitution could apply in the lesser plane of legal lostness (see
 next ¶, “B”).</span></p>
 
@@ -1487,8 +1448,8 @@ style='font-size:12.0pt'>Ibid</span></i><span style='font-size:12.0pt'>., p.
 426</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in'><span style='font-size:12.0pt'>              <span style='position:relative;
-top:-3.0pt'>8</span>Jesus himself came first to save the lost sheep of the
+.5in'><span style='font-size:12.0pt;position:relative;top:-3.0pt'>8</span><span
+style='font-size:12.0pt'>Jesus himself came first to save the lost sheep of the
 house of Israel (Matthew <b>15</b>:24). He sent his disciples first to the
 Israelites (Matthew <b>10</b>:5-6). Even in the Gentile territories, the gospel
 went first to the Israelites (Acts <b>3</b>:26; <b>13</b>:26; Romans<b> 1</b>:16;<b>
@@ -1520,7 +1481,7 @@ style='font-size:12.0pt'> </span></u><u><span lang=EL style='font-size:12.0pt'>�
 style='font-size:12.0pt'>. The underlined phrase is positioned next to “slain”
 (</span><span lang=EL style='font-size:12.0pt'>ἐ</span><span style='font-size:
 12.0pt'>σφαγμένου). Since that connection makes good sense, it is probably to
-be preferred to the ASV and NASB analysis, which connect it with “written”
+be preferred over the ASV and NASB analysis, which connect it with “written”
 (γέγραπται). If <i>“from the foundation of the world”</i> does belong with “written,”
 the statement does not connect with our point in this argument.</span></p>
 

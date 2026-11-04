@@ -13,7 +13,8 @@ weight: 1
 ### Salutation
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         <sup>1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jude, servant of Jesus Christ<sup>Messiah</sup> and brother of James, to the ones called by God the Father, loves and keeps you in Jesus Christ. </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mercy, peace, and love many times over.</span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jude, servant of Jesus Christ<sup>Messiah</sup> and brother of James, to the ones called by God the Father, loves and keeps you in Jesus Christ. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mercy, peace, and love many times over.</span></span></p>
 
 
 ### Condemnation of False Teachers

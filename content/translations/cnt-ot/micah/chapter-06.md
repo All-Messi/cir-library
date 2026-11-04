@@ -104,7 +104,7 @@ next: chapter-07
 
 <p class="section-ref">Mic 6:9-12</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         <a name="_Hlk122904777">13</a></span></sup></b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>So I’ll send diseases to strike you down,</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>So I’ll send diseases to strike you down,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and bring you to ruin for your sins.</span></i></p>
 

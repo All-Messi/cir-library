@@ -11,8 +11,8 @@ next: chapter-27
 
 ## Acts Chapter 26
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>26</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:</span></sup></b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>1</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And Agrippa said to [the] Paul, <i>“It-is-permitted to-you to-speak for yourself.”</i>
-</span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>26</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:</span></sup></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And Agrippa said to [the] Paul, <i>“It-is-permitted to-you to-speak for yourself.”</i>
+</span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then [the] Paul, having-stretched-out the/his hand, began-to-speak-on-his-own–behalf/began-to-make-his-defense:</span></p>
 

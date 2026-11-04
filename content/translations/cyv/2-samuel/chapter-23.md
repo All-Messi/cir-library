@@ -147,7 +147,7 @@ and
 Ahiam Ben-Sharar from Harar [1 Ch 11:34],
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span lang=DA style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>34</span></sup></b><b><span lang=DA style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Eliphelet</span></b><span lang=DA style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Ben-Ahasbai from Maacah,</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <b><span lang=DA style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Eliphelet</span></b><span lang=DA style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Ben-Ahasbai from Maacah,</span></span></p>
 
 
 ### Eliam Ben-Ahithophel from Giloh,

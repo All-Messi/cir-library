@@ -32,7 +32,8 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> And this is the testimony of-[the] John when the Jews sent [to him]<sup>ms</sup> from Jerusalem priests and Levites in-order-that they-might-ask him, <i>“Who are you?”</i> </span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><b><sup><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>20</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he-confessed—and did┘not└deny—but confessed [that], <i>“I am not the Messiah.”</i>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he-confessed—and did┘not└deny—but confessed [that], <i>“I am not the Messiah.”</i>
+</span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> And they-asked him<i>, “What then?</i> <i>Are you Elijah?”</i>
 </span></span></p>
 
@@ -42,12 +43,13 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>And he-answered, <i>“No.”</i> </span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:4.5pt;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>22</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then they-said to-him, <i>“Who are you? In-order-that we-may-give (an) answer to-the-ones having-sent us. What do-you-say about yourself?”</i> </span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:4.5pt;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then they-said to-him, <i>“Who are you? In-order-that we-may-give (an) answer to-the-ones having-sent us. What do-you-say about yourself?”</i> </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>23</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He-said,
-<b><i>“</i></b><i>I (am the)<b> voice of-one-crying-out in the wilderness, ‘Make-straight the way of-(the)-Lord,’”</b> as Isaiah the prophet said.”</i> </span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He-said,
+<b><i>“</i></b><i>I (am the)<b> voice of-one-crying-out in the wilderness, ‘Make-straight the way of-(the)-Lord,’”</b> as Isaiah the prophet said.”</i> </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>24</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And they-were sent from/by the Pharisees. <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> And they-asked him and said to-him, <i>“Why then are┘you└baptizing if you are not the Messiah or Elijah or the prophet?” </i></span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And they-were sent from/by the Pharisees. </span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> And they-asked him and said to-him, <i>“Why then are┘you└baptizing if you are not the Messiah or Elijah or the prophet?” </i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>[The] John answered them, saying<i>, “I am-baptizing in/with water; in-the-midst-of you stands/has-stood whom you do┘not└know. </i></span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The-One coming after me, of-whom [I]<sup>ms</sup> am not worthy in-order-that I-might undo the strap of-the sandal of-him.”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
@@ -93,7 +95,7 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus answered and said to-him, <i>“Before Philip’s [the] calling you being under the fig-tree, I-saw you.”</i> </span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>49</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nathaniel answered him, <i>“Rabbi, you are the Son of-[the] God! You are king of-[the] Israel!” </i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nathaniel answered him, <i>“Rabbi, you are the Son of-[the] God! You are king of-[the] Israel!” </i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v50" id="v50"><sup class="verse-num">50</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus answered and said to-him, <i>“Because I-said to-you<sup>sg</sup> that I-saw you under the fig-tree, you believe? You-will-see greater-things than-these.”</i> </span></span>
 <span class="verse verse-v51" id="v51"><sup class="verse-num">51</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he-says to-him, <i>“Truly, truly, I-say to-you<sup>pl</sup>, ‘You-will-see the sky/heaven open and the angels of-[the] God ascending and descending on the Son of-[the] Man.’”</i></span></span></p>

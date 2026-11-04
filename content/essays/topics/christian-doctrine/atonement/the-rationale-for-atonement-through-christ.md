@@ -212,8 +212,9 @@ margin-left:.5in;text-align:justify'><span style='font-size:12.0pt;line-height:
 has achieved perfect goodness as a man in the flesh by obeying the Father in
 everything even to the point of yielding to an agonizing death. When we commit
 ourselves to Christ as Lord together with the values and purposes he shares
-with the Father, God considers us righteous like him, forgiving our sin,
-reckoning aspiration for achievement, reconciling us to himself.”</i></span></p>
+with the Father, God considers us righteous like him for fellowship purposes,
+forgiving our sin, reckoning aspiration for achievement, reconciling us to
+himself.”</i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:.5in;margin-bottom:0in;
 margin-left:.5in;text-align:justify'><span style='font-size:12.0pt;line-height:
@@ -224,7 +225,7 @@ line-height:115%;font-family:"Times New Roman",serif'>            Sal
 reconciliation to God </span></b><span style='font-size:12.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>(2 Corinthians<b> 5</b>:18-21).<b> </b>Salvation
 through Christ taps into our understanding from experience how restoring broken
-friendships works and why it behooves us to avail ourselves of its benefits
+friendships works, and why it behooves us to avail ourselves of its benefits
 with God and other people (Matthew <b>5</b>:23-24). Reconciliation between us and
 God operates the same way it does between us. God is a person, the One who gave
 us the interpersonal capacity by putting his image in us (Genesis <b>1</b>:26-27).
@@ -243,8 +244,8 @@ the Son did</span></u></p>
 line-height:115%;font-family:"Times New Roman",serif'>            The Son entered
 the world by birth as a man (incarnation), <u>sent by the Father</u> to live <u>sinlessly
 </u>in the flesh to the point of violent death, thereby establishing himself as
-the One the Father could appoint as the basis for reconciliation.           
-THE RIGHTEOUSNESS OF THE SON</span></p>
+the One the Father could appoint as the basis for reconciliation.           THE
+RIGHTEOUSNESS OF THE SON</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><u><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What
@@ -254,7 +255,7 @@ we do</span></u></p>
 line-height:115%;font-family:"Times New Roman",serif'>            As the Father’s
 condition for reconciliation to himself, we identify with the Son by committing
 totally, permanently, and exclusively to his lordship, purposes, and values he
-shares with the Father.                                                              OUR
+shares with the Father.                                                                OUR
 IDENTIFICATION WITH THE SON</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><u><span
@@ -263,10 +264,10 @@ the Father will do</span></u></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            The
-Father will consider us righteous <u>like</u> the Son we commit ourselves to
-(forgiveness), reconciling us to himself (gift of the Spirit), and counting us
-among all others so reconciled (church membership).                                     
-                                RECONCILIATION BY THE FATHER</span></p>
+Father will consider us righteous <u>like</u> the Son that we commit ourselves
+to (forgiveness), reconciling us to himself (gift of the Spirit), and counting
+us among all others so reconciled (church membership).                                     
+      RECONCILIATION BY THE FATHER</span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
@@ -394,8 +395,9 @@ Son, his values, and                        the Son by th
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      purposes.<b><sup>A7</sup></b></span></p>
 
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.25in;text-align:justify'><span style='font-size:12.0pt;line-height:
+115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Scripture
@@ -433,16 +435,17 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A2
  Reason for the incarnation of the Son</span></b></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;text-align:justify;text-indent:-.5in'><b><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></b><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hebrews
-<b>2</b>:9-18: <i>“Wherefore it behooved him to be made like his brothers, that
-he might become a merciful and faithful high priest in things pertaining to
-God, to make propitiation for the sins of the people.</i> </span><b><sup><span
+margin-left:58.5pt;text-align:justify;text-indent:-40.5pt'><i><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Wherefore
+it behooved him to be made like his brothers, that he might become a merciful
+and faithful high priest in things pertaining to God, to make propitiation for
+the sins of the people.</span></i><span style='font-size:12.0pt;line-height:
+115%;font-family:"Times New Roman",serif'> </span><b><sup><span
 style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>18</span></sup></b><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For
 in that he himself has suffered being tempted, he can help those who are
-tempted.”</span></i></p>
+tempted”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:
+"Times New Roman",serif'> (Hebrews <b>2</b>:9-18).</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <b>Hence,
@@ -696,10 +699,10 @@ behaviors that bring alienation.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Reconciliation
-involves repentance by the offender plus forgiveness by the offended. The
-offender’s repentance separates him from the kind of person he was when he
-offended; the offended person’s forgiveness separates the offender from the
-kind of person he was when he offended. </span></p>
+involves repentance by offenders plus forgiveness by the offended. The offenders’
+repentance separates them from the kind of persons they were when they
+offended; the offended person’s forgiveness separates the offenders from the
+kind of persons they were when they offended. </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            The
@@ -749,7 +752,7 @@ and values</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      we
-share the Other.                                                           we
+share with the Other.                                                   we
 share.         </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><b><span
@@ -765,7 +768,7 @@ style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>&n
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><b><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(a)<b>
-</b>Christ’s atonement stands inside of salvation as reconciliation, (b) <u>which
+</b>Christ’s atonement stands inside salvation as reconciliation, (b) <u>which
 is a trust system operating inside interpersonal reality</u> (c) motivated by
 the Other’s love, (d) which, in turn, engenders our love and trust in him. It
 consists of trusting that (1) identifying with Christ has the value God
@@ -897,8 +900,9 @@ about reconciliation</u> straightforward. Scripture often expresses these
 matters in shorthand expressions and figures of speech—metaphors, analogies, oxymorons,
 paradoxes, phenomenological statements (the way it looks), idioms, poetic expressions,
 symbolism. Without the reality alongside, these ways of speaking may not
-communicate to those who do not already understand, especially in modern
-western culture that tends to speak in more straightforward ways. </span></p>
+communicate to those who do not already understand the reality they are figurative
+for, especially in modern western culture that tends to speak in more
+straightforward ways. </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Figurative
@@ -908,8 +912,8 @@ speech can be more efficient; speaking literally can take longer to express the
 point—as a reader can verify when explaining the complex ideas literally. (See sample
 texts explained below.) Speaking more literally may lose that engaging coloration,
 but it aids understanding. It can help avoid <i>“getting lost in the words” </i>by
-using “reality thinking.” Such thought concentrates on actions and involves the
-interpersonal character of the Christian worldview and purposes.</span></p>
+using <i>“reality thinking.”</i> Such thought concentrates on actions and involves
+the interpersonal character of the Christian worldview and purposes.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            (1)
@@ -961,8 +965,8 @@ battlefield (Romans <b>5</b>:8; Hebrews <b>9</b>:12). </span></p>
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        The
 Mosaic blood <u>sacrifices</u> foreshadowed Messiah’s dying <u>on account of</u>
 the sins of others and f<u>or</u> the sins of others. The paschal lamb most explicitly
-looked forward to the Messiah in the stipulation that not to break any of its
-bones at Passover, the event at which Jesus was “sacrificed” (Exodus <b>12</b>:46;
+looked forward to the Messiah in the stipulation not to break any of its bones at
+Passover, the event at which Jesus was “sacrificed” (Exodus <b>12</b>:46;
 Numbers<b> 9</b>:12; Psalm<b> 22</b>:17; <b>34</b>:20 &lt; John <b>19</b>:36;
 cp. John <b>1</b>:29; 1 John <b>3</b>:5).</span></p>
 
@@ -1072,7 +1076,7 @@ was appropriate that Christ live out his righteousness in the weaknesses and
 temptations present in the realm where we people fail to live it out. He could
 then be the One we could most appropriately commit ourselves to for the
 Father’s considering us righteous like the One we indicate we want to be like
-and considered as like.</span></p>
+and be considered as like.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <i>“Christ
@@ -1110,12 +1114,12 @@ expressions that New Testament writers pick up on in referring to Messiah’s at
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    <b>53</b>:4-5,
 11: To observers it looked like God had struck him for <u>his</u> iniquities
-(phenomenology), but he was struck for <u>ours</u>. But more than that, he was
-not smitten in <u>punishment</u> for ours, but in <u>completing his obedience</u>
-for us to commit to. When we commit ourselves to the One who perfectly obeyed the
-Father, God considers us like him in intent and forgives our sin accordingly.
-Committing to Christ and <u>his righteousness</u> is the same thing as
-repentance from <u>our unrighteousness</u>. </span></p>
+(phenomenology), but he was struck for <u>our</u> iniquities. But more than
+that, he was not smitten in <u>punishment</u> for ours, but in <u>completing
+his obedience</u> for us to commit to. When we commit ourselves to the One who
+perfectly obeyed the Father, the Father considers us like him in intent and
+forgives our sin accordingly. Committing to Christ and <u>his righteousness</u>
+is the same thing as repentance from <u>our unrighteousness</u>. </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    <b>53</b>:5:

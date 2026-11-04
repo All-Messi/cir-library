@@ -39,7 +39,7 @@ of Christ’s atonement work considers his righteousness as a substitute for our
 and his death as a substitute for our death as punishment for our sin. The
 comments below shoulder a negative burden of proof to show that the penal
 substitution understanding is foreign to atonement theory unless we adopt the
-rest of his legal theological method, where penal substitution <u>would</u>
+rest of Calvin’s legal theological method, where penal substitution <u>would</u>
 make sense. The thesis here is that substitutionary atonement theory does not
 belong in non-non-legal theology.</span></p>
 
@@ -147,14 +147,14 @@ nature problem by other than natural cause; you cannot solve a logical problem
 other than metaphysically; and you cannot solve an interpersonal problem by
 other than interpersonal means. The kind of cause must correspond with the kind
 of result as <i>“the law of the harvest” </i>states. It is the ancient
-principle of <i>“after their kind”</i> (Genesis 1:20-21, 24-25.). You cannot
-gather grapes from thorns or figs from thistles (Matthew <b>7</b>:16; Luke <b>6</b>:44);
-you reap what you sow (Galatians <b>6</b>:7-9); what is <u>of</u> flesh <u>is</u>
-flesh (John <b>3</b>:6). The result is salvation, which is reconciliation, an
-interpersonal matter. Legal and interpersonal are different, parallel
-categories; they are different kinds of things. Since substitution is a legal
-concept, interpersonal reconciliation does not come about by the substitution
-principle.</span></p>
+principle of <i>“after their kind”</i> (Genesis <b>1</b>:20-21, 24-25.). You
+cannot gather grapes from thorns or figs from thistles (Matthew <b>7</b>:16;
+Luke <b>6</b>:44); you reap what you sow (Galatians <b>6</b>:7-9); what is <u>of</u>
+flesh <u>is</u> flesh (John <b>3</b>:6). The result is salvation, which is
+reconciliation, an interpersonal matter. Legal and interpersonal are different,
+parallel categories; they are different kinds of things. Since substitution is
+a legal concept, interpersonal reconciliation does not come about by the
+substitution principle.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                 Evangelicals rightly speak of a saved
@@ -229,14 +229,15 @@ were legally lost. He was born of woman, born under the Law, to redeem people
 under the Law (Galatians <b>4</b>:5). There is no denial that penal
 substitution can be involved in atonement; the denial is that penal
 substitution is the ultimate reality in atonement. Those legally lost Christ
-can be legally save by penal substitution. But that legal frame of reference is
+can legally save by penal substitution. But that legal frame of reference is
 secondary. Law—hence, legal mechanisms—cannot real-ly solve the problem because
-it is real-ly an interpersonal problem: we cannot be justified by law (cp.
-Hebrews <b>7</b>:19; Galatians <b>2</b>:16). Substitution imagery can appear because
-it can apply in the lesser plane of legal lostness, the circumstance of a large
-percentage in the original Christian community (Jews). In fact, God put the
-whole Mosaic sacrificial system in place as a foreshadow of the future reality
-in the Messiah (Colossians <b>2</b>:17; Hebrews <b>8</b>:5; <b>10</b>:1).   </span></p>
+salvation is real-ly an interpersonal problem: we cannot be justified by law
+(cp. Hebrews <b>7</b>:19; Galatians <b>2</b>:16). Substitution imagery can appear
+because it can apply in the lesser plane of legal lostness, the circumstance of
+a large percentage in the original Christian community (Jews). In fact, God put
+the whole Mosaic sacrificial system in place as a foreshadow of the future
+reality in the Messiah (Colossians <b>2</b>:17; Hebrews <b>8</b>:5; <b>10</b>:1).
+  </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            As with all analogies, <b>(d)</b> the analogy
@@ -252,7 +253,7 @@ and “identification,” there is a connection between our righteousness and hi
 entering the extremes of the human condition and living here without sin, he
 qualified himself as the appropriate object of identification. He became
 righteous by carrying out the Father’s will for him to the final degree, making
-himself a most appropriate and only one for us to identify with unto
+himself the most appropriate and only one for us to identify with unto
 righteousness, the only one to commit to for God to considered us like him. In
 both substitution and identification, there is a connection between our sin and
 his suffering and between his <u>being righteous </u>and our <u>being considered
@@ -274,7 +275,7 @@ common element that makes them appropriate images for the salvation reality: <u>
 comes to the person in need that he did not contribute to causing in whole or
 in part</u>. The decisive act of any reconciliation is done by the offended
 party. That is true in substitution, it is true of conquest (Christus Victor),
-and it is true of ransom/purchase/buying/ redemption. In all three images, the
+and it is true of ransom/purchase/buying/redemption. In all three images, the
 result comes to the one in need by an act the other does in grace, <u>and</u>
 the one in need “identifies” with the benefactor. The one in need accepts the
 benefactor’s act (faith/trust in the gracious One). </span></b></p>
@@ -293,8 +294,8 @@ subject to real death, violent death of a most horrible sort (Philippians<b> 2</
 He thereby established his real righteousness as a man in the real human realm;
 in doing that, he “qualified himself” as an appropriate object that is really
 righteous that we can really identify with. We identify with him unto our being
-viewed as righteous by the Father. Identification means that we explicitly
-commit to <u>him</u>, choosing his lordship, values, and purposes. Our
+viewed as righteous like him by the Father. Identification means that we
+explicitly commit to <u>him</u>, choosing his lordship, values, and purposes. Our
 commitment to the Righteous Object of identification is God’s “condition” for
 viewing us as righteous like him, righteous as his natural condition for
 fellowship with himself who is righteous. </span></p>
@@ -308,11 +309,11 @@ does not exist between us and God or between us and other people, either in
 reconciliation (initial justification) or in continued fellowship. In all
 social relations, it is not specifically what we really <u>are</u> or <u>do</u>
 but how we are <u>viewed</u> by the other. Social relations are a practical
-issue. As with most “systems,” friendships can survive a certain amount of
-contrary elements. As long as the “heart,” attitude, motive override actual
-behaviors (context), the friendship continues. <i>“Love covers a multitude of
-sins”</i> (James <b>5</b>:20; 1 Peter<b> 4</b>:8). Repentance-forgiveness can
-remove these exceptions as a barrier to association; the other person can <u>view</u>
+issue. As with most “systems,” friendships can survive a certain amount of foreign
+elements. As long as the “heart,” attitude, motive override actual behaviors
+(context), the friendship continues. <i>“Love covers a multitude of sins”</i>
+(James <b>5</b>:20; 1 Peter<b> 4</b>:8). Repentance-forgiveness can remove
+these exceptions as a barrier to association; the other person can <u>view</u>
 the first as good even if not perfectly so. The offended party always
 establishes appropriate “conditions” for viewing the offender as good (relative
 to shared values and purposes). Those conditions amount to identification with
@@ -332,11 +333,8 @@ reconciliation, fellowship, sonship, friendship, blessing, <i>etc</i>. In
 keeping with the nature of friendship, God considers us righteous, not because
 we are, but because we commit to one who is—and everything that implies—like
 trying to live up to expectations; and that is what God asks of us, even to
-taking our cross and following Jesus (Matthew 10:38; <b>16</b>:24; Mark <b>8</b>:34;
+taking our cross and following Jesus (Matthew<b> 10</b>:38; <b>16</b>:24; Mark <b>8</b>:34;
 <b>10</b>:21; Luke <b>9</b>:23; <b>14</b>:27).</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            As a final note, our interest in
@@ -363,7 +361,7 @@ alone has done for us. We do hold back approval of a fourth idea called the
 “moral influence theory,” where Jesus “saves” us by being the lone example of
 human holiness and unique motivator for us to live holy lives. The goal of such
 living is right and good, but we will not achieve the perfect righteous that
-relationship to a holy God entails so he “owes” it to us to view us as
+relationship to a holy God entails so that he “owes” it to us to view us as
 righteous because we are (Romans <b>4</b>:3-6). We will no more succeed at
 personal perfection in the future than we have in the past.</span></p>
 
@@ -405,20 +403,21 @@ aside from atonement itself.</b></span></p>
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            Cottrell’s book (<i>God the Redeemer</i>,
 pp. 424-29) labels the view “The Interpersonal Theory.” While the label describes
-it, it does not define it, because <b>(1)</b> the terminology does not specify
-the kind of interpersonal connection between Christ’s righteousness and our
-forgiveness; it does not indicate the “mechanism” in the atonement. The
-specific mechanism is <u>identification/commitment-plus-reckonin</u>g. Identification-commitment
-to Christ is our interpersonal commitment, and reckoning is God’s interpersonal
-reckoning us righteous because of our identity with the Righteous One. If we
-were to label the atonement theory as we understand it, we would prefer
-“Identification Theory.” Cottrell’s statement on page 426, <i>“Repentance and
-confession cleanse away all past obstacles to the forgiveness of sins,”</i> is
-simply not what is meant; it leaves out the very thing Christ’s atonement is beyond
-the basic repentance-forgiveness format for reconciliation. The Cottrell statement
-sounds like a way to describe the typical process of reconciliation that takes
-place <u>between people</u>. Perhaps God could have left the process that way for
-reconciliation <u>between us and him</u>. But, that is not what he did. </span></p>
+it, it does not define it, because <b>(1)</b> <u>the interpersonal terminology
+does not specify the kind of interpersonal connection between Christ’s
+righteousness and our forgiveness</u>; it does not indicate the “mechanism” in
+the atonement. The specific mechanism is <u>identification/commitment-plus-reckonin</u>g.
+Identification-commitment to Christ is our interpersonal commitment, and
+reckoning is God’s interpersonal reckoning us righteous because of our identity
+with the Righteous One. If we were to label the atonement theory as we
+understand it, we would prefer “Identification Theory.” Cottrell’s statement on
+page 426, <i>“Repentance and confession cleanse away all past obstacles to the
+forgiveness of sins,”</i> is simply not what is meant; it leaves out the very
+thing Christ’s atonement is beyond the basic repentance-forgiveness format for
+reconciliation. The Cottrell statement sounds like a way to describe the typical
+process of reconciliation that takes place <u>between people</u>. Perhaps God
+could have left the process that way for reconciliation <u>between us and him</u>.
+But, that is not what he did. </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            Repentance has been defined as sorrow for
@@ -426,7 +425,7 @@ sin that leads to a reformation of life. So, on the repentance side of reconcili
 the Father has called for the penitent to identify with the Incarnate Righteous
 One as the specific form of expressing repentance. Now the condition for
 forgiveness-unto-reconciliation is not simply repentance (as from past sin) but
-repentance in pledge to reformation of life evidenced by commitment to the
+repentance in pledge to reformation of life as evidenced by commitment to the
 Incarnate Righteous One—and all that implies about his lordship, values, and
 purposes. That represents not so much an addition to the reconciliation
 process, but an elaboration of repentance (by commitment to righteousness) and
@@ -442,7 +441,7 @@ of Christ in the process is the atonement factor.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            The Cottrell criticism may stem from <b>(2)</b>
-picking the wrong interpersonal mechanism—influence—instead of identification,
+<u>picking the wrong interpersonal mechanism</u>—influence—instead of identification,
 which is the heart of atonement through Christ. Influence is not the only
 interpersonal element, so influence should not be equated with interpersonal. And,
 to emphasize the depth of the identification envisioned here, we hasten to repeat
@@ -452,33 +451,33 @@ all the other factors that belong to our relationship to God through him.</span>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            The criticism treated in the preceding
-paragraphs may also stem from <b>(3)</b> confusing theory with fact. What might
-have been possible to do in theory is not the same thing as what the Father did.
-What happens between people (between equals) differs from what happens with our
-Lord. For the sake of thought, we might agree that repentance-forgiveness could
-theoretically be what God could call for in reconciliation and still be a just
-Justifier. But what we might suppose is possible to do in theory and what God
-decided to do in fact are two different things. Scripture does not lead us to
-believe that what God did was <u>inherently</u> necessary. If that were so, we wonder
-whether he would be sovereign; he would be subservient to more than righteous
-self-consistency. Satan would have put him over a barrel; the sovereign
-righteous God would be subject to something like the Fates in pagan thought. Satan
-would have taken over the situation by setting up a circumstance of our
-lostness by successful temptation. The New Testament indicates that within the
-repentance-forgiveness format, God specified an appropriate condition for the
-penitent to fulfill in expressing that repentance and trust: identify with the
-Righteous One. Even if God would not theoretically have had to establish that as
-an added aspect of the repentance condition, he did so and most appropriately
-did so. What he <u>did</u> establish as the condition for forgiving the
-penitent’s sin is what we proclaim. Inasmuch as commitment to Christ
-constitutes that elaborated condition, we preach that Christ saves us by being the
-object of commitment unto our imputed righteousness. We prioritize his role in
-the reconciliation process, which includes understanding <u>how</u> that role
-is involved—atonement theory. </span></p>
+paragraphs may also stem from <b>(3)</b> <u>confusing theory with fact</u>. What
+might have been possible to do in theory is not the same thing as what the
+Father did in fact do. What happens between people (between equals) differs from
+what happens with our Lord. For the sake of thought, we might agree that
+repentance-forgiveness could theoretically be what God could call for in
+reconciliation and still be a just Justifier. But what we might suppose is possible
+to do in theory and what God decided to do in fact are two different things. Scripture
+does not lead us to believe that what God did was <u>inherently</u> necessary. If
+that were so, we wonder whether he would be sovereign; he would be subservient
+to more than righteous self-consistency. Satan would have put him over a barrel;
+the sovereign righteous God would be subject to something like the Fates in
+pagan thought. Satan would have taken over the situation by setting up a
+circumstance of our lostness by successful temptation. The New Testament indicates
+that within the repentance-forgiveness format, God specified an appropriate
+condition for the penitent to fulfill in expressing that repentance and trust: identify
+with the Righteous One. Even if we were to say that God would not theoretically
+have had to establish that as an added aspect of the repentance condition, he
+did so and most appropriately did so. What he <u>did</u> establish as the condition
+for forgiving the penitent’s sin is what we proclaim. Inasmuch as commitment to
+Christ constitutes that elaborated condition, we preach that Christ saves us by
+being the object of commitment unto our imputed righteousness. We prioritize
+his role in the reconciliation process, which includes understanding <u>how</u>
+that role is involved—atonement theory. </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>            We perceive appropriateness at work here more
-than inherent necessity. God established an appropriate condition, which included
+style='font-size:12.0pt'>            We perceive appropriateness at work here beyond
+inherent necessity. God established an appropriate condition, which included
 sending his Son to become that object of identification in the realm of physical
 human existence. What God did we need not interpret as something he had to do or
 had to do that way. We say that what he did was especially appropriate in
@@ -504,12 +503,12 @@ times his request <i>“with audible crying and tears” </i>to remove the <i>�
 from him (Matthew <b>26</b>:53). Jesus did not call the legion of angels; if he
 had, the scripture would not then be fulfilled (<b>26</b>:54). The plan had
 been put in place centuries before (even before the foundation of the world)
-and been prophesied as such; so carry-though had to happen for consistency’s
-sake rather than for originating inherent necessity’s sake. Inherent necessity
-characterizes legal process, logical process, and natural process because those
-processes are deterministic; but we are dealing with a problem in the
-interpersonal realm (friendship with God), so the characteristics of the
-solution—summed up especially in love context—are natural to that interpersonal
+and had been prophesied as such; so carry-though had to happen for
+consistency’s sake rather than for originating, inherent necessity’s sake. Inherent
+necessity characterizes legal process, logical process, and natural process
+because those processes are deterministic; but we are dealing with a problem in
+the interpersonal realm (friendship with God), so the characteristics of the
+solution—summed up especially in the love context—are natural to that interpersonal
 process (which is not itself deterministic). </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -525,7 +524,8 @@ style='font-size:12.0pt'>            There is a second major problem 
 moral influence theory—depending on how it is formulated: (2) <b>moral
 influence does not avoid works</b> because it does not necessarily include God’s
 <u>reckoning</u> righteousness, nor does it necessarily include <u>commitment</u>
-to the Righteous One as the condition for reckoning us as righteous. </span></p>
+to the Righteous One as the condition for the Father’s reckoning us as
+righteous. </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            <u>First</u>, moral influence might simply
@@ -547,10 +547,10 @@ achievement). </span></p>
 style='font-size:12.0pt'>            <u>Second</u>, moral influence does not
 avoid works because it does not include commitment to the Righteous Other on
 the other side of the relationship—or more specifically in Christianity—to the
-Righteous Son who serves as an incarnate extension of the Righteous Father. Our
+Righteous Son, who serves as an incarnate extension of the Righteous Father. Our
 righteousness would be personal righteousness in response to Christ’s moral
 influence rather than righteousness viewed upon us imperfect people by the
-offended Other. The most crucial part the atonement is this point two in “Benefits
+offended Other. The most crucial part of the atonement is this point two in “Benefits
 of the Atonement”: a reckoned righteousness based on identity with the
 Righteous One.</span></p>
 
@@ -567,8 +567,8 @@ in penal substitution and legal imputation, there would be no punishing Another
 for my guilt. Transferring act-guilt-punishment is inherently impossible;
 hence, it is made to make sense only in a legal sense, only by putting it in a
 legal process, which is artificial hence impersonal instead of interpersonal.
-Law does not have to conform to reality to achieve its results because the
-results come from authority, not reality.</span></p>
+Law does not have to conform fully to reality to achieve its results because
+the results come from authority, not reality.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            Instead of legal imputation, we stress interpersonal
@@ -598,17 +598,10 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            Comments in this Addendum illustrate how
 misunderstanding can come from (1) a reader unconsciously mixing in his own presuppositions
-with what he is reading to form artificial interpretation. It is an example of
-not hearing another view on its own terms. The issue points out another
-difficulty: (2) the hard thing is not understanding something but keeping it
-distinct from alternatives. Equivocations and cross-connections muddle the understanding.
-(3) It is an example as well of trying to unpack a whole system of thought out
-of a shorthand label for it.   </span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                           
-</span><span style='font-size:11.0pt'>christ.org</span></p>
+with what he is reading to form an artificial hybrid interpretation. It is an
+example of not hearing another view on its own terms. The issue points out
+another difficulty: (2) the hard thing is not understanding something but
+keeping it distinct from alternatives. Equivocations and cross-connections
+muddle the understanding. (3) It is an example as well of trying to unpack a
+whole system of thought out of a shorthand label for it.     </span></p>
 </div>

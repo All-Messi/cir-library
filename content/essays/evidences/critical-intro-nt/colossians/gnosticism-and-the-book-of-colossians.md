@@ -28,24 +28,7 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='position:relative;z-index:251657216'><span style='left:0px;position:
-absolute;left:67px;top:-20px;width:18px;height:7px'><img width=18 height=7
-src="/images/essays/gnosticism-and-the-book-of-colossians/image001.png"></span></span><span style='font-size:10.5pt'>                            
-spirit = good                                             Evil/sin was defined
-as a kind of <u>being</u>/</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='position:relative;z-index:251658240'><span style='left:0px;position:
-absolute;left:67px;top:-25px;width:18px;height:10px'><img width=18 height=10
-src="/images/essays/gnosticism-and-the-book-of-colossians/image002.png"></span></span><span style='font-size:10.5pt'>1.     Dualism                                                                     “stuff”
-rather than a way of <u>acting</u>.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:10.5pt'>                             matter = evil</span></p>
+<p class="cir-diagram" style="text-align:center;margin:1.25rem 0"><img src="/images/diagrams/gnosticism-and-the-book-of-colossians-1.png" alt="1. Dualism: spirit = good, matter = evil" width="187" style="max-width:100%;height:auto"></p><p class="MsoNormal cir-diagram-text">Evil/sin was defined as a kind of <u>being</u>/“stuff” rather than a way of <u>acting</u>.</p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

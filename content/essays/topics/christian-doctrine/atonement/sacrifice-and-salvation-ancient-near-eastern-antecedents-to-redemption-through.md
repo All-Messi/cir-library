@@ -171,15 +171,15 @@ were <u>peace</u> offerings, which included wave offerings and heave offerings.
 To the <i>benefit category</i> belong sacrifices designed to obtain a special
 favor like victory in battle (Saul in 1 Samuel <b>15</b>) or to <u>appease</u>
 the anger of the deity. Since Yahveh, however, was a God of principle, not just
-a God of power, sacrifices were for more than propitiating God’s anger; they were
-also for expiating people’s <u>sin</u>. Human behavior is not just a matter of “rubbing
-God the wrong way”; it is sin. So, sacrificial categories included sin and
-guilt offerings. Other benefit sacrifices were <u>purification</u> offerings
-and sacrifices that accompanied the <u>consecration</u> of people and things. Some
-have suggested that all sacrifices were for getting something (<i>do ut des</i>),
-but that taints a worshiper’s motives. Sacrificing meant acknowledging God in
-all aspects of human experience. Giving in order to <u>praise</u> needs to be
-kept primary in normative Old Testament sacrifice at least.</span></p>
+a God of power, sacrifices were for more than propitiating God’s anger; they
+were also for expiating people’s <u>sin</u>. Human behavior is not just a
+matter of “rubbing God the wrong way”; it is sin. So, sacrificial categories
+included sin and guilt offerings. Other benefit sacrifices were <u>purification</u>
+offerings and sacrifices that accompanied the <u>consecration</u> of people and
+things. Some have suggested that all sacrifices were for getting something (<i>do
+ut des</i>), but that taints a worshiper’s motives. Sacrificing meant
+acknowledging God in all aspects of human experience. Giving in order to <u>praise</u>
+needs to be kept primary in normative Old Testament sacrifice at least.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
 style='font-size:12.0pt'>&nbsp;</span></b></p>
@@ -248,7 +248,10 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            The distinctives of Hebrew sacrifice are
-important because they relate to meaning. (1) The first distinctive of Mosaic
+important because they relate to meaning. </span></p>
+
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+style='font-size:12.0pt'>            (1) The first distinctive of Mosaic
 sacrifices was their connection with sin. </span></p>
 
 <p class=MsoNormal style='text-align:justify'><i><span style='font-size:12.0pt'>“The
@@ -363,7 +366,7 @@ Ezekiel <b>16</b>:20-21; <b>20</b>:31; <b>23</b>:37-39; Micah <b>6</b>:6-7. </sp
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            <span style='position:relative;top:-3.0pt'>5</span>The
-case of Jephthah’s daughter (Judges 11:29-40) may be an exception. It is
+case of Jephthah’s daughter (Judges <b>11</b>:29-40) may be an exception. It is
 difficult to accept, however, as a case of human sacrifice because it seems
 inconceivable that a divinely chosen judge would fulfill an unwitting vow in
 this way. Nevertheless, the wording of the text can be so taken. For an
@@ -460,11 +463,4 @@ person.</span></p>
 style='font-size:12.0pt'>            <span style='position:relative;top:-3.0pt'>19</span>Genesis
 <b>9</b>:4; Leviticus <b>3</b>:17; <b>17</b>:10-16; Deuteronomy <b>12</b>:16,
 23; cp. Acts <b>15</b>:20, 29.  </span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                            
-</span><span style='font-size:11.0pt'>christ.org</span></p>
 </div>

@@ -41,7 +41,7 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                              </span><span lang=DA style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Salma Avi- </span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span lang=DA style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                             12</span></sup></b><span lang=DA style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Boaz Avi- </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span lang=DA style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Boaz Avi- </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span lang=DA style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                              Obed Avi- </span></p>
 

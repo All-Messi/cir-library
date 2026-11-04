@@ -15,7 +15,8 @@ next: chapter-04
 ### The Beginning of John’s Ministry
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In time, John the Baptist came<sup>p</sup> preaching in the desert in Judaea,</span><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> <sup>2</sup></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Repent, the kingdom of heaven’s coming.” </span></i></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In time, John the Baptist came<sup>p</sup> preaching in the desert in Judaea,</span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Repent, the kingdom of heaven’s coming.” </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’s the one Isaiah spoke about:</span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                        <b><i>“One shouting in the desert,</i></b></span></p>
@@ -51,7 +52,8 @@ next: chapter-04
 ### The Baptism of Jesus
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Jesus came<sup>p</sup> from Galilee to the Jordan to have John baptize him.</span><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> <sup>14</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But John tried to stop him, <i>“I need <u>you</u> to baptize <u>me</u>, and you’re coming to <u>me</u>?”</i></span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Jesus came<sup>p</sup> from Galilee to the Jordan to have John baptize him.</span></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But John tried to stop him, <i>“I need <u>you</u> to baptize <u>me</u>, and you’re coming to <u>me</u>?”</i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus answered, <i>“Let’s do this; it’s appropriate to do everything that’s right.</i>” So John went ahead<sup>p</sup> <i>and baptized</i> him. </span></span></p>
 

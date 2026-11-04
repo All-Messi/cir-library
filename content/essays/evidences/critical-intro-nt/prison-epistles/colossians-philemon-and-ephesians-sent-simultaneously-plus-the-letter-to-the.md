@@ -72,53 +72,7 @@ style='font-size:12.0pt'>3.   The bearers are connected.           <
 margin-left:.5in;margin-bottom:.0001pt;text-indent:-.25in'><span
 style='font-size:12.0pt'>                  </span></p>
 
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.25in'><span
-style='position:relative;z-index:251656192'><span style='left:0px;position:
-absolute;left:157px;top:-64px;width:53px;height:23px'><img width=53 height=23
-src="/images/essays/colossians-philemon-and-ephesians-sent-simultaneously-plus-the-letter-to-the/image001.png"></span></span><span style='font-size:12.0pt'>                                                             
-       <b>6</b>:21  Ephesians</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.25in'><span
-style='font-size:6.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.25in'><span
-style='position:relative;z-index:251657216'><span style='left:0px;position:
-absolute;left:157px;top:-69px;width:53px;height:19px'><img width=53 height=19
-src="/images/essays/colossians-philemon-and-ephesians-sent-simultaneously-plus-the-letter-to-the/image002.png"></span></span><span style='font-size:12.0pt'>                         
-Tychicus</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.25in'><span
-style='font-size:6.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.25in'><span
-style='position:relative;z-index:251658240'><span style='left:0px;position:
-absolute;left:312px;top:-79px;width:28px;height:22px'><img width=28 height=22
-src="/images/essays/colossians-philemon-and-ephesians-sent-simultaneously-plus-the-letter-to-the/image003.png"></span></span><span style='font-size:12.0pt'>                                 
-                                   <b>4</b>:7  Colossians  <b>4</b>:9</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.25in'><span
-style='font-size:6.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.25in'><span
-style='position:relative;z-index:251659264'><span style='left:0px;position:
-absolute;left:306px;top:-86px;width:34px;height:21px'><img width=34 height=21
-src="/images/essays/colossians-philemon-and-ephesians-sent-simultaneously-plus-the-letter-to-the/image004.png"></span></span><span style='font-size:12.0pt'>                                                                                                               Onesimus</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.25in'><span
-style='font-size:6.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.5in;margin-bottom:.0001pt;text-indent:-.25in'><span
-style='font-size:12.0pt'>                                                                         
-Philemon  10                                    </span></p>
+<p class="cir-diagram" style="text-align:center;margin:1.25rem 0"><img src="/images/diagrams/colossians-philemon-ephesians-sent-simultaneously-1.png" alt="Tychicus links Ephesians 6:21 and Colossians 4:7; Onesimus links Colossians 4:9 and Philemon 10" width="424" style="max-width:100%;height:auto"></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-indent:-.25in'><span

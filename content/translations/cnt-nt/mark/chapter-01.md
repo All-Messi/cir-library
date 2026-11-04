@@ -10,7 +10,7 @@ next: chapter-02
 
 ## Mark Chapter 1
 
-<p class="MsoNormal" align=center style='margin-bottom:0in;text-align:center; line-height:normal'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'> THE GOSPEL ABOUT</span></b></span></p>
+<p class="MsoNormal" align=center style='margin-bottom:0in;text-align:center; line-height:normal'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'> THE GOOD NEWS ABOUT</span></b></span></p>
 
 
 ### JESUS THE MESSIAH, GOD’S SON
@@ -36,7 +36,7 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                        Make it straight</span></i></b><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>!’”</span></i></b><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'> [</span></b><b><span style='font-size:9.0pt;font-family:"Times New Roman",serif'>Is 40:3</span></b><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>]</span></b></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>John came baptizing in the desert and preaching a baptism of repentance to forgive sins. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>John came baptizing in the desert and preaching a baptism of repentance for forgiving sins. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The people from<b>
 </b>Jerusalem and Judaea were going out to have him baptize them in the Jordan <i>River</i>, as they confessed their sins. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size: 12.0pt;font-family:"Times New Roman",serif'>John wore camel’s hair with a leather belt around his waist and lived on locusts and wild honey.                                                                                                         </span></span></p>
@@ -81,7 +81,7 @@ next: chapter-02
 
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>After John was arrested, Jesus went to Galilee, delivering God’s good news: </span></span>
-<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“It’s time; God’s kingdom is on its way. Repent and believe the good news.”</span></i><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                                                                                                  </span></b></span></span></p>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“It’s time; The kingdom of God is on its way. Repent and believe the good news.”</span></i><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                                                                                     </span></b></span></span></p>
 
 <p class="section-ref">Mk 1:14-15</p>
 
@@ -89,11 +89,11 @@ next: chapter-02
 ### Calling 4 Fishermen
 
 
-<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>As he passed along Lake Galilee, he saw Simon and his brother Andrew casting nets in the lake; they were fishermen. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>As he was going along Lake Galilee, he saw Simon and his brother Andrew casting nets in the lake; they were fishermen. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Jesus said, <i>“Come with me; I’ll have you ‘fishing’ for people.” </i></span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They left their nets and went with him. </span></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;font-family:"Times New Roman",serif'>A little farther along, he saw Zebedee’s sons, James and John, in a boat, mending nets. </span></span>
-<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He called them, and they left their father in the boat with the hired help and went with him.      </span></span></p>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He called them, and they left their father in the boat with the hired help and went with him.           </span></span></p>
 
 <p class="section-ref">Mk 1:16-20</p>
 
@@ -101,20 +101,20 @@ next: chapter-02
 ### Teaching and Miracles in Capernaum
 
 
-<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They went<sup>p</sup> to Capernaum and entered the synagogue on the Sabbath, and he started teaching.
-</span></span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They went<sup>p</sup> to Capernaum and went into the synagogue on the Sabbath, and he started teaching. </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The people were amazed at how he taught; he was teaching them like someone that had authority, not like the scribes. </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>A man in their synagogue had an unclean spirit that shouted,</span><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>
-<sup>24</sup></span></b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“What is this, Jesus, you Nazarene? Did you come to destroy us? I know who you are: God’s Holy One!” </span></i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>A man in their synagogue had an unclean spirit that shouted,</span></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“What is this, Jesus, you Nazarene? Did you come to destroy us? I know who you are: God’s Holy One!” </span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>Jesus rebuked it, <i>“Be quiet and come out of him!” </i></span></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The unclean spirit threw him into convulsions, made a loud noise, and came out.</span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>They were surprised and started, wondering to each other, “<i>What </i>is<i> this? A new </i>kind of<i> teaching with authority? He even gives orders to unclean spirits, and they obey.”</i> </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>They were surprised and started wondering to each other, “<i>What </i>is<i> this? A new </i>kind of<i> teaching with authority? He even gives orders to unclean spirits, and they obey.”</i> </span></span>
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The news about him spread all over that part of Galilee.</span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>They left the synagogue and went to Simon and Andrew’s house with James and John. </span><b><sup><span style='font-size: 14.0pt;font-family:"Times New Roman",serif'>3</span></sup></b><b><sup><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>0</span></sup></b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Peter’s mother-in-law was in bed sick with a fever, and they told him about her. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>They left the synagogue and went to Simon and Andrew’s house with James and John. </span></span>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Peter’s mother-in-law was in bed sick with a fever, and they told him about her. </span></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He went and took her hand and raised her up. The fever went away, and she started waiting on them.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>That evening at sunset, people were bringing him the sick and demon-possessed. </span></span>
@@ -133,7 +133,7 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>He said<sup>p</sup>, <i>“Let’s go to the villages nearby so I can preach there too. That’s the </i>main<i> reason I came out here.”</i>
 </span></span>
-<span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He went around preaching in their synagogues and casting out demons all over Galilee.                                           </span><b><span style='font-size:10.0pt;font-family:"Times New Roman",serif'>Mk 1:35-39</span></b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                                                        </span></span></p>
+<span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He went around preaching in their synagogues and casting out demons all over Galilee.                                           </span></span></p>
 
 <p class="section-ref">Mk 1:35-39</p>
 

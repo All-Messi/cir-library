@@ -34,7 +34,8 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and you-shall-serve him </span></i></b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>only.’”</span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he-led him to Jerusalem and stood (him) on the pinnacle of-the temple, and said to-him, <i>“If you-are (the) Son of-[the] God, throw yourself down from-here, </i></span><b><i><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>10</span></sup></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>for it-is-written,</span></i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he-led him to Jerusalem and stood (him) on the pinnacle of-the temple, and said to-him, <i>“If you-are (the) Son of-[the] God, throw yourself down from-here, </i></span></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>for it-is-written,</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b>‘He-will-command the angels of-him about you [the] to-guard you.’</b></span></i></p>
 

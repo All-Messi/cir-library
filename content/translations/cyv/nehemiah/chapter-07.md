@@ -34,7 +34,7 @@ next: chapter-08
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v6" id="v6"><sup class="verse-num">6-7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the number of Israelites that came back to Jerusalem and Judah<span style='color:#C00000'> </span>with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, and Baanah:</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    <a name="_Hlk145622630">8</a></span></sup></b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>the family of Parosh                 2,172</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>the family of Parosh                 2,172</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Shephatiah                               372</span></span></p>
 

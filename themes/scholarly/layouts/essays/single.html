@@ -426,6 +426,8 @@
     for (var i = 0; i < Math.min(children.length, 10); i++) {
         var el = children[i];
         var text = el.textContent.trim();
+        // A picture-only paragraph (diagram patch, Word image, table) is content, not a blank.
+        if (el.querySelector('img, table, svg')) break;
         if (!text || text === '\u00a0' || text === '') { toRemove.push(el); continue; }
         var style = el.getAttribute('style') || '';
         var align = el.getAttribute('align') || '';

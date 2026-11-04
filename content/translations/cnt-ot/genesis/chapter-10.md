@@ -31,7 +31,7 @@ next: chapter-11
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:4.5pt;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>          </span><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ham</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> was the father of <u>Cush</u>, <u>Mizraim</u>, Put, and <u>Canaan</u>.  </span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.5in;'><b><u><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>7</span></sup></u></b><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Cush</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> was the father of Seba, Havilah, Sabtah, <u>Raamah</u>, and Sabteca. </span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.5in;'><b><u><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> </u></b><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Cush</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> was the father of Seba, Havilah, Sabtah, <u>Raamah</u>, and Sabteca. </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:1.0in;'><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Raamah</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> was the father of Sheba and Dedan.</span></p>
 

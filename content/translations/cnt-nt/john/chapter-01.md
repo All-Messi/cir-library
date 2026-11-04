@@ -65,13 +65,13 @@ next: chapter-02
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Pharisees had sent the ones that came. </span></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They asked him<i>, “Why are you baptizing if you’re not the Messiah, Elijah, or ‘the prophet’?”</i></span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m baptizing in water, but there’s a man you don’t know standing among you. </span></i></span>
-<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’ll succeed me, a man whose sandal strap I’m not worthy to unfasten.”</span></i><i><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>   </span></i><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m baptizing in water, but there’s a man standing among you that you don’t know. </span></i></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’ll succeed me, a man whose sandal strap I’m not worthy to unfasten.”</span></i><i><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></i><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That happened at Bethany beyond the Jordan <i>River</i>, where John was baptizing.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>               </span></b></span></p>
 
-<p class="section-ref">Jn 1:19-282:1</p>
+<p class="section-ref">Jn 1:19-28</p>
 
 
 ### John’s Identification of Jesus as the Messiah

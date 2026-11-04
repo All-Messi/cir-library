@@ -11,7 +11,7 @@ next: chapter-107
 
 ## Psalms Chapter 106
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                        <a name="_Hlk124243873">1</a></span></sup></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Hallelujah!</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Hallelujah!</span></b></span></p>
 
 
 ### Be grateful to the LORD because he’s good;

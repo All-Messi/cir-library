@@ -444,6 +444,14 @@ body.overlay-open {
     line-height: inherit !important;
 }
 
+/* Word superscripts that are not verse numbers (Virgil's "p" marks, footnote letters/numbers).
+   Word draws a superscript at about 2/3 of the text size; the browser default (83%) looked too big
+   (Allen, 2026-11-04). line-height:0 keeps them from opening up the line spacing. */
+.chapter-content sup:not(.verse-num) {
+    font-size: 0.65em;
+    line-height: 0;
+}
+
 .chapter-content .verse {
     cursor: pointer;
     border-radius: 3px;
@@ -1096,6 +1104,30 @@ body.overlay-open {
     background: var(--color-bg-alt, #f9f9f9);
 }
 
+/* Several references in one bracket, e.g. [Ex 23:20; Mal 3:1]: one section each */
+.sp-multi .sp-body { max-height: min(60vh, 380px); padding-top: 0.4rem; }
+.sp-ref + .sp-ref { border-top: 1px solid var(--color-border, #e5e5e5); margin-top: 0.6rem; padding-top: 0.6rem; }
+.sp-ref-head { display: flex; justify-content: space-between; align-items: baseline; gap: 0.75rem; }
+.sp-ref-label {
+    font-family: var(--font-display, 'Playfair Display', Georgia, serif);
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--color-primary, #000);
+}
+.sp-ref-open {
+    flex-shrink: 0;
+    background: none;
+    border: none;
+    padding: 0.35rem 0 0.35rem 0.5rem;
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.78rem;
+    color: var(--color-accent, #9c7c38);
+    cursor: pointer;
+}
+.sp-ref-open:hover { text-decoration: underline; }
+.sp-ref-open:focus { outline: none; }
+.sp-ref-open:focus-visible { outline: 2px solid var(--color-accent, #9c7c38); outline-offset: 2px; }
+
 @media (max-width: 640px) {
     .scripture-popup {
         width: calc(100vw - 24px);
@@ -1598,4 +1630,4 @@ document.addEventListener('keydown', function(e) {
 </script>
 
 <!-- Scripture reference popups -->
-<script src="{{ "js/scripture-popups.js" | relURL }}?v=5"></script>
+<script src="{{ "js/scripture-popups.js" | relURL }}?v=7"></script>

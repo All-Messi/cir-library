@@ -53,7 +53,7 @@ next: chapter-28
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.25in;'><span style='font-size:12.0pt; line-height:115%'>for the Simeonites, Shephatiah Ben-Maacah;</span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.25in;'><b><sup><span lang=DA style='font-size:14.0pt;line-height:115%'>17</span></sup></b><span lang=DA style='font-size:12.0pt;line-height:115%'>for Levi, Hashabiah Ben-Kemuel;</span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.25in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span lang=DA style='font-size:12.0pt;line-height:115%'>for Levi, Hashabiah Ben-Kemuel;</span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.25in;'><span style='font-size:12.0pt; line-height:115%'>for Aaron, Zadok;</span></p>
 
@@ -61,7 +61,7 @@ next: chapter-28
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.25in;'><span lang=DA style='font-size:12.0pt; line-height:115%'>for Issachar, Omri Ben-Michael;</span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.25in;'><b><sup><span lang=DA style='font-size:14.0pt;line-height:115%'>19</span></sup></b><span lang=DA style='font-size:12.0pt;line-height:115%'>for Zebulun, Ishmaiah Ben-Obadiah;</span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.25in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span lang=DA style='font-size:12.0pt;line-height:115%'>for Zebulun, Ishmaiah Ben-Obadiah;</span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.25in;'><span lang=DA style='font-size:12.0pt; line-height:115%'>for Naphtali, Jeremoth Ben-Azriel;</span></p>
 
@@ -73,7 +73,7 @@ next: chapter-28
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.25in;'><span lang=DA style='font-size:12.0pt; line-height:115%'>for Benjamin, Jaasiel Ben-Abner;</span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.25in;'><b><sup><span lang=DA style='font-size:14.0pt;line-height:115%'>22</span></sup></b><span lang=DA style='font-size:12.0pt;line-height:115%'>for Dan, Azarel Ben-Jeroham.</span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.25in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span lang=DA style='font-size:12.0pt;line-height:115%'>for Dan, Azarel Ben-Jeroham.</span></span></p>
 
 
 ### Those were the officers of the tribes of Israel.

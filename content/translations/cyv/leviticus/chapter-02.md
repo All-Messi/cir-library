@@ -31,7 +31,8 @@ next: chapter-03
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Season grain offerings with salt to put the salt of your God’s covenant in them.  </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If you bring a grain offering of the first part of the harvest, bring heads of crushed new growth roasted in fire, </span></i></span>
-<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and put olive oil and incense on them. </span></i><b><sup><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>16</span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The priest will offer them up in smoke as God’s portion.   </span></i></span></span></p>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and put olive oil and incense on them. </span></i></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The priest will offer them up in smoke as God’s portion.   </span></i></span></span></p>
 
 <p class="section-ref">Lev 2:11-16</p>
 

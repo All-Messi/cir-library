@@ -88,7 +88,8 @@ next: chapter-05
 ### Calling Four Fishermen
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>18</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As he was walking along Lake Galilee, he saw two brothers, Simon called Peter, and Andrew. They were casting nets into the lake; they were fishermen. </span><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told<sup>p</sup> them, <i>“Come with me, and I’ll have you ‘fishing’ for people.” </i></span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As he was walking along Lake Galilee, he saw two brothers, Simon called Peter, and Andrew. They were casting nets into the lake; they were fishermen. </span></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told<sup>p</sup> them, <i>“Come with me, and I’ll have you ‘fishing’ for people.” </i></span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Right away, they left their nets and went with him. </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He went on from there and saw two more brothers, James and John, sons of Zebedee, in a boat with their father, mending nets; and he called them. </span></span>

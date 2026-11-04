@@ -54,22 +54,22 @@ next: chapter-16
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span lang=DE style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Kabzeel, Eder, Jagur, </span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span lang=DE style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'>22</span></sup></b><span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Kinah, Dimonah, Adadah, </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Kinah, Dimonah, Adadah, </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span lang=DE style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'>23</span></sup></b><span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Kedesh, Hazor, Ithnan, </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Kedesh, Hazor, Ithnan, </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span lang=DE style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'>24</span></sup></b><span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ziph, Telem, Bealoth, </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ziph, Telem, Bealoth, </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span lang=DE style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'>25</span></sup></b><span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hazor-hadattah, Kerioth-hezron (</span><span lang=DE style='font-family:"Times New Roman",serif'>Hazor</span><span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>),
-</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hazor-hadattah, Kerioth-hezron (</span><span lang=DE style='font-family:"Times New Roman",serif'>Hazor</span><span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>),
+</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span lang=DE style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'>26</span></sup></b><span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Amam, Shema, Moladah, </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Amam, Shema, Moladah, </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span lang=DE style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'>27</span></sup></b><span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hazar-gaddah, Heshmon, Beth-pelet, </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hazar-gaddah, Heshmon, Beth-pelet, </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span lang=DE style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'>28</span></sup></b><span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hazar-shual, Beersheba, Biziothiah, </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hazar-shual, Beersheba, Biziothiah, </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span lang=DE style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'>29</span></sup></b><span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Baalah, Iim, Ezem, </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Baalah, Iim, Ezem, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Eltolad, Chesil, Hormah, </span></span></p>
 
@@ -130,9 +130,9 @@ next: chapter-16
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v51" id="v51"><sup class="verse-num">51</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Goshen, Holon, and Gioloh—11 towns with their villages. </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><sup><span lang=DE style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'>52</span></sup></b><span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Arab, Dumah, Eshan, </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v52" id="v52"><sup class="verse-num">52</sup> <span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Arab, Dumah, Eshan, </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:1.0in;'><b><sup><span lang=DE style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>53</span></sup></b><span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Janum, Beth-tappuah, Aphekah, </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v53" id="v53"><sup class="verse-num">53</sup> <span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Janum, Beth-tappuah, Aphekah, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v54" id="v54"><sup class="verse-num">54</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Humtah, Kiriath-arba (</span><span style='font-family:"Times New Roman",serif'>Hebron</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>), and Zior—9 towns with their villages.</span></span></p>
 

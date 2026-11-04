@@ -151,8 +151,8 @@ style='font-size:12.0pt'>      </span></p>
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            The crucial point in atonement theory is
 what happens besides our identifying with Christ and God’s accepting that
-identity as a basis for his forgiving sins. As we have attempted to show in the
-above map read left to right, in identification theory, subjective and
+identity as a basis for his forgiving our sins. As we have attempted to show in
+the above map read left to right, in identification theory, subjective and
 objective identity with Christ is the <u>only</u> thing that happens besides
 God’s forgiving us itself. There is no substitutionary penalty taking and no
 conquering hostile powers. There is no replacing our death with his death on
@@ -217,9 +217,9 @@ identification with the Righteous One and commitment to his lordship, values,
 and purposes. Even this condition is not essentially a new one, because Christ
 as an “extension” of the Father is a manifestation of the divine side of the
 divine-human relationship. In any personal relationship, reconciliation is
-conditioned on re-identifying with and committing to the other person. So
-identifying with Christ is really the age-old principle of identifying with God
-unto salvation from any threatened penalty for sin.</span></p>
+conditioned on re-identifying with and committing to the other person we
+previously offended. So identifying with Christ is really the age-old principle
+of identifying with God unto salvation from any threatened penalty for sin.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            For another thing, atonement theory need
@@ -231,17 +231,17 @@ just decide to do something to sinners because we sinned. Sin naturally
 separates the sinner from the one sinned against. “Death” in the salvation
 context is spiritual death since all Christians physically die like everyone
 else. Spiritual death is separation from God—alienation. Physical death pictures
-spiritual death. Separation from the one sinned against naturally results from unrepented-of
-sin in any personal relationship. Quite “naturally,” then, if the sin that
-separates is forgiven, the separation ceases perforce. The forgiving and the
-reconciling form a set and happen simultaneously on the same condition. God’s
-forgiveness automatically gets rid of the “death penalty” by getting rid of the
-guilt that leads to it. Identifying with Christ meets the Father’s condition
-for counting us righteous (= forgiving our sin); so, identifying with Christ
-meets the Father’s condition for giving us his Spirit (removing vertical
-alienation) as well as counting us in his one body (removing horizontal
-alienation). There is no additional substituting or conquering. The essential,
-operative act is sheer forgiveness—based freely on an appropriate condition,
+spiritual death and grew out of it. Separation from the one sinned against naturally
+results from unrepented-of sin in any personal relationship. Quite “naturally,”
+then, if the sin that separates is forgiven, the separation ceases perforce. The
+forgiving and the reconciling form a set and happen simultaneously on the same
+condition. God’s forgiveness automatically gets rid of the “death penalty” by
+getting rid of the guilt that leads to it. Identifying with Christ meets the
+Father’s condition for counting us righteous (= forgiving our sin); so,
+identifying with Christ meets the Father’s condition for giving us his Spirit
+(removing vertical alienation) as well as counting us in his one body (removing
+horizontal alienation). There is no additional substituting or conquering. The
+essential, operative act is sheer forgiveness—based freely on an appropriate condition,
 but sheer forgiveness nevertheless.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -259,14 +259,14 @@ style='font-size:12.0pt'>&nbsp;</span></b></p>
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            Related to atonement theory is the supposed
 concept of divine necessity. The presentation above takes exception to the
-belief that God has to punish sin regardless of any considerations whatever. He
-does not have to establish a necessary penalty for sin because his holiness
-requires a penalty for all unholiness. In that arrangement, holiness that
-exacts justice overrides love that relents. </span></p>
+belief that God has to punish sin regardless of any considerations whatever. To
+put it differently, he does not have to establish a necessary parallel penalty
+for sin because his holiness requires a penalty for all unholiness. In that arrangement,
+holiness that exacts justice would override love that relents. </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            God does deal with all sin, but his
-dealing with all sin need not involve punishment or penalty; he may freely
+dealing with all sin need not involve separate punishment or penalty; he may freely
 decide to forgive. God’s holiness does require self-consistency, and his
 self-consistency requires doing something about sin if there is no exonerating
 circumstance or no repentance. That is so because creatures’ sins challenge God’s
@@ -277,9 +277,9 @@ he allow what is not God to act as if it were; that would compromise “justness
 Inasmuch as such behavior is also a “slap in God’s face,” his doing nothing
 about it would compromise his “honor.” And he does do something about it; that
 is the function of temporal separation from him (lostness/alienation) because
-of sin and eternal separation from him as hell. But there is no evident reason
-for saying that God has to <u>establish</u> a distinct penalty for repented-of
-sin or sins of honest ignorance. </span></p>
+of sin and eternal separation from him as hell subsequent to impenitence. But
+there is no evident reason for saying that God has to <u>establish</u> a distinct
+penalty for repented-of sin or sins of honest ignorance. </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            We espouse our counter-position, not
@@ -288,8 +288,8 @@ do what he wants), but because he is personal and sin is inter-personal
 behavior. If sin against God is an action, it is not like something that mars
 his honor the way a rock dents a car. Sin is not something that causes a
 quantitative loss that has to be regained; it is not a bad substance that has
-to be annihilated, or a negative that has to be offset by a positive. All these
-alternative images and others like them come from deterministic
+to be annihilated, or a negative that has to be offset by a equal positive. All
+these alternative images and others like them come from deterministic
 categories—substantive nature, legal process, or metaphysical form—rather than
 from personal relationship, wherein lies freedom within a framework. So, the
 other alternatives are irrelevant for establishing principles for
@@ -309,7 +309,8 @@ not need to exact a distinct penalty for all sin regardless; so Christ did not
 have to substitute for us in taking that distinct penalty, which was such that
 we could not take it ourselves. Besides, it would have been artificial to the
 case for <u>him</u> to take the penalty because the penalty was pronounced on <u>us</u>.
-Penalty answers to guilt, and guilt is personal. </span></p>
+Penalty answers to guilt, and guilt is personal because an act is done by a
+distinct person. </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            A related approach to divine necessity
@@ -403,14 +404,15 @@ as Christ died is something we are willing to commit ourselves to do if need be.
 The death and righteousness of Jesus Christ do not substitute for our death and
 lack of righteousness; his life-death fully embodied the will of the Person we “offended”
 by our sin. Our willingness to identify with that full embodiment of the divine
-will serves as the condition for God’s beginning to consider us sons in his own
-mind. That has always been the essential condition for divine sonship. Not <u>punishing</u>
-someone else or <u>conquering</u> opponents or balancing books, but <u>forgiving</u>
-us is the specific act in God’s mind that gets rid of the guilt and its penalty
-that would otherwise be attached to us “when he looks at us.” Forgiving us and
-beginning to view us as sons (dropping the penalty, separation) in his mind
-contrasts with those activities occurring outside his mind in some legal,
-natural, or metaphysical process.</span><sup><span style='font-size:16.0pt'>3</span></sup></p>
+will serves as the condition for God’s beginning to consider us sons again in
+his own mind. That has always been the essential condition for divine sonship. Not
+<u>punishing</u> someone else or <u>conquering</u> opponents or balancing books,
+but <u>forgiving</u> us is the specific act in God’s mind that gets rid of the
+guilt and its penalty that would otherwise be attached to us “when he looks at
+us.” Forgiving us and beginning again to view us as sons (dropping the penalty,
+separation) in his mind contrasts with those activities occurring outside his
+mind in some legal, natural, or metaphysical process.</span><sup><span
+style='font-size:16.0pt'>3</span></sup></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                        </span></p>
@@ -442,9 +444,6 @@ effective.</span></p>
 style='font-size:12.0pt'>_____________</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            <span style='position:relative;top:-3.0pt'>1</span>Paul,
 the writer of Hebrews,<i> </i>and others did not use substitution to state the
 reality itself but to picture a way of looking at it. For their audience, it
@@ -456,9 +455,9 @@ sacrificial system in the first place. Additionally, these people had previously
 lived under a legal system. They could be thought of as lost in a legal sense;
 so they could be “saved” in a legal sense as well. But their <u>real</u>
 lostness consisted of more than the secondary legal lostness they had under
-Mosaism; they were also lost in the real, interpersonal sense. Christ’s death
-could cover both because he did die in the interest of removing sin. They could
-regard his death as having a double meaning.</span></p>
+Mosaism; they were also lost in the real, interpersonal sense (cp. John <b>1</b>:17).
+Christ’s death could cover both because he did die in the interest of removing
+sin. They could regard his death as having a double meaning.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            God counts us Gentiles righteous, however,

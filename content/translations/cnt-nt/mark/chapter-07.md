@@ -88,11 +88,11 @@ next: chapter-08
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>He left the area around Tyre and traveled through Sidon to Lake Galilee in the territory of Decapolis. </span></span>
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They brought<sup>p</sup> him a deaf man with a speech impediment and asked<sup>p</sup> him to put his hand on him. </span></span>
-<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He took him away from the crowd by himself and put his fingers in his ears, spit, and touched his tongue. </span></span>
+<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He took him away from the crowd and put his fingers in his ears, spit, and touched his tongue. </span></span>
 <span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He looked up at the sky, and made a groaning sound and said<sup>p</sup>, “<i>Ephphatha</i> </span><i><span style='font-family:"Times New Roman",serif'>(Open up)</span></i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>.” </span></span>
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>His ears opened and his tongue freed up, and he started speaking clearly. </span></span>
 <span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Jesus told the people not to tell anybody, but the more he told them to keep something quiet, the more they spread it around. </span></span>
-<span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size: 12.0pt;font-family:"Times New Roman",serif'>They were completely astonished, <i>“He’s done everything well. He even makes deaf people hear and mutes speak.” </i></span></span></p>
+<span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size: 12.0pt;font-family:"Times New Roman",serif'>They were completely astonished, <i>“He’s done everything well. He even makes deaf people hear and mutes speak.”   </i></span></span></p>
 
 <p class="section-ref">Mk 7:31-37</p>
 

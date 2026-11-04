@@ -106,9 +106,9 @@ the actions are other than acts of worship and service. It embodies the reality
 Jesus describes in Matthew <b>25</b>:31-46: <i>“Inasmuch as you have done it to
 the least of these brothers of mine, you have done it to me”</i> (cp. Hebrews <b>6</b>:10;
 Proverbs <b>19</b>:7; contrast <b>14</b>:31). Identification means doing our
-goodness <u>in the name</u> <u>of</u> Christ (Matthew <b>10</b>:40-42; cp. Mark
-<b>9</b>:41). It means doing our acts to him more than to human persons
-(Colossians <b>3</b>:23-24; Ephesians <b>6</b>:5-6; <b>5</b>:22?).</span></p>
+goodness <u>in the name of</u> Christ (Matthew <b>10</b>:40-42; cp. Mark <b>9</b>:41).
+It means doing our acts to him more than to human persons (Colossians <b>3</b>:23-24;
+Ephesians <b>6</b>:5-6; <b>5</b>:22?).</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>

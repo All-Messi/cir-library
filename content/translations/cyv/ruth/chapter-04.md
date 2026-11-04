@@ -62,13 +62,13 @@ prev: chapter-03
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Perez was father of Hezron </span><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Avi-Ram Avi- </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span lang=DA style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Amminadab
-</span><b><sup><span lang=DA style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>20</span></sup></b><span lang=DA style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Avi-Nahshon Avi- </span></p>
+</span><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span lang=DA style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Avi-Nahshon Avi- </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span lang=DA style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Salmon
-</span><b><sup><span lang=DA style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>21</span></sup></b><span lang=DA style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Avi-Boaz Avi- </span></p>
+</span><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span lang=DA style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Avi-Boaz Avi- </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span lang=DA style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Obed
-</span><b><sup><span lang=DA style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>22</span></sup></b><span lang=DA style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Avi-Jesse Avi-David.<b>                                                                  </b></span></p>
+</span><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span lang=DA style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Avi-Jesse Avi-David.<b>                                                                  </b></span></span></p>
 
 <p class="section-ref">Ruth 4:13-22</p>
 

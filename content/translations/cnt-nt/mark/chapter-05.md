@@ -87,7 +87,7 @@ next: chapter-06
 <span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He took her hand and said, “<i>Talitha, qum</i> <i>(</i></span><i><span style='font-family:"Times New Roman",serif'>Girl, get up</span></i><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>).”
 </span></i></span>
 <span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>She stood up right away and started walking around. (</span><span style='font-family:"Times New Roman",serif'>She was twelve.</span><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>) They were completely astounded. </span></span>
-<span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size: 12.0pt;font-family:"Times New Roman",serif'>He gave them strict orders that nobody should know about this and told them to give her something to eat.                    </span></span></p>
+<span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size: 12.0pt;font-family:"Times New Roman",serif'>He gave them strict orders that nobody should know about this and told them to give her something to eat.                                    </span></span></p>
 
 <p class="section-ref">Mk 5:21-43</p>
 

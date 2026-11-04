@@ -24,7 +24,7 @@ next: chapter-15
 <i>“We don’t know where you’re going. How can we know how to get there?”</i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<u>I’m</u> the way, truth, and life. No one gets to the Father except through me. </span></i></span>
-<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you’ve come to know me, you’ll know my Father too. From now on you know him and have seen him.”   </span></i></span></p>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you’ve come to know me, you know<sup>f </sup>my Father too. From now on you know him and have seen him.”           </span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Philip said</span><sup><span style='font-family:"Times New Roman",serif'>h[</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
 <i>“Lord, show us the Father; that’ll be enough.”</i></span></span></p>

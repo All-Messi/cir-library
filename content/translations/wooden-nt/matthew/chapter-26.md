@@ -65,7 +65,7 @@ next: chapter-27
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and the sheep of-the shepherd thoroughly-scattered.’</span></i></b></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><i><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>32</span></sup></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And after [the] my having-resurrected, I-will-go-ahead-of you into [the] Galilee.” </span></i></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And after [the] my having-resurrected, I-will-go-ahead-of you into [the] Galilee.” </span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And having-answered, [the] Peter said to-him, <i>“If all will-be-offended in you, <u>I</u> will┘never└be-offended.” </i></span></span></p>
 

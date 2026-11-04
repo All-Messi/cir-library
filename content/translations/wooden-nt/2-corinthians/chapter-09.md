@@ -27,7 +27,8 @@ next: chapter-10
 ### The righteousness of-him remains forever3.
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>10</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now the-One supplying seed to-the sower and bread for food will-supply and multiply the seed of-you and will-increase the harvest of-the righteousness of-you, <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> being-enriched in everything to all generosity, which is-producing through us thanksgiving to-[the] God; </span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now the-One supplying seed to-the sower and bread for food will-supply and multiply the seed of-you and will-increase the harvest of-the righteousness of-you, </span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> being-enriched in everything to all generosity, which is-producing through us thanksgiving to-[the] God; </span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> because the ministry of-this [the] service, not only fully-supplies the needs of-the saints, but also overflows through many thanksgivings to-[the] God. </span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> Through the proof of-this [the] ministry glorifying [the] God over the obedience of-the confession of-you to/for the gospel of-[the] Christ and (the) generosity of-the contribution/fellowship to them and to all, </span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> also they, by-prayer for you, yearning-for you on-account-of the surpassing grace of-[the] God on you. </span>

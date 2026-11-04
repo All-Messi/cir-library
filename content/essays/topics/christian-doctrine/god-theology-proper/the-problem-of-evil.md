@@ -18,6 +18,10 @@ Introduction
 
 ANTILOGISM
 
+<p class="cir-diagram" style="text-align:center;margin:1.25rem 0"><img src="/images/diagrams/the-problem-of-evil-antilogism.png" alt="Antilogism triangle: Holiness of God, Omnipotence of God, Fact of evil" width="435" style="max-width:100%;height:auto"></p>
+
+
+
 
 
 
@@ -27,16 +31,11 @@ Supposedly only two of these points of the antilogism may be affirmed at any one
 I. Aspects of the Answer
 
 
-beginning               TIME                end	                 ETERNITY
-
-of evil  		                                  of evil
 
 
+<p class="cir-diagram" style="text-align:center;margin:1.25rem 0"><img src="/images/diagrams/the-problem-of-evil-1.png" alt="Timeline: beginning of evil (creature&#x27;s will) — TIME — end of evil (creator&#x27;s power) — ETERNITY" width="590" style="max-width:100%;height:auto"></p>
 
 
-creature’s	                                       creator’s
-
-will		                     		   power
 
 
 A.	Time allows for origin and end. An antilogism is a logical relationship; hence, it does not deal with truth but with validity. Logic is timeless/atemporal. The space between “beginning of evil” and “end of evil” becomes an exception rather than an absolute. If each time a person wanted to exercise his free will in an unacceptable way God intervened between the decision and its fulfillment, it would have the effect of collapsing into one point in time the origin and end of evil.

@@ -44,47 +44,7 @@ individual and corporate mankind.</span></p>
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><b><span style='font-size:12.0pt'>                                 Fellowship           
-                                     Reconciliation</span></b></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='position:relative;z-index:251656192'><span
-style='left:0px;position:absolute;left:57px;top:-79px;width:358px;height:78px'>
-
-<table cellpadding=0 cellspacing=0 align=left>
- <tr>
-  <td width=0 height=0></td>
-  <td width=146></td>
-  <td width=34></td>
-  <td width=178></td>
- </tr>
- <tr>
-  <td height=78></td>
-  <td align=left valign=top></td>
-  <td></td>
-  <td align=left valign=top></td>
- </tr>
-</table>
-
-</span></span><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<br clear=ALL>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>                                                   <b>Alienation</b></span></p>
+<p class="cir-diagram" style="text-align:center;margin:1.25rem 0"><img src="/images/diagrams/the-nature-of-salvation-1.png" alt="Diagram: Fellowship → (identification with Adam: action, sin) → Alienation → (identification with Christ: action, repentance/forgiveness) → Reconciliation" width="540" style="max-width:100%;height:auto"></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>

@@ -103,18 +103,7 @@ persons because persons are the ones leading and being led. </span></p>
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                          marriage</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='position:relative;z-index:251652608'><span style='left:0px;position:
-absolute;left:180px;top:-183px;width:28px;height:1px'><img width=28 height=1
-src="/images/essays/the-meaning-of-submission/image002.png"></span></span><span style='font-size:12.0pt'>        
-                                 interpersonal           leadership                parenting</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                          relationship         
-                                   eldership</span></p>
+<p class="cir-diagram" style="text-align:center;margin:1.25rem 0"><img src="/images/diagrams/the-meaning-of-submission-1.png" alt="interpersonal relationship → leadership → marriage, parenting, eldership" width="333" style="max-width:100%;height:auto"></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
@@ -142,43 +131,7 @@ accomplish what is for their welfare (cp. Hebrews<b> 13</b>:17 re elders).</span
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-right:-.5in'><span style='position:relative;
-z-index:251657728'><span style='position:absolute;left:156px;top:-229px;
-width:1px;height:31px'><img width=1 height=31 src="/images/essays/the-meaning-of-submission/image003.png"></span></span><span
-style='font-size:12.0pt'>                                                     God</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in'><span style='position:relative;
-z-index:251659776'><span style='position:absolute;left:200px;top:-257px;
-width:1px;height:61px'><img width=1 height=61 src="/images/essays/the-meaning-of-submission/image004.png"></span></span><span
-style='font-size:12.0pt'>                                                     leader</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in'><span style='position:relative;
-z-index:251658752'><span style='position:absolute;left:156px;top:-261px;
-width:1px;height:33px'><img width=1 height=33 src="/images/essays/the-meaning-of-submission/image005.png"></span></span><span
-style='font-size:8.0pt'>&nbsp;</span></p>
-
-<br clear=ALL>
-
-<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>                      
-                                                                            purpose</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>           
-</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in'><span style='font-size:6.0pt'>                       
-                                                               </span><span
-style='font-size:12.0pt'>people</span></p>
-
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<br clear=ALL>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+<p class="cir-diagram" style="text-align:center;margin:1.25rem 0"><img src="/images/diagrams/the-meaning-of-submission-2.png" alt="God → leader → people; leader and people together → purpose" width="253" style="max-width:100%;height:auto"></p><p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            In marriage as well as in any other situation
 with leadership, there is no need to invoke authority except (1) <u>on points
 that impact responsibility</u>. Even then, authority is invoked only (2) <u>as

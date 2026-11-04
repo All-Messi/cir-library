@@ -71,58 +71,7 @@ Inspiration guides and protects the process.</span></p>
 style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>Picturing
 the Presentation</span></p>
 
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Presentation
-re                                                                                                Presentation
-re</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>CREATION                                                                       
-“CREATION” OF</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><span
-style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Genesis
-<b>1</b>:1-<b>2</b>:3                                                                                   
-               </span><span style='font-size:14.0pt;line-height:115%;
-font-family:"Times New Roman",serif'>ISRAEL </span><span style='font-size:10.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>(Isaiah <b>43</b>:1, 15)</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                               
-                            Explains Structure                              </span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                         
-</span><span style='font-family:"Times New Roman",serif'>Exodus <b>20</b>:11
-(manner)                          </span><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>6 + Sabbath envisioned</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='position:relative;z-index:251660288'><span style='left:0px;position:
-absolute;left:115px;top:-102px;width:191px;height:11px'><img width=191
-height=11 src="/images/essays/a-rationale-for-the-structure-of-genesis-11-23/image001.png"></span></span><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>6
-+ Sabbath     </span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                            </span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='position:relative;z-index:251659264'><span style='left:0px;position:
-absolute;left:113px;top:-114px;width:198px;height:11px'><img width=198
-height=11 src="/images/essays/a-rationale-for-the-structure-of-genesis-11-23/image002.png"></span></span><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>sanctified
-and blessed</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                            Enjoins
-Sabbath                                6 + Sabbath established</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                     
-</span><span style='font-family:"Times New Roman",serif'>Exodus <b>31</b>:17;
-Deuteronomy <b>5</b>:15 (sign, meaning)</span></p>
+<p class="cir-diagram" style="text-align:center;margin:1.25rem 0"><img src="/images/diagrams/a-rationale-for-the-structure-of-genesis-1.png" alt="Presentation re CREATION (Genesis 1:1-2:3) and presentation re CREATION OF ISRAEL (Isaiah 43:1, 15): Exodus 20:11 (manner) explains structure, 6 + Sabbath envisioned → 6 + Sabbath; sanctified and blessed → Exodus 31:17; Deuteronomy 5:15 (sign, meaning) enjoins Sabbath, 6 + Sabbath established" width="637" style="max-width:100%;height:auto"></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-family:"Times New Roman",serif'>                        </span></p>

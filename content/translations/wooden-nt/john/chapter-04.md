@@ -86,7 +86,7 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v48" id="v48"><sup class="verse-num">48</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So [the] Jesus said to him, <i>“Unless<sup>2</sup> you<sup>pl</sup>-see signs and wonders, you-will┘not└believe at-all!</i><b><sup>” </sup></b></span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>49</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The ruler says to-him, <i>“Sir, go-down before the son of-me dies.”</i> </span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The ruler says to-him, <i>“Sir, go-down before the son of-me dies.”</i> </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v50" id="v50"><sup class="verse-num">50</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>[The] Jesus says to-him, <i>“Go, the son of-you lives.”</i> </span></span></p>
 

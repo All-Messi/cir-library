@@ -128,32 +128,14 @@ draft: false
 	{font-family:"Aptos Display";
 	panose-1:2 11 0 4 2 2 2 2 2 4;}
 @font-face
+	{font-family:Georgia;
+	panose-1:2 4 5 2 5 4 5 2 3 3;}
+@font-face
+	{font-family:"PingFang TC";
+	panose-1:2 11 4 0 0 0 0 0 0 0;}
+@font-face
 	{font-family:"ACADEMY ENGRAVED LET PLAIN\:1\.0";
 	panose-1:2 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Adelle Sans Devanagari Thin";
-	panose-1:2 0 5 3 0 0 0 2 0 4;}
-@font-face
-	{font-family:"Adelle Sans Devanagari Light";
-	panose-1:2 0 5 3 0 0 0 2 0 4;}
-@font-face
-	{font-family:"Adelle Sans Devanagari";
-	panose-1:2 0 5 3 0 0 0 2 0 4;}
-@font-face
-	{font-family:"Adelle Sans Devanagari Semibold";
-	panose-1:2 0 5 3 0 0 0 2 0 4;}
-@font-face
-	{font-family:"Adelle Sans Devanagari Extrabol";
-	panose-1:0 0 9 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Adelle Sans Devanagari Heavy";
-	panose-1:0 0 10 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:AkayaKanadaka;
-	panose-1:2 1 5 2 8 4 1 1 1 3;}
-@font-face
-	{font-family:AkayaTelivigala;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Al Bayan Plain";
 	panose-1:0 0 0 0 0 0 0 0 0 0;}
@@ -181,9 +163,6 @@ draft: false
 @font-face
 	{font-family:"Andale Mono";
 	panose-1:2 11 5 9 0 0 0 0 0 4;}
-@font-face
-	{font-family:"Annai MN";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Apple Chancery";
 	panose-1:3 2 7 2 4 5 6 6 5 4;}
@@ -254,51 +233,6 @@ draft: false
 	{font-family:"Arial Narrow";
 	panose-1:2 11 6 6 2 2 2 3 2 4;}
 @font-face
-	{font-family:"Arima Koshi Thin";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Koshi ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Koshi Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Koshi";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Koshi Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Koshi ExtraBold";
-	panose-1:0 0 9 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Koshi Black";
-	panose-1:0 0 10 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Madurai Thin";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Madurai ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Madurai Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Madurai";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Madurai Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Madurai Semi Bold";
-	panose-1:0 0 7 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Madurai Bold";
-	panose-1:0 0 8 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Arima Madurai Black";
-	panose-1:0 0 10 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:"Avenir Light";
 	panose-1:2 11 4 2 2 2 3 2 2 4;}
 @font-face
@@ -368,161 +302,8 @@ draft: false
 	{font-family:Ayuthaya;
 	panose-1:0 0 4 0 0 0 0 0 0 0;}
 @font-face
-	{font-family:"BIZ UDGothic";
-	panose-1:2 11 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"BIZ UDMincho";
-	panose-1:2 2 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"BM DoHyeon OTF";
-	panose-1:2 11 6 0 0 1 1 1 1 1;}
-@font-face
-	{font-family:"BM HANNA 11yrs old OTF";
-	panose-1:2 11 6 0 0 1 1 1 1 1;}
-@font-face
-	{font-family:"BM HANNA Air OTF";
-	panose-1:2 11 6 0 0 1 1 1 1 1;}
-@font-face
-	{font-family:"BM HANNA Pro OTF";
-	panose-1:2 11 6 0 0 1 1 1 1 1;}
-@font-face
-	{font-family:"BM JUA OTF";
-	panose-1:2 2 6 3 2 1 1 2 1 1;}
-@font-face
-	{font-family:"BM KIRANGHAERANG OTF";
-	panose-1:2 11 6 0 0 1 1 1 1 1;}
-@font-face
-	{font-family:"BM YEONSUNG OTF";
-	panose-1:2 11 6 0 0 1 1 1 1 1;}
-@font-face
 	{font-family:Baghdad;
 	panose-1:1 0 5 0 0 0 0 2 0 4;}
-@font-face
-	{font-family:"Bai Jamjuree ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Bai Jamjuree Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Bai Jamjuree";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Bai Jamjuree Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Bai Jamjuree SemiBold";
-	panose-1:0 0 7 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Baloo 2";
-	panose-1:3 8 5 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo 2 Medium";
-	panose-1:3 8 6 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo 2 SemiBold";
-	panose-1:3 8 7 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo 2 ExtraBold";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Bhai 2";
-	panose-1:3 8 5 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Bhai 2 Medium";
-	panose-1:3 8 6 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Bhai 2 SemiBold";
-	panose-1:3 8 7 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Bhai 2 ExtraBold";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Bhaijaan";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Bhaina 2";
-	panose-1:3 8 5 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Bhaina 2 Medium";
-	panose-1:3 8 6 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Bhaina 2 SemiBold";
-	panose-1:3 8 7 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Bhaina 2 ExtraBold";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Chettan 2";
-	panose-1:3 8 5 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Chettan 2 Medium";
-	panose-1:3 8 6 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Chettan 2 SemiBold";
-	panose-1:3 8 7 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Chettan 2 ExtraBold";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Da 2";
-	panose-1:3 8 5 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Da 2 Medium";
-	panose-1:3 8 6 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Da 2 SemiBold";
-	panose-1:3 8 7 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Da 2 ExtraBold";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Paaji 2";
-	panose-1:3 8 5 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Paaji 2 Medium";
-	panose-1:3 8 6 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Paaji 2 SemiBold";
-	panose-1:3 8 7 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Paaji 2 ExtraBold";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Tamma 2";
-	panose-1:3 8 5 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Tamma 2 Medium";
-	panose-1:3 8 6 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Tamma 2 SemiBold";
-	panose-1:3 8 7 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Tamma 2 ExtraBold";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Tammudu 2";
-	panose-1:3 8 5 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Tammudu 2 Medium";
-	panose-1:3 8 6 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Tammudu 2 SemiBold";
-	panose-1:3 8 7 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Tammudu 2 ExtraBold";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Thambi 2";
-	panose-1:3 8 5 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Thambi 2 Medium";
-	panose-1:3 8 6 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Thambi 2 SemiBold";
-	panose-1:3 8 7 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Baloo Thambi 2 ExtraBold";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
 @font-face
 	{font-family:"Bangla MN";
 	panose-1:0 0 5 0 0 0 0 0 0 0;}
@@ -538,12 +319,6 @@ draft: false
 @font-face
 	{font-family:Beirut;
 	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"BiauKaiHK Regular";
-	panose-1:3 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"BiauKaiTC Regular";
-	panose-1:3 0 5 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Big Caslon Medium";
 	panose-1:2 0 6 3 9 0 0 2 0 3;}
@@ -572,24 +347,6 @@ draft: false
 	{font-family:"Brush Script MT";
 	panose-1:3 6 8 2 4 4 6 7 3 4;}
 @font-face
-	{font-family:"Cambay Devanagari";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Chakra Petch ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Chakra Petch Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Chakra Petch";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Chakra Petch Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Chakra Petch SemiBold";
-	panose-1:0 0 7 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:Chalkboard;
 	panose-1:3 5 6 2 4 2 2 2 2 5;}
 @font-face
@@ -601,12 +358,6 @@ draft: false
 @font-face
 	{font-family:Chalkduster;
 	panose-1:3 5 6 2 4 2 2 2 2 5;}
-@font-face
-	{font-family:Charm;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:Charmonman;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Charter Roman";
 	panose-1:2 4 5 3 5 5 6 2 2 3;}
@@ -631,12 +382,6 @@ draft: false
 @font-face
 	{font-family:"Corsiva Hebrew";
 	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Wawati SC";
-	panose-1:4 11 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Wawati TC";
-	panose-1:4 11 5 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"DIN Alternate";
 	panose-1:2 11 5 0 0 0 0 0 0 0;}
@@ -668,39 +413,6 @@ draft: false
 	{font-family:"Euphemia UCAS";
 	panose-1:2 11 5 3 4 1 2 2 1 4;}
 @font-face
-	{font-family:"Lantinghei SC Extralight";
-	panose-1:2 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"LANTINGHEI SC DEMIBOLD";
-	panose-1:2 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"LANTINGHEI SC HEAVY";
-	panose-1:2 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lantinghei TC Extralight";
-	panose-1:3 0 5 9 0 0 0 0 0 0;}
-@font-face
-	{font-family:"LANTINGHEI TC DEMIBOLD";
-	panose-1:3 0 5 9 0 0 0 0 0 0;}
-@font-face
-	{font-family:"LANTINGHEI TC HEAVY";
-	panose-1:3 0 5 9 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Fahkwang ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Fahkwang Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:Fahkwang;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Fahkwang Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Fahkwang SemiBold";
-	panose-1:0 0 7 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:Farisi;
 	panose-1:0 0 4 0 0 0 0 0 0 0;}
 @font-face
@@ -731,9 +443,6 @@ draft: false
 	{font-family:Geneva;
 	panose-1:2 11 5 3 3 4 4 4 2 4;}
 @font-face
-	{font-family:Georgia;
-	panose-1:2 4 5 2 5 4 5 2 3 3;}
-@font-face
 	{font-family:"Gill Sans Light";
 	panose-1:2 11 3 2 2 1 4 2 2 3;}
 @font-face
@@ -743,22 +452,7 @@ draft: false
 	{font-family:"GILL SANS SEMIBOLD";
 	panose-1:2 11 7 2 2 1 4 2 2 3;}
 @font-face
-	{font-family:Gotu;
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Tamil Sangam MN Light";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:"Tamil Sangam MN";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Tamil Sangam MN Medium";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"TAMIL SANGAM MN DEMIBOLD";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"TAMIL SANGAM MN BLACK";
 	panose-1:0 0 5 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Grantha Sangam MN";
@@ -775,18 +469,6 @@ draft: false
 @font-face
 	{font-family:"Gurmukhi Sangam MN";
 	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Hannotate SC";
-	panose-1:3 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Hannotate TC";
-	panose-1:3 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"HanziPen SC";
-	panose-1:3 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"HanziPen TC";
-	panose-1:3 0 3 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Helvetica Light";
 	panose-1:2 11 4 3 2 2 2 2 2 4;}
@@ -890,12 +572,6 @@ draft: false
 	{font-family:"Hiragino Kaku Gothic StdN W8";
 	panose-1:2 11 8 0 0 0 0 0 0 0;}
 @font-face
-	{font-family:"Hiragino Sans CNS W3";
-	panose-1:2 11 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Hiragino Sans CNS W6";
-	panose-1:2 11 6 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:"Hiragino Sans GB W3";
 	panose-1:2 11 3 0 0 0 0 0 0 0;}
 @font-face
@@ -910,9 +586,6 @@ draft: false
 @font-face
 	{font-family:"HOEFLER TEXT BLACK";
 	panose-1:2 3 8 2 6 7 6 2 2 3;}
-@font-face
-	{font-family:Hubballi;
-	panose-1:2 0 0 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:ITFDEVANAGARI-LIGHT;
 	panose-1:0 0 4 0 0 0 0 0 0 0;}
@@ -950,45 +623,6 @@ draft: false
 	{font-family:InaiMathi;
 	panose-1:0 0 5 0 0 0 0 0 0 0;}
 @font-face
-	{font-family:HeadLineA;
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:PilGi;
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:GungSeo;
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:PCMyungjo;
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:Jaini;
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Jaini Purva";
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"K2D Thin";
-	panose-1:0 0 2 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"K2D ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"K2D Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:K2D;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"K2D Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"K2D SemiBold";
-	panose-1:0 0 7 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"K2D ExtraBold";
-	panose-1:0 0 9 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:Kailasa;
 	panose-1:2 0 5 0 0 0 0 2 0 4;}
 @font-face
@@ -998,18 +632,6 @@ draft: false
 	{font-family:"Kannada Sangam MN";
 	panose-1:0 0 5 0 0 0 0 0 0 0;}
 @font-face
-	{font-family:Katari;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Katari Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"KATARI BLACK";
-	panose-1:0 0 10 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:Kavivanar;
-	panose-1:2 0 5 3 0 0 0 0 0 0;}
-@font-face
 	{font-family:Kefa;
 	panose-1:2 0 5 6 0 0 0 2 0 4;}
 @font-face
@@ -1018,42 +640,6 @@ draft: false
 @font-face
 	{font-family:"Khmer Sangam MN";
 	panose-1:2 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Klee Medium";
-	panose-1:2 2 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Klee Demibold";
-	panose-1:2 2 7 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"KoHo ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"KoHo Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:KoHo;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"KoHo Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"KoHo SemiBold";
-	panose-1:0 0 7 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Kodchasan ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Kodchasan Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:Kodchasan;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Kodchasan Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Kodchasan SemiBold";
-	panose-1:0 0 7 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Kohinoor Bangla Light";
 	panose-1:2 0 0 0 0 0 0 0 0 0;}
@@ -1106,41 +692,11 @@ draft: false
 	{font-family:Kokonor;
 	panose-1:1 0 5 0 0 0 0 2 0 3;}
 @font-face
-	{font-family:"Krub ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Krub Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:Krub;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Krub Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Krub SemiBold";
-	panose-1:0 0 7 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:Krungthep;
 	panose-1:2 0 4 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:KufiStandardGK;
 	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lahore Gurmukhi Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lahore Gurmukhi";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lahore Gurmukhi Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lahore Gurmukhi SemiBold";
-	panose-1:0 0 7 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lahore Gurmukhi Bold";
-	panose-1:0 0 8 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Lao MN";
 	panose-1:0 0 5 0 0 0 0 0 0 0;}
@@ -1148,89 +704,17 @@ draft: false
 	{font-family:"Lao Sangam MN";
 	panose-1:0 0 5 0 0 0 0 0 0 0;}
 @font-face
-	{font-family:"Lava Devanagari";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lava Devanagari Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lava Devanagari Heavy";
-	panose-1:0 0 10 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lava Kannada Regular";
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lava Kannada Medium";
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lava Kannada Bold";
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lava Kannada Heavy";
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lava Telugu Regular";
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lava Telugu Medium";
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lava Telugu Bold";
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Lava Telugu Heavy";
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Apple LiGothic Medium";
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"LIHEI PRO";
-	panose-1:2 11 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"LISONG PRO";
-	panose-1:2 2 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Apple LiSung Light";
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:"Lucida Grande";
 	panose-1:2 11 6 0 4 5 2 2 2 4;}
 @font-face
 	{font-family:Luminari;
 	panose-1:2 0 5 5 0 0 0 2 0 4;}
 @font-face
-	{font-family:"LingWai SC Medium";
-	panose-1:3 5 6 2 4 3 2 2 2 4;}
-@font-face
-	{font-family:"LingWai TC Medium";
-	panose-1:3 5 6 2 4 3 2 2 2 4;}
-@font-face
-	{font-family:Maku;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Maku Bold";
-	panose-1:0 0 8 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:"Malayalam MN";
 	panose-1:0 0 5 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Malayalam Sangam MN";
 	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mali ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mali Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:Mali;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mali Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mali SemiBold";
-	panose-1:0 0 7 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Marker Felt Thin";
 	panose-1:2 0 4 0 0 0 0 0 0 0;}
@@ -1243,9 +727,6 @@ draft: false
 @font-face
 	{font-family:"Microsoft Sans Serif";
 	panose-1:2 11 6 4 2 2 2 2 2 4;}
-@font-face
-	{font-family:Modak;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:Monaco;
 	panose-1:0 0 0 0 0 0 0 0 0 0;}
@@ -1261,27 +742,6 @@ draft: false
 @font-face
 	{font-family:"MSHTAKAN BOLDOBLIQUE";
 	panose-1:2 0 7 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta ExtraLight";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Light";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Regular";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Medium";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta SemiBold";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Bold";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta ExtraBold";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"MuktaMahee ExtraLight";
 	panose-1:0 0 0 0 0 0 0 0 0 0;}
@@ -1304,48 +764,6 @@ draft: false
 	{font-family:"MuktaMahee ExtraBold";
 	panose-1:0 0 0 0 0 0 0 0 0 0;}
 @font-face
-	{font-family:"Mukta Malar ExtraLight";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Malar Light";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Malar Regular";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Malar Medium";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Malar SemiBold";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Malar Bold";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Malar ExtraBold";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Vaani ExtraLight";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Vaani Light";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Vaani Regular";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Vaani Medium";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Vaani SemiBold";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Vaani Bold";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Mukta Vaani ExtraBold";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:Muna;
 	panose-1:0 0 4 0 0 0 0 0 0 0;}
 @font-face
@@ -1355,24 +773,6 @@ draft: false
 	{font-family:Nadeem;
 	panose-1:0 0 4 0 0 0 0 0 0 0;}
 @font-face
-	{font-family:"Nanum Brush Script";
-	panose-1:3 6 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Nanum Pen Script";
-	panose-1:3 4 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:NanumGothic;
-	panose-1:2 13 6 4 0 0 0 0 0 0;}
-@font-face
-	{font-family:"NANUMGOTHIC EXTRABOLD";
-	panose-1:2 13 9 4 0 0 0 0 0 0;}
-@font-face
-	{font-family:NanumMyeongjo;
-	panose-1:2 2 6 3 2 1 1 2 1 1;}
-@font-face
-	{font-family:NANUMMYEONGJOEXTRABOLD;
-	panose-1:2 2 6 3 2 1 1 2 1 1;}
-@font-face
 	{font-family:"New Peninim MT";
 	panose-1:0 0 0 0 0 0 0 0 0 0;}
 @font-face
@@ -1381,21 +781,6 @@ draft: false
 @font-face
 	{font-family:"NEW PENINIM MT BOLD INCLINED";
 	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Niramit ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Niramit Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:Niramit;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Niramit Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Niramit SemiBold";
-	panose-1:0 0 7 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Noteworthy Light";
 	panose-1:2 0 4 0 0 0 0 0 0 0;}
@@ -1514,30 +899,6 @@ draft: false
 	{font-family:"Noto Sans Tagalog";
 	panose-1:2 11 5 2 4 5 4 2 2 4;}
 @font-face
-	{font-family:"Noto Serif Kannada Thin";
-	panose-1:2 2 2 2 6 5 5 2 2 4;}
-@font-face
-	{font-family:"Noto Serif Kannada ExtraLight";
-	panose-1:2 2 3 2 6 5 5 2 2 4;}
-@font-face
-	{font-family:"Noto Serif Kannada Light";
-	panose-1:2 2 4 2 6 5 5 2 2 4;}
-@font-face
-	{font-family:"Noto Serif Kannada";
-	panose-1:2 2 5 2 6 5 5 2 2 4;}
-@font-face
-	{font-family:"Noto Serif Kannada Medium";
-	panose-1:2 2 6 2 6 5 5 2 2 4;}
-@font-face
-	{font-family:"Noto Serif Kannada SemiBold";
-	panose-1:2 2 7 2 6 5 5 2 2 4;}
-@font-face
-	{font-family:"Noto Serif Kannada ExtraBold";
-	panose-1:2 2 9 2 6 5 5 2 2 4;}
-@font-face
-	{font-family:"Noto Serif Kannada Black";
-	panose-1:2 2 10 2 6 5 5 2 2 4;}
-@font-face
 	{font-family:"Noto Serif Myanmar Thin";
 	panose-1:2 2 2 2 6 5 5 2 2 4;}
 @font-face
@@ -1562,147 +923,6 @@ draft: false
 	{font-family:"Noto Serif Myanmar Blk";
 	panose-1:2 2 10 2 6 5 5 2 2 4;}
 @font-face
-	{font-family:"October Compressed Devanagari H";
-	panose-1:0 0 9 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Devanagari T";
-	panose-1:0 0 2 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Devanagari E";
-	panose-1:0 0 3 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Devanagari L";
-	panose-1:0 0 5 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Devanagari";
-	panose-1:0 0 5 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Devanagari M";
-	panose-1:0 0 6 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Devanagari B";
-	panose-1:0 0 8 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Tamil Hairli";
-	panose-1:0 0 1 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Tamil Thin";
-	panose-1:0 0 2 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Tamil ExtraL";
-	panose-1:0 0 3 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Tamil Light";
-	panose-1:0 0 4 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Tamil";
-	panose-1:0 0 5 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Tamil Medium";
-	panose-1:0 0 6 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Tamil Heavy";
-	panose-1:0 0 9 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Compressed Tamil Black";
-	panose-1:0 0 10 8 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Devanagari Ha";
-	panose-1:0 0 1 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Devanagari Th";
-	panose-1:0 0 2 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Devanagari Ex";
-	panose-1:0 0 3 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Devanagari Li";
-	panose-1:0 0 4 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Devanagari";
-	panose-1:0 0 5 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Devanagari Me";
-	panose-1:0 0 6 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Devanagari He";
-	panose-1:0 0 9 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Devanagari Bl";
-	panose-1:0 0 10 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Tamil Hairlin";
-	panose-1:0 0 1 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Tamil Thin";
-	panose-1:0 0 2 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Tamil ExtraLi";
-	panose-1:0 0 3 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Tamil Light";
-	panose-1:0 0 4 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Tamil";
-	panose-1:0 0 5 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Tamil Medium";
-	panose-1:0 0 6 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Tamil Heavy";
-	panose-1:0 0 9 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Condensed Tamil Black";
-	panose-1:0 0 10 6 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Devanagari Hairline";
-	panose-1:0 0 1 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Devanagari Thin";
-	panose-1:0 0 2 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Devanagari ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Devanagari Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Devanagari";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Devanagari Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Devanagari Heavy";
-	panose-1:0 0 9 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Devanagari Black";
-	panose-1:0 0 10 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Tamil Hairline";
-	panose-1:0 0 1 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Tamil Thin";
-	panose-1:0 0 2 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Tamil ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Tamil Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Tamil";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Tamil Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Tamil Heavy";
-	panose-1:0 0 9 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"October Tamil Black";
-	panose-1:0 0 10 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:Optima;
 	panose-1:2 0 5 3 6 0 0 2 0 4;}
 @font-face
@@ -1714,21 +934,6 @@ draft: false
 @font-face
 	{font-family:"Oriya Sangam MN";
 	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:Osaka;
-	panose-1:2 11 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:OSAKA-MONO;
-	panose-1:2 11 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"PSL Ornanong Pro Light";
-	panose-1:2 0 5 6 0 0 0 2 0 4;}
-@font-face
-	{font-family:"PSL Ornanong Pro";
-	panose-1:2 0 5 6 0 0 0 2 0 4;}
-@font-face
-	{font-family:"PSL ORNANONG PRO DEMIBOLD";
-	panose-1:2 0 5 6 0 0 0 2 0 4;}
 @font-face
 	{font-family:"PT Mono";
 	panose-1:2 6 5 9 2 2 5 2 2 4;}
@@ -1747,9 +952,6 @@ draft: false
 @font-face
 	{font-family:"PT Serif Caption";
 	panose-1:2 6 6 3 5 5 5 2 2 4;}
-@font-face
-	{font-family:"Padyakke Expanded One";
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:Palatino;
 	panose-1:0 0 0 0 0 0 0 0 0 0;}
@@ -1775,21 +977,6 @@ draft: false
 	{font-family:Raanana;
 	panose-1:0 0 0 0 0 0 0 0 0 0;}
 @font-face
-	{font-family:Hei;
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:Kai;
-	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Baoli SC";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"Baoli TC";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:STHeiti;
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
 	{font-family:"Heiti TC Light";
 	panose-1:2 0 0 0 0 0 0 0 0 0;}
 @font-face
@@ -1814,27 +1001,6 @@ draft: false
 	{font-family:"STIX Two Text SemiBold";
 	panose-1:0 0 0 0 0 0 0 0 0 0;}
 @font-face
-	{font-family:"Kaiti SC";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"KAITI SC BLACK";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:STKaiti;
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"Kaiti TC";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"KAITI TC BLACK";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"Libian SC";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"Libian TC";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
 	{font-family:"Songti SC Light";
 	panose-1:2 1 6 0 4 1 1 1 1 1;}
 @font-face
@@ -1853,155 +1019,14 @@ draft: false
 	{font-family:STSong;
 	panose-1:2 1 6 0 4 1 1 1 1 1;}
 @font-face
-	{font-family:"Xingkai SC Light";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"Xingkai SC";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"Xingkai TC Light";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"Xingkai TC";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"Yuanti SC Light";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"Yuanti SC";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"Yuanti TC Light";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"Yuanti TC";
-	panose-1:2 1 6 0 4 1 1 1 1 1;}
-@font-face
-	{font-family:"Sama Devanagari Book";
-	panose-1:2 15 5 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Devanagari";
-	panose-1:2 15 5 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Devanagari Medium";
-	panose-1:2 15 7 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Devanagari SemiBold";
-	panose-1:2 15 8 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Devanagari ExtraBold";
-	panose-1:3 8 10 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Sama Gujarati Book";
-	panose-1:2 15 5 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Gujarati";
-	panose-1:2 15 6 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Gujarati Medium";
-	panose-1:2 15 7 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Gujarati SemiBold";
-	panose-1:2 15 8 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Gujarati ExtraBold";
-	panose-1:2 15 10 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Gurmukhi Book";
-	panose-1:2 15 5 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Gurmukhi";
-	panose-1:2 15 5 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Gurmukhi Medium";
-	panose-1:2 15 7 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Gurmukhi SemiBold";
-	panose-1:2 15 8 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Gurmukhi ExtraBold";
-	panose-1:3 8 10 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Sama Kannada Book";
-	panose-1:2 15 5 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Kannada";
-	panose-1:2 15 5 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Kannada Medium";
-	panose-1:2 15 7 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Kannada SemiBold";
-	panose-1:2 15 8 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Kannada ExtraBold";
-	panose-1:3 8 10 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Sama Malayalam Book";
-	panose-1:2 15 5 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Malayalam";
-	panose-1:2 15 6 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Malayalam Medium";
-	panose-1:2 15 7 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Malayalam SemiBold";
-	panose-1:2 15 8 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Malayalam ExtraBold";
-	panose-1:2 15 10 3 4 5 7 6 3 3;}
-@font-face
-	{font-family:"Sama Tamil Book";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Sama Tamil";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Sama Tamil Medium";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Sama Tamil SemiBold";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
-	{font-family:"Sama Tamil ExtraBold";
-	panose-1:3 8 9 2 4 3 2 2 2 0;}
-@font-face
 	{font-family:Sana;
 	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Sarabun Thin";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Sarabun ExtraLight";
-	panose-1:0 0 3 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Sarabun Light";
-	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:Sarabun;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Sarabun Medium";
-	panose-1:0 0 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Sarabun SemiBold";
-	panose-1:0 0 7 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Sarabun ExtraBold";
-	panose-1:0 0 9 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:Sathu;
 	panose-1:0 0 4 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"SAVOYE LET PLAIN\:1\.0";
 	panose-1:0 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Shobhika Regular";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Shobhika Bold";
-	panose-1:2 11 0 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Shree Devanagari 714";
 	panose-1:2 0 6 0 0 0 0 0 0 0;}
@@ -2014,9 +1039,6 @@ draft: false
 @font-face
 	{font-family:Silom;
 	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:SimSong;
-	panose-1:2 2 3 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Sinhala MN";
 	panose-1:0 0 5 0 0 0 0 0 0 0;}
@@ -2032,9 +1054,6 @@ draft: false
 @font-face
 	{font-family:"SNELL ROUNDHAND BLACK";
 	panose-1:2 0 10 4 9 0 0 9 0 4;}
-@font-face
-	{font-family:Srisakdi;
-	panose-1:0 0 5 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:SUKHUMVITSET-THIN;
 	panose-1:2 0 5 6 0 0 0 2 0 4;}
@@ -2063,92 +1082,17 @@ draft: false
 	{font-family:"Telugu Sangam MN";
 	panose-1:0 0 5 0 0 0 0 0 0 0;}
 @font-face
-	{font-family:"Tiro Bangla";
-	panose-1:2 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Tiro Devanagari Hindi";
-	panose-1:2 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Tiro Devanagari Marathi";
-	panose-1:2 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Tiro Devanagari Sanskrit";
-	panose-1:2 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Tiro Gurmukhi";
-	panose-1:2 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Tiro Kannada";
-	panose-1:2 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Tiro Tamil";
-	panose-1:2 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Tiro Telugu";
-	panose-1:2 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Toppan Bunkyu Gothic Regular";
-	panose-1:2 11 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Toppan Bunkyu Midashi Gothic Ex";
-	panose-1:2 11 9 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Toppan Bunkyu Midashi Mincho Ex";
-	panose-1:2 2 9 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Toppan Bunkyu Mincho Regular";
-	panose-1:2 2 4 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:Trattatello;
 	panose-1:2 15 4 3 2 2 0 2 3 3;}
 @font-face
 	{font-family:"Trebuchet MS";
 	panose-1:2 11 6 3 2 2 2 2 2 4;}
 @font-face
-	{font-family:"Tsukushi A Round Gothic Regular";
-	panose-1:2 2 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Tsukushi A Round Gothic Bold";
-	panose-1:2 2 7 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Tsukushi B Round Gothic Regular";
-	panose-1:2 2 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Tsukushi B Round Gothic Bold";
-	panose-1:2 2 7 0 0 0 0 0 0 0;}
-@font-face
 	{font-family:"Waseem Light";
 	panose-1:0 0 3 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:Waseem;
 	panose-1:0 0 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"YuKyokasho Yoko Medium";
-	panose-1:2 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"YuKyokasho Yoko";
-	panose-1:2 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"YuKyokasho Medium";
-	panose-1:2 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:YuKyokasho;
-	panose-1:2 0 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"YuMincho +36p Kana Medium";
-	panose-1:2 2 5 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"YuMincho +36p Kana Demibold";
-	panose-1:2 2 6 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"YuMincho +36p Kana Extrabold";
-	panose-1:2 2 8 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Yuppy SC";
-	panose-1:2 15 6 3 4 2 7 2 2 4;}
-@font-face
-	{font-family:"Yuppy TC";
-	panose-1:2 15 6 3 4 2 7 2 2 4;}
 @font-face
 	{font-family:Zapfino;
 	panose-1:3 3 3 0 4 7 7 7 12 3;}
@@ -2960,6 +1904,9 @@ draft: false
 	{font-family:"Chamberi Super Display";
 	panose-1:2 4 5 3 8 5 5 2 3 3;}
 @font-face
+	{font-family:Charmonman;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
 	{font-family:"Chilgok Gwon Anja";
 	panose-1:2 2 6 3 2 1 1 2 1 1;}
 @font-face
@@ -3124,6 +2071,21 @@ draft: false
 @font-face
 	{font-family:Euphemia;
 	panose-1:2 11 5 3 4 1 2 2 1 4;}
+@font-face
+	{font-family:"Fahkwang ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Fahkwang Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Fahkwang;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Fahkwang Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Fahkwang SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
 @font-face
 	{font-family:"Fairwater Script Light";
 	panose-1:2 0 5 7 0 0 0 2 0 3;}
@@ -3833,6 +2795,21 @@ draft: false
 	{font-family:"Kristen ITC";
 	panose-1:3 5 5 2 4 2 2 3 2 2;}
 @font-face
+	{font-family:"Krub ExtraLight";
+	panose-1:0 0 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Krub Light";
+	panose-1:0 0 4 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Krub;
+	panose-1:0 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Krub Medium";
+	panose-1:0 0 6 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Krub SemiBold";
+	panose-1:0 0 7 0 0 0 0 0 0 0;}
+@font-face
 	{font-family:"Kunstler Script";
 	panose-1:3 3 4 2 2 6 7 13 13 6;}
 @font-face
@@ -4094,14 +3071,26 @@ draft: false
 	{font-family:"Mystical Woods Smooth Script";
 	panose-1:2 0 5 0 0 0 0 0 0 0;}
 @font-face
+	{font-family:"Nanum Brush Script";
+	panose-1:3 6 6 0 0 0 0 0 0 0;}
+@font-face
 	{font-family:"Nanum Pen";
 	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:NanumGothic;
+	panose-1:2 13 6 4 0 0 0 0 0 0;}
 @font-face
 	{font-family:NanumGothicExtraBold;
 	panose-1:2 13 9 4 0 0 0 0 0 0;}
 @font-face
 	{font-family:NanumGothicCoding;
 	panose-1:2 13 0 9 0 0 0 0 0 0;}
+@font-face
+	{font-family:NanumMyeongjo;
+	panose-1:2 2 6 3 2 1 1 2 1 1;}
+@font-face
+	{font-family:NanumMyeongjoExtraBold;
+	panose-1:2 2 6 3 2 1 1 2 1 1;}
 @font-face
 	{font-family:Narkisim;
 	panose-1:2 14 5 2 5 1 1 1 1 1;}
@@ -5354,6 +4343,9 @@ draft: false
 	{font-family:STFangsong;
 	panose-1:2 1 6 0 4 1 1 1 1 1;}
 @font-face
+	{font-family:STKaiti;
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
 	{font-family:STXihei;
 	panose-1:2 1 6 0 4 1 1 1 1 1;}
 @font-face
@@ -5603,19 +4595,19 @@ draft: false
 	{font-family:Yesteryear;
 	panose-1:3 2 8 2 4 6 7 7 8 2;}
 @font-face
+	{font-family:DFKai-SB;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:華康粗黑體;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:華康粗明體;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
 	{font-family:Chicago;
-	panose-1:2 11 6 4 2 2 2 2 2 4;}
-@font-face
-	{font-family:"\@PMingLiU";
-	panose-1:2 1 6 1 0 1 1 1 1 1;}
-@font-face
-	{font-family:"AR CENA";
-	panose-1:2 11 6 4 2 2 2 2 2 4;}
-@font-face
-	{font-family:"Proxima Nova";
-	panose-1:2 11 6 4 2 2 2 2 2 4;}
-@font-face
-	{font-family:SuperGreek;
 	panose-1:2 11 6 4 2 2 2 2 2 4;}
  /* Style Definitions */
  .word-content p.MsoNormal, .word-content li.MsoNormal, .word-content div.MsoNormal
@@ -5709,12 +4701,9 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
+<p class=MsoNormal align=center style='margin-bottom:6.0pt;text-align:center'><b><span
 style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>THE
 CONVERSATIONAL VERSION</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><i><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></i></p>
 
 <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>TRANSLATION
@@ -5728,8 +4717,8 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Vi
 Warren, PhD</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>     
-</span></p>
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>    
+ </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>The
@@ -5746,7 +4735,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&n
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>        *a.
-transforming passive clauses and phrases to active ones </span></p>
+ transforming passive clauses and phrases into active ones </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          b.  changing
@@ -5758,7 +4747,7 @@ negative statements with equivalent positive statements</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          d.
-preferring action-verb wording over linking-verb constructions</span></p>
+ preferring action-verb wording over linking-verb constructions</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>        *e.  negating
@@ -5812,7 +4801,7 @@ continuity of person, tense, number, and viewpoint</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:45.0pt;text-align:justify;text-indent:-45.0pt'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>        *p.  shortening
-long sentences fostered by Greek and Hebrew syntax as created by the pleonastic
+long sentences fostered by Greek and Hebrew syntax as created by pleonastic
 expression, tautology, redundancy, conjunctive elements, and the general verbosity
 of Hebrew idiom compared to English </span></p>
 
@@ -5833,7 +4822,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>wo
 style='font-family:"Times New Roman",serif'>p</span></sup><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      (a)
 <u>h</u>istoric <u>p</u>resent in the Greek; vivid narration. Many of these
-instances drop out altogether in <i>CV </i>because<i> </i>they appear on the
+instances drop out altogether in <i>CV </i>because<i> </i>they appear in the
 present of </span><span lang=EL style='font-size:12.0pt;line-height:115%;
 font-family:"Times New Roman",serif'>λέγω</span><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'> in seemingly unnecessary
@@ -5887,7 +4876,7 @@ margin-left:81.0pt;text-align:justify;text-indent:-81.0pt'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            “words”  words
 from quoted material that appear in the New Testament author’s comments: very
 frequently as in Hebrews: <b>2</b>:5-14; <b>3</b>:13-<b>4</b>:6; <b>6</b>:20-<b>7</b>:3,
-25; <b>8</b>:13; <b>10</b>:10, <i>etc.</i> cp. 1 Peter <b>5</b>:6. </span></p>
+25; <b>8</b>:13; <b>10</b>:10, <i>etc.</i>; cp. 1 Peter <b>5</b>:6. </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:81.0pt;text-align:justify;text-indent:-81.0pt'><span
@@ -5915,7 +4904,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:81.0pt;text-align:justify;text-indent:-81.0pt'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                           ‘slave’
-(<b>6</b>:15, 16, 18, 22; 1 Corinthians <b>7</b>:22; ‘free’ (Romans <b>6</b>:20),</span></p>
+(<b>6</b>:15, 16, 18, 22; 1 Corinthians <b>7</b>:22), ‘free’ (Romans <b>6</b>:20),</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:1.5in;text-align:justify;text-indent:-81.0pt'><span
@@ -5938,17 +4927,21 @@ margin-left:1.5in;text-align:justify;text-indent:-81.0pt'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  ‘make
 alive’ (Ephesians <b>2</b>:5; Colossians <b>2</b>:13)</span></p>
 
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:81.0pt;text-align:justify;text-indent:-81.0pt'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>words</i>     translator’s
-added words for clarification in non-dialog material </span></p>
+added words for clarification in non-dialog material: (Numbers <b>14</b>:6)
+Matthew <b>26</b>:65 = Mark <b>14</b>:63; Acts <b>14</b>:14</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b><i>words
-    </i></b>Old Testament quotations</span></p>
+    </i></b>Old Testament quotations </span></p>
 
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:81.0pt;text-align:justify;text-indent:-81.0pt'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <u>words</u>     translator’s
-addition for highlighting lists and for suggested stress in reading</span></p>
+addition for highlighting lists within a flow of thought and for suggested
+stress in reading</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:81.0pt;text-align:justify;text-indent:-81.0pt'><span
@@ -5997,13 +4990,7 @@ transgressions”</i>; cp. Matthew <b>6</b>:15; <b>18</b>:35);</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:81.0pt;text-align:justify;text-indent:-81.0pt'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                <b>15</b>:28
-(scripture fulfilled, <i>“He was numbered with the </i></span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:81.0pt;text-align:justify;text-indent:-81.0pt'><i><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                transgressors”</span></i><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>);
-</span></p>
+(scripture fulfilled, <i>“He was numbered with transgressors”</i>); </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:81.0pt;text-align:justify;text-indent:-81.0pt'><span
@@ -6028,7 +5015,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:81.0pt;text-align:justify;text-indent:-81.0pt'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    Acts
-<b>8</b>:37 (<i>“if you believe, you may,”</i> <i>etc.</i>); </span></p>
+<b>8</b>:37 (<i>“if you believe, you may,”</i> etc<i>.</i>); </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:81.0pt;text-align:justify;text-indent:-81.0pt'><span
@@ -6087,7 +5074,7 @@ Hebrews <b>13</b>:21.</span></p>
 margin-left:81.0pt;text-align:justify;text-indent:-45.0pt'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>[<sup>x</sup>]<sup>repeat
 </sup>or [ ]<sup> </sup><i>CV</i> omits a few standard English verses as
-repetitive or unnecessary: John <b>9</b>:23; Ephesians <b>4</b>:21 (repeat);
+repetitive or not necessary: John <b>9</b>:23; Ephesians <b>4</b>:21 (repeat);
 Matthew <b>24</b>:25; 2 Corinthians <b>5</b>:3; <b>12</b>:3; 1 John <b>2</b>:13b</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
@@ -6104,7 +5091,7 @@ Galatians <b>1</b>:11-12; Ephesians <b>1</b>:22-23; <b>2</b>:11-12; 14-15; <b>5<
 1 John <b>1</b>:8-10; Revelation <b>1</b>:5-6; <b>2</b>:22-23. Greek has
 number-gender-case endings to help tie words together. English has only
 position for that purpose. To create appropriate connections, sometimes we have
-lifted elements from farther along in long constructions. so they fit together
+lifted elements from farther along in long constructions, so they fit together
 better for English purposes.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
@@ -6195,10 +5182,10 @@ Similar terms across different languages seldom correspond one-for-one. </span><
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Likewise,
 we have not necessarily been able to translate the same Old Testament citation
 the same way each time. A prime example occurs with Isaiah <b>6</b>:9-10, which
-the New Testament cites five times: <sup>+</sup>Matthew <b>13</b>:14-15 = Mark <b>4</b>:123
-= Luke <b>8</b>:10; John <b>12</b>:39; Acts <b>28</b>:27. The quotations vary
-as references to the “sense” of the original text that the New Testament writer
-wants to draw on. </span></p>
+the New Testament cites five times: <sup>+</sup>Matthew <b>13</b>:14-15 = Mark <b>4</b>:12
+= Luke <b>8</b>:10; John <b>12</b>:40; Acts <b>28</b>:27. The quotations vary
+as references to the “sense” of the original text that the New Testament writers
+want to draw on. </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            The
@@ -6238,11 +5225,13 @@ wording of Isaiah<b> 56</b>:8 (<i>CV</i>) makes the Hebrew into (1) an
 imperatival future after (2) shifting the passive construction to active (Matthew).
 Only Mark’s account picks up on (a) the Gentile inclusion (perhaps because his
 gospel was aimed at a Gentile first readership) and follows (b) the LXX by
-using (<i>“all the nations </i>[</span><span lang=EL style='font-size:12.0pt;
+using <i>“all the nations </i>[</span><span lang=EL style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>ἔθνεσιν</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]<i>”</i>
-&lt; “</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the
-</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>peoples”
+&lt; <i>“</i></span><i><span style='font-size:12.0pt;line-height:115%;
+font-family:"Times New Roman",serif'>the </span></i><i><span style='font-size:
+12.0pt;line-height:115%;font-family:"Times New Roman",serif'>peoples”</span></i><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 [</span><span lang=HE dir=RTL style='font-size:12.0pt;line-height:115%;
 font-family:"Times New Roman",serif'>הָעַמִּים</span><span dir=LTR></span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
@@ -6262,8 +5251,9 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 Extensive use of <u>pro-verbs</u>, that is, auxiliary verbs without their main
 verbs: John<b> 16</b>:3 (<i>“So when it happens, remember that I told you it
 would”</i>); <b>21</b>:6, 8; Romans <b>14</b>:1; 1 Corinthians <b>8</b>:2; <b>15</b>:16
-(<i>“If dead people don’t resurrect, Christ didn’t.”</i>); also Mark <b>11</b>:24,
-<i>etc</i>.</span></p>
+(<i>“If dead people don’t resurrect, Christ didn’t.”</i>); Romans <b>5</b>:7-8 (<i>“Hardly
+</i>anybody is willing to<i> die for somebody that’s good. Somebody might <s>die
+for . . .</s>”</i>); so also Mark <b>11</b>:24, <i>etc</i>.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>     
@@ -6281,16 +5271,16 @@ auxiliary: he’s not, <i>etc.</i>)</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            (c)
-occasionally, a noun plus <u>is</u>: “his work’s not done”: “that God’s unjust”
-(Romans <b>3</b>:5); Romans <b>3</b>:13; <i>“We know that no person’s made good
-by doing the law” </i>(Galatians <b>2</b>:16).</span></p>
+occasionally, a noun plus <u>is</u>: “his work’s not done”: <i>“that God’s
+unjust”</i> (Romans <b>3</b>:5); Romans <b>3</b>:13; <i>“We know that no
+person’s made good by doing the Law” </i>(Galatians <b>2</b>:16).</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>       3.
 Simplified syntax, choice of current terms; avoidance of slang, regionalisms, cutesy
 expressions, words with negative connotations, including lighter words like
 “puny,” and shocking language (as might be done with Acts <b>8</b>:20, <i>“To
-hell with you and your money”?</i>).</span></p>
+hell with you and your money”! </i>or in Matthew <b>5</b>:22).</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Drawing
@@ -6321,7 +5311,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> �
 spelling rules</u>. They differ somewhat from British custom, from rules at
 play in earlier English translations, as well as from the punctuation in edited
 Greek texts. <i>The Gregg Reference Manual</i>, 11<sup>th</sup> ed., by William
-A. Sabin serves generally  as style guide in such matters.</span></p>
+A. Sabin serves generally as style guide in such matters.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>    
@@ -6338,11 +5328,11 @@ the degree of intensive expression has also led to dropping the “verily’s”
 the synoptic gospels as well as the “double verily’s” in John. We have reduced
 the perceived overuse of vocatives, leaving them out altogether when the
 addressee is obvious from context: John <b>4</b>:15; Acts<b> 15</b>:13; <b>22</b>:6;
-2 Thessalonians <b>3</b>:13. Two double vocative remain:  <i>“Saul, Saul”</i>
+2 Thessalonians <b>3</b>:13. Two double vocative remain: <i>“Saul, Saul”</i>
 (Acts <b>9</b>:4; <b>22</b>:7; <b>26</b>:14) and <i>“Jerusalem, Jerusalem” </i>(Matthew
 <b>23</b>:37; Luke <b>13</b>:34). That changes <i>“Lord, <s>Lord</s>”</i> (Matthew
 <b>7</b>:21, 22; Luke <b>6</b>:46), <i>“Martha, <s>Martha</s>”</i> (Luke <b>10</b>:41),
-<i>“Simon, <s>Simon</s>”</i> (Luke <b>22</b>:31), or <i>Rabbi, Rabbi” </i>(Matthew
+<i>“Simon, <s>Simon</s>”</i> (Luke <b>22</b>:31), or <i>“Rabbi [Rabbi]” </i>(Matthew
 <b>23</b>:7<sup>ms</sup>). English usage does not usually employ geminated vocatives
 except perhaps in certain urgent circumstances: <i>“John! John! don’t harm
 yourself!”</i></span></p>
@@ -6366,29 +5356,29 @@ to eat this Passover with you before I suffer.”</i> The idiom appears in Acts 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>5.
 After much soul-searching, the <i>CV</i> has replaced <i>“Christ”</i> in the gospels
-and Acts with <i>“Messiah”</i> as a translation of </span><span lang=EL
+and Acts with <i>“Messiah”</i> to translate </span><span lang=EL
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>χριστός</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
 the Greek equivalent of the Hebrew </span><span lang=HE dir=RTL
 style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>מָשִׁיחַ</span><span
 dir=LTR></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
-dir=LTR></span>, <i>“anointed one.”</i> The idea was to foster a closer
-connection between the New Testament term and the Old Testament terminology.
-That may help make it clear that Jesus was the fulfillment of the Messianic
-hope. In the epistles, <i>Christ</i> takes on the character of a name,
-especially in combinations like <i>Jesus Christ</i> and <i>Christ Jesus.
-Messiah</i> in such cases takes on the feel of a name besides running counter
-to the long-established wording people have become accustomed to seeing. </span></p>
+dir=LTR></span>, <i>“anointed one.”</i> The idea fosters a closer connection
+between the New Testament term and the Old Testament terminology. That may help
+make it clear that Jesus fulfilled the Messianic hope. In the epistles, <i>Christ</i>
+takes on the character of a name, especially in combinations like <i>Jesus
+Christ</i> and <i>Christ Jesus. Messiah</i> in such cases takes on the feel of
+a name besides running counter to the long-established wording readers have
+become accustomed to seeing. </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Attempting
 to express the biblical text in conversational style sometimes gets at cross
 purposes with preferences in written expression. The frequent use of the
-expletives <i>it (is/was)</i> and <i>there (is/are/were)</i> in everyday speaking
-is a case in point. Written form aims to eliminate them—along with linking-verb
-constructions—in favor of action-verb expressions. When such a conflict arises,
-<i>CV</i> has usually chosen the written preferences since the medium here is
-writing.</span></p>
+expletives <i>it (is/was)</i> and <i>there </i>(<i>is/are/were</i>) in everyday
+speaking is a case in point. Written form aims to eliminate them—along with
+linking-verb constructions—in favor of action-verb expressions. When such a
+conflict arises, <i>CV</i> has usually chosen the written preferences since the
+medium here is writing.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
@@ -6401,7 +5391,7 @@ in the Greek Text<u> </u></b></span></p>
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>             1.
 <u>Capitalization</u> is a judgment call in edited Greek texts, because the earliest
 New Testament manuscripts had only capital letters. Distinguishing higher and
-lower case presents a few issues.</span></p>
+lower cases presents a few issues.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        a.
@@ -6409,7 +5399,8 @@ Spirit/spirit has some importance because it involves distinguishing the Holy
 Spirit from the other seven or so usages of </span><span lang=EL
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>πνεῦμα</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-in the New Testament. (See <i>spirit</i> below.)</span></p>
+in the New Testament. (See <i>spirit</i> below under <i>Individual words and
+Expressions</i>.)</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        b.
@@ -6451,11 +5442,13 @@ head of the great harlot. Cp. <i>“The Power of God Called Great”</i> in Acts
 <u>Lord</u> (</span><span lang=EL style='font-size:12.0pt;line-height:115%;
 font-family:"Times New Roman",serif'>κύριος</span><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>) covers God’s personal
-name Yahveh, a person of superior rank (“lord”), and <i>sir</i> as a general
-term of respect (“lord”). New Testament writers never use God’s personal name. They
-do not challenge the Jews’ post-exilic sensitivities that went beyond making it
-respectful to considering it ineffable. </span><span lang=EL style='font-size:
-12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Κύριος</span><span
+name Yahveh (L</span><span style='font-size:10.0pt;line-height:115%;font-family:
+"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:
+115%;font-family:"Times New Roman",serif'>), a person of superior rank (“lord”),
+and <i>sir</i> as a term of respect (“lord”). New Testament writers never use
+God’s personal name. They do not challenge the Jews’ post-exilic sensitivities
+that went beyond making the name respectful to considering it ineffable. </span><span
+lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Κύριος</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 (</span><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Lord</span></u><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>)
@@ -6473,7 +5466,10 @@ overlapping usages cluster as follows in our pattern: </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <u>Lord</u>
-capitalized refers to deity—both for Father and Son.</span></p>
+capitalized refers to deity—both for Father (L</span><span style='font-size:
+10.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD)</span><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> and
+Son.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Lower
@@ -6484,18 +5480,15 @@ case <u>lord</u> applies to persons of honored rank—as an honorific. </span></
 expresses respect aside from rank.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
-31.5pt'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>             <u>Master</u>
-addresses a slave owner of superior rank, often translating </span><span
-lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>δεσπότης</span><span
+31.5pt'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                         <u>Master</u>
+addresses a slave owner, often translating </span><span lang=EL
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>δεσπότης</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 1.0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>d.
 <u>Son</u> as a reference to Jesus the Messiah is capitalized throughout as a
 reference to deity: <i>“You are my Son”</i> (Hebrews <b>1</b>:5 &lt; Psalm <b>2</b>:7).</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>             2.
@@ -6506,8 +5499,9 @@ them following the Greek or current English-text layouts.</span></p>
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>             3.
 The original Greek uncial manuscripts of the New Testament lacked <u>punctuation</u>,
-spacing between words, accents, and breathing marks. Those entries in modern Greek
-New Testaments come from the editors’ choices. </span></p>
+spacing between words, accents, and breathing marks (as well as capital and
+lower case distinction). Those entries in modern Greek New Testaments come from
+the editors’ choices. </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        a.
@@ -6543,7 +5537,7 @@ not.</span></p>
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        c.
 Written Greek lacks <u>exclamation marks</u>; <i>CV</i> has added quite a
-number: Mathew <b>7</b>:14; John <b>20</b>:16, 18, 28; <b>21</b>:7, <i>etc.</i>,
+number: +Matthew <b>7</b>:14; John <b>20</b>:16, 18, 28; <b>21</b>:7, <i>etc.</i>,
 altogether about 273. Some texts could be commands or exclamations: 1
 Corinthians <b>6</b>:4; Revelation <b>2</b>:7, 11, 17, 29; <b>3</b>:6, 13, 22;
 or a statement or exclamation: 1 Corinthians <b>6</b>:5-6; 2 Corinthians <b>10</b>:7;
@@ -6564,19 +5558,28 @@ cases whether the wording is direct or indirect discourse: Matthew <b>2</b>:4,
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    Other
-cues in the context almost always show where a <u>quotation starts</u>, but where
-a <u>quotation ends</u> may not be obvious: Matthew <b>21</b>:3; <b>28</b>:7;
-Luke <b>7</b>:28; John <b>1</b>:15 or 16 or 18?; <b>3</b>:13 or 15 or 16 or 21?;
-<b>3</b>:30 or 36?; Acts<b> 1</b>:17?;<b> 8</b>:26 a or b?; 2 Corinthians <b>2</b>:14
-or 21?; Galatians<b> 2</b>:14 or 21?; Colossians<b> 2</b>:21 or 22?; 1 Timothy<b>
-4</b>:8a or b or 10?; James <b>2</b>:18 or 19 or 23?. </span></p>
+cues in the context usually show where a <u>quotation starts</u>, but where a <u>quotation
+ends</u> may not be obvious: Matthew <b>21</b>:3; <b>28</b>:7; Luke <b>7</b>:28;
+John <b>1</b>:15 or 16 or 18?; <b>3</b>:13 or 15 or 16 or 21?; <b>3</b>:30 or
+36?; Acts<b> 1</b>:17?;<b> 8</b>:26 a or b?; 2 Corinthians <b>2</b>:14 or 21?;
+Galatians<b> 2</b>:14 or 21?; Colossians<b> 2</b>:21 or 22?; 1 Timothy<b> 4</b>:8a
+or b or 10?; James <b>2</b>:18 or 19 or 23?. </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    As
 per standard English practice, quotations within quotations (“embedded
 quotations”) have single quotes; quotations within embedded quotations are
-double quotes again, and switching back and forth as progressively deeper
-embedding occurs: “ ‘ “ ‘ . . .          ’ ” ’ ”.</span></p>
+double quotes again, and switch back and forth as progressively deeper
+embedding occurs: “ ‘ “ ‘ . . .        ’ ” ’ ”. Mark<b> 14</b>:13-14 has three
+levels: </span><b><sup><span style='font-size:14.0pt;line-height:115%;
+font-family:"Times New Roman",serif'>13</span></sup></b><span style='font-size:
+12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He sent<sup>p</sup>
+two disciples, <i>“On the way in the city, you’ll meet a man carrying a clay
+pot of water. Follow him, </i></span><b><sup><span style='font-size:14.0pt;
+line-height:115%;font-family:"Times New Roman",serif'>14</span></sup></b><i><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and
+where he goes in, say to the owner, ‘The Rabbi says, “Where’s the guest room so
+I can eat the Passover with my disciples?”’”</span></i></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    Double
@@ -6602,9 +5605,9 @@ and <i>“made you alive”</i> in Colossians <b>2</b>:11-13; <i>“father”</i
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                 f.
 The placement of a <u>comma</u> can alter the sense of a passage: John <b>1</b>:3-4,
 <i>“Without him not even one thing came to be that came to be. </i><b><sup>4</sup></b><i>In
-him was life.”</i> or <i>“Without him not even one thing came to be. What came
-to be <sup>4</sup>in him was life”</i> [Westcott &amp; Hort NT text]. CV ends
-up, however, rewording the flow of thought: <i>“</i></span><i><span
+him was life.”</i> [American Bible Society’s text] or <i>“Without him not even
+one thing came to be. What came to be <sup>4</sup>in him was life”</i> [Westcott
+&amp; Hort text]. CV ends up, however, rewording the flow of thought: <i>“</i></span><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>nothing
 came into existence without him.”</span></i><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'> A similar uncertainty
@@ -6612,7 +5615,7 @@ appears in Ephesians <b>1</b>:4; should <i>“in love”</i> connect with the ne
 verse or does it modify some previous entry like <i>“holy and blameless”</i> or
 perhaps <i>“chose”</i> (that is, <i>“lovingly chose”</i>)? Such possibilities
 arise elsewhere as per Paul’s habit of attaching a short prepositional phrase
-after an otherwise full statement.</span></p>
+after an otherwise seemingly complete statement.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                 g.
@@ -6624,17 +5627,17 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 of our underlining comes from indications in the Greek text itself; those include
 passages that show (1) nominative-case pronouns. Since Greek verbs have
 person-and-number endings, a subject pronoun is unnecessary. When the Greek
-text does use a nominative-case pronoun, the usual inference is that it shows <u>emphasis</u>
-or marks <u>contrast</u>. In many of those cases that call for emphasis, we
-have underlined the English pronoun subject. English almost always states the
-pronoun subject; so we add underlining to indicate the emphasis. Spoken English
+text does use a nominative-case pronoun, translators usual infer that it shows <u>emphasis</u>
+or marks <u>contrast</u>. In many cases that call for emphasis, we have underlined
+the English pronoun subject. Since English almost always states the pronoun
+subject, we have added underlining to indicate the emphasis. Spoken English
 does the emphasizing by raising pitch and volume slightly and perhaps adding a
 short pause afterwards. Such cases include Romans <b>11</b>:22, 23, 24; 1
 Corinthians <b>5</b>:9 + 11;<b> 6</b>:8; <b>9</b>:25; 2 Corinthians <b>4</b>:13;
 <b>13</b>:7; Galatians <b>1</b>:8; <b>6</b>:1; 1 Thessalonians <b>5</b>:4; 2
-Timothy<b> 3</b>:10; Hebrews <b>12</b>:25; James <b>2</b>:18. John’s gospel
-uses subject pronouns so often that emphasis does not seem to have been his
-intention. </span></p>
+Timothy<b> 3</b>:10; Hebrews <b>12</b>:25; James <b>2</b>:18. John’s gospel,
+however, uses subject pronouns so often that emphasis does not seem to have been
+his intention; so <i>CV</i> usually dispenses with underling. </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Many
@@ -6650,7 +5653,7 @@ comparison to oral presentation.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Aside
-from pronoun subjects, (2) underlining draws attention to lists or </span></p>
+from pronoun subjects, (2) underlining draws attention to items in lists or </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        (3)
@@ -6671,9 +5674,9 @@ is with other <u>people’s</u> interests drawing him (Jewish national
 independence <i>vs.</i> Jesus’ spiritual kingdom—John <b>18</b>:36). Other
 places where our translation has supplied emphasis include Romans <b>2</b>:23;<b>
 3</b>:20-23; <b>4</b>:11-16; <b>5</b>:3-4, 7, 17, 20; <b>7</b>:18; <b>8</b>:17;
-<b>9</b>:32-33; <b>10</b>:5; 14:14; 1 Corinthians <b>2</b>:10; <b>4</b>:8; <b>14</b>:15;
-<b>15</b>:13; Philippians <b>2</b>:27; <b>3</b>:4; 1 Thessalonians <b>4</b>:10-12;
-Hebrews <b>9</b>:13-14; 1 John <b>2</b>:24. </span></p>
+<b>9</b>:32-33; <b>10</b>:5; <b>14</b>:14; 1 Corinthians <b>2</b>:10; <b>4</b>:8;
+<b>14</b>:15; <b>15</b>:13; Philippians <b>2</b>:27; <b>3</b>:4; 1
+Thessalonians <b>4</b>:10-12; Hebrews <b>9</b>:13-14; 1 John <b>2</b>:24. </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                 h.
@@ -6681,10 +5684,11 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        (a)
-That happens when Greek uses the article rather than the possessive modifier (</span><span
-lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>αὐτοῦ</span><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>/his,
-</span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ἐμοῦ</span><span
+That can happen when the Greek text uses an article rather than the possessive modifier
+(</span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:
+"Times New Roman",serif'>αὐτοῦ</span><span style='font-size:12.0pt;line-height:
+115%;font-family:"Times New Roman",serif'>/his, </span><span lang=EL
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ἐμοῦ</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>/my,
 </span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>σοῦ</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>/your,
@@ -6694,7 +5698,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>/y
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        (b)
 It happens when Greek uses elliptical expressions without repeating some of the
 words common to both parts: repeated verbs, direct objects, indirect objects,
-prepositional phrases in the next segment; Acts<b> 10</b>:23, <i>“having called
+prepositional phrases in the next segment: Acts<b> 10</b>:23, <i>“having called
 them in, he lodged</i> them<i>”</i>; 1 Corinthians<b> 11</b>:9, <i>“Man was not
 created on account of woman, but woman </i>was created<i> on account of man.”</i>
 In such circumstances, English often wants to restate those words. </span></p>
@@ -6710,10 +5714,10 @@ italicized quotation)</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        (d)
-Italics go into the text when <i>CV</i> adds in phrases to clarify its meaning
-in the way the translator understands it. Romans <b>3</b>:31 says, “<i>So are
-we contradicting law </i>by advocating <i>trust? Goodness, no! Instead, </i>we’re
-establishing <i>the purpose of </i>law <i>another way</i>. Romans <b>12</b>:7
+Italics go into the text when <i>CV</i> adds phrases to clarify its meaning in
+the way the translator understands it. Romans <b>3</b>:31 says, “<i>So are we
+contradicting law </i>by advocating <i>trust? Goodness, no! Instead, </i>we’re
+establishing <i>the purpose of </i>law <i>another way</i>.” Romans <b>12</b>:7
 reads, <i>“</i>If <i>it’s </i>service<i>, let’s carry out our commitment to him
 </i>in <i>our </i>service<i>.”</i> Such additions can shape the meaning
 significantly. That is the reason for showing by italics what has been added
@@ -6796,7 +5800,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 Avoiding <u>participle constructions</u>, particularly introductory and
 mid-sentence participial phrases. Introductory adverbial clauses can replace
 them in English: Mark <b>1</b>:16, <i>e.g.</i> Sometimes the two expressions
-can become two independent clauses. Greek loves participles; so changing them
+can become two independent clauses. Greek loves participles, so changing them
 to finite verbs and other substitutes happens quite often in <i>CV</i>. </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
@@ -6805,24 +5809,24 @@ participles goes hand in hand with avoiding the <u>hypotactic syntax</u>
 created by participles—creating verbal elements that have a different
 grammatical level from the main clause. Hypotactic arrangement calls for
 attaching dependent clauses and verbal phrases onto independent clauses (ones
-that make complete sense standing alone). It does so by participles,
-subordinate conjunctions plus clauses, gerund phrases, infinitive phrases,
-adverbial clauses, and relative clauses. In many such cases, English prefers to
-reduce the number of <u>paratactic constructions</u>, that is, segments of
-equal grammatical levels (unless adverbial, relative, purposes, or nominal
-clauses create the subordination). Making the switch from hypotactic to
-paratactic syntax in conversational translation has been a formidable task!
+that make complete sense standing alone because they have finite verbs). It
+does so by participles, subordinate conjunctions plus clauses, gerund phrases,
+infinitive phrases, adverbial clauses, and relative clauses. In many such
+cases, English prefers to reduce the number of <u>paratactic constructions</u>,
+that is, segments of equal grammatical levels (unless adverbial, relative, purposes,
+or nominal clauses create the subordination). Making the switch from hypotactic
+to paratactic syntax in conversational translation has been a formidable task!
 Note also #41 below.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        The
 abundant use of participles in the Greek text creates a recurrent source of
-ambiguity. Participles can “cover for” all aspects and concepts associated with
-verbs: time, means, manner, cause, condition, concession, attendant
-circumstance, purpose, result—even command (rarely). Readers must judge from
-the topic and context which possibilities apply—if any one of them specially
-applies; translators face that same task. Their renderings are judgment calls
-that give a more specific meaning than the Greek text itself expresses. </span></p>
+ambiguity. Participles can “cover for” all aspects and concepts (Aktionsart, <i>etc</i>.)
+associated with verbs: time, means, manner, cause, condition, concession,
+attendant circumstance, purpose, result—even command (rarely). Readers must
+judge from the topic and context which possibilities apply—if any one of them
+specially applies; translators face that same task. Their renderings are judgment
+calls that give a more specific meaning than the Greek text itself. </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        The
@@ -6833,8 +5837,8 @@ receptor language keeps ambiguity at the same level as in the original
 language. Getting rid of participles to satisfy English custom of usage forces
 a choice, and that presses translation somewhat into interpretation. Thankfully,
 nothing significant is hardly ever at stake. If that were not so, the New
-Testament writers themselves would have created uncertainty for their own readers
-by the prolific use of participles.</span></p>
+Testament writers themselves would have been creating uncertainty for their own
+readers by the prolific use of participles.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            *2.
@@ -6843,17 +5847,17 @@ abundant use of the <u>genitive-case nouns</u> tied to other nouns. The
 writers’ Hebrew-speaking background probably fostered adopting such wording
 more frequently. Hebrew syntax habitually puts nouns in <u>“construct”
 relationship</u> with other nouns to show <u>that</u> they are connected. Hearers—by
-their own perception based on experience—supply <u>how</u> they are connected. <i><u>Of</u></i><u>
-expressions</u> in English replicate pretty much that same range of ambiguity,
-but in many instances, they are not satisfying to the English ear. The most
-frequent use of the Greek genitive case is for tying one noun to another
-grammatically. That does not indicate <u>how</u> the referents of the two nouns
-are connected really or conceptually. Eliminating “of constructions” means
-choosing between appositive genitive, descriptive genitive, genitive of cause,
-genitive of material, genitive of source; genitive of value, objective genitive
-<i>vs.</i> subjective genitive, (partitive genitive), possessive genitive, and
-some relationships that are difficult to classify because they have merely
-topical connection. </span></p>
+their own perception from experience or prior knowledge—supply <u>how</u> they
+are connected. <i><u>Of</u></i><u> expressions</u> in English replicate pretty
+much that same range of ambiguity, but in many instances, they are not
+satisfying to the English ear. The most frequent use of the Greek genitive case
+is for tying one noun to another grammatically. That does not indicate <u>how</u>
+the referents of the two nouns connect really or conceptually. Eliminating “of
+constructions” means choosing between appositive genitive, descriptive
+genitive, genitive of cause, genitive of material, genitive of source; genitive
+of value, objective genitive <i>vs.</i> subjective genitive, (partitive
+genitive), possessive genitive, and some relationships that are difficult to
+classify because they have merely topical connection. </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Not
@@ -6862,7 +5866,7 @@ just two can be challenging. Romans <b>8</b>:35 affords an example of the
 dilemma between subjective and objective genitive. The issue comes up when a
 genitive noun for a person follows a noun for an action: <i>“What will separate
 us from the love of Christ?”</i> Does Paul mean the love Christ has for us
-(Christ’s love) or the love we have for Christ (our loving Christ)? By going
+(Christ’s love) or the love we have for Christ (our loving Christ)? By reading
 ahead to<b> 8</b>:37, we get an answer: <i>“the one who loved us.”</i> So <i>“love
 of Christ”</i> means <i>“Christ’s love for us” </i>(subjective genitive); hence,
 the sufferings Paul lists do not indicate that Christ does not love us. Romans <b>11</b>:15
@@ -6875,7 +5879,8 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 (<i>“faith of Christ”</i>) expression affords another famous example: Romans <b>3</b>:22,
 26; Galatians <b>2</b>:16<sup>2</sup>, 20; <b>3</b>:22; Philippians<b> 3</b>:9,
 and Ephesians <b>3</b>:12. Is it <i>“faithfulness of Christ”</i> or <i>“(our) trust
-in Christ”</i>?</span></p>
+in Christ”</i>? <i>CV </i>has chosen the second alternative, objective genitive
+for this phrase.<i> </i></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        In
@@ -6888,8 +5893,8 @@ genitives</u> after verbs indicate that the action affects “part of” the
 subsequent noun instead the whole direct object. English speakers automatically
 understand that nobody drinks <i>“(all) the milk from the flock”</i> (1
 Corinthians<b> 9</b>:7) as surely as Adam and Eve did were not to eat all the
-fruit of the tree of knowledge (<i>eat of</i> is the Hebraism here for source
-or part; Genesis <b>2</b>:16-17).</span></p>
+fruit of the tree of life or the tree of knowledge (<i>eat of</i> is the
+Hebraism here for source or part; Genesis <b>2</b>:16-17).</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <u>Descriptive
@@ -6912,10 +5917,10 @@ of</u> the murderers,” </i>but <i>“you’re <u>like</u> the ones that murder
 the prophets.”</i> (Otherwise, Jesus’ argument would seem questionable.) In all
 these cases, the second noun refers to a characteristic that English <i>of</i>
 ties to the first noun; English prefers to put that characteristic in an
-adjective form that modifies that first noun. As said before, the probable
+adjective form that modifies the first noun. As said before, the probable
 reason descriptive genitives appear more often in the New Testament is that the
-writers were Jewish. Hebrew had few adjectives and made up for it by using a
-two-noun construction comprised of a “construct noun” tied to a subsequent absolute
+writers were Jewish. Hebrew had few adjectives and made up for it by using
+two-noun constructions comprised of a “construct noun” tied to a subsequent absolute
 noun. That arrangement got reproduced in Greek by a noun plus genitive noun,
 and that in turn comes into English literally in a <i>“____ of ____”</i>
 format.</span></p>
@@ -6958,7 +5963,7 @@ uncertainty in whether a pronoun like </span><span lang=EL style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>αὐτοῦ</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 means <i>“of it”</i> (for instance <i>“of [the paschal lamb]”</i>) or <i>“of
-him”</i> (the functional equivalent person of the paschal lamb (John <b>19</b>:36).
+him”</i> (the functional equivalent person of the paschal lamb; John <b>19</b>:36).
             </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
@@ -6968,15 +5973,15 @@ problem comes up familiarly in the model prayer: <i>from evil</i> or <i>from</i>
 <b>13</b>:19; 38; Luke <b>11</b>:4<sup>ms</sup>; John <b>17</b>:15; Ephesians <b>6</b>:16;
 2 Thessalonians <b>3</b>:3; 1 John <b>2</b>:13-14; <b>3</b>:12; <b>5</b>:18,
 19. Invoking the principle of interpreting the unclear in light of the clear,<i>
-CV</i> has used 2 John<b> 2</b>:13 as the clear case and then applied that
+CV</i> has used 2 John<b> 2</b>:13 as the clear case and applied that
 understanding to some of the other cases. The first usage (<i>from evil</i>)
 appears in Luke <b>6</b>:45; Acts <b>28</b>:21; Romans <b>12</b>:9; 1
 Thessalonians <b>5</b>:22.  </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 49.5pt'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Did
-Jesus tell the disciples to drink of the cup or of the wine at the Last Supper
-(Matthew <b>26</b>:27 = Mark <b>14</b>:23)?</span></p>
+Jesus tell the disciples to drink <u>out-of the cup</u> or <u>of the wine</u> (partitive
+genitive) at the Last Supper (Matthew <b>26</b>:27 = Mark <b>14</b>:23)?</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        6.
@@ -7013,12 +6018,12 @@ lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",s
 </span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Χριστός</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>;
 <i>“What/who will separate us from the love of Christ?”</i> The problem comes
-from the fact that Greek has grammatical gender; English has only sex
+from the fact that Greek has grammatical gender; modern English has only sex
 reference. In Greek, nouns for male and female <u>sex</u> references are (almost)
 always masculine and feminine <u>grammatical gender</u>. But neuter does not
-match asexual things; neuter things (sexually speaking) can be masculine
+match asexual things; neuter things (sexually speaking) can be masculine,
 feminine, or neuter (grammatically speaking). In this passage, the choice needs
-to be <i>“what”</i> because the apostle accompanies his question with another
+to be <i>“what,”</i> because the apostle accompanies his question with another
 question that lists (asexual) difficulties: </span><span lang=EL
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>θλίψις</span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
@@ -7052,9 +6057,9 @@ sword separate us from his loving us?”</i>) All the words in that list are
 grammatically masculine or feminine; so the reference in </span><span lang=EL
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>τίς</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-(grammatically mas or fem) is to these grammatically m/f items in the context,
-not to people, who are not part of the discussion. In English those list items
-are neuter and so call for <i>what</i>, not <i>who</i>, despite the
+(grammatically mas <u>or</u> fem) is to these grammatically m/f items in the
+context, not to people, who are not part of the list. In English those list
+items are neuter and so call for <i>what</i>, not <i>who</i>, despite the
 masculine/feminine form of the Greek pronoun at the start of the verse.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
@@ -7062,30 +6067,32 @@ masculine/feminine form of the Greek pronoun at the start of the verse.</span></
 Definite <i>vs.</i> indefinite nouns in Hebrew construct form bring up an
 ambiguity. When that construction comes into Greek by quotation or thought
 pattern, the problem comes with it. A Hebrew noun in construct tied to a
-subsequent noun cannot carry the Hebrew definite article. So, in the case of </span><span
-lang=HE dir=RTL style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>מלאך</span><span
-lang=HE dir=RTL style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>‾יהוה</span><span
+subsequent absolute noun cannot carry the Hebrew definite article. So, in the
+case of </span><span lang=HE dir=RTL style='font-size:14.0pt;line-height:115%;
+font-family:"Times New Roman",serif'>מלאך</span><span lang=HE dir=RTL
+style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>‾יהוה</span><span
 dir=LTR></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
-dir=LTR></span> the translation could be <i><u>an</u> angel of the Lord</i> or <i><u>the</u>
-angel of the Lord</i>. The typical translation in, say, Genesis<b> 22</b>:11
-says <i><u>the</u> angel of the Lord</i>, as if there is one angel involved in
-this kind of activity or that has rank above others. English translations of
-Genesis<b> 22</b>:11 usually say <i>the angel of the Lord. </i>The LXX
-(Septuagint Greek translation of the Old Testament) says, </span><span lang=EL
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ἄγγελος</span><span
+dir=LTR></span> the translation evidently could be <i><u>an</u> angel of the
+Lord</i> or <i><u>the</u> angel of the Lord</i>. The typical translation in,
+say, Genesis<b> 22</b>:11 says <i><u>the</u> angel of the Lord</i>, as if there
+is a specific angel in this kind of activity or that ranks above others. English
+translations of Genesis<b> 22</b>:11 usually say <i>the angel of the Lord. </i>The
+LXX (Septuagint Greek translation of the Old Testament) says, </span><span
+lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ἄγγελος</span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>κυρίου</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
 which would normally become <i><u>an</u> angel of the Lord</i> in English<i>.</i>
 The Jewish translators of the LXX evidently had some reason for making <i>angel</i>
-anarthrous here. The LXX here does not follow the rule that if the second noun
-is definite the construct noun is definite as well—or at least as definite as
-the phrase head. Perhaps those translators conceived of the full expression as
-a title. At any rate, we are left with an English conundrum: what to do with
-the parallel cases in the New Testament. The English article on the Hebrew noun
-in construct appears if the second Hebrew noun is definite, a situation that
-could include God’s personal name as something definite. But this Genesis text
-does not evidence that take on the construction. </span></p>
+anarthrous here. In this case the LXX does not follow the rule that if the
+second noun is definite the construct noun is definite as well—or at least as
+definite as the phrase head. Perhaps those translators conceived of the full
+expression as a title, which might allow for omitting the article. At any rate,
+we are left with an English conundrum: what to do with the parallel cases in
+the New Testament. The English article on the Hebrew noun in construct appears
+if the second Hebrew noun is definite, a situation that could include God’s
+personal name as something definite. But this Genesis text does not evidence
+that take on the construction. </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    We
@@ -7113,14 +6120,15 @@ in English Relative to Greek</span></b></p>
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 0in'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Greek
-has some precision that requires special handling to reproduce in English.
+has some precision that requires special handling to reproduce it in English.
 Greek has personal endings on its finite verbs; so subject pronouns are not
 needed. But Greek does have nominative-case pronouns. If they do appear with
 the finite verbs, they imply emphasis—that is, contrast usually. That nuance in
 spoken English is covered by a special pitch pattern with perhaps a pause
 following. In written form, underlining can cover it, as in Matthew <b>28</b>:5<i>:
 “<u>You</u> don’t need to be afraid”</i> in contrast to the guards at Jesus’
-tomb, who were terrified (?) Underlined subject pronouns often represent the
+tomb, who were terrified (?; but the women were not present to see that the
+guards were terrified). Underlined subject pronouns often represent the
 presence of subject pronouns in the original text.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
@@ -7169,8 +6177,8 @@ John <b>8</b>:12; <b>16</b>:23; Hebrews <b>8</b>:11. </span></p>
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Using
 the imperfect <u>progressive action</u> seems to make better sense in Luke<b> 4</b>:41,
 for example: <i>“He wouldn’t let demons <u>keep</u> talking when they declared
-he was God’s Son.”</i> They had already actually said he was God’s Son; so the
-verse does not seem to mean he kept them from saying it at all. </span></p>
+he was God’s Son.”</i> They had already said he was God’s Son, so the verse evidently
+does not mean he kept them from saying it at all. </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        In
@@ -7179,7 +6187,7 @@ the other direction, we have significantly reduced Greek’s (and Hebrew’s)
 to, arise and __”</i>: Matthew <b>26</b>:22; Mark <b>15</b>:18; Luke <b>13</b>:25;
 John <b>14</b>:31; Acts <b>1</b>:1, <i>etc.</i> Classical Greek more often covered
 <u>inceptive/ingressive action</u> with the aorist tense; but in the process of
-creating this translation, we have come think that aspect in Hellenistic New
+creating this version, we have come think that aspect in Hellenistic New
 Testament Greek comes quite often with the imperfect tense—as in Latin. What seem
 to be aorist and imperfect ingressives both appear in Matthew <b>2</b>:9, <i>“</i></span><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They
@@ -7190,11 +6198,11 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> �
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Comparatively
 speaking, the New Testament highlights ingressive action more frequently than
-English does. Acts <b>1</b>:1 is a rather familiar example, where Luke adds </span><span
+English does. Acts <b>1</b>:1 is a familiar example, where Luke adds </span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ἄρχω</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-(“begin”) to the verbs. Commentaries frequently indicate that the <i>“<u>began</u>
-to do and to teach”</i> adds little to the meaning. Well, it adds little to the
+(“begin”) to the verbs. Commentaries may indicate that the <i>“<u>began</u> to
+do and to teach”</i> adds little to the meaning. Well, it adds little to the
 meaning from the standpoint of English idiom, but it is not a pointless word.
 English custom of usage is just not as inclined to call attention to the
 inception of an act. Note similarly Luke <b>23</b>:30, <i>“They will begin to
@@ -7215,7 +6223,10 @@ aspects. The same present-tense verb form in Greek could translate as <i>“they
 stone,” “they are stoning,” “they are trying to stone,” “they keep stoning,”
 “they <u>do</u> stone</i> (people there, emphatic).<i>”</i> (There is also the
 historic present that we have avoided—a present-tense form referring to a past action.)
-Note as well the futuristic present (1 Corinthians <b>15</b>:32, <i>etc</i>.). The
+Note as well the futuristic present (1 Corinthians <b>15</b>:32, <i>etc</i>.). </span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        The
 same imperfect-tense form could translate as <i>“they were stoning</i> (simple
 linear),<i>”</i> <i>“they <u>were too</u> stoning (him; </i>emphatic linear<i>),”</i>
 <i>“they <u>tried to</u> stone</i> (conative),<i>”</i> <i>“they <u>kept</u>
@@ -7236,14 +6247,14 @@ cp. John <b>7</b>:26.</span></p>
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            3.
 <u>Negatives preceding what they negate</u>: <i>“Forbid him not” </i>becomes <i>“Don’t
-forbid him”</i> (Mark<b> 9</b>:39). English translations from the 1940’s on
-have discarded the older sequence.</span></p>
+forbid him”</i> (Mark<b> 9</b>:39). English translations from the 1940s on have
+discarded the older sequence.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            4.
 <u>Relative negative</u>. We have sometimes translated as relative negatives
 what in form of expression are direct opposites. Readers can tell from the kind
-of action that the two elements are not exclusive opposites, but are different
+of action that the two elements are not exclusive opposites but are different
 degrees of the same thing or function together rather than separately.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
@@ -7314,13 +6325,13 @@ Corinthians <b>14</b>:22<sup>2</sup>: </span><b><i><sup><span style='font-size:
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So
 </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>other
 </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>languages
-serve as signs for unbelievers, </span></i></p>
+serve as signs for unbelievers </span></i></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                            </span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>more
 than</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-believers; prophecy is for believers, </span></i><span style='font-size:12.0pt;
+believers; prophecy is for believers </span></i><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>more than</span><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i></p>
 
@@ -7366,7 +6377,7 @@ Timothy</span><b><span style='font-size:12.0pt;line-height:115%;font-family:
 "Times New Roman",serif'> 1</span></b><span style='font-size:12.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>:9: <i>“</i></span><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>[The
-law is] not there </span></i><span style='font-size:12.0pt;line-height:115%;
+Law is] not there </span></i><span style='font-size:12.0pt;line-height:115%;
 font-family:"Times New Roman",serif'>so much<i> for good people, as for </i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
@@ -7411,11 +6422,11 @@ also 1 Corinthians <b>14</b>:22; <b>15</b>:10; 1 Timothy <b>3</b>:9; James <b>2<
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            5.
 <u>Eliminating pendens constructions</u>: <i>“Those parts of the body that we
-think are less honorable—on them we bestow more abundant honor”</i> (1
-Corinthians <b>12</b>:23). Getting rid of the pendens makes the sentence, <i>“Parts
-we consider less honorable we give more attention to.”</i> 1 Corinthians<b> 16</b>:3,
-<i>“Whoever you approve—through letters I will send them to deliver your gift
-to Jerusalem.”</i> Cp. Matthew <b>5</b>:19; Mark <b>6</b>:16; John<b> 3</b>:26;<b>
+think are less honorable—on them we bestow more honor”</i> (1 Corinthians <b>12</b>:23).
+Getting rid of the pendens makes the sentence say, <i>“Parts we consider less
+honorable we give more attention to.”</i> 1 Corinthians<b> 16</b>:3, <i>“Whoever
+you approve—through letters I will send them to deliver your gift to
+Jerusalem.”</i> Cp. Matthew <b>5</b>:19; Mark <b>6</b>:16; John<b> 3</b>:26;<b>
 6</b>:39; <b>7</b>:20; 1 Corinthians <b>16</b>:3; Galatians <b>3</b>:7;
 Revelation <b>2</b>:24; <b>17</b>:16. Sometimes pendens constructions are hard
 to eliminate: note 1 John <b>1</b>:1-3. <i>CV</i> retains a double-subject
@@ -7440,7 +6451,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 going to die tomorrow.” In place of “Tomorrow we die</i> [</span><span lang=EL
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ἀποθνῄσκομεν</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>].”
-<i>“I’ll come to you when I pass through Macedonia,” for “I pass through
+<i>“I’ll come to you when I pass through Macedonia,” </i>for<i> “I pass through
 Macedonia”</i> (1 Corinthians <b>16</b>:5). Note also Matthew <b>26</b>:18; Mark
 <b>4</b>:38; <b>14</b>:41; Luke <b>13</b>:32; John <b>12</b>:34, 48.</span></p>
 
@@ -7462,12 +6473,13 @@ we have “covered them up” inside of contractions with the subject.</span></p
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            11.
 <u>Timeless aorist (gnomic/omnitemporal)</u>. We rendered as normal English
-presents (or perfects) what seem like <u>timeless aorists</u> in the Greek: Matthew
-<b>3</b>:17; <b>11</b>:19; 13:44?, 46?, 48?, <b>17</b>:5; <b>18</b>:23; <b>23</b>:2;
-Mark <b>1</b>:11; Luke<b> 3:22; 7</b>:35; <b>11</b>:52?, <b>12</b>:3?; John <b>15</b>:6,
-8?;<b> 17</b>:25<sup>3</sup>;<b> </b>Romans <b>3</b>:23 (have sinned); <b>8</b>:24
-(have been saved); Galatians <b>5</b>:24 (have crucified); James <b>1</b>:11; 1
-Peter <b>1</b>:24; 1 John<b> 4</b>:8. </span></p>
+presents (or perfects) what seem like <u>timeless/atemporal aorists</u> in the
+Greek: Matthew <b>3</b>:17; <b>11</b>:19; <b>13</b>:44?, 46?, 48?, <b>17</b>:5;
+<b>18</b>:23; <b>23</b>:2; Mark <b>1</b>:11; Luke<b> 3:22; 7</b>:35; <b>11</b>:52?,
+<b>12</b>:3? John <b>15</b>:6, 8?;<b> 17</b>:25<sup>3</sup>;<b> </b>Romans <b>3</b>:23
+(have sinned); <b>8</b>:24 (have been saved); Galatians <b>5</b>:24 (have
+crucified); James <b>1</b>:11; 1 Peter <b>1</b>:24; 1 John<b> 4</b>:8; Jude 11<sup>3</sup>.
+</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            *12.
@@ -7549,14 +6561,14 @@ with their hands.”</i></span></p>
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Acts
 <b>10</b>:12 speaks of <i>“four-footed animals, reptiles, and birds.”</i> The
-problem for English is that an adjective on the lead noun can feel like it
-belongs to the next one(s) too. There cannot be any four-footed birds; so the
-reversed sequence lists the <i>“four-footed animals” </i>last. </span><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Similarly,
-in Hebrews <b>9</b>:19, choosing to say <i>“young bulls”</i> instead of <i>“calves”</i>
-calls for reversing the order to read <i>“goats and young bulls.”</i> Luke <b>8</b>:2
-says some women were “<i>healed from evil spirits and illnesses,”</i> which
-becomes <i>“healed from illnesses and evil spirits.”</i></span></p>
+problem for English is that an adjective on a lead noun feels like it belongs
+to the next one(s) too. There cannot be any four-footed birds, so CV puts <i>“four-footed
+animals” </i>last. </span><span style='font-size:12.0pt;line-height:115%;
+font-family:"Times New Roman",serif'>Similarly, in Hebrews <b>9</b>:19,
+choosing to say <i>“young bulls”</i> instead of <i>“calves”</i> calls for
+reversing the order to read <i>“goats and young bulls.”</i> Luke <b>8</b>:2 says
+some women were “<i>healed from evil spirits and illnesses,”</i> which becomes <i>“healed
+from illnesses and evil spirits.”</i> Cp. #42 below.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        2
@@ -7578,7 +6590,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 and English differ greatly in their possibilities for sentence structure. English
 depends on placement in the sentence (distribution) to indicate subject, direct
 object, indirect object, and modifiers. Greek uses case endings instead. That
-leaves distribution for other uses like emphasis and easier connection with
+leaves distribution for other uses like emphasis or easier connection with
 preceding material. The most prominent places in sentences are the front and
 end. Greek can play on that fact by putting, say, the direct object on the
 front of a sentence or by placing the verb at the end. English is usually understandable
@@ -7609,19 +6621,19 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 <u>Preference for Positive Expression</u>. Written English prefers positive
 expression: Luke <b>1</b>:37; <b>8</b>:17; <b>12</b>:2; <b>18</b>:29. <i>“Nothing
 will be impossible for you”</i> changes to <i>“You can do anything.”</i> Note
-also Mathew <b>12</b>:24. </span></p>
+also Matthew <b>12</b>:24. </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Hebrew
 idiom often states the positive plus the negative as perhaps a way to emphasize
-or clarify. <i>CV</i> sometimes reduces double expressions to positive ones:
+or clarify. <i>CV</i> sometimes reduces such double expressions to positive ones:
 Ephesians <b>5</b>:15, <i>“Live like wise people”</i> rather than <i>“not live
 like unwise but as wise.”</i> Cp. Matthew <b>13</b>:34; Mark <b>4</b>:18, <i>etc.</i></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            18.
 <u>Litotes Removed</u>. Most cases of <u>litotes</u> sound less natural to
-conversational style, and so have fallen out: Matthew <b>15</b>:24; <b>17</b>:20;
+conversational style and so have fallen out: Matthew <b>15</b>:24; <b>17</b>:20;
 Mark<b> 6</b>:4; Acts <b>21</b>:39 (<i>“No mean city” </i>becomes <i>“an
 important city.”</i>); Titus<b> 3</b>:14.</span></p>
 
@@ -7631,7 +6643,7 @@ margin-left:0in;text-align:justify'><span style='font-size:12.0pt;line-height:
 Body-Part Imagery</u>. English uses a certain amount of body-part terminology: <i>“how
 did you get that in your head?” “give me a hand with this problem,” “keep your
 nose out of my business.” CV</i> removes a high percentage of body-part
-expression as scripture uses them. Though understandable, they are more foreign
+expressions as scripture uses them. Though understandable, they are more foreign
 to English idiom, but they are exceptionally frequent in the Bible. That Hebrew
 manner of speaking <u>focuses action</u>: <i>“The feet of them that buried your
 husband are at the door”</i> (Acts<b> 5</b>:9). Some examples are part of
@@ -7657,16 +6669,17 @@ hands); 2 Peter<b> 3</b>:16. </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            21.
-<u>Dropping Dative of Possession</u>. <u>Have</u> replaces it: <i>“There is a
-flock to the man”</i> <i>vs.</i> <i>“The man has a flock.”</i> Luke says of
-Zachariah and Elizabeth, <i>“No child was to them”</i> (Luke <b>1</b>:7); that
-can become <i>“they didn’t have any children.”</i> Cp. Luke <b>4</b>:7; John <b>1</b>:6.</span></p>
+<u>Dropping Dative of Possession</u>. <i><u>Have</u></i> replaces it: <i>“There
+is a flock to the man”</i> <i>vs.</i> <i>“The man has a flock.”</i> Luke says
+of Zachariah and Elizabeth, <i>“No child was to them”</i> (Luke <b>1</b>:7);
+that can become <i>“they didn’t have any children.”</i> Cp. Luke <b>4</b>:7;
+John <b>1</b>:6.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Dative
 of possession remains in texts like 1 Corinthians <b>15</b>:57: <i>“Thanks be
 to God”</i>; <i>“Thanks to God.”</i> The <i>“have”</i> wording does not cover
-the same idea in such a case.</span></p>
+the same idea in such cases.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            22.
@@ -7685,7 +6698,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 sentence length. Several devices help achieve that end. To an English reader,
 the classical biblical translations feel burdened down with
 wordiness—tautology, redundancy, circumlocution, verbosity, pleonastic
-expression. To English speakers, that factor reduces interest and clarity. Examples
+expression. To English speakers, that idiom reduces interest and clarity. Examples
 of wordiness: John <b>5</b>:25; 1 Corinthians <b>9</b>:8-9; 2 Corinthians <b>3</b>:14-15;
 <b>11</b>:21; <b>12</b>:3. Reduced sentence length comes from using several of
 the mechanisms noted above: </span></p>
@@ -7724,11 +6737,11 @@ John <b>7</b>:29.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        eliminating
-nuancing particles that Greek sprinkles into sentences quite understandable
-without them: </span><span lang=EL style='font-size:12.0pt;line-height:115%;
-font-family:"Times New Roman",serif'>ἄρα</span><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>, </span><span lang=EL
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>γὲ</span><span
+nuancing particles that Greek sprinkles into sentences that are quite
+understandable without them: </span><span lang=EL style='font-size:12.0pt;
+line-height:115%;font-family:"Times New Roman",serif'>ἄρα</span><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
+</span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>γὲ</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
 </span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>μὲν</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
@@ -7749,7 +6762,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>π
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
 </span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>κέν</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-are treated as if they were not affixed to the word;</span></p>
+are treated as if they were not affixed to the words;</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        replacing
@@ -7761,7 +6774,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 rid of “genitive strings” </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        dropping
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        dropping
 redundancies caused by extra words like these in Revelation: <i>“held palm
 branches <s>in their hands”</s></i> (<b>7</b>:9, <i>“held”</i> covers the
 prepositional phrase as well); <i>“dressed in white <s>clothes</s>”</i> (<b>4</b>:4);
@@ -7796,7 +6809,7 @@ the phenomenon.) Asyndetic construction also shortens sentences a little.</span>
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            25.
 <u>Purpose Clauses</u>. Purpose clauses shift into infinitive phrases<i>: “in
-order that he might ___”</i> shortens to <i>“to ___.”</i></span></p>
+order that he might ___”</i> can usually shorten to <i>“to ___.”</i></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            26.
@@ -7804,12 +6817,11 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 verbal aspects: action in the past connected with present time (perfect; <i>“has
 gone”</i>; linear) and simple reference to the fact of past action (aorist; <i>“went”</i>).
 (Also, the Greek imperfect views past action as in progress: <i>“was going”</i>;
-linear). The real action itself can be the same in all these cases, of course,
-but it is viewed differently by the writer for communication purposes—emphasis,
-vividness, relationship to other actions, what the author wants to draw
-attention to, habit of expression, <i>etc.</i> So, shifting from one to the
-other does not alter the fact, but it does change the way the writer talks about
-it.</span></p>
+linear). The real action itself is the same in all these cases, of course, but the
+writer views it differently for communication purposes—emphasis, vividness, relationship
+to other actions, what the author wants to draw attention to, habit of
+expression, <i>etc.</i> So, shifting from one to the other does not alter the
+fact, but it does change the way the writer talks about it.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Although
@@ -7817,18 +6829,18 @@ both English and Greek have <u>perfect and aoristic aspects in their verbs</u>,
 they do not have the same <u>custom of usage</u> with them. English more often
 wants to connect the past act to the present time, that is, it wants to use the
 present perfect rather than the simple past (aorist); Greek tends the other way.
-The difference shows up famously in a couple texts that are part of theological
-discussion: Romans <b>3</b>:23;<b> 5</b>:12. <i>CV</i> translates both aorists
-as present perfects to match the preferred understanding of Paul’s doctrinal
-intent: <i>“Everybody <u>has sinned</u> and falls short of God’s glory”</i>; <i>“death
-passed on to everybody because everybody <u>has sinned</u>.”</i> The punctiliar
-wording <i>“all sinned”</i> is easier to mistake into meaning all sinned in
-Adam’s act of sinning because he was all the race—Augustine’s notion of federal
-guilt in federal man—whereas guilt is, by nature and revelation, personal and
-limited to the actor. (Now of course, one person can be thought of as, so to
-speak, guilty of another person’s action by sympathizing with it, an idea
-included in the Christ-Adam parallels Paul talks about: Romans <b>5</b>:14; 1
-Corinthians <b>15</b>:22, 43.)</span></p>
+The difference shows up famously in a couple texts that are parts of
+theological discussion: Romans <b>3</b>:23;<b> 5</b>:12. <i>CV</i> translates
+both aorists as present perfects to match the preferred understanding of Paul’s
+doctrinal intent: <i>“Everybody <u>has sinned</u> and falls short of God’s
+glory”</i>; <i>“death passed on to everybody because everybody <u>has sinned</u>.”</i>
+The punctiliar wording <i>“all sinned”</i> is easier to mistake into meaning
+all sinned in Adam’s act of sinning because he was all the race—Augustine’s
+notion of federal guilt in federal man—whereas guilt is, by nature and
+revelation, personal and limited to the actor. (Now of course, one person can
+be thought of as, so to speak, guilty of another person’s action by sympathizing
+with it, an idea included in the Christ-Adam parallels Paul talks about in
+Romans <b>5</b>:14; 1 Corinthians <b>15</b>:22, 43.)</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            27.
@@ -7851,8 +6863,8 @@ James <b>1</b>:22-27; Revelation <b>18</b>:19-20.</span></p>
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            29.
 <u>Continuity of Figure</u>. <i>CV</i> goes as far as “unmixing” a few <u>mixed
-metaphors</u>. They seem unnecessarily distracting. 2 Corinthians<b> 5</b>:2 changes
-from <i>“undressed”</i> to <i>“unhoused.”</i> </span></p>
+metaphors</u>. They seem unnecessarily distracting, given English expectancy. 2
+Corinthians<b> 5</b>:2 changes from <i>“undressed”</i> to <i>“unhoused.”</i> </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            30.
@@ -7861,7 +6873,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 the crowd to sit down on the ground; and having taken the seven loaves and
 having blessed them, he <u>gave</u> . . . .” </i>The new wording becomes, <i>“He
 <u>told</u> the crowd to sit down. He took the seven loaves, blessed them, and <u>gave</u>
-. . . .”</i> Mark’s gospel lends itself to many such shifts because Mark so
+. . . .”</i> Mark’s gospel lends itself to many such shifts because it so
 frequently uses the “historic present,” a practice called “vivid narration.” The
 device uses a present-tense verb to put the listener inside the past-time
 event. English speakers talk the same way, but it has a “colloquial” feel more
@@ -7870,7 +6882,7 @@ common in oral exchange. Cp. Matthew <b>2</b>:13.</span></p>
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            31.
 <u>Close Subject-Verb Connection</u>. <i>CV</i> endeavors to limit the number
-of words between subject and verb (and verb plus direct objects). Spoken English
+of words between subject and verb (and verb plus direct object). Spoken English
 can tolerate more words there than written speech can, because pitch pattern
 and phrasing can help establish the connections. One blight in newspaper and
 magazine writing of late is attempting to say too many things about the subject
@@ -7931,13 +6943,13 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Je
 himself expresses the experience as <i>“distressed to death”</i> (Matthew <b>26</b>:38).
 </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
 Hebrew writer describes the occasion as <i>“loud</i> [audible?] <i>crying and
-tears”</i> (Hebrews<b> 5</b>:7 <i>NASB</i>). Luke <b>8</b>:17 says, <i>“secret
-that will not be known and come to light,”</i> which, reordered to natural
-sequence, becomes <i>“secret that will not come to light and be known,”</i>
-which, with double entry removed, becomes <i>“everything secret will come to
-light <s>and be known</s>.”</i> </span><i><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>“Everything that’s
-possible is not necessarily beneficial <s>or helpful</s>”</span></i><span
+tears”</i> (Hebrews<b> 5</b>:7, <i>New American Standard Bible</i>). Luke <b>8</b>:17
+says, <i>“secret that will not be known and come to light,”</i> which,
+reordered to natural sequence, becomes <i>“secret that will not come to light
+and be known,”</i> which, with double entry removed, becomes <i>“everything
+secret will come to light <s>and be known</s>.”</i> </span><i><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Everything
+that’s possible is not necessarily beneficial <s>or helpful</s>”</span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 (1 Corinthians <b>10</b>:23).</span><span style='font-size:12.0pt;line-height:
 115%;font-family:"Times New Roman",serif'> One notable verse has a <u>triple</u>
@@ -7950,7 +6962,7 @@ of that made any sense to them whatever.” </i>Cp. John <b>11</b>:33; <b>15</b>
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        (c)
 A third kind of double entry is <u>hendiadys</u>, where two grammatically
 parallel nouns, verbs, or adjectives combine for one composite idea: <i>“authoritative
-rule/ruling authority”</i> for <i>“rule and authority”</i> (Luke<b> 20</b>:20).
+rule/ruling, authority”</i> for <i>“rule and authority”</i> (Luke<b> 20</b>:20).
 Paul <i>“was still breathing out threats and murder” </i>becomes <i>“was still making
 murderous threats” </i>(Acts<b> 9</b>:1). <i>“Spoke in languages and
 prophesied”</i> likely means <i>“they prophesied in languages”</i> (Acts <b>19</b>:6).
@@ -8072,10 +7084,7 @@ comparable to comparative or superlative degrees on adjectives. Sometimes the
 doubles are longer segments laid side by side, not standard expressions. They
 represent rhetorical custom of expression—like some speakers’ habit of speaking
 in threes. Reading Romans, <i>etc.</i>, with an eye for doublets shows how
-prevalent that habit of expression was.</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                     </span></p>
+prevalent that habit of expression was.           </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            33.
@@ -8148,9 +7157,9 @@ often as illustrated by the cases just in Matthew: <b>1</b>:18, 20; <b>2</b>:1,
 <b>13</b>:6, 19; <b>14</b>:15, 23, 32; <b>16</b>:2; <b>17</b>:5, 9, 14, 22, 24,
 26; <b>18</b>:24, 25; <b>20</b>:8, 29; <b>21</b>:10, 23; <b>22</b>:41; <b>24</b>:3;
 <b>25</b>:5, 10, 60; <b>26</b>:6, 7, 20, 21, 47; <b>27</b>:1, 17, 19, 57; <b>28</b>:11,
-13. There are a few accusative absolutes: Matthew <b>17</b>:25?; Acts <b>25</b>:27;
+13. There are a few accusative absolutes: Matthew <b>17</b>:25? Acts <b>25</b>:27;
 <b>26</b>:3; Ephesians <b>1</b>:18. Some dative absolutes show up: Matthew<b> 9</b>:27,
-28?; <b>14</b>:6; Luke <b>8</b>:27; Acts <b>22</b>:6, 17; <b>28</b>:10?. There are
+28? <b>14</b>:6; Luke <b>8</b>:27; Acts <b>22</b>:6, 17; <b>28</b>:10?. There are
 nominative absolutes in Romans <b>12</b>:9, 16; Revelation <b>2</b>:26. (Latin has
 ablative absolutes). The construction consists of a genitive/dative/accusative/nominative
 noun plus the same number-and-gender participle without modifying any
@@ -8200,7 +7209,7 @@ are we going to do with these men!?”</span></i><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'> (Acts <b>4</b>:15); <i>“What
 should I do, Lord!?”</i> (Acts <b>22</b>:10). Some questions with subjunctive seem
 to have weaker uncertainty, so special punctuation does not accompany them. Examples
-include Matthew <b>3</b>:14?; <b>6</b>:25, 37; <b>13</b>:28; <b>18</b>:21; <b>23</b>:33;
+include Matthew <b>3</b>:14? <b>6</b>:25, 37; <b>13</b>:28; <b>18</b>:21; <b>23</b>:33;
 <b>26</b>:14, 17, 54; Mark <b>12</b>:14; Luke <b>3</b>:10;<b> 9</b>:54; <b>11</b>:5;
 <b>12</b>:5; <b>14</b>:34; <b>16</b>:3-4;<b> 18</b>:7, 41; <b>22</b>:9; <b>23</b>:31;
 John<b> 6</b>:28, 38, 68;<b> 12</b>:27; <b>18</b>:11, 39; Romans <b>10</b>:14; <b>15</b>:4;
@@ -8223,7 +7232,7 @@ indicative <i>vs.</i> </span><span lang=EL style='font-size:12.0pt;line-height:
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>+
 infinitive). We have not always worded the texts with a clear preference for
-either. See comments below under <i>so</i>.</span></p>
+either. See comments below “Individual Words and Phrases” under <i>so</i>.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Our
@@ -8281,7 +7290,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 the influence of Hebrew grandiloquence, New Testament writers sometimes restate
 a noun (or clause) that English replaces with a pronoun.  Revelation <b>17</b>:8,
 <i>The beast was, is not, and is to come up from the abyss to </i>its <i>eternal
-destruction. People on earth will marvel when they see <u>it</u>. It</i> in <i>CV
+destruction. People on earth will marvel when they see <u>it</u>.” It</i> in <i>CV
 </i>replaces a restatement of <i>“He was, is not, and will come” </i>from
 earlier. Cp. John <b>2</b>:24; Colossians <b>1</b>:18, 20, 27.</span></p>
 
@@ -8304,6 +7313,66 @@ from every direction.” CV</span></i><span style='font-size:12.0pt;line-height:
 115%;font-family:"Times New Roman",serif'> reads, <i>“He’ll send out his angels
 with a loud trumpet blast <u>to</u> gather his chosen ones.”</i></span></p>
 
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><i><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>42.
+English has a subtle grammatical feature speakers use unknowingly; the required
+sequence for adjective meanings <u>in series</u>. “our/the/this (identifier) big
+(size) white (color) country (location) house; those elements cannot be
+reversed. (This oddity can be greatly extended up to some twenty elements!) Furthermore,
+each entry applies to all the following elements in the rest of the set, particularly
+the phrase head at the end. If the adjective entries are conceived of as
+directly connected to the phrase head, commas appear between the adjectives in
+writing and speakers use a slight pause between the modifiers; that puts the
+adjectives <u>in parallel</u>. </span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        This
+complicated system does not necessarily coordinate with the customs of usage in
+other languages. A notable Greek case comes up in the last verse of Romans: </span><span
+lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>μόνῳ</span><span
+lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
+</span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>σοφ</span><span
+lang=EL style='font-family:"Times New Roman",serif'>ῷ</span><span lang=EL
+style='font-family:"Times New Roman",serif'> </span><span lang=EL
+style='font-family:"Times New Roman",serif'>θεῷ</span><span style='font-family:
+"Times New Roman",serif'>, </span><span lang=EL style='font-family:"Times New Roman",serif'>διὰ</span><span
+lang=EL style='font-family:"Times New Roman",serif'> </span><span lang=EL
+style='font-family:"Times New Roman",serif'>Ἰησοῦ</span><span lang=EL
+style='font-family:"Times New Roman",serif'> </span><span lang=EL
+style='font-family:"Times New Roman",serif'>Χριστοῦ</span><span
+style='font-family:"Times New Roman",serif'>, </span><span lang=EL
+style='font-family:"Times New Roman",serif'>ᾧ</span><span lang=EL
+style='font-family:"Times New Roman",serif'> </span><span lang=EL
+style='font-family:"Times New Roman",serif'>ἡ</span><span lang=EL
+style='font-family:"Times New Roman",serif'> </span><span lang=EL
+style='font-family:"Times New Roman",serif'>δόξα</span><span lang=EL
+style='font-family:"Times New Roman",serif'> </span><span lang=EL
+style='font-family:"Times New Roman",serif'>τοὺς</span><span lang=EL
+style='font-family:"Times New Roman",serif'> </span><span lang=EL
+style='font-family:"Times New Roman",serif'>αἰῶνας</span><span
+style='font-family:"Times New Roman",serif'>, </span><span lang=EL
+style='font-family:"Times New Roman",serif'>ἀμήν</span><span style='font-family:
+"Times New Roman",serif'>: </span><i><span style='font-size:12.0pt;line-height:
+115%;font-family:"Times New Roman",serif'>“to the only wise God . . . .”</span></i><span
+style='font-family:"Times New Roman",serif'> Using the Greek order makes the doxology
+sound like there are other gods; the adjective connotes a restrictive rather
+than simply positive value. To avoid that misreading, CV has changed the
+wording: </span><b><sup><span style='font-size:14.0pt;line-height:115%;
+font-family:"Times New Roman",serif'>“</span></sup></b><span style='font-size:
+12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to </span><i><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the</span></i><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
+wise </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and
+</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>only</span><i><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God
+through Jesus Christ </span><i><span style='font-size:12.0pt;line-height:115%;
+font-family:"Times New Roman",serif'>be</span></i><span style='font-size:12.0pt;
+line-height:115%;font-family:"Times New Roman",serif'> glory forever! Amen.”
+Luckily this difficulty rarely, if ever, comes up elsewhere in the New
+Testament.</span></p>
+
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif;
 display:none'> Hebrew grandiloqu3ence,gr</span></p>
@@ -8319,17 +7388,18 @@ line-height:115%;font-family:"Times New Roman",serif'> English Usage </span></b>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            As
-with Bible translations prepared since the 1940’s, the archaic pronouns (<i>thou/thee/thy,
+with Bible translations since the 1940s, the archaic pronouns (<i>thou/thee/thy,
 ye, mine </i>in attributive position—<i>mine eyes</i>) and old verb endings (-<i>est,
 -eth</i>) have dropped out, along with a host of words and phrases no longer in
 use, though probably still understandable. Other words have shifted their
-meaning and need to be replaced. (<i>Let, to hinder, </i>moved to its opposite!
-KJV used to say in Romans <b>1</b>:13, <i>“I was let hitherto”</i> for <i>“I
-was prevented up to now.”</i>) Linguistic drift happens in every language, so
-new versions come out to accommodate the changes. Besides that, the impetus for
-this translation comes from wanting to provide scripture in one kind of current
-English. Its features appear above under “III. Elements of Conversational
-Style.” It attempts to bring scripture closer to this generation’s oral style.</span></p>
+meaning and need to be replaced. (<i>Let, </i>moving<i> </i>to<i> hinder, went</i>
+to its opposite! KJV used to say in Romans <b>1</b>:13, <i>“I was let hitherto”</i>
+for <i>“I was prevented up to now.”</i>) Linguistic drift happens in every
+language, so new versions come out to accommodate the changes. Besides that,
+the impetus for this translation comes from wanting to provide scripture in one
+kind of current English. Its features appear above under “III. Elements of
+Conversational Style.” It attempts to bring scripture closer to this generation’s
+oral style.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
@@ -8345,22 +7415,23 @@ can use it.” </i>Note John <b>9</b>:39.                    
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            2.
 Not surprisingly, <i>CV</i> also drops the <u>will/shall distinction</u>. For
-the last couple generations English speakers have not used <i>shall</i> for
+the last couple generations, English speakers have not used <i>shall</i> for
 first person and <i>will</i> for second and third person—with reversal for
-emphasis. Now, <i>will</i> covers all three persons and there is no emphasis by
-reversal; <i>shall</i> falls out altogether. Calling attention to that obvious
-shift would not be necessary except for familiar biblical texts like the Ten Commandments—<i>“Thou
-shalt not steal.” “Do not steal”</i> gets rid of the archaic second person
-singular pronoun <i>thou</i>, replaces imperatival future with plain
-imperative, changes the obsolete form of second-person <i>shall</i> (<i>shalt</i>),
-and eliminates the rare use of a pronoun with an imperative—except occasionally
-for strong demand. <i>CV</i> uses contractions almost everywhere it can, but in
-the Ten Commandments it leaves the words uncontracted, as in this example.</span></p>
+emphasis. Now, <i>will</i> covers all three persons, and there is no emphasis
+by reversal; <i>shall</i> falls out altogether. Calling attention to that
+obvious shift would not be necessary except for familiar biblical texts like the
+Ten Commandments—<i>“Thou shalt not steal.” “Do not steal”</i> gets rid of the
+archaic second person singular pronoun <i>thou</i>, replaces imperatival future
+with plain imperative, changes the obsolete form of second-person <i>shall</i>
+(<i>shalt</i>), and eliminates the rare use of a pronoun with an imperative—except
+occasionally for strong demand. <i>CV</i> uses contractions almost everywhere
+it can, but in the Ten Commandments it leaves the words uncontracted, as in
+this example.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            
-3. In general, we have deferred to “<u>inclusive language</u>.” Except in third
-singular, English has common gender in all its <u>pronoun</u> types and their inflexions:
+3. In general, we have deferred to “<u>neutral language</u>.” Except in third
+singular, English has common gender in all its <u>pronoun</u> types and their inflections:
 personal (<i>I/we/you/he/ she/they</i>), reflexive (-<i>self</i>), intensive (-<i>self</i>),
 reciprocal (<i>one another</i>), interrogative (<i>who?/which?</i>), indefinite
 (<i>some/any/every/body</i>), and relative (<i>who/which/that</i>). Classical
@@ -8368,17 +7439,18 @@ languages (Greek and Latin), Hebrew/Aramaic, and English speakers
 (traditionally) have used <i>he</i>/<i>him</i>/<i>his</i> (and their corresponding
 terms) where sex reference is mixed, unknown, or irrelevant. The modern concern
 for egalitarianism has pressed for a shift away from masculine pronouns in those
-situations. Written and oral custom has begun to foster using “<i>he or she</i>,”
-mixing the two pronouns in a speech segment, or using <i>they/their</i> as a
-replacement for singular third-person reference by resumptive pronouns (<i>“as
-anyone who does it for their job can tell you”</i>). We have also not revived
-the free-standing <i>one</i> to cover generic reference: <i>“One should not . .
-. .”</i> The word has picked up a pedantic feel due to its infrequent usage in
-that way.</span></p>
+situations. Written and oral custom has begun using “<i>he or she</i>” or mixing
+the two pronouns in a speech segment: <i>“One person might start declining
+rapidly in his 40s while another might keep her faculties largely tact into her
+60s.”</i>  Writers may use <i>they/their</i> to replace singular third-person
+reference by resumptive pronouns (<i>“as anyone who does it for their job can
+tell you”</i>). We have not revived the free-standing <i>one</i> to cover
+generic third-person singular reference: <i>“One should not . . . .”</i> The
+word has picked up a pedantic feel due to its infrequent usage in that way.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            The
-replacement options seem cumbersome, distracting, and ambiguous. Indefinite
+replacement options can seem cumbersome, distracting, and ambiguous. Indefinite
 pronouns and their equivalents are more natural: <i>some/body/any/body/everybody-one</i>,
 <i>a person</i>, or <i>people</i>. It is possible as well to use <i>you</i> or <i>they</i>
 “advisedly,” that is, as indefinite pronouns—as in the expression <i>“they say.”</i>
@@ -8396,22 +7468,27 @@ Mark <b>3</b>:29.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Using
-indefinite pronouns, <i>etc</i>., to replace <i>man</i> does not solve the inclusive
-language problem where resumptive pronouns come in; hence, the use of plurals
-in the resumptive positions is becoming English idiom whether the leading
+indefinite pronouns, <i>etc</i>., to replace <i>man</i> does not solve the neutral
+language problem where resumptive pronouns come in; hence, using plurals in
+resumptive positions is becoming standard English idiom whether the leading
 reference is singular or plural. The exception is that originating references
-intended to specify one gender can carry the same gender resumptive pronoun. <i>CV
-</i>implements the new idiom in cases like the following: <i>“Each one of us
+intended to specify one gender can carry the same gender in resumptive pronoun.
+<i>CV </i>employs the new idiom in cases like the following: <i>“Each one of us
 has to carry our own load”</i> (Galatians <b>6</b>:5); <i>“whoever tries to
-preserve their life will lose it”</i> (Luke <b>17</b>:33).</span></p>
+preserve their life will lose it”</i> (Luke <b>17</b>:33). Using a plural
+substitute appears when the resumptive pronoun has a third-person singular
+antecedent that could reference either a male or a female, that is, nouns
+(agents/actors/identities) and words like <i>a person, anyone</i>, <i>each</i>,
+<i>everyone</i>, <i>no one,</i> <i>someone</i>, <i>that</i>,<i> this, whichever,
+who(ever), </i>and <i>you (advised), </i></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Inclusive
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Neutral
 language also comes into play when the original text uses the <u>nouns</u> <i>son,
 brother, father, man, and their plurals </i>for mixed referents<i>. </i>In <i>CV
 </i>the word <i>man</i> appears where it contrasts with woman; but when it
 contrasts with God, animal, idea, or inanimate thing we have sought some
-alternative replacement. Where <i>man</i> does not contrast in those ways, </span><span
+alternative. Where <i>man</i> does not contrast in those ways, </span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ἄνθρωπος</span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(<i>man</i>)—and
@@ -8419,9 +7496,9 @@ to a lesser extent </span><span lang=EL style='font-size:12.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>ὰνήρ</span><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> (<i>man/husband</i>)—we
 have endeavored to replace with <i>a person</i>, <i>people</i>, plurals, first
-or second person (Romans <b>10</b>:9-10), or some other inclusive term. In such
-cases, <i>man</i> in the original text does not mean <i>“man as in contrast to
-woman”</i> anyway; it means <i>humankind</i>, but <i>humankind</i> is a bit
+or second person (Romans <b>10</b>:9-10), or some other neutral term. In such
+cases, <i>man</i> in the original text did not mean <i>“man in contrast to
+woman”</i> anyway; it meant <i>humankind</i>, but <i>humankind</i> is a bit
 cumbersome. <i>CV </i>has replaced <i>brothers </i>with <i>siblings </i>in<i> </i>Romans
 <b>15</b>:14;<i> </i>Hebrews<b> 2</b>:11-12, with <i>members of </i>Christ’s<i>
 family</i> in 1 Corinthians <b>2</b>:1; Philippians <b>3</b>:1; 1 Thessalonians
@@ -8441,54 +7518,55 @@ from the perspective of canonical revelation about that truth, God is (a)
 spirit (John<b> 4</b>:24) and as such does not have <i>“flesh and bones” </i>(Luke
 <b>24</b>:39). So, sexuality/gender cannot belong to his ontic nature. That
 fact, we surmise, lies in part behind proscribing idolatry. It also coincides
-with placing final responsibility in the “hands” of the masculine and with observing
-that the female is physically weaker—statistically by degree (cp. 1 Peter <b>3</b>:7:
-<i>weaker vessel</i>). The God of the Bible has ultimate responsibility for the
-rest of reality, hence authority over it, and ultimate power to direct it. His
-omnipotence establishes stability and security and guarantees hope for his
-people. The human parallel <i>in his image</i> likewise issues in a generality
-where greater physical strength conveys greater psychological security. (<i>“In
-his image” </i>we understand as the interpersonal capacity and therefore aside
-from the human sexuality question altogether.)</span></p>
+with placing final family and church responsibility in the “hands” of the
+masculine and with observing that the male is physically stronger, bigger, and with
+greater endurance—statistically by degree (cp. 1 Peter <b>3</b>:7: <i>weaker
+vessel</i>). In consequence of his creative work, the God of the Bible has
+ultimate responsibility for the rest of reality, hence authority over it, and
+ultimate power to direct it. His omnipotence establishes stability and security,
+and guarantees hope for his people. The human parallel <i>in his image</i> likewise
+issues in a generality where greater physical strength conveys greater psychological
+security. (<i>“In his image” </i>we understand as the interpersonal capacity
+and so aside from the human sexuality question altogether.)</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Additionally,
-references to <u>angels</u> are always masculine in scripture and hence in renderings
+references to <u>angels</u> are always masculine in scripture, hence in renderings
 here. Angels also are “spirits” (Hebrews<b> 1</b>:14 + Luke <b>24</b>:39). With
-<u>demons</u> this version nearly always uses <i>it</i> in pronoun references. That
-usage fits the demons’ tendency toward depersonalizing people by the effects they
-have on the ones they “possess.” Additionally, <i>demon</i> has an impersonal
-feel in English even though the Greek word is grammatically masculine (</span><i><span
+<u>demons</u> <i>CV</i> nearly always uses <i>it</i> in pronoun references. That
+usage fits the demons’ tendency toward depersonalizing people by their effects on
+the ones they “possess.” Additionally, <i>demon</i> has an impersonal feel in
+English even though the Greek word is grammatically masculine (</span><i><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>δαίμων</span></i><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
 </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>appearing<i>
 </i>only in Matthew <b>8</b>:31). As a word, <i>Spirit</i> has a more
 impersonal feel than <i>Father</i> and <i>Son</i>; perhaps that is part of the
-reason for some slip-ups in some translations that render </span><span lang=EL
+reason for slip-ups in some translations that render </span><span lang=EL
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>πνεῦμα</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-(n.) as <i>“it.”</i>  </span></p>
+(n.) as <i>“it.”</i>   </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            4.
 We have used <i>a</i> with a <u>noun typical of its class</u>. Older English custom
 used <i>the</i>—as did Greek and Hebrew: <i>“To do his work credibly, the
 artist needs to know human anatomy”</i> <i>vs.</i> <i>“To do his work credibly,
-an artist needs to know human anatomy.”</i> Cp. Mathew<b> 24</b>:32; <b>25</b>:31;
-Mark 1:44?; <b>7</b>:20?; Luke <b>12</b>:27; John <b>10</b>:2, 11<sup>2</sup>,
-14; 1 Corinthians <b>11</b>:3; 1 Timothy<b> 3</b>:2; 4:8; James <b>5</b>:7; 1
-John <b>2</b>:2. In 1 Timothy <b>5</b>:14, 18. We have even applied the
-indefinite-article usage to Paul’s classic statement, <i>“I have fought the
-good fight,”</i> altering it to <i>“I have fought a good fight”</i> (2 Timothy <b>4</b>:7).
-<i>CV</i> has also used a plural for a noun typical of its class: <i>“so they
-don’t give critics [</i></span><i><span lang=EL style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>τῷ</span></i><i><span
+an artist needs to know human anatomy”</i>; cp. Matthew<b> 24</b>:32; <b>25</b>:31;
+Mark 1:44?; <b>7</b>:20? Mark <b>13</b>:28; Luke <b>12</b>:27; <b>21</b>:29; John
+<b>10</b>:2, 11<sup>2</sup>, 14; 1 Corinthians <b>11</b>:3; 1 Timothy<b> 3</b>:2;
+<b>4</b>:8; James <b>5</b>:7; 1 John <b>2</b>:2. In 1 Timothy <b>5</b>:14, 18, we
+have even applied the indefinite-article usage to Paul’s classic statement, <i>“I
+have fought the good fight,”</i> altering it to <i>“I have fought a good fight”</i>
+(2 Timothy <b>4</b>:7). <i>CV</i> also uses a plural for a noun typical of its
+class: <i>“so they don’t give critics [</i></span><i><span lang=EL
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>τῷ</span></i><i><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span></i><i><span lang=EL style='font-size:12.0pt;line-height:115%;
 font-family:"Times New Roman",serif'>ἀντικειμένῳ</span></i><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]
 a chance to find fault” </span></i><span style='font-size:12.0pt;line-height:
-115%;font-family:"Times New Roman",serif'>1 Timothy <b>5</b>:14).</span></p>
+115%;font-family:"Times New Roman",serif'>(1 Timothy <b>5</b>:14).</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            5.
@@ -8496,7 +7574,7 @@ Although not always observed in contemporary speaking, we have sometimes retaine
 the <u>subjunctive mood in contrary-to-fact conditional sentences</u>: <i>“If I
 were a rich man”</i> <i>vs.</i> <i>“If I was a rich man.”</i> Current use of
 indicative for subjunctive works because contrary-to-fact is nearly always clear
-from context and subject matter. For that reason, the New Testament writers themselves
+from context and subject matter. For that reason, New Testament writers themselves
 sometimes omit the particle </span><span lang=EL style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>ἄν</span><span lang=EL
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><span
@@ -8515,10 +7593,10 @@ John <b>18</b>:30, 36; <b>21</b>:24; 1 Corinthians <b>12</b>:17.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            6.
-Intensive pronouns appear last in their clauses—instead of after the nouns they
-intensify: <i>“Jesus didn’t perform the baptisms himself; his disciples did
-them”</i>; <i>vs.</i> <i>“Jesus himself didn’t perform the baptisms” </i>(John<b>
-4</b>:2).</span></p>
+Intensive pronouns appear last in their clauses—instead of immediately after
+the nouns they intensify: <i>“Jesus didn’t perform the baptisms himself; his
+disciples did them”</i> <i>vs.</i> <i>“Jesus himself didn’t perform the
+baptisms” </i>(John<b> 4</b>:2).</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>             Intensive
@@ -8530,7 +7608,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 (a) <i>CV</i> does not capitalize <u>pronouns for deity</u> except for the indefinite
 pronoun <u>One</u> when standing alone: <i>“God’s ‘bread’ is the One that comes
 down from heaven”</i> (John <b>6</b>:35). Older English usage capitalized
-personal pronouns for deity to show respect. Some earlier authors even
+personal pronouns for deity to indicate respect. Some earlier authors even
 capitalized intensive, reflexive, and relative pronouns.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
@@ -8842,12 +7920,20 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 capitalized: <i>Passover</i>, <i>Sabbath</i>, <i>Savior, Son, the Law (of Moses)
 </i></span></p>
 
+<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><i><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                    </span></i><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(e)
+In <i>“son of __” CV</i> has usually not placed a comma before <i>of</i>. The
+idea is that <i>“James son of Zebedee”</i> is conceived of in full as a name
+like <i>“Simon Barjonah.” </i>See <i>Bar- </i>in the word list at the end of
+these introductory notes.</span></p>
+
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            8.
 Some <u>misplaced<i> only’s</i> and <i>just’s</i></u> appear<b>: </b><i>“You
 can only serve one master” vs.</i> <i>“You can serve only one master”</i> (Matthew
-<b>6</b>:24). As per standard usage, <i>only serve</i> contrasts with some
-other act because it precedes the verb. But that is not the way speakers have
+<b>6</b>:24). As per standard usage, <i>only serve</i> would contrast with some
+other act because it precedes the verb, but that is not the way speakers have
 come to mean it. Rewording can avoid the issue in this example: <i>CV</i> says,
 <i>“</i></span><i><span style='font-size:12.0pt;line-height:115%;font-family:
 "Times New Roman",serif'>Nobody can serve two masters.”</span></i></p>
@@ -8866,16 +7952,16 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 the subordinate conjunction, likewise carries the same case after as before;
 that is, it has the same case on the subsequent noun or pronoun as the previous
 substantive it compares with: <i>“He is as tall as I”</i>; <i>“the loss hit him
-as hard as me.”</i> Considering <i>as</i> a preposition shows up when the
-speaker uses objective case after it on a pronoun that pairs with a previous subjective
+as hard as me.”</i> Considering <i>as</i> a preposition shows up when a speaker
+uses objective case after it on a pronoun that pairs with a previous subjective
 form—as in the first example here: <i>“He is as tall as me.”</i></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        That
 switch happens as well with <i>as-like</i>: <i>“as me” </i>(preposition) <i>vs.</i>
 <i>“as I”</i> (conjunction); <i>“like they are”</i> (conjunction) <i>vs.</i> <i>“like
-them”</i> (preposition). Cp. <i>than</i> and <i>like</i> in the word list that
-closes these notes. </span></p>
+them”</i> (preposition); cp. <i>than</i> and <i>like</i> in the word list that
+closes these translator’s notes. </span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        The
@@ -8904,7 +7990,7 @@ pronoun precedes the verb, it carries subjective form (<i>I</i>, <i>we</i>, <i>h
 (<i>me</i>, <i>us</i>, <i>him</i>, <i>her</i>, <i>them</i>, [<i>whom</i>]). Since
 English has lost case form on adjectives and all substantives except pronouns,
 English speakers have lost an automatic feel for syntax based on form; they have
-moved to syntax based on placement (distribution). They continually confuse what
+switched to syntax based on placement (distribution). They continually confuse what
 form to use where. They apply the distributive pattern the same way in
 sentences with linking/equative/copulative/state-of-being verbs as they do with
 action-verb sentences: <i>“It is me/it’s me”</i> (Matthew<b> 14</b>:27; ASV, <i>e.g</i>.,
@@ -8972,7 +8058,7 @@ establishing itself in modern English. The objection to split infinitives never
 had any more of a real basis than split progressive verbs: “We <i>are
 continually striving</i> to improve.” Latin, Greek, and Hebrew infinitives are
 always one word (portare, </span><span lang=EL style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>λῦειν</span><span
+line-height:115%;font-family:"Times New Roman",serif'>λύειν</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,</span><span
 lang=HE dir=RTL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>קְטֹל<b>
 </b></span><span dir=LTR></span><span style='font-size:12.0pt;line-height:115%;
@@ -8990,15 +8076,17 @@ In indirect discourse, <i>CV</i> puts all the indirect discourse clause after
 the conjunction that introduces it—after <i>that</i>, whether expressed or
 implied: <i>“I want you to know the gospel preached by me that it was not
 according to man”</i> becomes <i>“the message I presented to you didn’t come
-from other people”</i> (Galatians<b> 1</b>:11). Cp. John <b>4</b>:35; <b>9</b>:8;
-<b>11</b>:31; 1 Corinthians <b>3</b>:20 &lt; Psalm <b>94</b>:11; <b>14</b>:57;
-2 Corinthians <b>2</b>:1.</span></p>
+from other people”</i> (Galatians<b> 1</b>:11</span><span lang=EL
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>΄ψ</span><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>p.
+John <b>4</b>:35; <b>9</b>:8; <b>11</b>:31; 1 Corinthians <b>3</b>:20 &lt; Psalm
+<b>94</b>:11; <b>14</b>:57; 2 Corinthians <b>2</b>:1).</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            17.
 In indirect discourse, <i>that</i> is not usually used to introduce the subordinate
 noun clause. Jesus said, <i>“I am not going up to the feast yet”</i> could be expressed
-as indirect discourse with no <i>that</i>, <i>“He said <s>that</s> he wasn’t
+as indirect discourse with no <i>that</i>: <i>“He said <s>that</s> he wasn’t
 going up to the feast yet”</i> (cp. John<b> 7</b>:1-9)</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
@@ -9025,7 +8113,7 @@ teaching the people”</i>; 2 Thessalonians <b>2</b>:5, <i>“me telling you” 
 note also Matthew <b>10</b>:29; John <b>15</b>:8. The difference comes from switching
 an -ing gerund to an –ing participle that looks and sounds the same. Another
 way of looking at it considers it indirect discourse with a participle for its
-verb. Retained possessives with gerunds include Romans <b>4</b>:5; <b>9</b>:11-12;
+verbal. Retained possessives with gerunds include Romans <b>4</b>:5; <b>9</b>:11-12;
 <b>11</b>:15<sup>2</sup>; 2 Peter <b>2</b>:12.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
@@ -9040,8 +8128,8 @@ entries—<i>and</i>, <i>or</i>. (If a <i>CV </i>list does use a conjunction in
 that position, the “serial/Oxford comma” appears.) Omitting that coordinate
 conjunction gives the list a representative feel rather than exhaustive one. New
 Testament lists frequently have that “for example” character: Romans <b>1</b>:23,
-30, 31. Lists are a frequent features of Paul’s writings especially, so
-omitting the last <i>and</i> occurs frequently in his letters.</span></p>
+30, 31. Lists are frequent features of Paul’s writings especially, so omitting
+the last <i>and</i> occurs frequently in his letters.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            23.
@@ -9059,9 +8147,19 @@ lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",s
 </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>plus
 a finite verb after a leading verb of saying, the senses, and mental action. Greek
 can also use (b) an infinitive or (c) a participle for the verbal in the
-indirect-discourse part. English has virtually dropped those last two options. If
-purpose-clause formulas replace indirect-discourse constructions—as after “asking”
-or” thanking,” <i>CV </i>uses an infinitive phrase or some other format.</span></p>
+indirect-discourse part. In quite a number of cases here, the leading verb of
+saying carries the added implication of getting someone to do something
+(purpose), New Testament writers use the purpose clause formula (</span><span
+lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ἵνα</span><span
+lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
+</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>+
+subjunctive) in place of the standard indirect discourse formula with </span><span
+lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ὅτι</span><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>:
+Mark <b>6</b>:12; <b>8</b>:30; <b>9</b>:9, 18. English has virtually dropped the
+second and third options. If purpose-clause formulas replace indirect-discourse
+constructions—as after “asking” or” thanking,” <i>CV </i>uses an infinitive
+phrase or some other format.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            25.
@@ -9085,11 +8183,11 @@ Standard Version </i>(1901) has Ezekiel say, <i>“The righteousness of the
 righteous shall be upon him</i> [that is, <i>on himself</i>]<i>”</i> (<b>18</b>:20).
 In most cases, Greek, Latin, and English calls for using <i>-self</i> pronouns
 for restating the sentence subject if necessary for making the reference clear.
-Where no confusion arises, speakers dispense with the difference. Using
+Where no confusion arises, English speakers dispense with the difference. Using
 reflexive pronouns in other than reflexive situations is a breach of standard
 usage, and so is avoided in conversation as well. English speakers often use
-reflexive pronouns to avoid sounding self-centered: <i>“That is an issue
-between him and myself.” </i>Such a situation does not arise in the New
+reflexive pronouns, perhaps, to avoid sounding self-centered: <i>“That is an
+issue between him and myself.” </i>Such a situation does not arise in the New
 Testament text.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
@@ -9120,8 +8218,8 @@ Timothy <b>3</b>:2</span></p>
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
-familiar case in Matthew <b>1</b>:23 bears comment. The Greek carries an
-article on <i>virgin</i>: </span><span lang=EL style='font-size:12.0pt;
+familiar example in Matthew <b>1</b>:23 bears comment. The Greek text carries
+an article on <i>virgin</i>: </span><span lang=EL style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>Ἰδοὺ</span><span lang=EL
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ἡ</span><span
@@ -9130,7 +8228,7 @@ lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",s
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ἐν</span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>γαστρί</span><span
+</span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>γαστρὶ</span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ἕξει</span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
@@ -9223,7 +8321,7 @@ line-height:115%;font-family:"Times New Roman",serif'> carries the force of the
 Hebrew </span><span lang=HE dir=RTL style='font-size:12.0pt;line-height:115%;
 font-family:"Times New Roman",serif'>כל</span><span dir=LTR></span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
-dir=LTR></span>. The usage reminds us of <i>such and such</i>.  </span></p>
+dir=LTR></span>.  </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -9261,8 +8359,8 @@ dir=LTR></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times
 dir=LTR></span> (<i>and</i>) </span><span style='font-size:12.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>in </span><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hebrew: Acts <b>6</b>:5
-(list of the seven chosen to serve table), <b>6</b>:9 (list of nationalities in
-Jerusalem’s Hellenistic synagogue). (The Greek text can omit </span><span
+(list of the seven chosen to serve tables), <b>6</b>:9 (list of nationalities
+in Jerusalem’s Hellenistic synagogue). (The Greek text can omit </span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>καί</span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>between
@@ -9307,39 +8405,45 @@ contrast, but the author still uses <i>and</i> (</span><span lang=EL
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>καί</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>):
 Matthew <b>1</b>:25; <b>11</b>:17; <b>17</b>:23; <b>20</b>:10, 19; <b>21</b>:30;
-<b>26</b>:60; Luke <b>18</b>:2; <b>19</b>:48; <b>20</b>:19; <b>21</b>:18; <b>24</b>:11;
-Luke <b>15</b>:16; John<b> 1</b>:6; <b>7</b>:28, 34; <b>8</b>:52;<b> 9</b>:3; <b>14</b>:22;
-<b>17</b>:11; <b>20</b>:14; Acts<b> 7</b>:5, 9; <b>10</b>:38; 1 Corinthians <b>13</b>:2,
-3. Adversative </span><span lang=EL style='font-size:12.0pt;line-height:115%;
-font-family:"Times New Roman",serif'>καί</span><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'> comes into the gospels
-especially; perhaps the impulse to use it that way originated—as did several tendencies
-of New Testament Greek—from the Hebrew-speaking background of its writers. The
-Hebrew inseparable prefixed conjunction </span><span lang=HE dir=RTL
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ו</span><span
-dir=LTR></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
-dir=LTR></span> covered both conjunctive and adversative relationships. Its
-closest equivalent tended to pick up that same flexibility more often perhaps
-than Greek itself would have shown.</span></p>
+<b>26</b>:60; Mark <b>12</b>:10; <b>14</b>:55; Luke <b>18</b>:2; <b>19</b>:48; <b>20</b>:19;
+<b>21</b>:18; <b>24</b>:11; Luke <b>15</b>:16; John<b> 1</b>:6; <b>7</b>:28,
+34; <b>8</b>:52;<b> 9</b>:3; <b>14</b>:22; <b>17</b>:11; <b>20</b>:14; Acts<b>
+7</b>:5, 9; <b>10</b>:38; 1 Corinthians <b>13</b>:2, 3. Adversative </span><span
+lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>καί</span><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
+comes into the gospels especially; perhaps the impulse to use it that way
+originated—as did several tendencies of New Testament Greek—from the
+Hebrew-speaking background of its writers. The Hebrew inseparable prefixed
+conjunction </span><span lang=HE dir=RTL style='font-size:12.0pt;line-height:
+115%;font-family:"Times New Roman",serif'>ו</span><span dir=LTR></span><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
+dir=LTR></span> covered both conjunctive and disjunctive relationships. Its
+closest equivalent tended to pick up that same flexibility more often than
+Greek itself would have shown.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and
-it came to pass</span></i><span style='font-size:12.0pt;line-height:115%;
+it came to pass that</span></i><span style='font-size:12.0pt;line-height:115%;
 font-family:"Times New Roman",serif'> generally omitted as wordy and
 unnecessary. The construction represents the Hebrew </span><span lang=HE
 dir=RTL style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>ויהי
 ו</span><span dir=LTR></span><span style='font-size:14.0pt;line-height:115%;
 font-family:"Times New Roman",serif'><span dir=LTR></span>,</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-which Greek covers somewhat artificially with </span><span lang=EL
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>καὶ</span><span
+which Greek covers somewhat artificially—mostly in Luke—with </span><span
+lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>καὶ</span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ἐγένετο</span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>+
-preposition + infinitive, or some other run-up to the main clause. Normal
-English also does not have an expression like the Hebrew one.</span></p>
+preposition + infinitive, or some other run-up to the main clause in major
+breaks: </span><span lang=EL style='font-size:12.0pt;line-height:115%;
+font-family:"Times New Roman",serif'>Μ</span><span style='font-size:12.0pt;
+line-height:115%;font-family:"Times New Roman",serif'>ark <b>2</b>:23; Luke <b>3</b>:21;
+<b>5</b>:1, 12, 17; <b>6</b>:1, 6, 12; <b>7</b>:11; <b>8</b>:1, 22; <b>9</b>:18,
+[28], 51; <b>14</b>:1;<b> 17</b>:11. Normal English also lacks an expression
+like the Hebrew one.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -9403,7 +8507,14 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]
 <i>gospel</i> <i>that’s not really</i> another [</span><span lang=EL
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ἄλλος</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]
-<i>gospel at all</i>.”</span></p>
+<i>gospel at all</i>.” Also, in Jude 7 <i>“another flesh in kind”</i> fits with
+the homosexual sin that Jude references: <i>“Sodom and Gomorrah and the cities
+around them lived immorally, going after different flesh </i>[é</span><span
+lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>τέρας</span><span
+lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
+</span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>σαρκὸς</span><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]<i>”</i>
+(CV).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -9429,9 +8540,9 @@ pronoun in place of –<i>one</i> indefinite relative</span></p>
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>arise</span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>    often
-omitted when it introduces an action and the actor is not actually seated or
-lying down. It has the force of a Hebraism for ingressive action: Matthew <b>2</b>:7
-(cp. 14); Mark <b>10</b>:1; <b>7</b>:24</span></p>
+omitted when it introduces an action and the actor is not seated or lying down.
+It has the force of a Hebraism for ingressive action: Matthew <b>2</b>:7 (cp.
+14); Mark <b>10</b>:1; <b>7</b>:24</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -9473,8 +8584,8 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><s
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>baptize/baptism</span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-(a) used as loan words in most cases because they seem to label the act more
-than its action </span></p>
+(a) used in English as loan words in most cases because they seem to label the
+act more than its action   </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -9487,7 +8598,7 @@ Luke <b>3</b>:16<sup>2</sup>; John <b>1</b>:26, 33; Acts <b>1</b>:5<sup>2</sup>;
 <b>11</b>:16<sup>2</sup>. Paul tells Timothy to <i>immerse</i> himself in the
 use of his spiritual gift (1 Timothy <b>4</b>:15). It seemed advisable to use <i>immerse</i>
 also in the account of Philip’s baptizing the Ethiopian eunuch, where the form
-of the action is more evident (Acts <b>8</b>:38). Mark comments as well in 7:4
+of the action is more evident (Acts <b>8</b>:38). Mark comments as well in<b> 7</b>:4
 about the purification customs of the Jews and their immersing pots, <i>etc.</i>
 <i>Wash</i> might have served in Mark <b>7</b>:4b if the writer is thinking of
 these as lustrations.</span></p>
@@ -9576,7 +8687,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>be
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 often dropped as a subordinating conjunction. In English a hearer naturally
 takes the following clause as a reason for the preceding one when cause-effect,
-purpose-result fits the context: Matthew <b>4</b>:17; Luke<b> 6</b>:20-21,
+purpose-result fits the flow of thought: Matthew <b>4</b>:17; Luke<b> 6</b>:20-21,
 24-25; 1 Corinthians <b>2</b>:14; <b>3</b>:13.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
@@ -9597,8 +8708,8 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>be
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 replaced with <i>in front of</i> when indicating position rather than time. A
 positional use of <i>before</i> seems to appear less frequently in modern
-English usage. <i>In front of</i> translates </span><span lang=EL
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ἔμπροσθεν</span><span
+English. <i>In front of</i> translates </span><span lang=EL style='font-size:
+12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ἔμπροσθεν</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
 </span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ἐνώπιον</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
@@ -9606,17 +8717,17 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
 and </span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:
 "Times New Roman",serif'>πρό</span><span style='font-size:12.0pt;line-height:
-115%;font-family:"Times New Roman",serif'> in positional usages. A hearer first
-thinks of <i>before</i> as a time word, and then has to adjust to take it as a
-position word when the sentence proceeds as a position statement.</span></p>
+115%;font-family:"Times New Roman",serif'>. A hearer first thinks of <i>before</i>
+time, and then has to adjust to a position word when the sentence proceeds as a
+position statement.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>began</span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 usually omitted because the New Testament has such a propensity for indicating
-the beginning of an action. English usually omits making a point of that fact,
-and lets the reader infer it. Note above the similarity with the use of <i>arise</i>.</span></p>
+the beginning of an action. English usually omits making a point of that and
+lets the reader infer it. Note above similarly with the word <i>arise</i>.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -9644,7 +8755,7 @@ and </span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>interjections
-generally have been omitted</span></p>
+generally fall out of the translation</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -9652,7 +8763,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>be
 </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(a)
 <i>in the name of him </i>shortened to “<i>believe <u>in</u> him”</i>: John<b>
 1</b>:12; <b>3</b>:15, 16, 18;<b> 2</b>:23). <i>The name of</i> is Hebrew idiom
-for noting identity, something not considered necessary in English. </span></p>
+noting identity, something not considered necessary in English. </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:.5in'><span style='font-size:
@@ -9685,8 +8796,8 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(b
 margin-left:.5in;text-align:justify;text-indent:-.5in'><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        (c)
 <u>dear</u> (Mark <b>12</b>:6; Luke <b>20</b>:13; Ephesians <b>6</b>:21; <b>1</b>:6;
-Colossians 1:7, 13; <b>4</b>:7, 9; 1 Thessalonians <b>2</b>:8; 2 Timothy<b> 1</b>:2;
-Philemon 16; 2 Peter <b>3</b>:15)</span></p>
+Colossians<b> 1</b>:7, 13; <b>4</b>:7, 9; 1 Thessalonians <b>2</b>:8; 2 Timothy<b>
+1</b>:2; Philemon 16; 2 Peter <b>3</b>:15)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><span style='font-size:
@@ -9761,8 +8872,8 @@ lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",s
 </span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>πρεσβύτερος</span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>interchangeably.
-(Cp. also Acts <b>20</b>:17 + 28 for the synonymy of those terms, even though
-we have used <i>oversee</i> in Acts <b>20</b>:28.)</span></p>
+Cp. also Acts <b>20</b>:17 + 28 for the synonymy of those terms, even though we
+have used <i>oversee</i> in Acts <b>20</b>:28.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -9780,7 +8891,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>bl
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:.5in'><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(b)<i> insult,
-rail out at, slander</i>, or equivalent expressions when directed at people</span></p>
+rail out at, slander</i>, or equivalents when directed at people</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -9854,7 +8965,7 @@ Thessalonians<b> 4</b>:13;<b> 5</b>:4; Hebrews <b>3</b>:12; James <b>1</b>:2; <b
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>as
-a nod to inclusive speech, the following: </span></p>
+a nod to neutral speech, the following: </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:.5in'><span style='font-size:
@@ -9876,7 +8987,7 @@ Thessalonians <b>3</b>:6; 1 John <b>3</b>:14, 16; <b>4</b>:20<sup>2; </sup></spa
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        (d)
-<u>church</u>: Acts 16:40; </span></p>
+<u>church</u>: Acts <b>16</b>:40; </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:.5in'><span style='font-size:
@@ -9938,8 +9049,8 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 In English, <i>can</i> has pretty well taken over the duties of <i>may</i> when
 meaning <i>allow</i>: <i>“Yes, you can go.” May</i> applies to contingent
 action: <i>“That may happen if you don’t take your medicine,”</i> a situation
-where can often appears. Most English speakers no longer limit <i>can</i> to <i>be
-able</i>. </span></p>
+where <i>can</i> often appears. Most English speakers no longer limit <i>can</i>
+to <i>be able</i>. </span></p>
 
 <p class=MsoNormal style='margin-top:12.0pt;margin-right:0in;margin-bottom:
 0in;margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -9957,10 +9068,10 @@ has a Greek singular </span><span lang=EL style='font-size:12.0pt;line-height:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, especially if
 followed by a noun: <i>“He saw a certain poor widow”</i> becomes <i>“He saw a
 poor widow”</i> (Luke <b>21</b>:2, <i>A certain</i> (<i>widow</i>) seems
-redundant; <i>“certain” </i>can sound like the opposite of indefinite. In such
-cases, the wording becomes <i>a </i>(<i>____</i>); note Luke <b>15</b>:11; <b>18</b>:2;
-<b>23</b>:19. With plural </span><span lang=EL style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>τινες</span><span
+redundant; <i>“certain” </i>can even sound like the opposite of indefinite. In
+such cases, the wording becomes <i>a </i>(<i>____</i>); note Luke <b>15</b>:11;
+<b>18</b>:2; <b>23</b>:19. With plural </span><span lang=EL style='font-size:
+12.0pt;line-height:115%;font-family:"Times New Roman",serif'>τινες</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
 we have reverted to <i>some</i>.</span></p>
 
@@ -10057,10 +9168,10 @@ Act <b>15</b>:36: Salamis, Paphos, Antioch of Pisidia, Iconium, Lystra, Derbe.
 We have kept <i>Bethlehem</i> as a “city” because of the familiar phrase <i>city
 of David</i>, though it probably would not have qualified as a city from the
 standpoint of size. The judgment call here is tentative because knowing the
-population for ancient places is difficult. A number of New Testament locations
+population of ancient places is difficult. A number of New Testament locations
 are not called </span><span lang=EL style='font-size:12.0pt;line-height:115%;
 font-family:"Times New Roman",serif'>πόλις</span><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>; so the issue is moot
+line-height:115%;font-family:"Times New Roman",serif'>, so the issue is moot
 for them.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
@@ -10155,7 +9266,7 @@ meaning that plays on the word picture in </span><span lang=EL
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ὁμολογέω</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
 <i>to say the same thing</i>: “They <i>regarded themselves as</i> foreigners
-and temporary residents on earth” (Hebrews <b>11</b>:13)</span></p>
+and temporary residents on earth” (Hebrews <b>11</b>:13).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:.5in'><span style='font-size:
@@ -10207,7 +9318,7 @@ margin-left:.5in;text-align:justify'><span style='font-size:12.0pt;line-height:
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>day</span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      (a)
-<i>day</i> for a twenty-four hour period</span></p>
+<i>day</i> for a twenty-four-hour period</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            (b)
@@ -10231,8 +9342,8 @@ John traces a series of days in <b>1</b>:19-28, <b>1</b>:29 (<i>“the next day�
 then <b>2</b>:1 says <i>“on the third day.”</i> <i>CV</i> has taken <i>“the
 third day”</i> as after the immediately previous “morrow/next day” (<b>1</b>:43)
 rather than as a third day in sequence with the immediately preceding two “next
-days” in <b>1</b>:35 and 43. (a)The location of Bethany (Bethabara?) beyond the
-Jordan River is unknown, but of the minimum five days in <b>1</b>:19-<b>2</b>:1,
+days” in <b>1</b>:35 and 43. (a) The location of Bethany (Bethabara?) beyond
+the Jordan River is unknown, but of the minimum five days in <b>1</b>:19-<b>2</b>:1,
 the middle day seems still to be at Bethany because in <b>1</b>:43 Jesus has
 not left for Galilee. It might be a stretch to walk from Bethany to Cana in two/three
 days while stopping by Nazareth with Peter, Andrew, Phillip, and Nathaniel on
@@ -10287,13 +9398,13 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify'><span style='font-size:12.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>(b) <i>open country </i>for an
-unpopulated, sparsely populated, or remote area as “deserted of people</span></p>
+unpopulated, sparsely populated, or remote area as “deserted of people”</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>devil</span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>    only
-as a reference to Satan; there are many demons but one devil</span></p>
+as a reference to Satan; there are many demons but one devil.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -10311,7 +9422,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>dr
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>    usually
 omitted in the expression <i>eat and drink</i>: Matthew <b>6</b>:25; 1
 Corinthians <b>9</b>:4; <b>11</b>:22. In English, <i>eating</i> includes
-whatever is part of the meal</span></p>
+whatever is part of the meal.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -10397,7 +9508,7 @@ margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>evil
                  </span></i><span style='font-size:12.0pt;line-height:115%;
 font-family:"Times New Roman",serif'>In the model prayer (Matthew <b>6</b>:9-13),
-we have said <i>“deliver us from the evil one</i> [</span><span lang=EL
+we have said, <i>“Deliver us from the evil one</i> [</span><span lang=EL
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ἐκ</span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>τοῦ</span><span
@@ -10408,12 +9519,12 @@ rather than <i>“from evil.”</i> This first alternative takes it as a masculi
 substantive on the analogy of Matthew <b>13</b>:19, <i>“the evil one comes and
 snatches it away”</i>; note also <i>the evil one </i>in Matthew <b>5</b>:37; <b>13</b>:38;
 John <b>17</b>:15; Ephesians <b>6</b>:16 (<i>“the flaming arrows from the evil
-one”</i>), 2 Thessalonians<b> 3</b>:3.  </span></p>
+one”</i>); 2 Thessalonians<b> 3</b>:3.  </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:.5in'><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 John <b>5</b>:18-20
-makes it clear that the phrase means <i>“the evil one” </i>rather the <i>“evil,”</i>
+makes it clear that the phrase means <i>“the evil one” </i>rather than <i>“evil,”</i>
 because the texts goes on to say that the whole world lies in <i>“the evil
 one.” </i>We would not expect the text to say that the whole world lies in <i>“evil.”</i>
 Besides, the passage goes on to contrast the world with us who lie in <i>“the
@@ -10451,7 +9562,7 @@ Matthew <b>20</b>:34 (two blind men at Jericho)</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        (c)
-<i>“in the eyes of,”</i> an example of body-part speaking, usually replaced
+<i>“in the eyes of,”</i> an example of body-part language, usually replaced
 with a circumlocution if indicating someone’s way of looking at
 something/someone; similarly, <i>“open the eyes of”</i> (caused to see as with
 the man born blind in John <b>9</b>:30); <i>“eye fell on”</i>; <i>“lifted up
@@ -10483,7 +9594,7 @@ point is that the decisive act in salvation lies in divine choice rather than
 in human effort (whether formal, interpersonal, or behavioral). His reasoning
 rests on Habakkuk <b>2</b>:4 and its terminology. As in all cases of renewing
 broken interpersonal relationships, the one “saved” from the alienation
-(lostness) can only “trust” the other to forgive and receive back into the
+(lostness) can only “trust” the other to forgive and accept back into the
 relationship (reconciliation). In that light, our translation of Habakkuk <b>2</b>:4
 as worded in Romans <b>1</b>:17 and Galatians <b>3</b>:11 is, <i>“A good person
 will have life by trusting.”</i> Hebrews <b>10</b>:38 reads, <i>“My good person
@@ -10500,8 +9611,9 @@ than relationship is the topic. James <b>2</b>:14-26 demonstrates this usage of
 </span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>πίστις</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>/</span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>πιστεύω</span><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
-something even demons do. We believe ideas; we trust persons.</span></p>
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
+as something even demons do. We believe ideas; we trust persons (or <i>believe
+in</i> them).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:.5in'><span style='font-size:
@@ -10550,7 +9662,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> �
 margin-left:.5in;text-align:justify;text-indent:.5in'><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(b) covered by
 less extreme terms like <i>respect</i> (Acts <b>9</b>:31) or <i>take heed</i>
-(1 Tomothy <b>5</b>:20). Like <i>hate</i> and <i>rule</i>, the word </span><span
+(1 Tomothy <b>5</b>:20). Like <i>hate</i> and <i>rule</i>, </span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>φόβος</span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>covers
@@ -10573,7 +9685,7 @@ apprehension.</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:.5in'><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>See also comments
-on “double entry” herein.</span></p>
+on “double entry” in these notations.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -10684,7 +9796,7 @@ the flesh</span></i><span style='font-size:12.0pt;line-height:115%;font-family:
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“your
 masters according to the flesh”</span></i><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'> (Ephesians<b> 6</b>:5).
-His reference seems clear enough without the added phrase.</span></p>
+His reference seems clear enough without the phrase.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -10692,7 +9804,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>NOTE:
 Finding a replacement for “flesh” is especially difficult because Paul uses
 that “body-part” term as a code word for self-centered living (Romans<b> 8</b>:1-19).
-To satisfy the “flesh,” something must be taken into it. The words </span><i><span
+To satisfy the “flesh,” we take something into it. The words </span><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>body</span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 and </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>meat</span></i><span
@@ -10738,7 +9850,7 @@ lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",s
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(<i>for</i>)
 often carries an illative sense rather than a logical or causal sequence. The
-wording after <i>for</i> expands on the previous point rather than giving a
+wording after <i>for</i> expands on the previous point rather than gives a
 reason or cause for it. Aside from translating classical works, English does
 not use <i>for</i> as illative; it is reserved for use as a preposition: <i>“He
 did it <u>for</u> me.”</i></span></p>
@@ -10812,7 +9924,7 @@ margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>fruit
     </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(a)
 used only for what trees produce or some plant item that is sweet (There is a
-more technical use, but we have dispensed with that usage.)</span></p>
+more technical use, but we have dispensed with that usage herein.)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify'><span style='font-size:12.0pt;line-height:
@@ -10910,16 +10022,16 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(b
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gentiles</span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
-In the New Testament, <i>Gentiles</i> regularly refers to non-Jews. It is
-something of a specialization of the Hebrew word for <i>nations</i> in the Old
-Testament. Only in New Testament citations of Old Testament texts where <i>nations</i>
-occurs does <i>Gentiles</i> show up as the Old Testament translation of </span><span
+In the New Testament, <i>Gentiles</i> regularly refers to non-Jews. It
+specializes the Hebrew word for <i>nations</i> in the Old Testament. Only in
+New Testament citations of Old Testament texts where <i>nations</i> occurs does
+<i>Gentiles</i> show up as the Old Testament translation of </span><span
 lang=HE dir=RTL style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>גוֹי</span><span
 dir=LTR></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span
 dir=LTR></span> (to show OT-NT connection): Deuteronomy <b>32</b>:43; Psalm <b>2</b>:1;
 <b>18</b>:49; <b>117</b>:1; Isaiah <b>9</b>:1; <b>11</b>:10; <b>42</b>:1, <b>49</b>:6;
 Amos <b>9</b>:12. If <i>nations</i> does not contrast with Jews, it can carry
-it elemental meaning; otherwise <i>Gentiles</i> is its natural translation.</span></p>
+it elemental meaning; otherwise, <i>Gentiles</i> is its natural translation.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -10982,9 +10094,9 @@ ingressive marker: <i>“(Go) tell that old fox”</i> (Luke <b>13</b>:32)</span
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify'><span style='font-size:12.0pt;line-height:
-115%;font-family:"Times New Roman",serif'>(c) <i>“go __” </i>retained
-especially if movement is involved: Matthew <b>5</b>:24; <b>8</b>:21;<b> 9</b>:13;
-<b>13</b>:28; <b>18</b>:15; <b>19</b>:21; <b>21</b>:28; <b>28</b>:10, 19; Mark <b>6</b>:37,
+115%;font-family:"Times New Roman",serif'>(c) <i>“go __” </i>retained if
+movement is involved: Matthew <b>5</b>:24; <b>8</b>:21;<b> 9</b>:13; <b>13</b>:28;
+<b>18</b>:15; <b>19</b>:21; <b>21</b>:28; <b>28</b>:10, 19; Mark <b>6</b>:37,
 38; <b>16</b>:7</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
@@ -11068,7 +10180,7 @@ margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(b)
 the translation for four times in Acts where Luke uses the phrase </span><span
-lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>φωβούμενοι</span><span
+lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>φοβούμενοι</span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>τὸν</span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
@@ -11092,7 +10204,7 @@ line-height:115%;font-family:"Times New Roman",serif'>+</span></sup><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Luke
 <b>20</b>:16; Romans<b> 3</b>:4, 6, 31; <b>6</b>:2, 15; <b>7</b>:7, 13; <b>9</b>:14;
 <b>11</b>:1, 11; 1 Corinthians <b>6</b>:15; Galatians <b>2</b>:17;<b> 3</b>:21.
-Equals the <i>God forbid </i>in older translations</span></p>
+</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -11102,8 +10214,10 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>εὐαγγέλιον</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 and </span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:
-"Times New Roman",serif'>εὐαγγελίζομαι</span><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'> are a <u>label</u> for
+"Times New Roman",serif'>εὐαγγελίζομαι</span><span lang=EL style='font-size:
+12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><u><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>label</span></u><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 the Christian message, and<i> good news</i> when </span><span lang=EL
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>εὐαγγέλιον</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
@@ -11123,10 +10237,13 @@ Colossians <b>1</b>:23; 1 Thessalonians <b>1</b>:5; <b>2</b>:2, 4, 8, 9; <b>3</b
 Peter <b>4</b>:6, 17; Revelation <b>14</b>:6, and other texts. </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;text-align:justify'><span style='font-size:12.0pt;line-height:
-115%;font-family:"Times New Roman",serif'>In Galatians<b> 1</b>:6-12 we
-retained <i>gospel</i> throughout; <i>another kind of “good news”</i> would not
-fit the situation very well.</span></p>
+margin-left:.5in;text-align:justify;text-indent:.5in'><span style='font-size:
+12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In Galatians<b> 1</b>:6-12
+we retained <i>gospel</i> throughout; <i>another kind of “good news”</i> would
+not fit the situation very well. <i>Good news</i> appears in Mark <b>1</b>:1; <b>10</b>:29;
+<i>work of the gospel </i>in 2 Corinthians<b> 8</b>:18; Philippians <b>4</b>:3;
+<i>gospel message</i> in Philippians <b>1</b>:5, 7; Colossians <b>1</b>:5; 2
+Timothy <b>2</b>:8.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>grave</span></i><span
@@ -11162,8 +10279,8 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>gr
 margin-left:.5in;text-align:justify'><span style='font-size:12.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>(b) not used for size (except
 Revelation <b>20</b>:11); replaced by <i>big</i>, <i>large</i>, <i>huge</i>,
-even <i>tremendous</i> to describe the big herd of 2,000 pigs (Matthew <b>8</b>:30
-and parallels)!</span></p>
+even <i>tremendous</i> to describe the big herd of 2,000 pigs in Matthew <b>8</b>:30
+and parallels!</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -11224,7 +10341,7 @@ or <i>neglect</i> can work occasionally (as in Ephesians <b>5</b>:29). </span></
 margin-left:.5in;text-align:justify;text-indent:.5in'><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>NOTE: This kind of
 weakening, strengthening, and bending of terms comes from the Hebrew tendency
-to use words for what is a less degree of the same thing, what leads to the
+to use words for what is a lesser degree of the same thing, what leads to the
 same thing, what grows out of the same thing, what is like the same thing.
 Jesus demonstrates the principle in the Sermon on the Mount when he “enlarges”
 the murder prohibition to include hate, and the adultery prohibition to include
@@ -11256,9 +10373,9 @@ the translation for all the several other uses of </span><span lang=EL
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>πνεῦμα</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 that do not refer to deity: spirit <i>vs</i>.<i> letter</i>, spirit as <i>part
-of the human make-up</i>; <i>attitude</i>, <i>wind</i>, <i>breath</i>. The <i>it</i>
-pronoun we have used as well for <i>demons</i> with their depersonalizing
-effects on the ones they possessed; we have applied <i>he</i> to God and angels</span></p>
+of the human make-up</i>; <i>attitude</i>, <i>wind</i>, <i>breath</i>. We have
+used <i>it</i> as well for <i>demons</i> with their depersonalizing effects on
+the ones they possessed; <i>he</i> applies to God and angels</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>head
@@ -11286,7 +10403,7 @@ only for hearing a sound , not for listening or obeying (<i>heeding</i>)</span><
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>heart    </span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>replaced
-with <i>mind</i> in Mark<b> 8</b>:17, with <i>to herself</i> in Revelation<b>
+with <i>mind</i> in Mark<b> 8</b>:17 and with <i>to herself</i> in Revelation<b>
 18</b>:4</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
@@ -11304,7 +10421,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>)
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>unless
-translated sky, always rendered <i>heaven</i> in the singular on the
+translated <i>sky</i>, always rendered <i>heaven</i> in the singular on the
 supposition that the Greek plural reflects the Hebrew word, which is a dual
 form.</span></p>
 
@@ -11328,13 +10445,13 @@ Acts <b>17</b>:24; 2 Peter <b>3</b>:7, 13; Revelation<b> 20</b>:11; <b>21</b>:1<
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              
-The uncertainty between option (a) and (b) can be difficult to overcome. In
-Colossians <b>1</b>:16 and 20, for example, do not seem to use <i>heaven </i>the
-same way though they are near each other, It seems surprising to say that
-Christ <i>“created everything in heaven(s)”</i> (<b>1</b>:16) if it means God’s
-dwelling place; but in the second text it seems surprising to speak of Christ’s<i>
-“making peace with things in the sky”</i> (<b>1</b>:20). So <i>CV </i>has <i>sky</i>
-in the first (with Christ as firstborn over all creation, which he could pre-exist)
+The uncertainty between option (a) and (b) can be difficult to overcome. Colossians
+<b>1</b>:16 and 20, for example, do not seem to use <i>heaven </i>the same way though
+they are near each other, It seems surprising to say that Christ <i>“created
+everything in heaven(s)”</i> (<b>1</b>:16) if it means God’s dwelling place;
+but in the second text it seems surprising to speak of Christ’s<i> “making
+peace with things in the sky”</i> (<b>1</b>:20). So <i>CV </i>has <i>sky</i> in
+the first (with Christ as firstborn over all creation, which he could pre-exist)
 and<i> heaven </i>in the second. Perhaps <i>heaven</i> refers to everything
 that is not earth, whether sky or Paul’s “third heaven” (2 Corinthians <b>12</b>:2);
 so the referents are not distinguishable terminologically but by context—with
@@ -11435,7 +10552,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ma
 John<b> 4</b>:22, 24, 26, 27; <b>6</b>:39, 46; <b>10</b>:20; <b>11</b>:25, 39; <b>15</b>:16;
 <b>16</b>:13; Acts <b>13</b>:33; <b>17</b>:31<sup>2</sup>; <b>21</b>:28; Romans
 <b>1</b>:20; <b>2</b>:6; <b>5</b>:11; 2 Corinthians <b>1</b>:19; Philippians<b>
-3</b>:26<sup>2</sup>; Colossians <b>1</b>:8; 2 Timothy <b>1</b>:11. 14; 1 Peter
+3</b>:26<sup>2</sup>; Colossians <b>1</b>:8; 2 Timothy <b>1</b>:11, 14; 1 Peter
 <b>2</b>:21; <b>3</b>:22; 2 Peter <b>1</b>:9; 1 John <b>4</b>:13, 20<sup>2</sup>;
 Revelation <b>22</b>:12.</span></p>
 
@@ -11580,7 +10697,7 @@ lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",s
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>)
 in the other gospels. Such frequent usage “wears the edge off” of <i>immediately</i>
 and reduces it to something like <i>then</i> or <i>next</i> in what the writer wants
-to tell</span></p>
+to tell.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -11594,19 +10711,19 @@ lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",s
 </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>occurs
 only twice in the New Testament—here and in Matthew <b>23</b>:26. Knowing what
 the “kingdom” turned out to be, we have read back into Jesus’ wording the
-character of the “kingdom” as we understand it. It has a non-locational nature<i>—“not
-here or there”</i>; it is held together by the <i>“bonds of love</i>,<i>”</i>
-not by geography, nationality, race, or some other non-interpersonal characteristic;
-it is not spread or established by military activity (John <b>18</b>:36) but by
-influence (Matthew <b>28</b>:18-20), and it is eternal and timeless (2 Peter<b>
-1</b>:11).</span></p>
+character of the “kingdom” as we understand it: <i>“The kingdom of God is
+interpersonal.”</i> It has a non-locational nature<i>—“not here or there”</i>;
+it is held together by the <i>“bonds of love</i>,<i>”</i> not by geography,
+nationality, race, or some other non-interpersonal characteristic; it is not established
+or spread by military means (John <b>18</b>:36) but by influence (Matthew <b>28</b>:18-20),
+and it is eternal and timeless (2 Peter<b> 1</b>:11).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>in
 order that + clause</span></i><span style='font-size:12.0pt;line-height:115%;
 font-family:"Times New Roman",serif'>    replaced by an infinitive phrase to
-indicate purpose whenever possible: “I’m saying this <i>to benefit</i> you” (1
+indicate purpose whenever possible: <i>“I’m saying this to benefit you”</i> (1
 Corinthians <b>7</b>:35)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
@@ -11624,12 +10741,12 @@ part of a larger group (Mark <b>15</b>:7). Their designation </span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>λῃστής</span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>can
-be thief, but in this circumstance something more serious must be involved than
-stealing. Murder was involved for Barabbas in their endeavors (Mark <b>15</b>:7;
-Luke <b>23</b>:19, 25; Acts <b>3</b>:14). An insurrectionist is someone
-involved in trying to overthrow the government or to incite riot. In that
-endeavor, murder fits and would be a more likely crime for carrying the death
-penalty, especially with the Roman government.</span></p>
+mean thief, but in this circumstance something more serious must be involved.
+Murder was involved for Barabbas in their endeavors (Mark <b>15</b>:7; Luke <b>23</b>:19,
+25; Acts <b>3</b>:14). An insurrectionist is someone involved in trying to
+overthrow the government or to incite riot. In that endeavor, murder fits and
+would be a more likely crime for carrying the death penalty, especially with
+the Roman government.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -11780,9 +10897,9 @@ Luke <b>18</b>:25 </span></p>
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>lampstand</span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>  
-<i>lampstand</i> in </span><sup><span style='font-size:14.0pt;line-height:115%;
-font-family:"Times New Roman",serif'>+</span></sup><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>Hebrews <b>9</b>:2;
+(a) <i>lampstand</i> in </span><sup><span style='font-size:14.0pt;line-height:
+115%;font-family:"Times New Roman",serif'>+</span></sup><span style='font-size:
+12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hebrews <b>9</b>:2;
 Revelation <b>1</b>:12, 20; <b>2</b>:1, 5; <b>11</b>:4</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
@@ -11810,10 +10927,10 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(b
 </i>translated <i>the Law</i> as an <u>identity</u>—not in contrast to
 faith-grace—but as if in contrast to another law. Galatians<b> 3</b>:15-26 is a
 text where we have mixed <i>law</i> (kind of thing) and <i>the Law</i> (the
-Mosaic Law as an identity). The Mosaic Law, of course, has the characteristics
-of law as such. In Paul’s comments, <i>the Law</i> is <i>CV</i>’s rendering in<b>
-3</b>:17, 19 and <i>law</i> in <b>3</b>:18, 21, 23 because Paul is concerned
-with the<u> kind of thing</u> law is in contrast to grace/faith/promise/give.</span></p>
+Mosaic Law as an identity). The Mosaic Law, of course, has the character of law
+as such. In Paul’s comments, <i>the Law</i> is <i>CV</i>’s rendering in<b> 3</b>:17,
+19 and <i>law</i> in <b>3</b>:18, 21, 23 because Paul is concerned with the<u>
+kind of thing</u> law is in contrast to grace/faith/promise/give.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><span style='font-size:
@@ -11840,7 +10957,7 @@ margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>leaven</span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>  replaced
 with <i>yeast </i>wherever possible (except for 1 Corinthians <b>5</b>:8 and
-references to the standardized title Feast of Unleavened Bread)</span></p>
+references to the standardized title Festival of Unleavened Bread)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -11885,6 +11002,16 @@ retained as a preposition: <i>“like a mustard seed” </i>(Matthew<b> 13</b>:3
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>little
+faith</span></i><span style='font-size:12.0pt;line-height:115%;font-family:
+"Times New Roman",serif'>        <i>CV</i> says, <i>“you with little faith”</i>
+in all five cases of </span><span lang=EL style='font-size:12.0pt;line-height:
+115%;font-family:"Times New Roman",serif'>ὀλιγόπιστος</span><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>:
+Matthew <b>6</b>:20; <b>8</b>:26; <b>14</b>:31; <b>16</b>:8; Luke <b>12</b>:28.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>lo</span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>         usually
 omitted along with <i>behold</i> as translations of </span><span lang=EL
@@ -11893,8 +11020,8 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 and </span><span lang=EL style='font-size:12.0pt;line-height:115%;font-family:
 "Times New Roman",serif'>ἴδε</span><span style='font-size:12.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>. English often dispenses with
-“attention fixers,” perhaps instead using “look” (I want to help you, but . . .
-”). Note <i>Look</i> in John <b>19</b>:5, 14.</span></p>
+“attention fixers,” perhaps instead using <i>“look”</i> (<i>“I want to help
+you, but . . . ”</i>). Note <i>Look</i> in John <b>19</b>:5, 14.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -11966,11 +11093,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ma
 <b>25</b>:11; <b>27</b>:63; Luke<b> 2</b>:9a; <b>13</b>:8, 25; <b>19</b>:25;
 John <b>20</b>:15; <b>12</b>:21; Acts <b>9</b>:5 (cp. <b>22</b>:10); <b>10</b>:4
 (Cornelius to the angel), 14; <b>11</b>:8; 1 Peter <b>3</b>:6 (Sarah to
-Abraham); John to one of the twenty-four elders in Revelation <b>7</b>:14</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;text-align:justify;text-indent:-.5in'><span style='font-size:
-12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Tying
+Abraham); John to one of the twenty-four elders in Revelation <b>7</b>:14. Tying
 capitalization to deity creates the same problem that shows up with <i>“worship”
 vs</i>. <i>“pay homage, bow down to.” </i>See below under <i>worship</i>. </span></p>
 
@@ -11981,12 +11104,11 @@ of lords </span></i><span style='font-size:12.0pt;line-height:115%;font-family:
 "Times New Roman",serif'>Because of its familiarity, <i>CV</i> keeps the
 traditional expression that is always coupled with “King of kings” even though
 the Hebrew idiom does not have a close English parallel. “<u>X</u> of <u>x</u>”
-is a kind of superlative reference, meaning “<i>the Lord/King over every other
-lord/king</i>,<i>” “the one with the highest ranking among lords/kings.”</i>
-See </span><sup><span style='font-size:14.0pt;line-height:115%;font-family:
-"Times New Roman",serif'>+</span></sup><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>1 Timothy <b>6</b>:15;
-Revelation <b>17</b>:14; <b>19</b>:16.</span></p>
+is a kind of superlative, meaning “<i>the Lord/King over every other lord/king</i>,<i>”
+“the one with the highest ranking among lords/kings.”</i> See </span><sup><span
+style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>+</span></sup><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>1
+Timothy <b>6</b>:15; Revelation <b>17</b>:14; <b>19</b>:16.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -12189,9 +11311,9 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>:2
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Lord</span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>    kept
-in c &amp; lc when referring to Jesus by the authors of the New Testament books
-or as expressed by Jesus’ disciples to him: Matthew <b>8</b>:25; <b>14</b>:28;
-1 Timothy <b>1</b>:14, and the majority of New Testament references.</span></p>
+in c &amp; lc when referring to Jesus by the authors of New Testament books or
+as expressed by Jesus’ disciples to him: Matthew <b>8</b>:25; <b>14</b>:28; 1
+Timothy <b>1</b>:14, and the majority of New Testament references.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><span style='font-size:
@@ -12218,11 +11340,11 @@ of a slave (Matthew <b>6</b>:24; <b>10</b>:24, 25; <b>13</b>:27; <b>18</b>:31; <
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        (d)
-<i>sir</i> by general audience member to Jesus and others: Matthew <b>8</b>:2,
-6, 8, 21, 25; <b>9</b>:28; <b>14</b>:28, 30; <b>15:</b>22, 25, 27; <b>16</b>:22;
-<b>25</b>:11, 22; Mark <b>7</b>:28; Luke<b> 14</b>:23; John <b>4</b>:11, 15,
-19, 49; <b>5</b>:7; <b>6</b>:34, 68; <b>12</b>:21; <b>20</b>:15; Acts <b>16</b>:30
-(<i>sirs</i>); Revelation <b>7</b>:14.</span></p>
+<i>sir</i> by an audience member to Jesus and others: Matthew <b>8</b>:2, 6, 8,
+21, 25; <b>9</b>:28; <b>14</b>:28, 30; <b>15:</b>22, 25, 27; <b>16</b>:22; <b>25</b>:11,
+22; Mark <b>7</b>:28; Luke<b> 14</b>:23; John <b>4</b>:11, 15, 19, 49; <b>5</b>:7;
+<b>6</b>:34, 68; <b>12</b>:21; <b>20</b>:15; Acts <b>16</b>:30 (<i>sirs</i>);
+Revelation <b>7</b>:14.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><span style='font-size:
@@ -12283,7 +11405,7 @@ retained when referring to a husband (</span><span lang=EL style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ἀνήρ</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>)
 and when in direct contrast to woman. When in contrast to God, animal, child,
-or idea, some kind of appropriate alternative comes into play for inclusive
+or idea, some kind of appropriate alternative comes into play for neutral
 language purposes; see next comments.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
@@ -12292,12 +11414,12 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(b)
 replaced by <i>a person</i>, <i>people</i>, indefinite pronouns (2 Corinthians <b>4</b>:6;
 Revelation <b>18</b>:23), <i>you </i>advisedly (John <b>11</b>:9-11),<i> they</i>
-advisedly (</span><span lang=EL style='font-size:12.0pt;line-height:115%;
-font-family:"Times New Roman",serif'>ἄνθρωπος</span><span style='font-size:
-12.0pt;line-height:115%;font-family:"Times New Roman",serif'>), <i>(hu)mankind</i>
-(John <b>1</b>:4; Acts <b>15</b>:17; <b>22</b>:15; Revelation <b>9</b>:15, 18,
-20), <i>fellow(s)</i> (Acts <b>16</b>:20, <i>etc.</i>), <i>servants</i> (3 John
-8).</span></p>
+advisedly (Luke <b>1</b>:59; <b>2</b>:23, </span><span lang=EL
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ἄνθρωπος</span><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>),
+<i>(hu)mankind</i> (John <b>1</b>:4; Acts <b>15</b>:17; <b>22</b>:15;
+Revelation <b>9</b>:15, 18, 20), <i>fellow(s)</i> (Acts <b>16</b>:20, <i>etc.</i>),
+<i>servants</i> (3 John 8).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><span style='font-size:
@@ -12378,7 +11500,7 @@ name of</i> shortens to <i>believe in</i>. </span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:.5in'><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(b) <i>Name</i>
-draws attention to “identity with”; so we have not removed the longer form in
+draws attention to “identity with,” so we have not removed the longer form in
 the Great Commission (Matthew <b>28</b>:18-20): Jesus charged the apostles with
 presenting the good news to people in every nation and identifying them with
 the Messiah. The same emphasis on identity comes with a longer wording of the
@@ -12389,9 +11511,9 @@ body of Christ (Acts<b> 2</b>:38-42). The baptizing in those texts was what the
 people were commanded to do as the manner of expressing their willingness to
 respond to God’s condition for his gifts (cp. Galatians<b> 6</b>:3, 27). A
 parallel example surfaces in Paul’s comment to the Corinthians: he was glad he had
-not baptize more people than he did, lest the critics in Corinth would claim he
-baptized into his own name (1 Corinthians<b> 1</b>:15). Cp. comments above on <i>for
-the forgiveness of sins</i>.</span></p>
+not baptized more people than he did, lest the critics in Corinth would claim
+he baptized into his own name (1 Corinthians<b> 1</b>:15). Cp. comments above
+on <i>for the forgiveness of sins</i>.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><span style='font-size:
@@ -12434,7 +11556,7 @@ margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>none</span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 can be treated as singular or plural. In Romans<b> 14</b>:7, for example, <i>CV</i>
-uses it as plural to conform to inclusive language: <i>“None of us live to
+uses it as plural to conform to neutrl language: <i>“None of us live to
 ourselves or die to ourselves,”</i> instead of <i>“None of us lives to himself
 . . .”</i></span></p>
 
@@ -12511,9 +11633,9 @@ margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>of</span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>         <i>CV
 </i>reduces the number of <i><u>of</u></i><u>’s</u> as much as possible because
-they can be too ambiguous. <i>Of</i> is the standard equivalent for the Greek
-genitive case when it ties one noun to another or indicates that part of the
-object is affected by the verb. We have supplied other, more specific
+they can be too ambiguous. <i>Of</i> is the most frequent equivalent for the
+Greek genitive case when it ties one noun to another or indicates that part of
+the object is affected by the verb. We have supplied other, more specific
 prepositions to satisfy English expectancy as per context and nature of the
 case.</span></p>
 
@@ -12572,16 +11694,22 @@ font-family:"Times New Roman",serif'> becomes <i>“spiritual unity”</i> (Ephe
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:.5in'><i><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“scheming
-of deceit”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:
-"Times New Roman",serif'> becomes <i>“deceitful scheming”</i> (Ephesians<b> 4</b>:14);</span></p>
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>noun
+typical/scheming of deceit”</span></i><span style='font-size:12.0pt;line-height:
+115%;font-family:"Times New Roman",serif'> becomes <i>“deceitful scheming”</i>
+(Ephesians<b> </b></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:1.0in;text-align:justify;text-indent:.5in'><b><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>4</span></b><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>:14);</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“sons
-of disobedience” becomes  disobedient people” </span></i><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(Ephesians<b>
-5</b>:6); </span></p>
+of disobedience” becomes disobedient people” </span></i><span style='font-size:
+12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(Ephesians<b> 5</b>:6);
+</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:.5in'><i><span
@@ -12589,6 +11717,13 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>�
 sword of the Spirit” </span></i><span style='font-size:12.0pt;line-height:115%;
 font-family:"Times New Roman",serif'>becomes <i>“a spiritual sword” </i>(Ephesians
 <b>6</b>:17);</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.5in;text-align:justify;text-indent:.5in'><i><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“scepter
+of righteousness” becomes “righteous scepter” </span></i><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(Hebrews
+<b>1</b>:8b);</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <i>“evil
@@ -12604,13 +11739,13 @@ hearer of forgetfulness”</span></i><span style='font-size:12.0pt;line-height:
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:.5in'><span style='font-size:
-12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <i>“</i>children
-of obedience” becomes <i>“obedient children”</i> (1 Peter <b>1</b>:14).</span></p>
+12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <i>“children of
+obedience”</i> becomes <i>“obedient children”</i> (1 Peter <b>1</b>:14).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:.5in'><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Note also Matthew <b>5</b>:22;
-Galatians <b>5</b>:22.</span></p>
+Galatians <b>5</b>:22; Colossians<b> 3</b>:6; Philippians <b>3</b>:21; Hebrews <b>1</b>:3.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify'><span style='font-size:12.0pt;line-height:
@@ -12632,7 +11767,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(o
 once and for all </span></i><span style='font-size:12.0pt;line-height:115%;
 font-family:"Times New Roman",serif'>to keep it as a time word distinguishable
 from number, from <i>one time vs. two</i>: Romans <b>6</b>:10; Hebrews <b>7</b>:29;
-<b>9</b>:12. 26; <b>10</b>:2; 1 Peter <b>3</b>:18; Jude 3. 5.</span></p>
+<b>9</b>:12, 26; <b>10</b>:2; 1 Peter <b>3</b>:18; Jude 3, 5.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -12649,7 +11784,7 @@ genitive means the second noun is another way of referring to the same referent
 as the first noun, not to a second thing. “<i>City of</i> __” affords an
 example: <i>city of Samaria, city of Thyatira, city of Lysea</i>. These phrases
 could be reduced to <i>Samaria, Thyatira, Lysea</i> if <i>city of</i> were not
-advisable to inform readers that these nouns were cities rather than, say,
+advisable for informing readers that these were cities rather than, say,
 provinces.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
@@ -12734,7 +11869,7 @@ intensive reflexive pronouns <i>your own</i>, <i>etc.</i> (</span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ἴδιος</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
 used for any person and number) are often reduced to a possessive adjective: <i>her/his
-own husband/wife</i> becomes <i>her/his husband/wife</i>. Ιntensity seems to be
+own husband/wife</i> becomes <i>her/his husband/wife</i>. Intensity seems to be
 beside the point in such cases: 1 Corinthians <b>14</b>:35; Ephesians <b>5</b>:22,
 28, 33; 1 Peter <b>3</b>:1).</span></p>
 
@@ -12744,21 +11879,23 @@ margin-left:.5in;text-align:justify;text-indent:-.5in'><span style='font-size:
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
-style='color:#3F3F46;background:white'>parable&nbsp;&nbsp;</span></i><span
-style='color:#3F3F46;background:white'>Since&nbsp;<i>parable</i>&nbsp;(</span><span
-lang=EL style='color:#3F3F46;background:white'>παραβολή</span><span
-style='color:#3F3F46;background:white'>) hardly ever occurs in English usage
-outside a New Testament connection with Jesus' teaching,&nbsp;<i>CV</i>&nbsp;has
-replaced it with&nbsp;<i>story</i>&nbsp;in cases that have a flow of action:
-Matthew&nbsp;<b>13</b>:3, 10, 13, 18, 24, 34, 35, 36, 53;&nbsp;<b>21</b>:33,
-45;&nbsp;<b>22</b>:1; Mark&nbsp;<b>4</b>:2, 10, 11, 13, 33, 34;&nbsp;<b>12</b>:1,
-12; Luke&nbsp;<b>8</b>:4, 9, 10, 11;&nbsp;<b>12</b>:16, 41;&nbsp;<b>13</b>:6;&nbsp;<b>15</b>:3;&nbsp;<b>18</b>:1,
-9;&nbsp;<b>19</b>:11; 20:9, 19.&nbsp;<i>&nbsp;CV</i>&nbsp;uses&nbsp;<i>illustration</i>&nbsp;in
-Matthew&nbsp;<b>15</b>:15; Mark&nbsp;<b>3</b>:23;&nbsp;<b>7</b>:17; Luke&nbsp;<b>5</b>:36;&nbsp;<b>6</b>:39
-and&nbsp;<i>example&nbsp;</i>in Luke&nbsp;<b>14</b>:7.&nbsp;<i>CV</i>&nbsp;drops
-the word altogether in Matthew&nbsp;<b>13</b>:31, 33 and Luke&nbsp;<b>21</b>:29.&nbsp;<i>Illustration</i>&nbsp;renders&nbsp;</span><span
-lang=EL style='color:#3F3F46;background:white'>παροιμία</span><span
-style='color:#3F3F46;background:white'>&nbsp;in John&nbsp;<b>10</b>:6 and&nbsp;<b>16</b>:25.</span></p>
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>parable
+ </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Since
+<i>parable</i> (</span><span lang=EL style='font-size:12.0pt;line-height:115%;
+font-family:"Times New Roman",serif'>παραβολή</span><span style='font-size:
+12.0pt;line-height:115%;font-family:"Times New Roman",serif'>) hardly ever
+occurs in English usage outside a New Testament connection with Jesus’
+teaching, <i>CV</i> has replaced it with <i>story</i> in cases that have a flow
+of action: Matthew <b>13</b>:3, 10, 13, 18, 24, 34, 35, 36, 53; <b>21</b>:33,
+45; <b>22</b>:1; Mark <b>4</b>:2, 10, 11, 13, 33, 34; <b>12</b>:1, 12; Luke <b>8</b>:4,
+9, 10, 11; <b>12</b>:16, 41; <b>13</b>:6; <b>15</b>:3; <b>18</b>:1, 9; <b>19</b>:11;
+<b>20</b>:9, 19. <i> CV</i> uses <i>illustration</i> in Matthew <b>15</b>:15;
+Mark <b>3</b>:23; <b>7</b>:17; Luke <b>5</b>:36; <b>6</b>:39 and <i>example </i>in
+Luke <b>14</b>:7. <i>CV</i> drops the word altogether in Matthew <b>13</b>:31,
+33 and Luke <b>21</b>:29. <i>Illustration</i> renders </span><span lang=EL
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>παροιμία</span><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
+in John <b>10</b>:6 and <b>16</b>:25.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -12783,13 +11920,11 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>�
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>),
 <i>somebody </i>(</span><span lang=EL style='font-size:12.0pt;line-height:115%;
 font-family:"Times New Roman",serif'>τις</span><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>/</span><span lang=EL
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>τι</span><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>),
-the plural Greek article (</span><span lang=EL style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>οἱ</span><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>//</span><span
-lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>αἱ</span><span
+line-height:115%;font-family:"Times New Roman",serif'>), the plural Greek
+article (</span><span lang=EL style='font-size:12.0pt;line-height:115%;
+font-family:"Times New Roman",serif'>οἱ</span><span style='font-size:12.0pt;
+line-height:115%;font-family:"Times New Roman",serif'>//</span><span lang=EL
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>αἱ</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>/</span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>τὰ</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>)
@@ -12880,7 +12015,7 @@ usually replaced with <i>present</i> (Acts <b>8</b>:35; <b>14</b>:21; Romans <b>
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
-English word has become a religious term or one that carries a negative
+English word has become a religious term that often carries a negative
 connotation.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
@@ -12964,7 +12099,7 @@ Philippians <b>1</b>:7, 13, 14, 18; Colossians <b>4</b>:3, 10; 2 Timothy<b> 1</b
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <u>the
-law</u> as a prison: Romans<b> 7</b>:6. 23</span></p>
+law</u> as a prison: Romans<b> 7</b>:6, 23</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <u>Rome</u>
@@ -13012,9 +12147,9 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>π
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>with
 <i>“speaking in a language people cannot understand.”</i> Speaking that way
-would not be communicating anything; so, actually communicating something must
-be the apostle’s meaning for </span><span lang=EL style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>προφητεύω</span><span
+would not be communicating anything; so, communicating something must be the
+apostle’s meaning for </span><span lang=EL style='font-size:12.0pt;line-height:
+115%;font-family:"Times New Roman",serif'>προφητεύω</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 here. Later, in that same vein, <i>CV</i> says, <i>“If everybody is ‘speaking
 on behalf of’ God, and an unbeliever or layman comes in, they’ll be convincing
@@ -13024,8 +12159,8 @@ him and calling him to account”</i> (<b>14</b>:24).</span></p>
 margin-left:.5in;text-align:justify;text-indent:-.5in'><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        An
 even broader reference (“forth-telling”) happens in Matthew <b>26</b>:68, where
-Pilate’s soldiers are slapping the blindfolded Jesus and saying, <i>“Prophesy
-to us, Christ; who slapped you?”</i> <i>CV</i> says, (c) <i>“</i>Tell<i> us, ‘Messiah,’
+Pilate’s soldiers are slapping the blindfolded Jesus, <i>“Prophesy to us,
+Christ; who slapped you?”</i> <i>CV</i> says, (c) <i>“</i>Tell<i> us, ‘Messiah,’
 who slapped you?”</i> Here Jesus is not even <i>“speaking for another.”</i> (The
 soldiers may have been “hyping” the term as part of their mockery because he
 had claimed to be a prophet and the Messiah.)</span></p>
@@ -13088,10 +12223,10 @@ different word pictures.</span></p>
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>righteous(ness)
 </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
-words have disappeared from everyday use, and there are no good substitutes for
-them. <i>Good</i> has replaced <i>righteous</i> in several passages even though
-it is a weaker term. <i>Goodness</i> works in Luke <b>18</b>:9; John <b>16</b>:10;
-Acts <b>13</b>:10; <b>17</b>:31; 2 Corinthians <b>6</b>:14; <b>9</b>:9.</span></p>
+words have disappeared from everyday use, and there are no good substitutes. <i>Good</i>
+has replaced <i>righteous</i> in several passages even though it is a weaker
+term. <i>Goodness</i> works in Luke <b>18</b>:9; John <b>16</b>:10; Acts <b>13</b>:10;
+<b>17</b>:31; 2 Corinthians <b>6</b>:14; <b>9</b>:9.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -13121,7 +12256,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(H
 <b>13</b>:7, 17, 24 for elders), </span><span lang=EL style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>ποιμαίνω</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-(Matthew <b>2</b>:6, Messiah), </span><span lang=EL style='font-size:12.0pt;
+(Matthew <b>2</b>:6, re Messiah), </span><span lang=EL style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>προΐστημι</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 (Romans <b>12</b>:8; 1 Timothy <b>3</b>:4, 5, 12; <b>5</b>:17).</span></p>
@@ -13244,7 +12379,7 @@ requirements, but the New Testament does not name it.</span></p>
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(b)
-called <i>sea</i> when referring to the <u>Mediterranean Sea</u> (Simon the
+called <i>sea</i> when referring to the <u>Mediterranean Sea</u>: Simon the
 tanner beside the sea (Acts <b>10</b>:6, 32), in Revelation because it
 evidently refers to the Mediterranean Sea, the <u>Red Sea</u> (1 Corinthians <b>10</b>:1,
 2), places that mention <u>sand of the sea</u> (Romans<b> 9</b>:27).</span></p>
@@ -13256,7 +12391,7 @@ of Galilee   </span></i><span style='font-size:12.0pt;line-height:115%;
 font-family:"Times New Roman",serif'>Lake Galilee: </span><sup><span
 style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>+</span></sup><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Matthew
-<b>4</b>:18; <b>15</b>:29; Mark <b>1</b>:16; 7:31; John <b>6</b>:1; <b>21</b>:1</span></p>
+<b>4</b>:18; <b>15</b>:29; Mark <b>1</b>:16; <b>7</b>:31; John <b>6</b>:1; <b>21</b>:1</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span lang=DA
@@ -13296,7 +12431,7 @@ of <i>looking up</i>.<i> </i>Besides, </span><span lang=EL style='font-size:
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 occurs in the account of the man born blind (John <b>9</b>:11, 15, 18). So, it
 is best to rely on context for detecting the difference. That can leave the
-matter unresolvable in several cases</span></p>
+matter unresolvable in several cases.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -13365,7 +12500,7 @@ font-family:"Times New Roman",serif'>δοῦλος</span><span style='font-size:
 line-height:115%;font-family:"Times New Roman",serif'> in a majority of cases.
 Practically everybody that works for somebody is called a “slave.” That seems
 unlikely. Mark <b>1</b>:20 does speak of <i>“hired servants”</i> that were
-working for Zebedee (Mark <b>1</b>:20).</span></p>
+working for Zebedee (Mark <b>1</b>:20), so there was such a thing.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -13408,8 +12543,9 @@ for larger, sea-going vessels; <i>boat</i> used for smaller craft as on Lake
 Galilee</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;text-align:justify;text-indent:-.5in'><span style='font-size:
-12.0pt;line-height:115%;font-family:"Times New Roman",serif'>sir        See
+margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>sir</span></i><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>        See
 entries above under<i> L</i></span><i><span style='font-size:9.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>ORD</span></i><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></p>
@@ -13439,7 +12575,8 @@ line-height:115%;font-family:"Times New Roman",serif'>δοῦλος</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>)
 to remove some of the harshness in the word <i>slave</i>. The term occurs so
 often, we wonder whether it carries a broader reference in the New Testament. <i>CV
-</i>keeps <i>slave</i> in Colossians <b>3</b>:11; Revelation <b>18</b>:13.</span></p>
+</i>keeps <i>slave</i> in <sup>+</sup>Romans <b>6</b>:8; 1 Corinthians <b>7</b>:21;
+Galatians <b>3</b>:28; Colossians <b>3</b>:11; 2 Peter <b>2</b>:19; Revelation <b>18</b>:13.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -13501,7 +12638,7 @@ reason to think about the actual-tendential distinction.</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:.5in'><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Punctuation with <i>so
-</i>can be complicated and indefinite. </span></p>
+</i>can be complicated and uncertain. </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:.5in'><span style='font-size:
@@ -13532,7 +12669,7 @@ capitalized in the next sentence: Hebrews <b>4</b>:14; <b>10</b>:1; <b>11</b>:16
 margin-left:.5in;text-align:justify;text-indent:.5in'><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(5) With the feel
 of an even greater break, there may be a period and <i>So</i> followed by a
-comma as a kind of replacement for <i>therefore</i>: Matthew<b> 22</b>:28; <b>25</b>:13;
+comma as a replacement for the heavier <i>therefore</i>: Matthew<b> 22</b>:28; <b>25</b>:13;
 Acts <b>2</b>:30; <b>19</b>:13; <b>26</b>:19; Romans <b>3</b>:1; <b>5</b>:12; <b>6</b>:21;
 <b>7</b>:4, 13; <b>8</b>:12; <b>11</b>:11; <b>15</b>:19; `1 Corinthians<b> 3</b>:21;<b>
 4</b>:5; <b>7</b>:33; <b>8</b>:4;<b> 14</b>:39; 2 Corinthians<b> 4</b>:1;
@@ -13557,7 +12694,7 @@ Somebody</i> appears in less formal circumstances. </span></p>
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Son</span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      (a)
-capitalized in reference to Jesus; </span></p>
+capitalized in reference to Jesus,</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify'><span style='font-size:12.0pt;line-height:
@@ -13570,11 +12707,7 @@ of man</span></i><span style='font-size:12.0pt;line-height:115%;font-family:
 "Times New Roman",serif'>   <i>a person</i>; reference to a typical person:
 Matthew <b>12</b>:8, <i>“A person is more important than the Sabbath” </i>or <i>“A
 person takes precedence over Sabbath”</i> instead of <i>“The Son of Man is Lord
-of the Sabbath.”</i> Taken s a reference to Jesus would, of course, work  too.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i></p>
+of the Sabbath.”</i> Taken as a reference to Jesus would, of course, work too.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -13588,8 +12721,8 @@ margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>sons</span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
    when not referring to biological sons, rendered<i> children </i>in the
-interests of inclusive language: Matthew <b>5</b>:9; Luke <b>16</b>:8, Galatians
-<b>4</b>:5, 6, 7, 28, <i>etc.</i></span></p>
+interests of neutral language: Matthew <b>5</b>:9; Luke <b>16</b>:8, Galatians <b>4</b>:5,
+6, 7, 28, <i>etc.</i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -13623,7 +12756,7 @@ margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>spirit/Spirit  
 </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(a)
 capitalized for deity, that is, when classed with Father and Son, especially
-when combine with <i>Holy</i>. </span></p>
+when combined with <i>Holy</i>. </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:.5in'><span style='font-size:
@@ -13672,10 +12805,10 @@ to evil spirits, unclean spirits, demons that were exorcised: Matthew <b>8</b>:1
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:1.5in;text-align:justify;text-indent:-.5in'><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>when seeming to
-indicate the attitude Christians have that comes from God’s influence in us: <i>“We
-know he’s in us by the spirit he’s given us”</i> (1 John <b>3</b>:24, for
-example); note as well our rendering of the textual variant in Luke <b>5</b>:55b:
-<i>“you don’t know what mentality/attitude you’re supposed to have.”</i></span></p>
+indicate the attitude Christians have that comes from God’s influence in them: <i>“We
+know he’s in us by the spirit he’s given us”</i> (1 John <b>3</b>:24); note as
+well our rendering of the textual variant in Luke <b>5</b>:55b: <i>“You don’t
+know what mentality/attitude you’re supposed to have.”</i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><span style='font-size:
@@ -13715,8 +12848,8 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(a
 <i>Defer to</i> has been our rendering in the household teaching material
 (Ephesians <b>5</b>:22-33; Colossians <b>3</b>:18-25; 1 Peter<b> 2</b>:18-<b>3</b>:7)
 and characteristics lists (1 Timothy <b>3</b>:1-7, 8-13; <b>5</b>:5-10. It
-better indicates the attitude and behavior people take with someone else they
-know is being held responsible (“head”) for the work involved. Besides, <i>submit</i>
+better indicates the attitude and behavior people take toward someone else they
+know is being held responsible (“head”) for the work. Besides, <i>submit</i>
 has picked up a negative connotation present in response to bullying. </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
@@ -13729,6 +12862,22 @@ the Corinthians. If people willingly volunteer themselves in ministry, those
 around them with less involvement should do what they can to help. </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.5in;text-align:justify;text-indent:.5in'><span style='font-size:
+12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In sum, <i>CV</i>
+has chosen roughly to use <i>submit</i> relative to deity and <i>defer</i> elsewhere.
+<i>Defer</i> more clearly connotes voluntary relationship and does so for good
+order. So <i>CV</i> has used <i>defer</i> even for Jesus’ relationship to
+Joseph and Mary (Luke <b>2</b>:51). <i>Defer</i> appears perhaps unexpectedly
+also in Paul’s directives to his Roman readers about civil authorities (<b>13</b>:1-7).
+<i>CV</i> means to make that choice to capture the important implication that
+Christians do commit to the higher frame of reference. In fact, Paul endeavors
+to keep Christians from being tempted to rebel against human authorities because
+they serve the highest realm. But that allegiance is not instead of human
+authority but in superiority to it and that for practical reasons. After all,
+God has appointed that lower level of governance for practical reasons of
+social order.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>suffer
   </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(a)
@@ -13738,6 +12887,10 @@ used for painful experiences</span></p>
 margin-left:.5in;text-align:justify'><span style='font-size:12.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>(b) otherwise replaced by <i>let</i>,<i>
 allow</i>: Matthew <b>19</b>:14</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.5in;text-align:justify'><span style='font-size:12.0pt;line-height:
+115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -13755,7 +12908,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>/<
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>μαρτύριον</span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>when
-it means merely <i>to speak on behalf of</i>. Current English usage associates
+it means merely <i>to speak on behalf of</i>. Current English associates
 testifying and testimony with courtroom settings. </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
@@ -13872,7 +13025,7 @@ of them can be omitted; others can be changed to <i>who.</i></span></p>
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that
 which</span></i><span style='font-size:12.0pt;line-height:115%;font-family:
-"Times New Roman",serif'>  not used; replaced by <i>what</i></span></p>
+"Times New Roman",serif'>   not used; replaced by <i>what</i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -13953,12 +13106,12 @@ article, and no article; two cannot readily correspond with three. English uses
 (definite/identity). <i>A</i> indicates any example in the group; it does not
 matter which one (indefinite identity). In English, the difference is between
 definite and indefinite. The lack of either kind of English article<i> </i>means<i>
-</i>quality, that is, a kind of thing. A complicating factor in English is that
-<i>a </i>can also be used with non-abstractions to mean quality too or a noun
-typical of its class: <i>“A dog is a man’s best friend.”</i> The point is not
-that the dog is indefinite (<i>“any dog will do”</i>). The point is that the
-kind of thing a dog is makes it a best friend for the kind of thing a man is!
-The <i>a</i> moves the non-abstraction into an abstraction.</span></p>
+</i>quality, kind of thing. A complicating factor in English is that <i>a </i>can
+also be used with non-abstractions to mean quality too or a noun typical of its
+class: <i>“A dog is a man’s best friend.”</i> The point is not that the dog is
+indefinite (<i>“any dog will do”</i>). The point is that the kind of thing a
+dog is makes it a best friend for the kind of thing a man is! The <i>a</i>
+moves the non-abstraction into an abstraction.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -14112,6 +13265,10 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 as an equivalent for <i>“verily”</i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.5in;text-align:justify;text-indent:-.5in'><span style='font-size:
+12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>unbelief</span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
@@ -14152,11 +13309,10 @@ margin-left:.5in;text-align:justify;text-indent:-.5in'><span style='font-size:
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>verily
-(verily) I say to you</span></i><span style='font-size:12.0pt;line-height:115%;
-font-family:"Times New Roman",serif'> The <i>verily</i> is dropped completely.
-The <i>I say to you</i> becomes <i>I tell you</i>. The whole expression falls
-from the text except for perhaps once a chapter, where the shorter expression
-suffices.</span></p>
+(verily) I say to you  Verily</span></i><span style='font-size:12.0pt;
+line-height:115%;font-family:"Times New Roman",serif'> falls out completely. <i>I
+say to you</i> becomes <i>I tell you</i>. The whole expression falls from the
+text except for perhaps once a chapter, where the shorter expression suffices.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -14198,6 +13354,10 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(c
 </i>dropped<i> </i>altogether in phrases like <i>hear the Son of Man</i>, which
 shortens, <i>hear the voice of the Son of Man. </i>That wording eliminates the
 body-part aspect of the original.</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.5in;text-align:justify;text-indent:-.5in'><span style='font-size:
+12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -14265,9 +13425,9 @@ for statements of alternatives between real options: Romans <b>4</b>:16; <b>14</
 1 Corinthians <b>10</b>:31; <b>12</b>:13; 2 Corinthians <b>5</b>:9, 13<sup>2</sup>;
 <b>7</b>:3; <b>12</b>:2; Ephesians <b>6</b>:8; Philippians <b>1</b>:18, 20, 27;<b>
 2</b>:12; 1 Thessalonians<b> 5</b>:10; 1 John <b>4</b>:1, 2; <b>5</b>:2. <i>If</i>
-addresses positive <i>vs</i>. negative as in the case of an introduction to
-indirect questions: <i>“He asked if he could borrow the car” </i>(cp. Matthew <b>26</b>:63,
-<i>etc.</i>; see comments under <i>if</i> above). </span></p>
+addresses positive <i>vs</i>. negative in introduction to indirect questions: <i>“He
+asked if he could borrow the car” </i>(cp. Matthew <b>26</b>:63, <i>etc.</i>;
+see comments under <i>if</i> above). </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -14284,8 +13444,8 @@ used because of its pedantic feel; </span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:.5in'><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(a) </span><sup><span
-style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>+</span></sup><u><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>who</span></u><span
+style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>+</span></sup><i><u><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>who</span></u></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 replaces <i>whom </i>even when standard grammar calls for <i>whom</i>: Luke <b>11</b>:19;
 <b>12</b>:5; John <b>6</b>:68; <b>13</b>:18, 22, 24; <b>18</b>:4, 7;<b> 20</b>:15;
@@ -14313,7 +13473,29 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>:
 </span><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>+</span></sup><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Matthew
 <b>7</b>:24; <b>24</b>:45; Luke <b>16</b>:8; Romans <b>1</b>:22; <b>12</b>:16;
-1 Corinthians <b>6</b>:5; <b>10</b>:15; 2 Corinthians <b>11</b>:19</span></p>
+1 Corinthians <b>6</b>:5; <b>10</b>:15; 2 Corinthians <b>11</b>:1</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>woe</span></i><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>    
+a word that has fallen out of usage in English. In its place <i>CV</i> has used
+<i>“how unfortunate” </i>in Matthew <b>11</b>:21</span><sup><span
+style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>2</span></sup><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>;<b>
+23</b>:13, 15, 16, 23, 25, 27, 29; <b>24</b>:19; Mark <b>13</b>:17; Luke <b>6</b>:24,
+25</span><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>2</span></sup><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
+26; <b>10</b>:32; <b>11</b>:42, 43, 44, 46, 47, 52; <b>17</b>:1;<b> 21</b>:23;
+1 Corinthians <b>9</b>:16; <i>“how tragic”</i> in Matthew <b>18</b>:7</span><sup><span
+style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>2</span></sup><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>;
+<b>26</b>:24; Mark <b>14</b>:21; Luke<b> 22</b>:22; <i>“tragedy” </i>in
+Revelation <b>8</b>:133; <b>9</b>:12. 14; <b>12</b>:12; <b>18</b>:10</span><sup><span
+style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>2</span></sup><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>;
+19</span><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>2</span></sup><span
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><i><span
@@ -14357,7 +13539,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(f
 the) womb</span></i><span style='font-size:12.0pt;line-height:115%;font-family:
 "Times New Roman",serif'> adjusted to <i>from birth</i>, as part of the shift
 away from body-part language (Luke <b>1</b>:15) or used circumlocution (Luke <b>1</b>:44);
-elsewhere retained as imbedded idiom (Luke <b>11</b>:27; <b>23</b>:29; John <b>3</b>:4).</span></p>
+elsewhere retained as embedded idiom (Luke <b>11</b>:27; <b>23</b>:29; John <b>3</b>:4).</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>word</span></i><span
@@ -14371,7 +13553,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>work</span></i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>    (a)
-something that a person <i>does</i>, a <i>deed</i> (James 2)</span></p>
+something that a person <i>does</i>, a <i>deed</i> (James<b> 2</b>)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify;text-indent:-.5in'><span style='font-size:
@@ -14429,13 +13611,10 @@ lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",s
 </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>had.
 In everyday speech, <i>worship </i>sometimes describes exaggerated respect for
 someone (<i>“He worshipped the very ground she walked on.”</i>), but that does
-not come up in the biblical text. So, <i>worship</i> and <i>lord</i> put a
+not come up in biblical texts. So, <i>worship</i> and <i>lord</i> put a
 translator in the awkward position the <i>Revised Standard Version</i> brought
-into gospels when it used <i>thou</i> for deity and <i>you</i> for other
+into the gospels when it used <i>thou</i> for deity and <i>you</i> for other
 references.</span></p>
-
-<p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><i><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(is)
@@ -14521,13 +13700,13 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 notations above indicate two major goals in the <i>Conversational Version. </i>The
 first is to express biblical content in conversational usage. The second is to
 reduce the wordiness of Hebraic idiom by several shortening mechanisms
-scattered throughout the explanations here. Hopefully the desired effect has
+scattered throughout these introductory notes. Hopefully the desired effect has
 been achieved, and the biblical message comes fresh to today’s readers of the
 everlasting message.</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                         
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                            </span><span
+style='font-family:"Times New Roman",serif'>christir.org</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>

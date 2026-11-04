@@ -41,7 +41,7 @@ next: chapter-20
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            But the Jews shouted, <i>“If you release him, you’re no friend of Caesar! Anybody that makes himself king is rebelling against Caesar!”</i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Pilate heard that, he brought Jesus out and sat on the judgement seat at a place called The Pavement (Gabbatha in Hebrew). </span></span>
-<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It was Preparation <i>Day</i> during Passover <i>week</i>, about the sixth hour. He said to the Jews, <i>“Look, your ‘king’!”</i></span></span></p>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It was Preparation <i>Day</i> during Passover <i>week</i>, about six  o’clock. He said to the Jews, <i>“Look, your ‘king’!”</i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They yelled, <i>“Away with him! Away with him! Crucify him!”</i></span></span></p>
 

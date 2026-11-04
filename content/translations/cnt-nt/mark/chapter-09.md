@@ -11,7 +11,7 @@ next: chapter-10
 
 ## Mark Chapter 9
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Some </span></i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>of you <i>standing here will certainly live to see God’s kingdom come with power.”</i><b>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Some </span></i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>of you <i>standing here will certainly live to see The kingdom of God come with power.”</i><b>
 </b></span></span></p>
 
 <p class="section-ref">Mk 8:31-9:1</p>
@@ -120,7 +120,7 @@ next: chapter-10
 <span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>]<sup>ms</sup> </span></i></span>
 <span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>If your foot causes you problems, amputate it. It’s better to go about life deformed than to have two feet and be thrown into hell. [</span></i></span>
 <span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>]<sup>ms</sup> </span></i></span>
-<span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>If your eye causes you problems, gouge it out. It’s better to get in God’s kingdom with one eye than to have two eyes and be thrown into hell, </span></i></span>
+<span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>If your eye causes you problems, gouge it out. It’s better to get in The kingdom of God with one eye than to have two eyes and be thrown into hell, </span></i></span>
 <span class="verse verse-v48" id="v48"><sup class="verse-num">48</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>where the worms don’t die, and the fire doesn’t burn out.</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“Everybody will be tested with fire. </span></i></span>

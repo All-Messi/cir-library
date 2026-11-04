@@ -45,7 +45,7 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              but those who were hungry are now full.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><b><i><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>6</span></sup></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <i>kills and makes live;</i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <i>kills and makes live;</i></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              he takes down to Sheol and raises up.</span></i></p>
 

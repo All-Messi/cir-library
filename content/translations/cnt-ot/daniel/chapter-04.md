@@ -186,8 +186,8 @@ next: chapter-05
 
 <p class="section-ref">Dan 4:18-22</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  <a name="_Hlk124426954">23</a></span></sup></b><i><u><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>The </span></u></i><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>angel
-<i>watcher</i></span></u><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> you saw, </span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><u><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>The </span></u></i><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>angel
+<i>watcher</i></span></u><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> you saw, </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>a holy one, came down from the sky and shouted, </b></span></i></p>
 

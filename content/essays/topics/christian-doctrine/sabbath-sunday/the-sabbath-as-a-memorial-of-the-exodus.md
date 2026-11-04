@@ -67,45 +67,7 @@ exodus-entrance and God’s creation rest are not related realities.</span></p>
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.75in;margin-bottom:.0001pt;text-align:justify;text-indent:.25in'><span
-style='position:relative;z-index:251657216'><span style='left:0px;position:
-absolute;left:85px;top:-70px;width:120px;height:55px'>
-
-<table cellpadding=0 cellspacing=0>
- <tr>
-  <td width=121 height=55 bgcolor=white style='border:.75pt solid black;
-  vertical-align:top;background:white'><span style='position:absolute;
-  left:0pt;z-index:251657216'>
-  <table cellpadding=0 cellspacing=0 width="100%">
-   <tr>
-    <td>
-    <div style='padding:4.35pt 7.95pt 4.35pt 7.95pt'>
-    <p class=MsoNormal><span style='font-size:12.0pt;color:windowtext'>Leaving    
-    Entering</span></p>
-    <p class=MsoNormal><span style='font-size:12.0pt;color:windowtext'>Egypt        
-    Canaan                    </span></p>
-    <p class=MsoNormal><span style='font-size:12.0pt;color:windowtext'>Moses       
-    Joshua</span></p>
-    </div>
-    </td>
-   </tr>
-  </table>
-  </span>&nbsp;</td>
- </tr>
-</table>
-
-</span></span><span style='font-size:12.0pt'>1.                                       
-    The ministries of Moses and Joshua were one </span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:2.0in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                        ministry in that the exodus-entrance
-was one</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:2.0in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                        set historical<b> </b>sequence.</span></p>
+<p class="cir-diagram" style="text-align:center;margin:1.25rem 0"><img src="/images/diagrams/the-sabbath-as-a-memorial-of-the-exodus-1.png" alt="1. Leaving Egypt (Moses) | Entering Canaan (Joshua)" width="197" style="max-width:100%;height:auto"></p><p class="MsoNormal cir-diagram-text">The ministries of Moses and Joshua were one ministry in that the exodus-entrance was one set historical sequence.</p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span

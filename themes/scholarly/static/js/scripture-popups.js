@@ -145,7 +145,7 @@
      PARSE A REFERENCE STRING
      ================================================================ */
   function parseRef(text) {
-    text = text.trim();
+    text = text.trim().replace(/^(?:cp\.?|cf\.?|see|also)\s+/i, '');
     text = text.replace(/\s+(LXX|MT|Heb|Gk|mss?)\.?\s*$/i, '');
     for (var i = 0; i < BOOK_KEYS.length; i++) {
       var key = BOOK_KEYS[i];
@@ -154,6 +154,7 @@
         var cv = rest.match(/^(\d+)\s*[:.]?\s*(\d+)([a-d])?(?:\s*[-\u2013]\s*(\d+)([a-d])?)?/);
         if (cv) {
           return {
+            key: key,
             slug: BOOKS[key].slug,
             testament: BOOKS[key].t,
             chapter: parseInt(cv[1], 10),
@@ -234,31 +235,39 @@
 
       matches.forEach(function (matchText) {
         var inner = matchText.slice(1, -1).trim();
-        var firstRef = inner.split(';')[0].trim();
-        var parsed = parseRef(firstRef);
-        if (!parsed) return;
+        // Every reference in the bracket, e.g. [Ex 23:20; Mal 3:1] or [Mt 5:3; 6:4] (the second
+        // borrows the book from the one before it).
+        var refs = [], lastKey = null;
+        inner.split(';').forEach(function (part) {
+          part = part.trim();
+          if (!part) return;
+          var p = parseRef(part);
+          if (!p && lastKey && /^\d+\s*[:.]\s*\d+/.test(part)) p = parseRef(lastKey + ' ' + part);
+          if (!p) return;
+          lastKey = p.key;
+          var u = buildChapterUrls(p);
+          refs.push({ l: refLabel(p), u: u, v: p.verse, ve: p.verseEnd || null });
+        });
+        if (!refs.length) return;
+        var parsed = refs[0];
         var htmlRegex = textToHtmlPattern(matchText);
         if (!htmlRegex) return;
 
-        var label = parsed.slug.replace(/-/g, ' ').replace(/\d /g, function (m) { return m; })
-          .replace(/\b[a-z]/g, function (c) { return c.toUpperCase(); });
-        label += ' ' + parsed.chapter + ':' + parsed.verse;
-        if (parsed.verseSuffix) label += parsed.verseSuffix;
-        if (parsed.verseEnd) label += '-' + parsed.verseEnd;
-
-        var urls = buildChapterUrls(parsed);
+        var label = parsed.l;
+        var urls = parsed.u;
         var primaryUrl = urls[0];
         var fallbackUrls = urls.slice(1);
+        var refsAttr = refs.length > 1 ? ' data-refs="' + encodeURIComponent(JSON.stringify(refs)) + '"' : '';
         var oldHtml = verse.innerHTML;
         // NOTE: no `title=` attribute — browser tooltip would clash with hover popup.
         var newHtml = oldHtml.replace(htmlRegex, function (fullMatch) {
           var cleanText = fullMatch.replace(/<[^>]+>/g, '');
-          return '<a class="scripture-ref" href="' + primaryUrl + '#v' + parsed.verse +
+          return '<a class="scripture-ref" href="' + primaryUrl + '#v' + parsed.v +
             '" data-chapter-url="' + primaryUrl +
             '" data-fallback-urls="' + fallbackUrls.join('|') +
-            '" data-verse="' + parsed.verse +
-            '" data-verse-end="' + (parsed.verseEnd || '') +
-            '" data-label="' + label + '"' +
+            '" data-verse="' + parsed.v +
+            '" data-verse-end="' + (parsed.ve || '') +
+            '" data-label="' + label + '"' + refsAttr +
             '>' + cleanText + '</a>';
         });
         if (newHtml !== oldHtml) verse.innerHTML = newHtml;
@@ -267,6 +276,14 @@
 
     // Attach handlers to every (newly-wrapped) scripture-ref
     container.querySelectorAll('.scripture-ref').forEach(attachRefHandlers);
+  }
+
+  function refLabel(p) {
+    var label = p.slug.replace(/-/g, ' ').replace(/\b[a-z]/g, function (c) { return c.toUpperCase(); });
+    label += ' ' + p.chapter + ':' + p.verse;
+    if (p.verseSuffix) label += p.verseSuffix;
+    if (p.verseEnd) label += '-' + p.verseEnd;
+    return label;
   }
 
   function attachRefHandlers(el) {
@@ -321,6 +338,10 @@
     var verseEnd = el.getAttribute('data-verse-end');
     var label = el.getAttribute('data-label');
 
+    var refs = null;
+    try { refs = JSON.parse(decodeURIComponent(el.getAttribute('data-refs') || '')); } catch (e) { refs = null; }
+    if (refs && refs.length > 1) { showMultiPopup(el, refs); return; }
+
     var popup = document.createElement('div');
     popup.className = 'scripture-popup';
     popup.innerHTML =
@@ -357,24 +378,62 @@
       openChapterModal(popup.__refData);
     });
 
-    // Keep popup open while cursor is inside it (desktop)
-    if (!isTouch) {
-      popup.addEventListener('mouseenter', function () {
-        clearTimeout(hoverCloseTimer);
+    wirePopup(popup);
+
+    // Fetch verse content
+    fetchVerse(url, verse, verseEnd ? parseInt(verseEnd, 10) : null, popup.querySelector('.sp-body'),
+               popup.__refData.fallbacks, popup.__refData);
+  }
+
+  // One popup, one section per reference: heading, verse text, its own "Full chapter" link.
+  function showMultiPopup(el, refs) {
+    var popup = document.createElement('div');
+    popup.className = 'scripture-popup sp-multi';
+    var html = '<div class="sp-header">' +
+        '<span class="sp-label">' + escHtml(refs.length > 2 ? refs.length + ' references' : refs.map(function (r) { return r.l; }).join('; ')) + '</span>' +
+        '<button class="sp-close" type="button" aria-label="Close">\u2715</button>' +
+      '</div><div class="sp-body">';
+    refs.forEach(function (r, i) {
+      html += '<section class="sp-ref" data-i="' + i + '">' +
+        '<div class="sp-ref-head"><span class="sp-ref-label">' + escHtml(r.l) + '</span>' +
+        '<button class="sp-ref-open" type="button">Full chapter \u2192</button></div>' +
+        '<div class="sp-ref-body"><div class="sp-loading">Loading\u2026</div></div></section>';
+    });
+    popup.innerHTML = html + '</div>';
+    popup.__anchor = el;
+
+    document.body.appendChild(popup);
+    activePopup = popup;
+    positionPopup(popup, el);
+
+    popup.querySelector('.sp-close').addEventListener('click', function (e) {
+      e.stopPropagation();
+      closePopup();
+    });
+    refs.forEach(function (r, i) {
+      var sec = popup.querySelector('.sp-ref[data-i="' + i + '"]');
+      var data = { url: r.u[0], verse: r.v, verseEnd: r.ve, label: r.l, fallbacks: r.u.slice(1) };
+      sec.querySelector('.sp-ref-open').addEventListener('click', function (e) {
+        e.stopPropagation();
+        openChapterModal(data);
       });
+      fetchVerse(data.url, data.verse, data.verseEnd, sec.querySelector('.sp-ref-body'), data.fallbacks, data);
+    });
+    wirePopup(popup);
+  }
+
+  // Hover keep-open + document close handlers, shared by both popup kinds.
+  function wirePopup(popup) {
+    if (!isTouch) {
+      popup.addEventListener('mouseenter', function () { clearTimeout(hoverCloseTimer); });
       popup.addEventListener('mouseleave', function () {
         hoverCloseTimer = setTimeout(closePopup, HOVER_CLOSE_DELAY);
       });
     }
-
-    // Document-level close handlers (delayed so the opening click doesn't trigger them)
     setTimeout(function () {
       document.addEventListener('click', onDocClick);
       document.addEventListener('keydown', onEscKey);
     }, 10);
-
-    // Fetch verse content
-    fetchVerse(url, verse, verseEnd ? parseInt(verseEnd, 10) : null, popup, popup.__refData.fallbacks);
   }
 
   function positionPopup(popup, anchor) {
@@ -430,17 +489,16 @@
   /* ================================================================
      FETCH AND EXTRACT VERSE TEXT (for the small popup)
      ================================================================ */
-  function fetchVerse(url, verseNum, verseEnd, popup, fallbackUrls) {
-    var body = popup.querySelector('.sp-body');
+  function fetchVerse(url, verseNum, verseEnd, body, fallbackUrls, refData) {
     fallbackUrls = fallbackUrls || [];
 
     if (fetchCache[url]) {
       var result = extractAndShow(fetchCache[url], verseNum, verseEnd, body);
       if (!result && fallbackUrls.length > 0) {
-        fetchVerse(fallbackUrls[0], verseNum, verseEnd, popup, fallbackUrls.slice(1));
+        fetchVerse(fallbackUrls[0], verseNum, verseEnd, body, fallbackUrls.slice(1), refData);
       } else if (result) {
         // Update the canonical URL on the active popup so "Read full chapter" hits the right page
-        popup.__refData.url = url;
+        refData.url = url;
       }
       return;
     }
@@ -455,34 +513,87 @@
         fetchCache[url] = doc;
         var result = extractAndShow(doc, verseNum, verseEnd, body);
         if (!result && fallbackUrls.length > 0) {
-          fetchVerse(fallbackUrls[0], verseNum, verseEnd, popup, fallbackUrls.slice(1));
+          fetchVerse(fallbackUrls[0], verseNum, verseEnd, body, fallbackUrls.slice(1), refData);
         } else if (result) {
-          popup.__refData.url = url;
+          refData.url = url;
         }
       })
       .catch(function () {
         if (fallbackUrls.length > 0) {
-          fetchVerse(fallbackUrls[0], verseNum, verseEnd, popup, fallbackUrls.slice(1));
+          fetchVerse(fallbackUrls[0], verseNum, verseEnd, body, fallbackUrls.slice(1), refData);
         } else {
           body.innerHTML = '<div class="sp-error">Verse not available in any translation</div>';
         }
       });
   }
 
+  // Copy of a node for the popup: cross-ref links become text, Word's indent spaces go.
+  function cleanForPopup(node) {
+    var clone = node.cloneNode(true);
+    clone.querySelectorAll('.scripture-ref').forEach(function (sr) {
+      sr.replaceWith(document.createTextNode(sr.textContent));
+    });
+    var w = document.createTreeWalker(clone, NodeFilter.SHOW_TEXT, null), n;
+    while ((n = w.nextNode())) {
+      var s = n.nodeValue.replace(/^[\s\u00a0]+/, '');
+      n.nodeValue = s;
+      if (s) break;
+    }
+    return clone;
+  }
+
+  // A verse anchor wraps only the paragraph it starts in. Poetry (Isaiah 40:3) puts each further
+  // line in its own paragraph, and a prose verse can run on into the next one. Collect what follows
+  // until the next verse number, a heading or a section reference (2026-11-04).
+  var REF_LINE = /^(?:[1-3]\s?)?[A-Z][a-z]{1,12}\.?\s+\d+:\d+[a-z]?(?:\s*[-\u2013]\s*\d+(?::\d+)?[a-z]?)?$/;
+
+  function continuationLines(el) {
+    var lines = [];
+    var p = el.closest('p');
+    if (!p) return lines;
+    var inPara = p.querySelectorAll('.verse');
+    if (inPara[inPara.length - 1] !== el) return lines;   // a later verse in this paragraph owns what follows
+    var sib = p.nextElementSibling;
+    while (sib && lines.length < 20) {
+      if (sib.tagName !== 'P' || sib.classList.contains('section-ref')) break;
+      if (REF_LINE.test(sib.textContent.replace(/[\s ]+/g, ' ').trim())) break;   // a bare "2 Ch 28:1-7" line
+      var firstVerse = sib.querySelector('.verse');
+      var part = sib;
+      if (firstVerse) {
+        // keep only the text before the next verse begins in this paragraph
+        part = sib.cloneNode(true);
+        var fv = part.querySelector('.verse');
+        var r = document.createRange();
+        r.setStartBefore(fv);
+        r.setEndAfter(part.lastChild);
+        r.deleteContents();
+      }
+      var c = cleanForPopup(part);
+      // keep lines with real text; skip a lone "[" left in Virgil's source (Ezekiel 3, Numbers 7)
+      if (/[A-Za-z0-9\u0370-\u03ff\u0590-\u05ff]/.test(c.textContent)) lines.push(c.innerHTML.trim());
+      if (firstVerse) break;
+      sib = sib.nextElementSibling;
+    }
+    return lines;
+  }
+
   function extractAndShow(doc, verseNum, verseEnd, container) {
     var verses = [];
     var end = verseEnd || verseNum;
 
+    var lastWasPoetry = false;
     for (var v = verseNum; v <= end; v++) {
       var el = doc.getElementById('v' + v);
       if (el) {
-        var clone = el.cloneNode(true);
-        clone.querySelectorAll('.scripture-ref').forEach(function (sr) {
-          sr.replaceWith(document.createTextNode(sr.textContent));
-        });
-        verses.push(clone.innerHTML);
+        var clone = cleanForPopup(el);
+        var more = continuationLines(el);
+        var html = clone.innerHTML + (more.length ? '<br>' + more.join('<br>') : '');
+        if (verses.length) verses.push(lastWasPoetry ? '<br>' : ' ');
+        verses.push(html);
+        lastWasPoetry = more.length > 0;
       }
     }
+    if (verses.length) verses = [verses.join('')];
 
     if (verses.length === 0) {
       // Verse may live inside a grouped span (e.g. id="v13" contains 13-20)

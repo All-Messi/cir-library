@@ -58,7 +58,7 @@ next: chapter-15
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and the sheep will-be-scattered.’</span></i></b></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><i><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>28</span></sup></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But after [the] my being-raised, I-will-go-ahead-of you into [the] Galilee.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But after [the] my being-raised, I-will-go-ahead-of you into [the] Galilee.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And [the] Peter said to-him, <i>“Even if all will-be-offended, [but] I (will) not.”</i>
 </span></span></p>

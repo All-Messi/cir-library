@@ -43,7 +43,7 @@ next: chapter-18
 
 <p class="section-ref">Jer 17:1-4</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in; line-height:normal'><b><sup><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>         <a name="_Hlk123567338">5</a></span></sup></b><span style='font-size:12.0pt; font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; font-family:"Times New Roman",serif'> says, </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in; line-height:normal'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; font-family:"Times New Roman",serif'> says, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“People are under a curse who trust in other people,</span></i></p>
 

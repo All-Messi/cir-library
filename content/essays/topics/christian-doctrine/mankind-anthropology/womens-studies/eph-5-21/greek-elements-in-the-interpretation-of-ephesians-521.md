@@ -129,9 +129,7 @@ certain others in the group. </span></p>
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
 style='font-size:12.0pt'>&nbsp;</span></b></p>
 
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                                  I
-                       You</span></p>
+<p class="cir-diagram" style="text-align:center;margin:1.25rem 0"><img src="/images/diagrams/greek-elements-ephesians-521-1.png" alt="I ⇄ You: reciprocal arrows between two persons" width="149" style="max-width:100%;height:auto"></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
@@ -143,58 +141,7 @@ style='font-size:12.0pt'>            (2) <i>“Defer to one another.�
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='position:relative;z-index:251655680'><span style='left:0px;position:
-absolute;left:243px;top:-190px;width:30px;height:30px'><img width=30 height=30
-src="/images/essays/greek-elements-in-the-interpretation-of-ephesians-521/image001.jpg"></span></span><span style='font-size:12.0pt'>                               
- Christ</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='position:relative;z-index:251657728'><span style='left:0px;position:
-absolute;left:242px;top:-204px;width:25px;height:30px'><img width=25 height=30
-src="/images/essays/greek-elements-in-the-interpretation-of-ephesians-521/image002.jpg"></span></span><span style='position:relative;
-z-index:251656704'><span style='left:0px;position:absolute;left:202px;
-top:-204px;width:30px;height:30px'><img width=30 height=30
-src="/images/essays/greek-elements-in-the-interpretation-of-ephesians-521/image001.jpg"></span></span><span style='font-size:12.0pt'>    
-                                                                            X</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='position:relative;z-index:251661824'><span style='left:0px;position:
-absolute;left:201px;top:-219px;width:28px;height:30px'><img width=28 height=30
-src="/images/essays/greek-elements-in-the-interpretation-of-ephesians-521/image003.jpg"></span></span><span style='position:relative;
-z-index:251660800'><span style='left:0px;position:absolute;left:276px;
-top:-219px;width:28px;height:30px'><img width=28 height=30
-src="/images/essays/greek-elements-in-the-interpretation-of-ephesians-521/image003.jpg"></span></span><span style='position:relative;
-z-index:251659776'><span style='left:0px;position:absolute;left:240px;
-top:-219px;width:30px;height:30px'><img width=30 height=30
-src="/images/essays/greek-elements-in-the-interpretation-of-ephesians-521/image001.jpg"></span></span><span style='position:relative;
-z-index:251658752'><span style='left:0px;position:absolute;left:165px;
-top:-219px;width:30px;height:30px'><img width=30 height=30
-src="/images/essays/greek-elements-in-the-interpretation-of-ephesians-521/image001.jpg"></span></span><span style='font-size:12.0pt'>   
-                                                                X                     X</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+<p class="cir-diagram" style="text-align:center;margin:1.25rem 0"><img src="/images/diagrams/greek-elements-ephesians-521-2.png" alt="One-directional deference: arrows run upward from people (X) through X to X and on toward Christ" width="327" style="max-width:100%;height:auto"></p><p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            Interpreters have been trying to handle
 Ephesians <b>5</b>:21 in the first format ever since the women’s rights issue
 became part of American cultural scene. In so doing, their idea has been to
