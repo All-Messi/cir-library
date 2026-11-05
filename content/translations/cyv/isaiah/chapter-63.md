@@ -15,7 +15,7 @@ next: chapter-64
 ### Vengeance Against Israel’s Enemies
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  63<sup>:1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who is this that’s coming from Edom</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who is this that’s coming from Edom</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    in crimson clothes from Bozrah,</span></p>
 
@@ -29,7 +29,7 @@ next: chapter-64
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Why are your clothes stained red</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><a name="_Hlk148550782"><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>like those who tread out grapes?</span></a></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>like those who tread out grapes?</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ineed<i>, I’ve been treading in a winepress—alone;</i></span></span></p>
 
@@ -125,7 +125,7 @@ next: chapter-64
 ### Prayer for Pardon
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span><a name="_Hlk86950916"><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Look down from heaven,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Look down from heaven,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          from your holy house;</span></p>
 

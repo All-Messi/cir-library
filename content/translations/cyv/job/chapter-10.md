@@ -11,7 +11,7 @@ next: chapter-11
 
 ## Job Chapter 10
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>              <span style='color:gray'>10<sup>:1</sup></span></span></b><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif;color:gray'>“I detest my life;</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif;color:gray'>“I detest my life;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                        so I’ll fully vent my complaint</span></i></p>
 
@@ -65,9 +65,9 @@ next: chapter-11
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                        </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>yet you hid </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:gray'>other</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'> things in your heart too.</span></i></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                              I know that was your real purpose.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                </span></b></span></p>
 
-### I know that was your real purpose.                Job 10:8-13
-
+<p class="section-ref">Job 10:8-13</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></i><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:gray'>If I sin, you mark me</span></i></span></p>
 

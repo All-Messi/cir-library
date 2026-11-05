@@ -28,9 +28,9 @@ next: chapter-14
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The altar split apart and ashes poured out like the sign had said. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king answered the man of God, <i>“Ask Yahveh your God to restore my hand.”</i> </span></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>He asked Yahveh, and the king’s hand became like before. <b>                                </b></span></p>
 
-### He asked Yahveh, and the king’s hand became like before.                                 1 Kg 13:1-6
-
+<p class="section-ref">1 Kg 13:1-6</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king said, <i>“Come home with me and refresh yourself, and I’ll give you a reward.”</i> </span></span></p>
 
@@ -38,7 +38,9 @@ next: chapter-14
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If you gave me half of what you own, I wouldn’t go with you, eat bread, or drink water here. </span></i><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told me not to eat bread, drink water, or come back the way I came.” </span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So he went back a different way.<b>                                                                                 </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 13:7-10</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So he went back a different way.<b>                                                                                 </b></span></span></p>
+
+<p class="section-ref">1 Kg 13:7-10</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>An old prophet was living in Bethel. His sons came and told him what the man of God had done that day in Bethel and what he’d told the king. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Their father asked them which way he went<i>.</i> They’d seen which way he’d gone. </span></span>
@@ -57,7 +59,9 @@ next: chapter-14
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“I’m a prophet like you. An angel from Yahveh told me to bring you back to my house so you can eat bread and drink water.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> He was lying. </span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He went back with him and ate bread and drank water.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 13:11-19</span></b></span></p>
+</b></span></span></p>
+
+<p class="section-ref">1 Kg 13:11-19</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As they were sitting at the table, a message from Yahveh came to the prophet that brought him back. </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He cried out to the man from Judah, <i>“Yahveh says, ‘Because you’ve disobeyed me, </i></span></span>
@@ -65,7 +69,9 @@ next: chapter-14
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After he’d eaten bread and drunk <i>water</i>, he saddled the donkey for the prophet.
 </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he’d gone, a lion met him and killed him. It threw his body on the road with the donkey standing beside it. The lion stood by the body too. </span></span>
-<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Some men passed by and saw the body and the lion standing beside it. They went and told it in the city where the old prophet lived.</span><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                   <b>1 Kg 13:20-25</b></span></span></p>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Some men passed by and saw the body and the lion standing beside it. They went and told it in the city where the old prophet lived.</span><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">1 Kg 13:20-25</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the prophet heard it, he said<i>, </i></span></span></p>
 
@@ -81,7 +87,9 @@ next: chapter-14
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Even after all that, Jeroboam kept following his own sinful way. Anybody that volunteered, he ordained as a priest for the high places. </span></span>
 <span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What happened became the sin in his family that<i> </i>destroyed it.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 13:26-34</span></b></span></p>
+</b></span></span></p>
+
+<p class="section-ref">1 Kg 13:26-34</p>
 
 
 <style>

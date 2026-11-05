@@ -44,11 +44,11 @@ prev: chapter-08
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I’ll command a sword to slay them.</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I’m determined to oppose them.”</span></i></span></p>
 
-### I’m determined to oppose them.”                                     Amos 9:1-4
+<p class="section-ref">Amos 9:1-4</p>
 
-
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><a name="_Hlk146897352"><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Lord Yahveh of Hosts—</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Lord Yahveh of Hosts—</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      who touches the land </span></p>
 
@@ -100,9 +100,7 @@ prev: chapter-08
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and fix the breaches in its walls.</span></i></b></p>
 
-
-### I’ll raise it up from its ruins
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I’ll raise it up from its ruins</span></i></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and restore it like </span></i></b><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>it was<i> in the old days,</i></span></b></p>
 
@@ -110,9 +108,7 @@ prev: chapter-08
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and all the nations that wear my name” </span></i></b><b><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Acts 15:16-17; see LXX].</span></b><b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>               </span></b></p>
 
-
-### Amos 9:7-12
-
+<p class="section-ref">Amos 9:7-12</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,<i> </i></span></span></p>
 
@@ -122,7 +118,7 @@ prev: chapter-08
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and grape treading will go on till sowing time,</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk122901614"></a><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>when new wine will drip from the mountains
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>when new wine will drip from the mountains
 </span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and flow from the hills.</span></i></p>
@@ -139,11 +135,9 @@ prev: chapter-08
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they won’t be uprooted again from the land</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I’ve given them.”</span></i></span></p>
 
-### I’ve given them.”                                                        Amos 9:13-15
-
-
-<p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
+<p class="section-ref">Amos 9:13-15</p>
 
 
 <style>

@@ -11,7 +11,7 @@ next: chapter-07
 
 ## Romans Chapter 6
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What will-we-say then? Let-us-remain-in [the] sin in-order-that [the] grace may increase? </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What will-we-say then? Let-us-remain-in [the] sin in-order-that [the] grace may increase? </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>May-it┘not└be! Whoever-of us died to-[the] sin—how will-we┘still└live in it? </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Or do you┘not└know that as-many┘of-us</span><sup><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>┘┘</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>└as
 </span><sup><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>└└</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>were-baptized into Christ Jesus were-baptized into the death of-him? </span></span>

@@ -13,7 +13,7 @@ next: chapter-90
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> A Maskil of Ethan the Ezrahite</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124179827"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll sing forever about the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>’s enduring love</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll sing forever about the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>’s enduring love</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and make known his faithfulness to every generation,</span></p>
 
@@ -58,7 +58,7 @@ next: chapter-90
 
 <p class="section-ref">Ps 89:5-10</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124179989"><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sky is yours; the earth belongs to you;</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sky is yours; the earth belongs to you;</span></b></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      you’ve founded the world <b>and everything in it </b></span><b><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[1 Cor 10:26]</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></b></p>
 
@@ -92,7 +92,7 @@ next: chapter-90
 
 <p class="section-ref">Ps 89:11-18</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124180106"><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Long ago you said in a vision to your holy people,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Long ago you said in a vision to your holy people,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ve crowned a great man,</span></i></p>
 
@@ -142,7 +142,7 @@ next: chapter-90
 
 <p class="section-ref">Ps 89:25-29</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124180193"><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If his descendants leave my Law</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If his descendants leave my Law</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and don’t follow my judgments,</span></i></p>
 
@@ -176,7 +176,7 @@ next: chapter-90
 
 <p class="section-ref">Ps 89:30-37</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124180275"><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But, you’ve thrown him away and rejected <i>him</i>;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But, you’ve thrown him away and rejected <i>him</i>;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>you’re angry with your anointed.</span></p>
 
@@ -206,12 +206,14 @@ next: chapter-90
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ve shortened his youth</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and covered him with shame.<b>                                           </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ps 89:38-45</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>        </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and covered him with shame.<b></b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></p>
+
+<p class="section-ref">Ps 89:38-45</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>How long, L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
 </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <a name="_Hlk124180390">will you conceal yourself,</a></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      will you conceal yourself,</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      will your anger burn like fire?</span></p>
 

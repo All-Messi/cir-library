@@ -11,7 +11,7 @@ next: chapter-11
 
 ## Hebrews Chapter 10
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For the Law, having (a) shadow of-the future good-things, not the very image of-the things, is┘never└able, by the same sacrifices that they-offer year-in-and-year-out<sup>2</sup> continually, to-make-perfect the-ones drawing-near; </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For the Law, having (a) shadow of-the future good-things, not the very image of-the things, is┘never└able, by the same sacrifices that they-offer year-in-and-year-out<sup>2</sup> continually, to-make-perfect the-ones drawing-near; </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>otherwise would they┘not└have-ceased to-be-offered, on-account-of the worshipers having-been┘once-and-for-all└cleansed would-have-had no-longer (a) consciousness of-sins?  </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But in them (is) remembrance of-sins yearly<sup>2</sup>.  </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For (it is) impossible for-(the)-blood of-bulls and goats to-take-away sins.</span></span></p>
@@ -28,9 +28,7 @@ next: chapter-11
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i></b><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then I-said,</span></i></b></span></p>
 
-
-### ‘Behold, I-have-come
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    ‘Behold, I-have-come</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                (in (the) roll of-(the)-book it-has-been-written concerning me)</span></i></b></p>
 
@@ -51,9 +49,7 @@ next: chapter-11
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    <b>after [the] those days,’ says the Lord:</b></span></i></p>
 
-
-### ‘putting (the) laws of-me on (the) hearts of-them,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        ‘putting (the) laws of-me on (the) hearts of-them,</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and on the mind of-them I-will-write them’”;</span></i></b></p>
 
@@ -61,9 +57,7 @@ next: chapter-11
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“‘and the sins of-them and the lawlessness[es] of-them </span></i></b></span></p>
 
-
-### I-will┘certainly not└remember still.’”
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    I-will┘certainly not└remember still.’”         </span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now where forgiveness of-these (is), no-longer (is) offering for sins.</span></span></p>
 

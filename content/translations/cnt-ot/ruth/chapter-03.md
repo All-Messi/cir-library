@@ -38,7 +38,7 @@ next: chapter-04
 <u>am</u> a close relative, but there’s one closer. </span></i></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Stay tonight; in the morning, if he’ll redeem you, all right. If he doesn’t want to, I will, as sure as the L</span></i><i><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> lives. Lie down till morning.”</span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124507367"><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She lay at his feet till morning and got up before people could recognize one another. He said, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“No one must know that a woman came to the threshing floor. </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She lay at his feet till morning and got up before people could recognize one another. He said, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“No one must know that a woman came to the threshing floor. </span></i></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hold out the cloak you’re wearing.”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> She held it out, and he laid six measures of barley on her, and she went into town. </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When she got to her mother-in-law, she asked her what happened. </span></span></p>
@@ -46,6 +46,8 @@ next: chapter-04
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>She told her what he’d done, </span><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“He gave me these six measures of barley and said not to go to my mother-in-law empty-handed.”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Wait till you find out how the matter goes. He won’t rest till he’s settled it today.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>       </span></b></span></p>
+
+<p class="section-ref">Ruth 3:9-18</p>
 
 
 <style>

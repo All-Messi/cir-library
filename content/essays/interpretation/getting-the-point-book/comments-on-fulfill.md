@@ -2,10 +2,12 @@
 title: "Appendix: Comments on Fulfill"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2023-07-13
+lastmod: 2025-07-11
 categories:
 - 'Interpretation'
 - 'Getting The Point Book'
-weight: 107
+weight: 29
 draft: false
 ---
 

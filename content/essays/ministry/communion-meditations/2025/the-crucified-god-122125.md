@@ -1,7 +1,7 @@
 ---
 title: "The Crucified God"
 date: '2025-12-21'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

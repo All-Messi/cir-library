@@ -66,7 +66,9 @@ prev: chapter-05
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Instruct people that are wealthy now not to be proud or to have </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>their</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> hope based on the uncertainty of wealth. </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Tell them to put their hope</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> in God, who supplies us richly with everything we enjoy. </span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Instruct them</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> to be rich in good deeds, <i>to be </i>generous, willing to share, </span></span>
-<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>treasuring up for themselves a firm foundation for the future, so they can experience what’s truly life indeed.                </span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>1 Tim 6:17-19</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>treasuring up for themselves a firm foundation for the future, so they can experience what’s truly life indeed.</span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">1 Tim 6:17-19</p>
 
 
 ### Maintaining the True Knowledge
@@ -79,8 +81,6 @@ prev: chapter-05
 <i>be</i> with you.                                                                                              </span></p>
 
 <p class="section-ref">1 Tim 6:20-21</p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Translator: Virgil Warren                                                                                                  </span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 
 
 <style>

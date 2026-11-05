@@ -30,7 +30,9 @@ next: chapter-07
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt;line-height:115%'>            </span></i><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%'>The man of God said, <i>“Where did it fall?”</i> When he showed him, he cut off a stick and threw it in there and made the iron float.</span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%'>            </span><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%'>He said, <i>“Pick it up.”</i> He reached out and took it.<b>                                                </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 6:1-7</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%'>            </span><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%'>He said, <i>“Pick it up.”</i> He reached out and took it.<b>                                                </b></span></span></p>
+
+<p class="section-ref">2 Kg 6:1-7</p>
 
 
 ### Elisha Traps Blinded Arameans
@@ -51,7 +53,7 @@ next: chapter-07
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%'>The king of Aram </span></i><span style='font-size:12.0pt;line-height:115%'>sent horses, chariots, and a big army and surrounded the city at night.</span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%'>                                                                                                                                            </span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 6:8-14</span></b></p>
+<p class="section-ref">2 Kg 6:8-14</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%'>            </span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%'>When the man of God’s attendant got up early and went out, an army was circling the city with horses and chariots. He said, <i>“Master! What are we going to do?”</i> </span></span></p>
 
@@ -66,14 +68,16 @@ next: chapter-07
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt; line-height:115%'>“No. Would you kill the ones you’ve taken captive with your sword and bow? Give them bread and water so they can eat and drink and go home to their master.”</span></i><span style='font-size:12.0pt;line-height:115%'> </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%'>He prepared a big banquet for them. When they’d eaten, he sent them away. Marauding bands from Aram never came into Israel again.        </span><b><span style='font-size:10.0pt;line-height:115%'> 2 Kg 6:15-23</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%'>He prepared a big banquet for them. When they’d eaten, he sent them away. Marauding bands from Aram never came into Israel again.        </span></span></p>
+
+<p class="section-ref">2 Kg 6:15-23</p>
 
 
 ### Severe Famine in Samaria
 
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height: 115%'>After that, Benhadad, king of Aram, gathered his army, went up, and laid siege to Samaria. </span></span>
-<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%'>There was a severe famine in Samaria, and they laid siege to it till a donkey’s head sold for <a name="_Hlk145158744">2 lbs <sup>80 shekels</sup> of silver and </a></span><span style='font-size:12.0pt;line-height:115%;font-family:"Agency FB",sans-serif'>a</span><span style='font-size:12.0pt;line-height:115%'> pint </span><sup><span style='font-size:12.0pt;line-height:115%'>¼ </span></sup><sup><span style='font-size:12.0pt;line-height:115%'> cab </span></sup><span style='font-size:12.0pt;line-height:115%'>of pigeon manure sold for 2 oz <sup>5 shekels</sup></span><sup><span style='font-size:12.0pt;line-height:115%'> </span></sup><span style='font-size:12.0pt;line-height:115%'>of silver.</span></span></p>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%'>There was a severe famine in Samaria, and they laid siege to it till a donkey’s head sold for 2 lbs <sup>80 shekels</sup> of silver and </span><span style='font-size:12.0pt;line-height:115%;font-family:"Agency FB",sans-serif'>a</span><span style='font-size:12.0pt;line-height:115%'> pint </span><sup><span style='font-size:12.0pt;line-height:115%'>¼ </span></sup><sup><span style='font-size:12.0pt;line-height:115%'> cab </span></sup><span style='font-size:12.0pt;line-height:115%'>of pigeon manure sold for 2 oz <sup>5 shekels</sup></span><sup><span style='font-size:12.0pt;line-height:115%'> </span></sup><span style='font-size:12.0pt;line-height:115%'>of silver.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height: 115%'>As the king was passing by on the wall, a woman cried out to him, <i>“Help, my lord the king.” </i></span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%'>He said, <i>“If Yahveh doesn’t help you, where will I help you from? From the threshing floor or the winepress?</i> </span></span>
@@ -84,13 +88,17 @@ next: chapter-07
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%'>“This woman said to me, ‘Give your son so we can eat him today, and we’ll eat my son tomorrow.’ </span></i><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%'>We boiled my son and ate him, and I told her the next day, ‘Give your son so we can eat him’; but she has hidden her son.”</span></i><span style='font-size:12.0pt;line-height:115%'> </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height: 115%'>When the king heard it, he tore his clothes—he was passing by on the wall—and the people looked, and he had burlap under his body. </span></span>
-<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%'>Then he said, <i>“God do so to me and more if Elisha’s head remains on him today.”</i><b>   </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 6:24-31</span></b></span></p>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%'>Then he said, <i>“God do so to me and more if Elisha’s head remains on him today.”</i><b>   </b></span></span></p>
+
+<p class="section-ref">2 Kg 6:24-31</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height: 115%'>Elisha and the elders were sitting in his house. The king sent a man; but before he got there, <i>Elisha</i> told the elders, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:31.5pt;margin-bottom: 0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%'>“Do you see how this murderer’s son has sent to take away my head? When the messenger comes, shut the door and hold it shut against him. Isn’t the sound of his master’s feet behind him?”</span></i><span style='font-size:12.0pt;line-height:115%'> </span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height: 115%'>While he was still talking, the messenger came down to him, and he said, <i>“This disaster is from Yahveh. Why should I wait for Yahveh any longer?”</i> <b>                                                                                                                          </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 6:32-33</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height: 115%'>While he was still talking, the messenger came down to him, and he said, <i>“This disaster is from Yahveh. Why should I wait for Yahveh any longer?”</i> <b>                                                                                                                          </b></span></span></p>
+
+<p class="section-ref">2 Kg 6:32-33</p>
 
 
 <style>

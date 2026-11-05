@@ -24,7 +24,9 @@ next: chapter-07
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%'>While the Temple was being built, the stones were prepared at the quarry. There wasn’t any sound of hammer, axe, or iron tool <i>on site</i>. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height: 115%'>The entry for the lowest side room was on the right side of the Temple. People could go up winding stairs to the middle and third stories. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%'>He built the Temple and finished it with beams and cedar planks </span></span>
-<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height: 115%'>in addition to the <i>three </i>stories, each 7½ft high, resting against the Temple on cedar timbers.       </span><b><span style='font-size:10.0pt; line-height:115%'>1 Kg 6:1-10</span></b></span></p>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height: 115%'>in addition to the <i>three </i>stories, each 7½ft high, resting against the Temple on cedar timbers.       </span></span></p>
+
+<p class="section-ref">1 Kg 6:1-10</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%'>A message from Yahveh came to Solomon, </span></span></p>
 
@@ -34,14 +36,16 @@ next: chapter-07
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%'>Solomon finished building the Temple.
 </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%'>            </span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%'>He paneled the inside of the walls with cedar boards from floor to ceiling and overlaid the floor with cypress boards. </span><a name="_Hlk145063099"></span>
-<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> </a><span style='font-size:12.0pt; line-height:115%'>Inside the back of the Temple, he separated off the inner sanctuary 30ft deep, the Holy of Holies. </span></span>
-<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt; line-height:115%'>The nave in front of it was 60ft long. </span><a name="_Hlk145063209"></span>
-<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> </a><span style='font-size:12.0pt;line-height:115%'>The cedar all over the inside of the temple was decorated with carved shapes of gourds and open flowers. </span><span style='font-size:12.0pt;line-height:115%'>No stone was showing. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%'>            </span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%'>He paneled the inside of the walls with cedar boards from floor to ceiling and overlaid the floor with cypress boards. </span></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt; line-height:115%'>Inside the back of the Temple, he separated off the inner sanctuary 30ft deep, the Holy of Holies. </span></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt; line-height:115%'>The nave in front of it was 60ft long. </span></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%'>The cedar all over the inside of the temple was decorated with carved shapes of gourds and open flowers. </span><span style='font-size:12.0pt;line-height:115%'>No stone was showing. </span></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%'>He prepared the inner sanctuary for the Ark of Yahveh’s Covenant, </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height: 115%'>30 x 30 x 30ft high and overlaid with pure gold. He overlaid the altar with cedar. </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%'>He drew gold chains across the front of the inner sanctuary and overlaid the rest of the interior with gold. </span></span>
-<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%'>He overlaid the whole Temple with gold as well as the altar by the inner sanctuary.<b>        </b></span><b><span style='font-size:10.0pt;line-height:115%'>1 Kg 6:11-22</span></b></span></p>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%'>He overlaid the whole Temple with gold as well as the altar by the inner sanctuary.<b>        </b></span></span></p>
+
+<p class="section-ref">1 Kg 6:11-22</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v23" id="v23"><sup class="verse-num">23-26</sup> <span style='font-size:12.0pt; line-height:115%'>In the inner sanctuary he made 2 identical cherubs out of olive wood, each 15ft tall </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height: 115%'>with wings 7½ft long and their tips 15ft apart. </span></span>
@@ -59,6 +63,8 @@ next: chapter-07
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height: 115%'>In <b>the fourth year, the month Ziv,</b> the foundation of Yahveh’s Temple was in place. </span></span>
 <span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%'>In <b>the eleventh year, eighth month (</b></span><b>Bul</b><b><span style='font-size: 12.0pt;line-height:115%'>), </span></b><span style='font-size:12.0pt; line-height:115%'>it was finished as designed. It took 7 years to build.<b>                                                                                                </b></span></span></p>
+
+<p class="section-ref">1 Kg 6:23-38</p>
 
 
 <style>

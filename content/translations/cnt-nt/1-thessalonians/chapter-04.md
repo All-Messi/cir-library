@@ -15,7 +15,7 @@ next: chapter-05
 ### Encouragement to Please God
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Finally, we urge you by the Lord Jesus to live the way you should—like you received from us—so you improve your living even more. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Finally, we urge you by the Lord Jesus to live the way you should—like you received from us—so you improve your living even more. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You know what commandments we gave you from the Lord Jesus. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is the will of God who sanctifies you: <i>that</i> you abstain from sexual immorality, </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> each of you know how to exercise self-control in holiness and honor (</span></span>
@@ -27,7 +27,9 @@ next: chapter-05
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You don’t need <i>me</i> to write <i>to you </i>about brotherly love. God himself has taught you to love one another. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Indeed you do that to the <u>believers</u> throughout Macedonia. But we urge you to step it up </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and make it your ambition to live quietly, mind your own business, and work with your hands; </span></span>
-<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>so you’ll be living right toward <u>outsiders</u> and won’t need anything.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  1 Th 4:1-12</span></b></span></p>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>so you’ll be living right toward <u>outsiders</u> and won’t need anything.</span></span></p>
+
+<p class="section-ref">1 Th 4:1-12</p>
 
 
 ### Hope for the Dead
@@ -39,7 +41,9 @@ next: chapter-05
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We tell you from the Lord that we who are still living when he comes back won’t have any advantage over the ones that have died. </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>With the shout of <i>an</i> archangel and the trumpet of God, the Lord himself will come down from heaven, and the dead in Christ will resurrect first. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then we who’re still living will go up with them in the clouds to meet him in the air; so we’ll always be with him. </span></span>
-<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Console one another with that.                                                                                                                                              </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Th 4:13-18</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>           </span></span></p>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Console one another with that.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">1 Th 4:13-18</p>
 
 
 <style>

@@ -18,9 +18,7 @@ next: chapter-04
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b><i>“One shouting in the desert,</i></b></span></p>
 
-
-### ‘Prepare the way of-(the)-Lord;
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        ‘Prepare the way of-(the)-Lord;</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        make straight the paths of-him.</span></i></b></p>
 

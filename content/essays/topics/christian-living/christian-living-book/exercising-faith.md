@@ -2,10 +2,12 @@
 title: "EXERCISING FAITH"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Living'
 - 'Christian Living Book'
+weight: 13
 draft: false
 ---
 
@@ -102,7 +104,7 @@ style='font-size:12.0pt'>            </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>        <img width=261 height=134 id="Picture 2"
+style='font-size:12.0pt'>        <img alt="1. 2 Corinthians 5:6-8; Hebrews 11:1, 3, 7; cp. 2 Peter 1:8: faith and sight → knowledge. 2. Romans 4:2-5 (James 2:21-23): faith and works → result" width=261 height=134 id="Picture 2"
 src="/images/essays/exercising-faith/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -403,7 +405,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>        <img width=274 height=31 id="Picture 1"
+style='font-size:12.0pt'>        <img alt="Example: courtship → marriage → married life" width=274 height=31 id="Picture 1"
 src="/images/essays/exercising-faith/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

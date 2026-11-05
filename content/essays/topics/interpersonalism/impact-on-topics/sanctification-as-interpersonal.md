@@ -2,6 +2,8 @@
 title: "SANCTIFICATION AS INTERPERSONAL"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-03-12
+lastmod: 2025-07-16
 categories:
 - 'Topics'
 - 'Interpersonalism'

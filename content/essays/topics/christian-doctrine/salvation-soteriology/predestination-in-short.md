@@ -2,6 +2,7 @@
 title: "PREDESTINATION IN SHORT"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-12
 categories:
 - 'Topics'
 - 'Christian Doctrine'

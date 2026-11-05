@@ -33,7 +33,9 @@ next: chapter-21
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt; line-height:115%'>“It’s easy for it to lengthen ten steps. Let it go back ten steps.”</span></i></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height: 115%'>Isaiah cried out to Yahveh and brought the shadow on Ahaz’s stairway back ten steps from where it had gone down.<b>    </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 20:1-11</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height: 115%'>Isaiah cried out to Yahveh and brought the shadow on Ahaz’s stairway back ten steps from where it had gone down.<b>    </b></span></span></p>
+
+<p class="section-ref">2 Kg 20:1-11</p>
 
 
 ### Envoys from Babylon
@@ -56,7 +58,9 @@ next: chapter-21
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height: 115%'>Hezekiah said,<i> “Yahveh’s message is good.” </i>He thought to himself,<i> “At least there’ll be peace and truth while I’m alive.”</i> </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%'>The rest of the acts of Hezekiah and the strength of his rule—how he made the pool and conduit to bring water into the city—are recorded in <i>The Chronicles of the Kings of Judah</i>. </span></span>
-<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%'>He died and his son Manasseh became king.<b>                              </b></span><b><span style='font-size: 10.0pt;line-height:115%'>2 Kg 20:12-21</span></b></span></p>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%'>He died and his son Manasseh became king.<b>                              </b></span></span></p>
+
+<p class="section-ref">2 Kg 20:12-21</p>
 
 
 <style>

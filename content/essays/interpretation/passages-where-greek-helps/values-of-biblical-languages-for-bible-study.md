@@ -2,6 +2,8 @@
 title: "VALUES OF BIBLICAL LANGUAGES FOR BIBLE STUDY"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-03-04
+lastmod: 2025-07-11
 categories:
 - 'Interpretation'
 - 'Passages Where Greek Helps'
@@ -52,7 +54,7 @@ area represents interpretations of the English wording that do not fit with the
 meaning of   </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                        <img
+style='font-size:12.0pt'>                                        <img alt="Overlapping ellipses: original text and English translation"
 width=196 height=102 src="/images/essays/values-of-biblical-languages-for-bible-study/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -76,7 +78,7 @@ Once translators decide which option to use, the English reader is cut off from
 any other</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                        <img
+style='font-size:12.0pt'>                                        <img alt="Overlapping ellipses: original text and English translation"
 width=202 height=111 id="Picture 2" src="/images/essays/values-of-biblical-languages-for-bible-study/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -106,7 +108,7 @@ translation</u>. Even if there is nothing incorrect, misleading, or      �
 </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                             <img
+style='font-size:12.0pt'>                                             <img alt="Overlapping ellipses: original text and English translation"
 width=134 height=80 id="Picture 1" src="/images/essays/values-of-biblical-languages-for-bible-study/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

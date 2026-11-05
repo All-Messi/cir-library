@@ -1,7 +1,8 @@
 ---
 title: "COLOSSIANS 2 Jump Starters 1 Christ is the mystery (2:2)?"
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Book Studies'

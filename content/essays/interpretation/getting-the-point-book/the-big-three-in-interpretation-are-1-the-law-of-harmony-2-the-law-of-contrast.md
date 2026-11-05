@@ -2,10 +2,12 @@
 title: "The Big Three"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-03-02
+lastmod: 2025-07-11
 categories:
 - 'Interpretation'
 - 'Getting The Point Book'
-weight: 12
+weight: 10
 draft: false
 ---
 
@@ -5657,8 +5659,7 @@ ul
 <div class="word-content">
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify;line-height:12.0pt'><b><span
-style='font-size:12.0pt'> III. GENERAL MECHANICS BEHIND INTERPRETATION         </span></b><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
+style='font-size:12.0pt'> III. GENERAL MECHANICS BEHIND INTERPRETATION</span></b></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify;line-height:12.0pt'><span
@@ -6868,7 +6869,7 @@ style='font-size:12.0pt;color:#7030A0'>                    �
 a spiritual body.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:274.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-256.5pt;
+margin-left:min(274.5pt, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(24px, 35vw) - min(274.5pt, 35vw));
 line-height:12.0pt'><span style='font-size:12.0pt;color:#7030A0'>                               
                  Galatians <b>4</b>:21-31:       The Hagar-Sarah contrast
 parallels a law-grace and flesh-spirit contrast.</span></p>

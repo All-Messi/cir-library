@@ -15,7 +15,7 @@ next: chapter-18
 ### The Transfiguration
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Six days later, Jesus took<sup>p</sup> Peter, James, and his brother John up on a tall mountain by themselves </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Six days later, Jesus took<sup>p</sup> Peter, James, and his brother John up on a tall mountain by themselves </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and was transfigured in front of them. His face glowed like the sun, and his clothes turned as white as light. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses and Elijah appeared to them and were talking to him. </span></span></p>
 
@@ -66,7 +66,9 @@ next: chapter-18
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While they were together in Galilee, Jesus said, <i>“I’m going to be betrayed. </i></span></span>
-<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll put me to death, but I’ll resurrect on the third day.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> That really distressed them.                                                                                             </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mt 17:22-23</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span></p>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll put me to death, but I’ll resurrect on the third day.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> That really distressed them.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Mt 17:22-23</p>
 
 
 ### Jesus and the Temple Tax

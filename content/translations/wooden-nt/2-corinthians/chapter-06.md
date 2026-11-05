@@ -11,7 +11,7 @@ next: chapter-07
 
 ## 2 Corinthians Chapter 6
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And working-together (with him), we<b>┘</b>also└urge you not to-have-received the grace of-[the] God in vain. </span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And working-together (with him), we<b>┘</b>also└urge you not to-have-received the grace of-[the] God in vain. </span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> For he-says,</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b>“At (the/an( acceptable time I-listened-to you,</b></span></p>
@@ -38,29 +38,24 @@ next: chapter-07
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b>“‘I-will-live among them and walk-among (them),</b></span></p>
 
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    And I-will-be (the) God of-them,</span></b></p>
 
-### And I-will-be (the) God of-them,
-
-
-
-### And they will-be (the) people of-me.
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    And they will-be (the) people of-me.</span></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                     Wherefore, come-out from (the) midst of-them, </span></b></span></p>
 
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    And be separate,’ </span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>says (the) Lord,</span></p>
 
-### And be separate,’ says (the) Lord,
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        ‘And do┘not└touch (the) unclean-thing,</span></b></p>
 
-
-
-### ‘And do┘not└touch (the) unclean-thing,
-
-
-
-### And-I will-welcome you,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    And-I will-welcome you,</span></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                     And I-will-be </span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>to-you<b> [for] (a) Father,</b></span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    And
+</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>you will-be<b> to me [for] sons </b>and daughters<b>,’</b></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Says (the) Lord Almighty.”</span></p>
 
 
 <style>

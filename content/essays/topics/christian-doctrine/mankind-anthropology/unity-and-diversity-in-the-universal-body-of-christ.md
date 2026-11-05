@@ -2,6 +2,7 @@
 title: "UNITY AND DIVERSITY IN THE UNIVERSAL BODY OF CHRIST"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-15
 categories:
 - 'Topics'
 - 'Christian Doctrine'

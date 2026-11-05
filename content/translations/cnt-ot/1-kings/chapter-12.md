@@ -33,9 +33,11 @@ next: chapter-13
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king answered them harshly. He didn’t take the elders’ advice </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and spoke to them according to the young men’s advice, <i>“My father made your yoke heavy; I’ll add to it. My father disciplined you with whips; I’ll discipline you with scorpions.”</i> </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He ignored the people, a turn of affairs the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> let happen to bring about what he’d told Jeroboam through Ahijah of Shiloh.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 12:1-15</span></b></span></p>
+</b></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126245873"><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Israel saw that he didn’t listen, they answered him, </span></span></p>
+<p class="section-ref">1 Kg 12:1-15</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Israel saw that he didn’t listen, they answered him, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            <i>“What part do we have in David?</i></span></p>
 
@@ -48,7 +50,9 @@ next: chapter-13
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel went home, </span><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but <b>Rehoboam</b> ruled the Israelites that lived in Judah. </span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He sent Adoram, supervisor over forced labor, and Israel stoned him to death. Rehoboam hurried and got in his chariot and fled to Jerusalem. </span></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel has been in rebellion against David’s descendants ever since. </span></span>
-<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When all Israel heard that <u>Jeroboam</u> was back, they called him to the assembly and crowned him king of all Israel. No tribe but Judah stayed with David’s dynasty. <a name="_Hlk81421604">                              <b>                                                                                            </b></a></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 12:16-20</span></b></span></p>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When all Israel heard that <u>Jeroboam</u> was back, they called him to the assembly and crowned him king of all Israel. No tribe but Judah stayed with David’s dynasty.                               <b>                                                                                            </b></span></span></p>
+
+<p class="section-ref">1 Kg 12:16-20</p>
 
 
 ### Shemaiah’s Prophecy
@@ -57,11 +61,13 @@ next: chapter-13
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Rehoboam got to Jerusalem, he gathered Judah and Benjamin, 180,000 chosen soldiers, to fight Israel to restore the kingdom to himself. </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But a message from God came to Shemaiah, the man of God,  </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126247487"><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell Rehoboam, the tribes of Judah and Benjamin, and the rest of the people, </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell Rehoboam, the tribes of Judah and Benjamin, and the rest of the people, </span></i></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the
 </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says not to fight their relatives the Israelites: go home; this thing has his approval.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They listened and went home.<b>                                                                                        </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 12:21-24</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They listened and went home.<b>                                                                                        </b></span></p>
+
+<p class="section-ref">1 Kg 12:21-24</p>
 
 
 ### The Gold Calves at Bethel and Dan
@@ -78,7 +84,9 @@ next: chapter-13
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That thing became a sin because the people went to worship at the one as far as Dan.
 </span></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He made houses on high places and appointed priests from among the people that didn’t descend from Levi. </span></span>
-<span class="verse verse-v32" id="v32"><sup class="verse-num">32-33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He instituted a festival in Bethel on the fifteenth day, eighth month like the festival in Judah. He went up to burn incense on the altar there and sacrificed to the calves he’d made. He stationed priests at the high places he’d made there.</span><b><span style='font-size:14.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></b><span style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                       </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 12:25-33</span></b></span></p>
+<span class="verse verse-v32" id="v32"><sup class="verse-num">32-33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He instituted a festival in Bethel on the fifteenth day, eighth month like the festival in Judah. He went up to burn incense on the altar there and sacrificed to the calves he’d made. He stationed priests at the high places he’d made there.</span><b><span style='font-size:14.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></b><span style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                       </span></span></p>
+
+<p class="section-ref">1 Kg 12:25-33</p>
 
 
 <style>

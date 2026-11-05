@@ -27,7 +27,7 @@ next: chapter-08
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      when the face is sad, the heart can be happy.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122425159"><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The heart of the wise remembers there’s mourning,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The heart of the wise remembers there’s mourning,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      but the heart of a fool just thinks about having fun.</span></p>
 
@@ -81,7 +81,7 @@ next: chapter-08
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            so you can’t be sure what will happen when you’re gone.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122425228"><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve seen all kinds of things in my pointless life, </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve seen all kinds of things in my pointless life, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      including good people that die young and bad people that die old. </span></p>
 
@@ -106,7 +106,7 @@ next: chapter-08
 
 <p class="section-ref">Eccl 7:13-22</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122425313"><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I determined I’d be wise about everything, but I couldn’t do it. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I determined I’d be wise about everything, but I couldn’t do it. </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>No one can figure out what’s distant and deep. </span></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I set my mind to knowing, investigating, looking for wisdom and explanation, to identifying sinfulness, foolishness, and folly. </span></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I discovered more bitter than death is a woman whose heart is a snare, whose hands are chains. </span></span></p>

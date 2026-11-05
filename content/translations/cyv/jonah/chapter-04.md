@@ -20,21 +20,25 @@ prev: chapter-03
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“That’s exactly what I said back home and why I tried to run away to Tarshish. I knew you’re a gracious, merciful God, slow to get angry and full of enduring love, and relent from bringing catastrophe. </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So take my life; I’d be better off dead.” </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh asked, <i>“What right do you have to be mad?”</i><b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jon 4:1-4</span></b></span></p>
+</b></span></span></p>
+
+<p class="section-ref">Jon 4:1-4</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jonah left the city and sat down east of it. He made a lean-to and sat in its shade to see what would happen to the city. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh God had a plant grow up to shade him and give him relief. He was glad to see it. </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>But at dawn the next day, God had a worm attack the plant, and it withered. </span></span>
-<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the sun came up, God had a scorching east wind blow and the sun beat down on Jonah’s head till he became faint and begged to die, <i>“I’d be better off dead.”</i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                     Jon 4:5-8</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></b></span></p>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the sun came up, God had a scorching east wind blow and the sun beat down on Jonah’s head till he became faint and begged to die, <i>“I’d be better off dead.”</i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Jon 4:5-8</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then God asked, <i>“What right do you have to be mad about a plant?!”</i></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ve got reason to be mad enough to die.”</span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You’re concerned about a plant you didn’t plant or make grow, that came up overnight and died overnight. </span></i></span>
-<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Shouldn’t I be concerned about Nineveh, a big city with more than 120,000 people that don’t know left from right—as well as lots of animals?”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> Jon 4:9-11</span></b></span></p>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Shouldn’t I be concerned about Nineveh, a big city with more than 120,000 people that don’t know left from right—as well as lots of animals?”</span></i></span></span></p>
 
-<p class="MsoListBulletCxSpLast" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
+<p class="section-ref">Jon 4:9-11</p>
 
 
 <style>

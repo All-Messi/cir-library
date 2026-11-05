@@ -11,7 +11,7 @@ next: chapter-04
 
 ## Jeremiah Chapter 3
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123487519"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God says,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God says,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If a husband divorces his wife</span></i></p>
 
@@ -49,7 +49,7 @@ next: chapter-04
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  ‘Father, you’re the friend I had when I was young’?</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></i><a name="_Hlk147160708"><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Are you going to stay angry forever?</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></i><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Are you going to stay angry forever?</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  Are you always going to be offended?’&quot;</span></i><b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                          </span></b></span></p>
 
@@ -59,7 +59,7 @@ next: chapter-04
 ### Judah Follows Unfaithful Israel
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123487641"><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At the time of King Josiah, the L</span><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> said to me: </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At the time of King Josiah, the L</span><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> said to me: </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Have you seen what unfaithful Israel has done? She’s gone up on every tall hill and carried on her prostitution under every green tree. </span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I thought that after she’d done that, she’d come back to me. But she didn’t, and her unfaithful sister saw it. </span></i></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I gave </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>Israel<i> divorce papers and sent her away for her adultery, but her unfaithful sister Judah wasn’t afraid. She left and became a prostitute too. </i></span></span>
@@ -72,13 +72,11 @@ next: chapter-04
 ### Hope Even for Unfaithful Israel
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123487747"><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told me:<i> </i></span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told me:<i> </i></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.75in;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Unfaithful Israel has proved to be more upright than unfaithful Judah. </span></i><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Go deliver this message toward the north,</span></i></span></p>
 
-
-### ‘Come back, unfaithful Israel;
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Come back, unfaithful Israel;</span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  I won’t stay angry forever.</span></i></p>
 
@@ -92,16 +90,16 @@ next: chapter-04
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  because I’m your master.</span></i></p>
 
-
-### I’ll bring back to Zion one from this town and two from that family.
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I’ll bring back to Zion one from this town and two from that family.</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>     </span></b></p>
 
 <p class="section-ref">Jer 3:11-14</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll give you shepherds after my own heart who will feed you knowledge and insight. </span></i></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When you’ve multiplied in the land, they won’t say anymore ‘The Ark of the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s covenant.’ It won’t be remembered or missed or remade. </span></i></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, they’ll call Jerusalem The Throne of the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>. All the nations will gather there to be in his presence. They’ll stop following their stubborn, sinful hearts. </span></i></span>
-<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Judah will follow Israel; together they’ll come back from</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> exile in <i>the north to the land I gave their ancestors.       </i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jer 3:15-18</span></b><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></sup></b></span></p>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Judah will follow Israel; together they’ll come back from</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> exile in <i>the north to the land I gave their ancestors.</i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></sup></b></span></p>
+
+<p class="section-ref">Jer 3:15-18</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“Then I said how I’d include you among my children</span></i></span></p>
 
@@ -146,7 +144,7 @@ next: chapter-04
 
 <p class="section-ref">Jer 3:21-23</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123487892"><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></i></a><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“But from the time we were young, shameful things have consumed our ancestors’ labors, flocks and herds, sons and daughters. </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></i><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“But from the time we were young, shameful things have consumed our ancestors’ labors, flocks and herds, sons and daughters. </span></i></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let’s lie down in our shame and cover ourselves with our humiliation. We and our ancestors have sinned against the L</span></i><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> our God. We haven’t obeyed him.”         </span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                         </span></span></p>
 
 <p class="section-ref">Jer 3:24-25</p>

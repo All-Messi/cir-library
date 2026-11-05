@@ -25,7 +25,7 @@ next: chapter-60
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      rescue me from bloodthirsty people.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123920116"><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They lie in ambush to kill me;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They lie in ambush to kill me;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      fierce enemies stir up conflict against me, L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
 </span></p>

@@ -76,7 +76,7 @@ next: chapter-58
 
 <p class="section-ref">Is 57:6-8</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk123409692"><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ve gone to Molech with olive oil</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ve gone to Molech with olive oil</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and lots of perfume;</span></i></p>
 
@@ -134,7 +134,7 @@ next: chapter-58
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              and the heart of the repentant.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><a name="_Hlk123409820"><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I won’t oppose you forever or always be angry;</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I won’t oppose you forever or always be angry;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  the spirit and breath of the ones I’ve created </span></i></p>
 

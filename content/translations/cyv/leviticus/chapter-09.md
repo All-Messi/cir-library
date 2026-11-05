@@ -11,7 +11,7 @@ next: chapter-10
 
 ## Leviticus Chapter 9
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                           </span></sup></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On the eighth day, Moses called Aaron, his sons, and the elders in Israel. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On the eighth day, Moses called Aaron, his sons, and the elders in Israel. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told Aaron, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Take a bull calf for a sin offering and a ram for a burnt offering—both without defect—and offer them to Yahveh. </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then tell the Israelites, </span></i></span></p>

@@ -11,7 +11,7 @@ next: chapter-11
 
 ## Leviticus Chapter 10
 
-<p class="MsoListBulletCxSpMiddle" ><a name="_Hlk126761852"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nadab and Abihu, Aaron’s sons, put fire in their firepans. They put incense on it and offered before Yahveh fire different from what he’d commanded them. </span></span>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nadab and Abihu, Aaron’s sons, put fire in their firepans. They put incense on it and offered before Yahveh fire different from what he’d commanded them. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Fire came out from Yahveh and consumed them, and they died. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses told Aaron, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“That’s what Yahveh meant when he said, </span></i></span></p>
 

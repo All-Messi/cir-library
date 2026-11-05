@@ -15,7 +15,7 @@ next: chapter-10
 ### Hosea Announces Israel’s Punishment
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122881564"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel, don’t celebrate like other nations;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel, don’t celebrate like other nations;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      you’ve carried on prostitution by leaving your God.</span></p>
 
@@ -50,7 +50,7 @@ next: chapter-10
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s festival days?                                      </span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122884161"><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Even if you escape being destroyed <i>by Assyria</i>,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Even if you escape being destroyed <i>by Assyria</i>,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Egypt will round you up,</span></p>
 
@@ -62,7 +62,7 @@ next: chapter-10
 
 <p class="section-ref">Hos 9:1-6</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122881312"><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The time for punishment has come;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The time for punishment has come;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      the time for retribution is here.</span></p>
 
@@ -92,7 +92,7 @@ next: chapter-10
 
 <p class="section-ref">Hos 9:7-9</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122881176"><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says, </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <i>“At first, finding Israel was like finding grapes in the desert;</i></span></p>
 
@@ -124,7 +124,7 @@ next: chapter-10
 
 <p class="section-ref">Hos 9:10-14</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122884399"><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says, <i>“Their sins began in Gilgal;</i></span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says, <i>“Their sins began in Gilgal;</i></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I started to despise them there!</span></i></p>
 

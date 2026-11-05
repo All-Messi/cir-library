@@ -5,6 +5,8 @@ categories:
 - Christian Doctrine
 - Creation
 date: '2026-02-16'
+printed: 2023-05-25
+lastmod: 2025-07-10
 draft: false
 title: A RATIONALE FOR THE STRUCTURE OF GENESIS 1:1-2:3
 weight: 3
@@ -1049,5 +1051,5 @@ provides: a topical presentation without exact concern for sequence, duration,
 parallelism, or completeness. The presentation intends to claim that Yahveh
 created the universe we see; it was not like the way Egyptian cosmology
 conceived of it.                                                                                              
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
+</span></p>
 </div>

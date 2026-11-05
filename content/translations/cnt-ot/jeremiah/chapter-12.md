@@ -15,7 +15,7 @@ next: chapter-13
 ### Jeremiah’s Complaint
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         12<sup>:1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You render justice, L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>, </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You render justice, L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        so I’ll argue my case to you.</span></p>
 
@@ -31,7 +31,7 @@ next: chapter-13
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            but far from their mind.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123632510"><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But, L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, you know <u>me</u>;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But, L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, you know <u>me</u>;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      you see me.</span></p>
 
@@ -57,7 +57,7 @@ next: chapter-13
 ### God’s Reply
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123632915"><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If racing against men wears you<sup>sg</sup> out,</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If racing against men wears you<sup>sg</sup> out,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      how can you compete with horses?</span></i></p>
 
@@ -109,7 +109,7 @@ next: chapter-13
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      because nobody’s taking care of it.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123633208"><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Destroying armies have come </span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Destroying armies have come </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>on all the barren hills.</span></i></p>
 
@@ -133,12 +133,14 @@ next: chapter-13
 ### A Message for Israel’s Neighbors
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123633735"><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is what the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> says about neighboring nations that strike at my people’s inheritance:<i> </i></span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is what the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> says about neighboring nations that strike at my people’s inheritance:<i> </i></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m about to uproot them from their lands along with Judah. </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But afterward I’ll relent and bring these nations back to their territories. </span></i></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then, if they’ll learn to swear by me, ‘As sure as the Lord lives,’ like they taught my people to swear by Baal, I’ll let them live among my people. </span></i></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But
-</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>any nation<i> </i>that <i>won’t listen, I’ll uproot and destroy.”       </i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jer 12:14-17</span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>       </span></i></span></p>
+</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>any nation<i> </i>that <i>won’t listen, I’ll uproot and destroy.”</i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Jer 12:14-17</p>
 
 
 <style>

@@ -13,10 +13,11 @@ next: chapter-04
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Eat this scroll and go speak to Israel.”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I opened my mouth, and he fed it to me. </span></span>
-<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It tasted sweet like honey.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ezek 2:8-3:3</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span></b><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>        </span></b></span></p>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It tasted sweet like honey.<b></b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></b><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></b></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124530444"><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>[</span></b></a><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]<i>
+<p class="section-ref">Ezek 2:8-3:3</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>[</span></b><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]<i>
 </i></span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5-6</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“I’m not sending you to people that speak a hard foreign language you can’t understand. I’m sending you to people that should listen; </span></i></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but they won’t listen to you, because they won’t listen to me. The whole house is stubborn. </span></i></span>
@@ -39,7 +40,7 @@ next: chapter-04
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A week later a message came from the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>: </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk147245508"><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Son of man, I’ve appointed you to be a watchman for Israel. Whenever you hear something from me, warn them. </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Son of man, I’ve appointed you to be a watchman for Israel. Whenever you hear something from me, warn them. </span></i></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When I tell sinful people they’re going to die, and you don’t warn them so they can live, they’ll die in their sin, but I’ll hold you responsible for it. </span></i></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you’ve warned them, and they don’t change, they’ll die in their sin, but you’ve delivered yourself. </span></i></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On the other hand, when good people start sinning and I block them, they’ll die. Since you didn’t warn them, they’ll die in their sin. I won’t consider the good they’d done, but I’ll hold you responsible for their death. </span></i></span>
@@ -53,9 +54,11 @@ next: chapter-04
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Spirit came into me and stood me up, and said,  </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go shut yourself up in your house. </span></i><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll tie you up with ropes so you can’t go out among them. </span></i></span>
-<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll make your tongue stick to the roof of your mouth so you can’t talk. You won’t be able to rebuke them because they’re a rebellious <a name="_Hlk147245667">house.
-</a></span></i></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll make your tongue stick to the roof of your mouth so you can’t talk. You won’t be able to rebuke them because they’re a rebellious house.
+</span></i></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But when I speak to you and you tell them, ‘The Lord G</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>OD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,’ the ones that listen will listen; the ones that won’t, won’t. They’re a rebellious house.</span></i><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></b></span></p>
+
+<p class="section-ref">Ezek 3:22-27</p>
 
 
 <style>

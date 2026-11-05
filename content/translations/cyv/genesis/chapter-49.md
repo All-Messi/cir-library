@@ -15,7 +15,7 @@ next: chapter-50
 ### Jacob Blesses His Sons
 
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jacob called for his sons<i>, “Gather around so I can tell you what will happen to you.</i></span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jacob called for his sons<i>, “Gather around so I can tell you what will happen to you.</i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                        </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gather together, sons of Jacob;</span></i></span></p>
 
@@ -177,7 +177,9 @@ next: chapter-50
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                              May they be on Joseph’s head,</span></i></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                                    the distinguished one among his brothers.”   </span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>              </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gen</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>49:20-26</span></b></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                                    the distinguished one among his brothers.”</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b></p>
+
+<p class="section-ref">Gen 49:20-26</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                        </span><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<b><u>Benjamin</u></b> is a ravenous wolf.</span></i></span></p>
 

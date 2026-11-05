@@ -11,7 +11,7 @@ next: chapter-08
 
 ## Acts Chapter 7
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the high-priest said [whether], <i>“Are these-things thus/so?”</i></span></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the high-priest said [whether], <i>“Are these-things thus/so?”</i></span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the/he said<i>, </i></span></span></p>
 
@@ -76,9 +76,7 @@ next: chapter-08
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        the image that you-made to-worship [them].</span></b></p>
 
-
-### And I-will-remove you beyond Babylon.’
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            And I-will-remove you beyond Babylon.’</span></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The tabernacle of-[the] testimony was to-the fathers of-us in the desert even-as the-One speaking to-[the] Moses commanded him to-make it according-to the type/pattern that he-had-seen, </span></i></span>
 <span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>which also the fathers of-us, having-received, brought in with Joshua in the taking-possession of-the nations, whom [the] God drove-out from (the) face of-the fathers of-us until the days of-David, </span></i></span>
@@ -88,13 +86,9 @@ next: chapter-08
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“‘The sky is (a) throne for-me,</span></b></span></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        And the earth (is) (a) footstool of-the feet of-me.</span></b></p>
 
-### And the earth (is) (a) footstool of-the feet of-me.
-
-
-
-### What-kind-of house will-you-build for-me, says (the) Lord?”
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            What-kind-of house will-you-build for-me, says (the) Lord?”</span></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        “or what (is) the place of-the rest of-me?</span></b></p>
 

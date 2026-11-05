@@ -15,7 +15,7 @@ next: chapter-04
 ### Healing a Man with a Paralyzed Hand
 
 
-<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>3</span></b><b><sup><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>:</span></sup></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Again he went into a synagogue. A man with a paralyzed hand was there. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Again he went into a synagogue. A man with a paralyzed hand was there. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Pharisees</span></i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'> were watching to see if he’d heal him on Sabbath so they could accuse him. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He told<sup>p</sup> the man, <i>“Stand up.” </i></span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;font-family:"Times New Roman",serif'>He asked<sup>p</sup> them, <i>“Is it lawful to do good on Sabbath or to do bad, to save life or take life?” </i></span></span></p>

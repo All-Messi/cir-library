@@ -1,7 +1,7 @@
 ---
 title: "Christmas and Family"
 date: '2017-12-24'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

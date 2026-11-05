@@ -15,7 +15,7 @@ next: chapter-25
 ### Two Baskets of Figs
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk123652304"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nebuchadrezzar/<i>Nebuchadnezzar</i> took to Babylon Jeconiah/<i>Jehoiachin</i> son of Jehoiakim, king of Judah, and the officials in Judah along with the craftsmen and artisans. Then the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> showed me two baskets of figs sitting in front of the Temple. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nebuchadrezzar/<i>Nebuchadnezzar</i> took to Babylon Jeconiah/<i>Jehoiachin</i> son of Jehoiakim, king of Judah, and the officials in Judah along with the craftsmen and artisans. Then the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> showed me two baskets of figs sitting in front of the Temple. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>One basket had nice figs in it, like first-ripe ones; the other basket held rotten ones. </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, <i>“What do you see, </i>Jeremiah<i>?”</i></span></span></p>
@@ -32,8 +32,9 @@ next: chapter-25
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘But like those bad figs, I’ll treat Zedekiah, his officials, the remnant in Jerusalem, and the ones living in Egypt. </span></i></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll make them something every kingdom </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>can see<i>: a disgrace, a byword, a taunt, a curse wherever I scatter them. </i></span></span>
-<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll send them sword, famine, and disease till they’re gone from the land I gave them and their ancestors.’”</span></i><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>       Jer 24:4-10</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>        </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></b></span></p>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll send them sword, famine, and disease till they’re gone from the land I gave them and their ancestors.’”</span></i><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Jer 24:4-10</p>
 
 
 <style>

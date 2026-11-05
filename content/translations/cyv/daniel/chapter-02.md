@@ -35,9 +35,7 @@ next: chapter-03
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At this, the king was furious and gave orders to destroy the wise men in Babylon. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The decree went out to execute them, and they started looking for Daniel and his friends to kill them.</span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>            </span></b></span></p>
 
-
-### Dan 2:1-13
-
+<p class="section-ref">Dan 2:1-13</p>
 
 
 ### God Gives Daniel the Dream’s Interpretation
@@ -47,7 +45,7 @@ next: chapter-03
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Why is the king’s decree so urgent?” </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Arioch told him what had happened. </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So Daniel went in and asked the king for some time so he could tell him the interpretation. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He went home and informed his three friends about the matter </span></span>
-<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>so they could ask for mercy from the God of heaven about that mystery, so Daniel and his friends wouldn’t die with <a name="_Hlk146978522">the rest of the wise men in Babylon</a>. </span></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>so they could ask for mercy from the God of heaven about that mystery, so Daniel and his friends wouldn’t die with the rest of the wise men in Babylon. </span></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The mystery came to Daniel in a vision during the night, and he blessed the God of heaven: </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“God be blessed forever</span></i></span></p>
@@ -103,11 +101,9 @@ next: chapter-03
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It
 <i>crushed the iron, clay, bronze, silver, and gold all at one time. They became like chaff on the summer threshing floors, and the wind carried them away without a trace. But the stone that struck the statue became a huge mountain that covered the whole world.</i><b>                     </b></span></span></p>
 
+<p class="section-ref">Dan 2:31-35</p>
 
-### Dan 2:31-35
-
-
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk146979680"><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“That’s what you dreamed. Now we’ll tell you what it means. </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“That’s what you dreamed. Now we’ll tell you what it means. </span></i></span>
 <span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’re the king of kings that God has given the kingdom, power, strength, and honor. </span></i></span>
 <span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wherever people, animals, or birds live, he’s put them under your control. You’re the gold head. </span></i></span>
 <span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After you, a lesser kingdom will rise up. Then a third, bronze kingdom will rule the world. </span></i></span>
@@ -129,7 +125,9 @@ next: chapter-03
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King Nebuchadnezzar fell on his face in homage to Daniel and gave orders to present him with an offering and fragrant incense. </span></span>
 <span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, <i>“Truly your God is the greatest of gods and the Lord over kings, who reveals secrets! You’ve explained that mystery!” </i></span></span>
 <span class="verse verse-v48" id="v48"><sup class="verse-num">48</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He promoted Daniel, gave him many high honors, and made him ruler over the province of Babylon and chief prefect over the wise men in Babylon. </span></span>
-<span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Daniel asked the king to appoint Shadrach, Meshach, and Abed-nego to administer the province while Daniel was at the king’s court.<b>       </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Dan 2:46-49</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>      </span></b></span></p>
+<span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Daniel asked the king to appoint Shadrach, Meshach, and Abed-nego to administer the province while Daniel was at the king’s court.<b></b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Dan 2:46-49</p>
 
 
 <style>

@@ -147,7 +147,7 @@ next: chapter-61
 
 <p class="section-ref">Is 60:15-17</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><a name="_Hlk86948401"><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Violence will disappear from your land, </span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Violence will disappear from your land, </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                   war from inside your borders;</span></i></p>
 
@@ -157,9 +157,7 @@ next: chapter-61
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                   or the moon to be bright.</span></i></p>
 
-
-### You’ll have Yahveh for an everlasting light;
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    <b>You’ll have Yahveh for an everlasting light;</b></span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                   he’ll be your glory.</span></i></p>
 
@@ -167,9 +165,7 @@ next: chapter-61
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                   your moon won’t have phases.</span></i></p>
 
-
-### You’ll have Yahveh for an everlasting light;
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    <b>You’ll have Yahveh for an everlasting light;</b></span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                   your mourning will be over.</span></i></p>
 

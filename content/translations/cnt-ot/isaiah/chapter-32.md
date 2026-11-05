@@ -15,7 +15,7 @@ next: chapter-33
 ### Israel’s Ultimate Deliverance
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         <a name="_Hlk86930327"></a><a name="_Hlk123301014">32<sup>:1</sup></a></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A righteous<i> </i>king is coming;</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A righteous<i> </i>king is coming;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        his princes will rule honestly.</span></p>
 
@@ -65,7 +65,7 @@ next: chapter-33
 
 <p class="section-ref">Is 32:5-8</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><a name="_Hlk147156104"><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Get up, <b>women of leisure;</b></span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Get up, <b>women of leisure;</b></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>listen,
 <b>complacent daughters.</b></span></p>
@@ -78,7 +78,7 @@ next: chapter-33
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              the fruit harvest won’t happen.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span><a name="_Hlk123301737"><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Tremble,
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Tremble,
 <b>women of leisure;</b></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>shudder,<b> complacent daughters.</b></span></p>

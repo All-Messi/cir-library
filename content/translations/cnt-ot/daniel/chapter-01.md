@@ -35,7 +35,7 @@ next: chapter-02
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Test us for ten days. Let us have vegetables and water. </span></i></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then look at us and the youths that eat the king’s food, and deal with us by what you see.” </span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124424950"><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He agreed and tested them for ten days. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He agreed and tested them for ten days. </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After ten days he could see that they looked better and were healthier than the ones who ate the king’s food. </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So the steward took away their wine and royal food and fed them vegetables.<b>  </b></span></span></p>
 

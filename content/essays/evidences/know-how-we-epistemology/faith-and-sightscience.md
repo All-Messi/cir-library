@@ -2,6 +2,7 @@
 title: "FAITH AND SIGHT/SCIENCE"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-15
 categories:
 - 'Evidences'
 - 'Know How We Epistemology'
@@ -123,5 +124,5 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 style='font-size:8.0pt'>&nbsp;</span></b></p>
 
 <p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:12.0pt'>KNOWLEDGE</span></b></p>
+style='font-size:12.0pt'>KNOWLEDGE</span></b></p><p class="cir-diagram" style="text-align:center;margin:1.25rem 0"><img src="/images/diagrams/faith-and-sightscience-1.png" alt="Knowledge diagram: SIGHT, direct experience (touch, hearing, smell, taste); FAITH/TRUST, indirect experience; WALK (based on/includes knowledge)" width="319" style="max-width:100%;height:auto"></p>
 </div>

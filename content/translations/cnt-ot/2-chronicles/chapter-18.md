@@ -29,7 +29,9 @@ next: chapter-19
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ahab</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told him, <i>“There’s one, Micaiah son of Imla, but I despise the guy; he never prophesies anything good about me.” </i></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>But Jehoshaphat said, <i>“Don’t say that.”</i> <b>                                                              </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 18:1-7</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>But Jehoshaphat said, <i>“Don’t say that.”</i> <b>                                                              </b></span></p>
+
+<p class="section-ref">2 Ch 18:1-7</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king of Israel called an officer and said, <i>“Quick, bring Micaiah, Imla’s son.”</i> </span></span></p>
 
@@ -43,7 +45,9 @@ next: chapter-19
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The messenger that went to summon Micaiah told him, <i>“The prophets are all speaking favorably for the king; so please say what they’re saying.” </i></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“As sure as the </span></i><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> lives, I’ll say what my God says.” </span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                 </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 18:8-13</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“As sure as the </span></i><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> lives, I’ll say what my God says.” </span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                 </span></b></span></span></p>
+
+<p class="section-ref">2 Ch 18:8-13</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he came, the king said, <i>“Should we attack Ramoth-gilead?”</i> </span></span></p>
 
@@ -83,7 +87,9 @@ next: chapter-19
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> ‘Go do it.’ </span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
-</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> has put a deceiving spirit in your prophets and declared disaster on you.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>     </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 18:14-22</span></b></span></p>
+</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> has put a deceiving spirit in your prophets and declared disaster on you.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>     </span></b></span></span></p>
+
+<p class="section-ref">2 Ch 18:14-22</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Zedekiah son of Chenaanah came and hit Micaiah on the cheek and said, <i>“How did the Spirit of the </i><i>L</i></span><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> leave me to speak to you?” </span></i></span></p>
 
@@ -93,7 +99,9 @@ next: chapter-19
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Take Micaiah back to Amon, governor of the city, and to my son Joash. </span></i><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Tell them to put him in prison and feed him sparingly with bread and water till I come back safely.”</span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Micaiah said, <i>“If you come back safely, the </i><i>L</i></span><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> hasn’t spoken by me. You all need to listen.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>  </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 18:23-27</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Micaiah said, <i>“If you come back safely, the </i><i>L</i></span><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> hasn’t spoken by me. You all need to listen.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>  </span></b></span></span></p>
+
+<p class="section-ref">2 Ch 18:23-27</p>
 
 
 ### The Death of Ahab
@@ -105,7 +113,9 @@ next: chapter-19
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the captains of the chariots saw Jehoshaphat, they shouted, <i>“It’s the king of Israel!”</i> They turned aside to attack him. But Jehoshaphat cried out, and the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> helped him by diverting them away. </span></span>
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the captains saw it wasn’t <i>Ahab</i>, they quit chasing him. </span></span>
 <span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A man drew his bow at random and struck the king of Israel in a joint in the armor. He told the chariot driver, <i>“Turn around, and get me out of the fight. I’m seriously wounded.” </i></span></span>
-<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The battle raged that day, and the king of Israel propped himself up in his chariot in front of the Arameans till evening. He died at sundown.<b>                                               </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 18:28-34</span></b></span></p>
+<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The battle raged that day, and the king of Israel propped himself up in his chariot in front of the Arameans till evening. He died at sundown.<b>                                               </b></span></span></p>
+
+<p class="section-ref">2 Ch 18:28-34</p>
 
 
 <style>

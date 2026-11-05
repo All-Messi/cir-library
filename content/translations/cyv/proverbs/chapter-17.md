@@ -133,6 +133,8 @@ next: chapter-18
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            people suppose fools are smart when they close their lips.<b> </b></span></p>
 
+<p class="section-ref">Prov 17:25-28</p>
+
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

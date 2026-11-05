@@ -5,10 +5,11 @@
     </nav>
 
     <header class="article-header">
-        <h1>{{ .Title }}</h1>
+        <h1>{{ partial "display-title.html" .Title }}</h1>
         {{ if .Params.author }}
         <p class="author">{{ .Params.author }}</p>
         {{ end }}
+        {{ with partial "pdf-path.html" . }}<div class="resource-pdf">{{ partial "pdf-link.html" $ }}</div>{{ end }}
         {{ if .Params.categories }}
         <div class="categories">
             {{ range .Params.categories }}
@@ -44,6 +45,15 @@
     margin-right: 0.5rem;
     text-decoration: none;
 }
+
+.resource-pdf { margin: 0.5rem 0 0.75rem; }
+.resource-pdf .pdf-download {
+    display: inline-flex; align-items: center; gap: 0.3rem;
+    padding: 0.25rem 0.65rem; border: 1px solid #e3e0d8; border-radius: 3px;
+    color: #666; background: #fff; text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif; font-size: 0.75rem; font-weight: 600;
+}
+.resource-pdf .pdf-download:hover { border-color: #2f4c3a; color: #2f4c3a; }
 
 .category-tag:hover {
     background: var(--secondary-color);

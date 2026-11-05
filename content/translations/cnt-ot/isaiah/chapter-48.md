@@ -15,7 +15,7 @@ next: chapter-49
 ### Stubborn Israel
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         <a name="_Hlk123389639">48<sup>:1</sup></a></span></b><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Listen to this, Jacob called ‘Israel,’</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Listen to this, Jacob called ‘Israel,’</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        that came from Judah’s family,</span></i></p>
 
@@ -47,7 +47,7 @@ next: chapter-49
 
 <p class="section-ref">Is 48:3-5</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123389802"><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>      </span></i></a><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You’ve heard my predictions and seen them fulfilled,</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You’ve heard my predictions and seen them fulfilled,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                           </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but you still won’t own up to them;</span></i></p>
 
@@ -83,7 +83,7 @@ next: chapter-49
 ### Israel Freed from Babylon
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><a name="_Hlk123390068"><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Listen to me, Jacob, Israel that I’ve chosen;</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Listen to me, Jacob, Israel that I’ve chosen;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m the only One, the first and the last.</span></i></p>
 
@@ -113,13 +113,11 @@ next: chapter-49
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  about what would happen.”</span></i><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                 </span></b></p>
 
-
-### Already the Lord GOD and his Spirit have sent me with that message.
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Already the Lord G</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>OD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> and his Spirit have sent me with that message.</span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>         </span></b></p>
 
 <p class="section-ref">Is 48:12-16</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><a name="_Hlk123390256"><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is what the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> says, </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is what the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> says, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>your Redeemer, the Holy One of Israel:</span></p>
 
@@ -139,9 +137,7 @@ next: chapter-49
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              like grains of sand by the seashore;</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                     </span></b></p>
 
-
-### I wouldn’t have needed to cut them off
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I wouldn’t have needed to cut them off</span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              or destroy them out of my presence.”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                   </span></p>
 

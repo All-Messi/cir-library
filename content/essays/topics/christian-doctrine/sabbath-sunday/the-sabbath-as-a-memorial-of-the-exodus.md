@@ -2,6 +2,8 @@
 title: "THE SABBATH AS A MEMORIAL OF THE EXODUS"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-09-15
+lastmod: 2025-07-15
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -117,7 +119,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                        <img width=334 height=111
+style='font-size:12.0pt'>                        <img alt="Creation rest (Psalm 95, Genesis 2:3), Canaan rest (Deuteronomy 5:15), heaven rest (Hebrews 3-4)" width=334 height=111
 src="/images/essays/the-sabbath-as-a-memorial-of-the-exodus/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

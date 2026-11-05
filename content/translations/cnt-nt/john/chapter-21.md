@@ -14,7 +14,7 @@ prev: chapter-20
 ### Appearance to Seven by Lake Galilee
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After that, Jesus appeared again to his disciples at Lake Tiberias. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After that, Jesus appeared again to his disciples at Lake Tiberias. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Simon Peter, Thomas, Nathanael from Cana in Galilee, Zebedee’s sons, and two other disciples were together.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Simon Peter said</span><sup><span style='font-family:"Times New Roman",serif'>p</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
@@ -88,8 +88,6 @@ prev: chapter-20
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus did a lot of other things too, but if every one was written down, I suppose the world couldn’t hold all the books.</span></span></p>
 
 <p class="section-ref">Jn 21:24-25</p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Translator: Virgil Warren                                                                                                 christir.org</span></p>
 
 
 <style>

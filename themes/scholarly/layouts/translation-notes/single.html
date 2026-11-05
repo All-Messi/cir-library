@@ -8,12 +8,16 @@
         {{ end }}
     </nav>
 
+    <div data-pagefind-body>
+    {{- /* searchable since 2026-11-04 (site comb NAV-08) */}}
+    {{ partial "pagefind-tags.html" (dict "filter" (dict "type" "resource") "meta" (dict "type" "resource" "title" .Title)) }}
     <header class="notes-header">
         <h1>{{ .Title }}</h1>
     </header>
 
     <div class="notes-body word-content">
         {{ .Content }}
+    </div>
     </div>
 
     {{ with $parent }}

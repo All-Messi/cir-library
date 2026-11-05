@@ -15,11 +15,9 @@ next: chapter-54
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> A Maskil of David</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123895312"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Fools tell themselves there’s no God.</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Fools tell themselves there’s no God.</span></b></span></p>
 
-
-### They’re corrupt and commit disgusting sins;
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’re corrupt and commit disgusting sins;</span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      none of them does what’s good.</span></b></p>
 

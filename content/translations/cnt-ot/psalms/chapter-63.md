@@ -15,7 +15,7 @@ next: chapter-64
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> When He Was in the Wilderness of Judah</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123937998"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God, you’re my God; I look to you in earnest;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God, you’re my God; I look to you in earnest;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      my soul thirsts for you; </span></p>
 
@@ -51,7 +51,7 @@ next: chapter-64
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      your right hand upholds me.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123938073"><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But those who are trying to destroy me</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But those who are trying to destroy me</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>will end up in the ground.</span></p>
 

@@ -126,7 +126,7 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></i><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>when what you dread comes like a tornado,</span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  <a name="_Hlk146356649">when distress come crashing down on you</a>.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  when distress come crashing down on you.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></b></span></p>
 
 <p class="section-ref">Prov 1:20-27</p>
 

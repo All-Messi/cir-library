@@ -14,7 +14,7 @@ next: chapter-02
 ### Introduction
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>1</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:</span></sup></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The relevation God gave to Jesus Cjhrist<sup>Messiah</sup> to show his servants about what must happen soon. He sent <i>it</i> through his angel to his servant John, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The relevation God gave to Jesus Cjhrist<sup>Messiah</sup> to show his servants about what must happen soon. He sent <i>it</i> through his angel to his servant John, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>who has passed on everything he saw about God’s message and Jesus Christ’s revelation. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Blessed
 <i>is </i>the one who reads and the ones that hear the prophecy<sup>fem</sup> and keep what’s written in it<sup>fem</sup>. It’s coming soon.             </span></span></p>
@@ -42,9 +42,7 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m Alpha and Omega,”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> the Lord God Almighty says, who is and was and is to come. </span></span></p>
 
-
-### Rev 1:7-8
-
+<p class="section-ref">Rev 1:7-8</p>
 
 
 ### Vision of Christ
@@ -67,7 +65,9 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“Don’t be afraid. I’m <span style='color:#C00000'>the First and Last, </span></span></i><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>the Living One that died and came back to life </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>forevermore. I have <span style='color:#C00000'>the keys </span>to death and the grave. </span></i></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Write down what you’ve seen, what is and will be. </span></i></span>
-<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The seven stars in my right hand are the evangelists for the seven churches; the lampstands are the churches.”</span></i><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                           Rev 1:17-20</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></i></span></p>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The seven stars in my right hand are the evangelists for the seven churches; the lampstands are the churches.”</span></i><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Rev 1:17-20</p>
 
 
 <style>

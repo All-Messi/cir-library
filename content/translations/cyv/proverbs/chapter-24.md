@@ -11,10 +11,6 @@ next: chapter-25
 
 ## Proverbs Chapter 24
 
-
-### I’ll want another drink.”                                Prov 23:29-35
-
-
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t envy bad people</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            or want to be around them;</span></p>

@@ -15,7 +15,7 @@ next: chapter-03
 ### Hannah’s Prayer
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Hannah prayed,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Hannah prayed,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“My heart celebrates in Yahveh;</span></i></p>
 
@@ -81,8 +81,9 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              and elevate the one he’s anointed.”</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Elkanah went home to Ramah, but the boy served </span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh in Eli’s presence.   </span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>1 Sam 2:1-11</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Elkanah went home to Ramah, but the boy served </span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh in Eli’s presence.</span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">1 Sam 2:1-11</p>
 
 
 ### Eli’s Wicked Sons

@@ -12,14 +12,10 @@ next: chapter-03
 ## Lamentations Chapter 2
 
 
-### I groan a lot, and my heart is faint.”                                            Lam 1:21-22
-
-
-
 ### Destruction for Sin
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>How the Lord in his anger has covered Zion under a cloud!</span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>How the Lord in his anger has covered Zion under a cloud!</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            He has thrown down Israel’s splendor from heaven to earth;</span></p>
 
@@ -45,9 +41,9 @@ next: chapter-03
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and killed everybody we took pride in.</span></p>
 
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            He has poured out his anger like fire in the tent of Zion.<b>                   </b></span></p>
 
-### He has poured out his anger like fire in the tent of Zion.                   Lam 2:1-4
-
+<p class="section-ref">Lam 2:1-4</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Lord has become like an enemy;</span></span></p>
 
@@ -100,7 +96,7 @@ next: chapter-03
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                prophets don’t have visions from the L</span><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          </span><a name="_Hlk147237656"><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The elders of Zion sit silent on the ground;</span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          </span><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The elders of Zion sit silent on the ground;</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  they’ve thrown dust on their heads</span></p>
 
@@ -188,11 +184,11 @@ next: chapter-03
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                Should women eat their offspring, little babies born healthy?</span></p>
 
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                Should prophet and priest be killed in your sanctuary?<b>               </b></span></p>
 
-### Should prophet and priest be killed in your sanctuary?               Lam 2:17-20
+<p class="section-ref">Lam 2:17-20</p>
 
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          </span><a name="_Hlk147238080"><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Young and old lie on the ground in the streets;</span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          </span><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Young and old lie on the ground in the streets;</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                my virgins and young men have fallen by the sword.</span></p>
 
@@ -203,6 +199,10 @@ next: chapter-03
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          </span><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You invited terrors on every side of me as to an appointed festival.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                Nobody escaped or survived your anger.</span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  My enemy destroyed the ones I cared for and raised.<b>                  </b></span></p>
+
+<p class="section-ref">Lam 2:21-22</p>
 
 
 <style>

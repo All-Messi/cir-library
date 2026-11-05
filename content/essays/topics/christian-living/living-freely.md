@@ -253,8 +253,8 @@ style='font-size:12.0pt'>                           �
                       He wrote.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:4.5in;margin-bottom:.0001pt;text-align:justify;text-indent:
--265.5pt'><span style='font-size:12.0pt'>                                                                                        He
+0in;margin-left:min(4.5in, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:
+calc(min(78px, 35vw) - min(4.5in, 35vw))'><span style='font-size:12.0pt'>                                                                                        He
 received and sent                   guests and directed mis-   sionary efforts.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

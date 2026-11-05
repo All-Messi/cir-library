@@ -11,7 +11,7 @@ next: chapter-04
 
 ## 1 Thessalonians Chapter 3
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wherefore, being┘no-longer└able-to-put-up-with (it), we-thought-it-best to-be-left-behind in Athens alone, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wherefore, being┘no-longer└able-to-put-up-with (it), we-thought-it-best to-be-left-behind in Athens alone, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and sent Timothy, the brother of-us and fellow-worker of-[the] God in the gospel of-[the] Christ, unto [the] strengthening you and encouraging (you) on-behalf-of the faith of-you </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to┘[the] nobody’s└being-disturbed by [the] these tribulations, for you┘yourselves└know that we-are-destined for this.  </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For even when we-were with you, we-were-telling┘you└beforehand that we-would be-afflicted even-as also it-happened and you-know (it).  </span></span>

@@ -19,7 +19,9 @@ prev: chapter-02
 </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But, the Lord is faithful; he’ll strengthen you and keep <i>you</i> from the evil one. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>We’re confident in the Lord that you’re doing and will do what we tell you. </span></span>
-<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>May the Lord direct you to God’s love and the endurance that Christ gives you.     </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Th 3:1-5</span></b></span></p>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>May the Lord direct you to God’s love and the endurance that Christ gives you.     </span></span></p>
+
+<p class="section-ref">2 Th 3:1-5</p>
 
 
 ### Warnings About Idleness
@@ -34,7 +36,9 @@ prev: chapter-02
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>By the Lord Jesus Christ we direct and urge people like that to work quietly and eat their own food. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t get discouraged with doing good. </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If any don’t obey what we’ve said in <i>this</i> letter, don’t associate with them so they’ll be ashamed. </span></span>
-<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t consider </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>them</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> enemies; warn </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>them</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> like members of Christ’s family.            </span><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Th 3:6-15</span></b></span></p>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t consider </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>them</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> enemies; warn </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>them</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> like members of Christ’s family.            </span></span></p>
+
+<p class="section-ref">2 Th 3:6-15</p>
 
 
 ### Farewell
@@ -44,9 +48,9 @@ prev: chapter-02
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The salutation with my own hand—an identifying mark in every letter <i>I write</i>. This is what my handwriting looks like. </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The grace of our Lord Jesus Christ <i>be</i> with you.                                               </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Th 3:16-18</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The grace of our Lord Jesus Christ <i>be</i> with you.                                               </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Translator: Virgil Warren</span><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>                                                                                                     </span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
+<p class="section-ref">2 Th 3:16-18</p>
 
 
 <style>

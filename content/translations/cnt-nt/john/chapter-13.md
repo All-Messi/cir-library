@@ -15,7 +15,7 @@ next: chapter-14
 ### Jesus Washes the Disciples’ Feet
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Before the Passover Festival, Jesus knew the time had come <i>for him</i> to go to the Father. He loved his own that were in the world and loved them to the end. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Before the Passover Festival, Jesus knew the time had come <i>for him</i> to go to the Father. He loved his own that were in the world and loved them to the end. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>During the supper, the devil had already prompted Judas, Simon Iscariot’s son, to betray him. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus knew the Father had turned everything over to him. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He got</span><sup><span style='font-family:"Times New Roman",serif'>p</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> up from supper, laid</span><sup><span style='font-family:"Times New Roman",serif'>p</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> his outer clothes aside, and took a towel and hung it over his <i>shoulder</i>.
@@ -49,9 +49,7 @@ next: chapter-14
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you understand that, you’re blessed if you act that way. </span></i></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m not talking about all of you. I know who I’ve chosen, but like the scripture says:</span></i></span></p>
 
-
-### ‘The one that eats my food
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        <b>‘The one that eats my food </b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> has lifted up his heel against me’</span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Ps 41:9]</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>.</span></p>
 

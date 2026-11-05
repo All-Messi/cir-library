@@ -85,7 +85,7 @@ next: chapter-75
 
 <p class="section-ref">Ps 74:12-17</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><a name="_Hlk124155527"><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Remember, Yahveh, that your enemies are scorning you;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Remember, Yahveh, that your enemies are scorning you;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      foolish people are ridiculing you.</span></p>
 

@@ -15,7 +15,7 @@ next: chapter-05
 ### The Ministry in Samaria
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Jesus found out that the Pharisees heard he was making and baptizing more disciples than John </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Jesus found out that the Pharisees heard he was making and baptizing more disciples than John </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(</span><span style='font-family:"Times New Roman",serif'>though Jesus didn’t perform the baptisms himself; his disciples did them</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>), </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>he left Judaea and headed back to Galilee. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He had to go through Samaria. </span></span>

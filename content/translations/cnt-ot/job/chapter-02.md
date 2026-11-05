@@ -11,7 +11,7 @@ next: chapter-03
 
 ## Job Chapter 2
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124931798"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On another day when the sons of God came to present themselves to the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, Satan came with them. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On another day when the sons of God came to present themselves to the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, Satan came with them. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> asked him, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Where’d
@@ -37,7 +37,7 @@ next: chapter-03
 
 <p class="section-ref">Job 2:1-10</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124931935"><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His three friends <span style='color:#00B050'>Eliphaz</span> the Temanite, <span style='color:#7030A0'>Bildad</span> the Shuhite, and <span style='color:#C00000'>Zophar</span> the Naamathite heard about all the terrible things that had happened to him. They made an appointment together to come and sympathize with him and comfort him. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His three friends <span style='color:#00B050'>Eliphaz</span> the Temanite, <span style='color:#7030A0'>Bildad</span> the Shuhite, and <span style='color:#C00000'>Zophar</span> the Naamathite heard about all the terrible things that had happened to him. They made an appointment together to come and sympathize with him and comfort him. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>When they looked up from a distance and didn’t recognize him, they wailed loudly, tore their robes, and threw dust over their heads. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They sat down on the ground with him for seven days and nights without saying a word, because they saw he was in so much pain.<b>                        </b></span></span></p>
 

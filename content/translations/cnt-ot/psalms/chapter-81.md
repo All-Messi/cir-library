@@ -17,7 +17,7 @@ next: chapter-82
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> Set to <i>The Gittith</i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124177084"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sing to God your Strength;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sing to God your Strength;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      make a joyful sound to Jacob’s God.</span></p>
 
@@ -41,7 +41,7 @@ next: chapter-82
 
 <p class="section-ref">Ps 81:1-5</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124177254"><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll take the burden off your shoulders</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll take the burden off your shoulders</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and free you from heavy labor.</span></i></p>
 

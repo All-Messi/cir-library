@@ -11,10 +11,6 @@ next: chapter-02
 ## Judges Chapter 1
 
 
-### Conversational Yahveh Covenant
-
-
-
 ### Partial Conquest of Remaining Territory
 
 
@@ -35,7 +31,9 @@ next: chapter-02
 </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then they went down to fight the Canaanites in the hill country, the Negev, and the western foothills. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Judah attacked the Canaanites in Hebron (</span><span style='font-family:"Times New Roman",serif'>called Kiriath-arba before</span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>) and defeated Sheshai, Ahiman, and Talmai.
-</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 1:1-10</span></b></span></p>
+</span></span></p>
+
+<p class="section-ref">Jud 1:1-10</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From there they attacked Debir (</span><span style='font-family:"Times New Roman",serif'>called Kiriath-sepher before</span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>). </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Caleb said, <i>“Whoever takes Keriath-sepher, I’ll give my daughter Achsah as a wife.” </i></span></span>
@@ -50,7 +48,9 @@ next: chapter-02
 </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Judah went with Simeon and defeated the Canaanites in Zephath and destroyed it; so the city was called Hormah. </span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> Judah also took Gaza, Ashkelon, and Ekron, and their territories. Yahveh was with Judah, and he gained possession of the hill country, but he couldn’t drive out the people in the plain; they had iron chariots. </span></span>
-<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They gave Hebron to Caleb, like Moses had said. He drove out Anak’s three sons.           </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 1:11-20</span></b></span></p>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They gave Hebron to Caleb, like Moses had said. He drove out Anak’s three sons.           </span></span></p>
+
+<p class="section-ref">Jud 1:11-20</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But
 <u>Benjamin</u> didn’t drive out the Jebusites in Jerusalem; they still live there among them.</span></span></p>
@@ -64,7 +64,9 @@ next: chapter-02
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He went to the Hittites and built a city he called Luz. That’s still its name.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Manasseh</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> didn’t drive out the people in Beth-shean, Taanach, Dor, Ibleam, or Megiddo and their villages. The Canaanites kept living there. </span></span>
-<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Israel grew stronger, they put them to forced labor; but they didn’t completely drive them out.    </span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>Jud 1:21-28</span></b></span></p>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Israel grew stronger, they put them to forced labor; but they didn’t completely drive them out.    </span></span></p>
+
+<p class="section-ref">Jud 1:21-28</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ephraim</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> didn’t drive out the Canaanites in Gezer, who kept living among them.</span></span></p>
 
@@ -78,7 +80,9 @@ next: chapter-02
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Amorites pressed the <u>Dan</u>ites back into the hill country. They wouldn’t let them come down to the plain. </span></span>
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They went on living in Mount Heres. Aijalon, and Shaalbim. But Joseph’s house pressed heavily on them and subjected them to forced labor. </span></span>
 <span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The border of the Amorites ran from the ascent of Akrabbim, from Sela and up.
-</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 1:29-36</span></b></span></p>
+</span></span></p>
+
+<p class="section-ref">Jud 1:29-36</p>
 
 
 <style>

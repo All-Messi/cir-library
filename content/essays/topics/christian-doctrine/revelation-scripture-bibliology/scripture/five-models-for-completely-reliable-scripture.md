@@ -2,6 +2,8 @@
 title: "FIVE MODELS FOR COMPLETELY RELIABLE SCRIPTURE"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2013-05-01
+lastmod: 2025-07-12
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -204,7 +206,7 @@ style='font-size:12.0pt'>Summary Chart</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>      
- <img width=398 height=152 id="Picture 1" src="/images/essays/five-models-for-completely-reliable-scripture/image001.png"></span></p>
+ <img alt="What God gives (words, ideas, abilities, experiences, calling) and the proportion of the Spirit&#x27;s and man&#x27;s responsibility (HS/M) → fully reliable scripture" width=398 height=152 id="Picture 1" src="/images/essays/five-models-for-completely-reliable-scripture/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 

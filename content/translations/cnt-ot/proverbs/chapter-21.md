@@ -11,7 +11,7 @@ next: chapter-22
 
 ## Proverbs Chapter 21
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122371730"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A king’s heart in the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>’s hand </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A king’s heart in the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>’s hand </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>is like a stream he can direct where he wants.</span></p>
 
@@ -57,7 +57,7 @@ next: chapter-22
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>instructing the wise makes them wiser still.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122371784"><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Good people watch out for the sinful</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Good people watch out for the sinful</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and turn them to ruin.</span></p>
 
@@ -89,7 +89,7 @@ next: chapter-22
 
 <p class="section-ref">Prov 21:13-18</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122371845"><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It’s better to live in the desert </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It’s better to live in the desert </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>than with a contentious, “complainy” woman.</span></p>
 

@@ -1,7 +1,7 @@
 ---
 title: "A Call to Repentance"
 date: '2024-10-13'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

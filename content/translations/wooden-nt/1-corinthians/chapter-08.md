@@ -11,7 +11,7 @@ next: chapter-09
 
 ## 1 Corinthians Chapter 8
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now about [the]-things offered to idols. We┘all└have knowledge. [The] knowledge puffs up; [the] love builds up. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now about [the]-things offered to idols. We┘all└have knowledge. [The] knowledge puffs up; [the] love builds up. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If anybody thinks (himself) to-know something, he-did┘not-yet└come-to-know as it-is-necessary to-know. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And if anybody loves [the] God, this-one has-been-known by him. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>About [the] eating things-offered-to-idols. We know (there is) no idol in (the) world and that nobody (is) God but<sup>2</sup> one. </span></span>

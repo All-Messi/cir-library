@@ -10,10 +10,6 @@ next: chapter-02
 
 ## Zechariah Chapter 1
 
-
-### Conversional Version
-
-
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-top:0in;margin-bottom:0in;margin-left:0in;text-align:center;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
 <b>Eighth Month, Second Year of Darius</b></span></span></p>
 
@@ -46,7 +42,7 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The angel said,<i> “I’ll show you.” </i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The man <i>on the horse </i>among the myrtle trees said, <i>“The <a name="_Hlk196196607">L</a></i></span><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> has sent them to patrol the earth.”</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The man <i>on the horse </i>among the myrtle trees said, <i>“The L</i></span><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> has sent them to patrol the earth.”</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They answered the angel of the L</span><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, who was standing among the myrtle trees, <i>“We’ve patrolled the earth. It’s peaceful and quiet.”</i></span></span></p>
 

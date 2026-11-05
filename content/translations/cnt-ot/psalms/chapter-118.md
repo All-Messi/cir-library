@@ -77,7 +77,7 @@ next: chapter-119
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s right hand has done valiantly. </span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124283214"><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He has lifted high his right hand;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He has lifted high his right hand;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His right hand has done mighty things.</span></p>
 

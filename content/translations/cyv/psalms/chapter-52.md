@@ -52,9 +52,7 @@ next: chapter-53
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But
 <u>I</u>’m like a green olive tree in God’s house;</span></span></p>
 
-
-### I’ll always trust in his enduring love.
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll always trust in his enduring love</span><b><span style='font-family:"Times New Roman",serif'>.</span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll be eternally grateful for what he’s done,</span></span></p>
 

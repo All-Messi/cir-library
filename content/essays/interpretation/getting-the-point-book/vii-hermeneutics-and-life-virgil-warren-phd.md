@@ -4,9 +4,10 @@ categories:
 - Interpretation
 - Getting The Point Book
 date: '2026-02-16'
+lastmod: 2025-07-11
 draft: false
 title: "Hermeneutics and Life"
-weight: 48
+weight: 23
 ---
 
 <style>
@@ -37,8 +38,7 @@ ul
 <div class="word-content">
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
-style='font-size:12.0pt'>VII. HERMENEUTICS AND LIFE                                                         </span></b><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
+style='font-size:12.0pt'>VII. HERMENEUTICS AND LIFE</span></b></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -64,7 +64,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>          <img width=307 height=87
+style='font-size:12.0pt'>          <img alt="Events → Bible; my life → knowledge of the facts, understanding the meaning, wisdom of application" width=307 height=87
 src="/images/essays/vii-hermeneutics-and-life-virgil-warren-phd/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

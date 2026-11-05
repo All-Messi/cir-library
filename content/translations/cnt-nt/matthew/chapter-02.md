@@ -15,7 +15,7 @@ next: chapter-03
 ### The Visit of the Magi
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Jesus was born in Bethlehem, Judaea, during the reign of King Herod <sup>the Great</sup>, Magi from the East arrived in Jerusalem,</span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Jesus was born in Bethlehem, Judaea, during the reign of King Herod <sup>the Great</sup>, Magi from the East arrived in Jerusalem,</span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Where’s the newborn king of the Jews? In the East we saw his star and have come to pay him homage.”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That disturbed <i>Herod</i> and the whole city as well. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He called in the chief priests and scribes of the people and asked them where the <u>Messiah</u> was to be born. </span></span></p>
@@ -60,14 +60,10 @@ next: chapter-03
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    weeping and bitter crying;</span></i></b></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              Rachel
+</span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>was<i> weeping for her children.</i></span></b></p>
 
-### Rachel
-was weeping for her children.
-
-
-
-### She wouldn’t be consoled;
-
+<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    She wouldn’t be consoled;</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    they were gone”</span></i></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></b><b><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Jer 31:15].</span></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                             </span></i></b></span></p>
 

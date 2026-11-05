@@ -24,15 +24,19 @@ next: chapter-20
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He appointed judges in each fortified city in Judah,  </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Consider what you’re doing. You’re not </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>just<i> judging for people but for Yahveh that’s with you. </i></span></span>
-<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Respect him; he won’t take part in sin, partiality, or bribery.”                                                             </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 19:1-7</span></b></span></p>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Respect him; he won’t take part in sin, partiality, or bribery.”                                                             </span></i></span></span></p>
+
+<p class="section-ref">2 Ch 19:1-7</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In Jerusalem, Jehoshaphat appointed Levites, priests, and heads of families to judge disputes, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Do this in respect for Yahveh, faithfully and wholeheartedly. </span></i></span>
-<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Whenever a dispute comes to you from your relatives that live in their cities, between blood and blood, between law and commandment, statutes and ordinances, warn them so they won’t be guilty to Yahveh and wrath won’t come on you or them. </span></i><a name="_Hlk145497521"></span>
-<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Amariah
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Whenever a dispute comes to you from your relatives that live in their cities, between blood and blood, between law and commandment, statutes and ordinances, warn them so they won’t be guilty to Yahveh and wrath won’t come on you or them. </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Amariah
 </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the chief priest will manage everything that has to do with Yahveh. Zebadiah Ben-Ishmael, ruler of Judah, will manage everything that has to do with the king. The Levites will be officers in your presence. Act resolutely; Yahveh be with the godly.”
-</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 19:8-11</span></b></span></p>
+</span></i></span></span></p>
+
+<p class="section-ref">2 Ch 19:8-11</p>
 
 
 <style>

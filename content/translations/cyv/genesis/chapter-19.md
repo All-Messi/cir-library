@@ -15,7 +15,7 @@ next: chapter-20
 ### The Destruction of Sodom and Gomorrah
 
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The two angels went to Sodom in the evening</span><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>as Lot sat</span><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The two angels went to Sodom in the evening</span><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>as Lot sat</span><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>in Sodom’s gate. When he saw <i>them</i>, he got up to meet them and bowed to the ground. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Sirs, turn aside to my house, wash your feet, and spend the night. You can get up early and go on.”</span></i></span></p>
 

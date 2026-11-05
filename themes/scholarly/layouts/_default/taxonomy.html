@@ -231,7 +231,7 @@
                 {{ if .Params.categories }}
                 <p class="essay-categories">
                     {{ range .Params.categories }}
-                    <a href="{{ "categories/" | absURL }}{{ . | urlize }}/" class="category-tag">{{ . | lower | title }}</a>
+                    <a href="{{ "categories/" | absURL }}{{ . | urlize }}/" class="category-tag">{{ partial "category-label.html" . }}</a>
                     {{ end }}
                 </p>
                 {{ end }}

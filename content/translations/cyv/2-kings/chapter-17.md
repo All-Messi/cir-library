@@ -20,7 +20,9 @@ next: chapter-18
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height: 115%'>Shalmaneser, king of Assyria, attacked him, and he had to pay tribute <i>to Assyria</i>. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%'>But the king of Assyria discovered a plot he was laying. He’d sent ambassadors to So, king of Egypt, and withheld the annual tribute to Assyria; so <i>Shalmaneser</i> shut him up bound in prison. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%'>Then he invaded the whole country and went up to Samaria and laid siege to it for 3 years. </span></span>
-<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%'>In the <b>ninth year of Hoshea</b>, the king of Assyria conquered the city and took Israel into exile in Assyria. He settled them in Halah and Habor on the Gozan River and in towns of the Medes.<b>    </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 17:1-6</span></b></span></p>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%'>In the <b>ninth year of Hoshea</b>, the king of Assyria conquered the city and took Israel into exile in Assyria. He settled them in Halah and Habor on the Gozan River and in towns of the Medes.<b>    </b></span></span></p>
+
+<p class="section-ref">2 Kg 17:1-6</p>
 
 
 ### Israel Exiled over Sin
@@ -42,7 +44,7 @@ next: chapter-18
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%'>They rejected the statutes and the covenant he made with their ancestors and <i>dismissed
 </i>his warnings. They became vain and followed the nations around them that he commanded them not to be like.<b>               </b></span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><b><span style='font-size:12.0pt; line-height:115%'>                                                                                                                              </span></b><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 17:7-15</span></b></p>
+<p class="section-ref">2 Kg 17:7-15</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height: 115%'>They made molten images, <i>that is, </i>two calves and an Asherah pole. They worshiped the host of heaven and served Baal. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%'>They burned their sons and daughters as offerings, and practiced fortunetelling and sorcery. They provoked Yahveh by selling themselves to sinning. </span></span>
@@ -64,14 +66,18 @@ next: chapter-18
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt; line-height:115%'>“The nations you exiled into the towns in Samaria don’t know the Law of the god of the land. He has sent lions among them to kill them.” </span></i></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height: 115%'>Then the king commanded, <i>“Bring one of the priests you exiled, and have him live there and teach them the Law of the god of the land.”</i> <b>                                                                                                                                        </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 17:16-27</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height: 115%'>Then the king commanded, <i>“Bring one of the priests you exiled, and have him live there and teach them the Law of the god of the land.”</i> <b>                                                                                                                                        </b></span></span></p>
+
+<p class="section-ref">2 Kg 17:16-27</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height: 115%'>One of the priests they’d exiled came and lived at Bethel and taught them how to respect Yahveh. </span></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%'>But every nation in the towns where they lived still made gods of their own and put them at the pagan shrines the people of Samaria had made. </span></span>
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%'>The people from Babylon made Succoth-benoth, the people from Cuth made Nergal, the people from Hamath made Ashima, </span></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%'>the Avvites made Nibhaz and Tartak, the people from Sepharvaim burned their children in the fire to Adrammelech and Anammelech their gods. </span></span>
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%'>They also feared Yahveh and appointed priests for the high places, who acted for them in the shrines there. </span></span>
-<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height: 115%'>They feared Yahveh <u>and</u> served their own gods like they did where they came from.</span><b><span style='font-size:10.0pt;line-height:115%'>      2 Kg 17:18-33</span></b></span></p>
+<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height: 115%'>They feared Yahveh <u>and</u> served their own gods like they did where they came from.</span></span></p>
+
+<p class="section-ref">2 Kg 17:18-33</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height: 115%'>They’ve kept the earlier customs ever since. They don’t respect Yahveh or follow his statutes, ordinances, Law, or commandments to Jacob’s descendants, that he named Israel </span></span>
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%'>and made a covenant with, </span></span></p>
@@ -82,7 +88,9 @@ next: chapter-18
 <span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <i><span style='font-size:12.0pt;line-height:115%'>Fear Yahveh your God, and he’ll deliver you from your enemies.”</span></i><span style='font-size:12.0pt; line-height:115%'>  </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height:115%'>They didn’t listen; </span></span>
-<span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size:12.0pt;line-height:115%'>while they feared Yahveh, they also served their idols. Their children and grandchildren still do that.</span><b><span style='font-size:10.0pt;line-height:115%'>        2 Kg 17:34-41</span></b></span></p>
+<span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size:12.0pt;line-height:115%'>while they feared Yahveh, they also served their idols. Their children and grandchildren still do that.</span></span></p>
+
+<p class="section-ref">2 Kg 17:34-41</p>
 
 
 <style>

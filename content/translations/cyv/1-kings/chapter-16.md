@@ -19,7 +19,9 @@ next: chapter-17
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of the acts of Baasha and the strength of his rule are recorded in <i>The Chronicles of the Kings of Israel</i>. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died and they buried him in Tirzah. His son <u>Elah</u> became king. </span></span>
-<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In addition, a message from Yahveh through the prophet Jehu came against Baasha and his dynasty. <i>It came against him</i> because of his sin that made Yahveh angry like Jeroboam’s dynasty did, and because he destroyed Jeroboam’s family.<b>       </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 16:1-7</span></b></span></p>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In addition, a message from Yahveh through the prophet Jehu came against Baasha and his dynasty. <i>It came against him</i> because of his sin that made Yahveh angry like Jeroboam’s dynasty did, and because he destroyed Jeroboam’s family.<b>       </b></span></span></p>
+
+<p class="section-ref">1 Kg 16:1-7</p>
 
 
 ### Elah Rules in Israel
@@ -32,7 +34,9 @@ next: chapter-17
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So Zimri destroyed Baasha’s family like Yahveh had said through the prophet Jehu.
 </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He delivered that message</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> because of the sins Baasha and Elah did and got Israel to do with their idols and made Yahveh angry. </span></span>
-<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of the acts of Elah are recorded in <i>The Chronicles of the Kings of Israel.</i><b>                                        </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 16:8-14</span></b></span></p>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of the acts of Elah are recorded in <i>The Chronicles of the Kings of Israel.</i><b>                                        </b></span></span></p>
+
+<p class="section-ref">1 Kg 16:8-14</p>
 
 
 ### Zimri Rules in Israel
@@ -52,11 +56,13 @@ next: chapter-17
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people of Israel were divided: half followed Tibni Ben-Ginath and half followed Omri. </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the ones that followed Omri prevailed. Tibni died and <u>Omri</u> became king. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the <b>thirty-first year of Asa</b>, king of Judah, Omri became king in Israel and ruled for 12 years, 6 in Tirzah. </span></span>
-<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He bought the hill of Samaria from “Shemer” for <a name="_Hlk145078678">151 lbs <sup>two talents</sup> of silver</a>, and built a city on it that he named Samaria after its owner. </span></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He bought the hill of Samaria from “Shemer” for 151 lbs <sup>two talents</sup> of silver, and built a city on it that he named Samaria after its owner. </span></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Omri did evil worse than anybody before him. </span></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He did everything Jeroboam did and got Israel to do. </span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of the acts of Omri and the strength he showed are recorded in <i>The Chronicles of the Kings of Israel</i>. </span></span>
-<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died and they buried him in Samaria. His son Ahab became king.<b>     </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 16:15-28</span></b></span></p>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died and they buried him in Samaria. His son Ahab became king.<b>     </b></span></span></p>
+
+<p class="section-ref">1 Kg 16:15-28</p>
 
 
 ### Ahab Rules in Israel
@@ -68,7 +74,9 @@ next: chapter-17
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He erected an altar for Baal in a temple for Baal that he built for Baal in Samaria </span></span>
 <span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and set up an Asherah pole. He did more to provoke Yahveh God of Israel than any king of Israel before him. </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>During his reign, Hiel from Bethel rebuilt Jericho. He laid its foundations with the loss of Abiram his firstborn and set up its gates with the loss of his youngest son Segub, in fulfillment of Yahveh’s message through Joshua Ben-Nun.<b>  </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 16:29-34</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>During his reign, Hiel from Bethel rebuilt Jericho. He laid its foundations with the loss of Abiram his firstborn and set up its gates with the loss of his youngest son Segub, in fulfillment of Yahveh’s message through Joshua Ben-Nun.<b>  </b></span></span></p>
+
+<p class="section-ref">1 Kg 16:29-34</p>
 
 
 <style>

@@ -11,10 +11,6 @@ next: chapter-02
 ## Daniel Chapter 1
 
 
-### Conversational Covenant
-
-
-
 ### Daniel Taken to Babylon
 
 

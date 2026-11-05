@@ -15,7 +15,7 @@ next: chapter-62
 ### The Year of Yahveh’s Favor
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk86950090"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Spirit of the Lord Yahveh is on me;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Spirit of the Lord Yahveh is on me;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              he’s anointed me to bring good news to the downtrodden.</span></p>
 

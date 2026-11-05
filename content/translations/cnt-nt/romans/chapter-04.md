@@ -15,7 +15,7 @@ next: chapter-05
 ### Abraham and David
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What can we say, then, our ancestor Abraham discovered? </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What can we say, then, our ancestor Abraham discovered? </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If what he did, justified him, he had something to feel good about, but not toward God. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>What does the scripture say? <b><i>“Abraham <u>trusted</u> God, and God <u>considered</u> him righteous”
 </i></b></span><b><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>[Gen 15:6]</span></b><b><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>because of it.<b> </b></span></i></span>
@@ -27,7 +27,7 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    whose sins he covers.</span></i></b></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><i><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></sup></i></b><b><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i>‘</i></b><b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Fortunate’&nbsp;are the people whose sin the L</span></i></b><b><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></sup></i></b><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <b><i>‘</i></b><b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Fortunate’&nbsp;are the people whose sin the L</span></i></b><b><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i></b></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    doesn’t hold against them” </span></i></b><b><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>[Ps 32:1-2]</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></p>
 

@@ -107,9 +107,9 @@ next: chapter-29
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>Abaddon and Death say,</span></i></span></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>‘We haven’t heard any report about it.’</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>               </span></b></span></p>
 
-### ‘We haven’t heard any report about it.’               Job 28:17-22
-
+<p class="section-ref">Job 28:17-22</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>“God knows where it is</span></i></span></p>
 

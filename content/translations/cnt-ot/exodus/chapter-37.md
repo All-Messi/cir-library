@@ -15,7 +15,7 @@ next: chapter-38
 ### The Ark
 
 
-<p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bezalel made <u>the Ark</u> out of acacia wood: 45 x 27 x 27ins high. </span></span>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bezalel made <u>the Ark</u> out of acacia wood: 45 x 27 x 27ins high. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He overlaid it with pure gold inside and out, made a gold border around it, </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and cast 4 gold rings for it, 2 on each side. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He shaped poles out of acacia wood overlaid with gold </span></span>
@@ -68,7 +68,9 @@ next: chapter-38
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He overlaid its top, sides, and horns with pure gold, and made a gold molding around it. </span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For each side under its molding he made two gold rings to hold the poles for carrying it. </span></span>
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He fashioned the poles out of acacia wood overlaid with gold. </span></span>
-<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He made the holy anointing oil and pure fragrant incense out of spices—an incense maker’s work.                                                                                                                    </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ex 37:25-29</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span></p>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He made the holy anointing oil and pure fragrant incense out of spices—an incense maker’s work.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Ex 37:25-29</p>
 
 
 <style>

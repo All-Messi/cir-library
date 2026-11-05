@@ -1,7 +1,8 @@
 ---
 title: "NEW TESTAMENT CANON"
-author: "Virgil Waren christir.org"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-10
 categories:
 - 'Topics'
 - 'Notion In A Nutshell'
@@ -42,7 +43,4 @@ contrast with books written later, books of unknown origin, books accepted in
 small areas of the Roman empire, and those with doctrines of faith and practice
 that diverge widely from the canonical books.</span></p>
 
-<p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'>Virgil Waren     </span><span
-style='font-family:"Times New Roman",serif'>christir.org</span></p>
 </div>

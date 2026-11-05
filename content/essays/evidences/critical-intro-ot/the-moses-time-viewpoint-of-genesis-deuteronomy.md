@@ -2,6 +2,8 @@
 title: "THE MOSES-TIME VIEWPOINT OF GENESIS-DEUTERONOMY"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2017-03-22
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Critical Intro Ot'

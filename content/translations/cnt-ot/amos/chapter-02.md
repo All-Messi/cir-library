@@ -15,9 +15,7 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><b><i><span style='font-family:"Times New Roman",serif'>“For three sins of </span></i></b><i><span style='font-family:"Times New Roman",serif'>Moab <b>and for four,</b></span></i></p>
 
-
-### I won’t hold back its punishment:
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><b><i><span style='font-family:"Times New Roman",serif'>      I won’t hold back its punishment:</span></i></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they burned the king of Edom’s bones into lime.</span></i></p>
 
@@ -41,9 +39,7 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><b><i><span style='font-family:"Times New Roman",serif'>“For three sins of </span></i></b><i><span style='font-family:"Times New Roman",serif'>Judah <b>and for four,</b></span></i></p>
 
-
-### I won’t hold back its punishment:
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><b><i><span style='font-family:"Times New Roman",serif'>I won’t hold back its punishment:</span></i></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      he rejected the Law of the L</span></i><i><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span></i></p>
 
@@ -63,9 +59,7 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><b><i><span style='font-family:"Times New Roman",serif'>“For three sins of </span></i></b><i><span style='font-family:"Times New Roman",serif'>Israel <b>and for four,</b></span></i></p>
 
-
-### I won’t hold back its punishment:
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><b><i><span style='font-family:"Times New Roman",serif'>I won’t hold back its punishment</span></i></b><i><span style='font-family:"Times New Roman",serif'>:</span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they sell the good for money,</span></i></p>
 
@@ -105,9 +99,9 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and some of your young men to be Nazirites.</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Isn’t that so, Israel? </span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                                                   </span></b></span></p>
 
-### Isn’t that so, Israel?                                                    Amos 2:9-11
-
+<p class="section-ref">Amos 2:9-11</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“But you made Nazirites drink wine</span></i></span></p>
 
@@ -135,6 +129,8 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            when
 </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that<i> time comes.” </i><b>                                             </b></span></p>
+
+<p class="section-ref">Amos 2:12-16</p>
 
 
 <style>

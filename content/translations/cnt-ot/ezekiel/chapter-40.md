@@ -107,9 +107,7 @@ next: chapter-41
 <span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For the burnt offering there were 4 hewn-stone tables 2' 7&quot; <sup>1½ cubits </sup>square and 1' 8&quot; high <sup>1 cubit</sup>. On them they lay the instruments for slaughtering the burnt offering and the sacrifice. </span></span>
 <span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The double hooks—4&quot; </span><sup><span style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'>1 handbreadth</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> long—were fastened on the Temple all the way around. The meat from the offering was to be laid on the tables<b>.                                                                                                  </b></span></span></p>
 
-
-### Ezek 40:38-43
-
+<p class="section-ref">Ezek 40:38-43</p>
 
 
 ### Rooms for the Priests

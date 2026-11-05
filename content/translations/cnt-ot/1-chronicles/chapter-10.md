@@ -31,7 +31,9 @@ next: chapter-11
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So Saul died for his trespass against the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and
-<i>because he </i>inquired from a medium instead of the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>. He killed him and turned the kingdom over to David.<b>                                                                                                    </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 10:1-14</span></b></span></p>
+<i>because he </i>inquired from a medium instead of the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>. He killed him and turned the kingdom over to David.<b>                                                                                                    </b></span></span></p>
+
+<p class="section-ref">1 Ch 10:1-14</p>
 
 
 <style>

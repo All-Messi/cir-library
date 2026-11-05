@@ -2,6 +2,8 @@
 title: "PROPOSED RELATIONSHIP BETWEEN GENESIS 1:1 AND 1:2-2:3"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-07-28
+lastmod: 2026-03-26
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -41,7 +43,7 @@ Account (Hebrew construct form)</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                        <img
+style='font-size:12.0pt'>                                        <img alt="Box: 1:1 above 1:2-2:3"
 width=273 height=55 src="/images/essays/proposed-relationship-between-genesis-11-and-12-23/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -129,7 +131,7 @@ under day six, as centered around <u>man</u>.</span></p>
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                      <img width=240
+style='font-size:12.0pt'>                                      <img alt="Genesis 1:1, 1:2-2:3 (days 1-6) and 2:4-25 as linked boxes" width=240
 height=150 id="Picture 2" src="/images/essays/proposed-relationship-between-genesis-11-and-12-23/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -201,7 +203,7 @@ margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><sp
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                        <img
+style='font-size:12.0pt'>                                        <img alt="Boxes: 1:1 and 1:2-2:3"
 width=277 height=43 id="Picture 1" src="/images/essays/proposed-relationship-between-genesis-11-and-12-23/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

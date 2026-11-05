@@ -11,7 +11,7 @@ next: chapter-12
 
 ## Job Chapter 11
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124952597"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zophar the Naamathite answered:</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zophar the Naamathite answered:</span></b></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#C00000'>“Should your barrage of words go unchallenged,</span></i></span></p>
 
@@ -37,7 +37,7 @@ next: chapter-12
 
 <p class="section-ref">Job 11:1-6</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk124952711"><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>“Can you find out the deep things of God</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>“Can you find out the deep things of God</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  or probe the limits of the Almighty?</span></i></p>
 
@@ -63,7 +63,7 @@ next: chapter-12
 
 <p class="section-ref">Job 11:7-12</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk124952804"><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>“If you set your heart right,</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>“If you set your heart right,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  you can raise your hands and pray to him.</span></i></p>
 

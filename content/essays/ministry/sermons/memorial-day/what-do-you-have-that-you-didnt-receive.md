@@ -1,7 +1,9 @@
 ---
 title: "What Do You Have That You Didnt Receive?"
-author: "Virgil Warren"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-05-26
+lastmod: 2025-07-12
 categories:
 - 'Ministry'
 - 'Sermons'

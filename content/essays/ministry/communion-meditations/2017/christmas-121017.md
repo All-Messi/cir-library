@@ -1,7 +1,7 @@
 ---
 title: "Christmas"
 date: '2017-12-10'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

@@ -23,7 +23,7 @@ next: chapter-07
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            since you’re at his disposal,</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk146534317"><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            humble yourself and plead with him</span></a></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            humble yourself and plead with him</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  <i>to take away your obligation</i>.</span></p>
 
@@ -35,13 +35,13 @@ next: chapter-07
 
 <p class="section-ref">Prov 6:1-5</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk146534401"><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Go observe ants, lazy guy;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Go observe ants, lazy guy;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      watch what they do and wise up.</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Though they don’t have a chief, an officer, or ruler,</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk146534435"><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>they prepare their food in the summer;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>they prepare their food in the summer;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      at harvest time they gather provisions <i>for winter</i>.</span></p>
 
@@ -59,7 +59,7 @@ next: chapter-07
 
 <p class="section-ref">Prov 6:6-11</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk146534529"><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A worthless, wicked man is one</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A worthless, wicked man is one</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      that goes around lying,</span></p>
 
@@ -79,7 +79,7 @@ next: chapter-07
 
 <p class="section-ref">Prov 6:11-15</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk146534639"><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Six things the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> despises;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Six things the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> despises;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <i>no, make that </i>seven that disgust him:</span></p>
 
@@ -121,7 +121,7 @@ next: chapter-07
 
 <p class="section-ref">Prov 6:20-23</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk146534844"><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They keep your eyes off an immoral woman,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They keep your eyes off an immoral woman,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            a loose woman with smooth talk.</span></p>
 
@@ -153,9 +153,9 @@ next: chapter-07
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but when he’s caught, he still needs to repay it seven times over</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <a name="_Hlk146534945">even if he has to sell everything in his house to make it right.</a></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            even if he has to sell everything in his house to make it right.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk146535128"><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A man that commits adultery lacks good judgment;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A man that commits adultery lacks good judgment;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            he’s looking to destroy himself.</span></p>
 

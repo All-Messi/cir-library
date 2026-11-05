@@ -47,7 +47,7 @@ next: chapter-41
 ### Governor Jedaliah Assassinated
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk123723760"><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The commanders of the forces in the open country and their men heard that the king of Babylon had appointed Gedaliah over the land and put him in charge of the men, women, and children, the poorest left in the land. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The commanders of the forces in the open country and their men heard that the king of Babylon had appointed Gedaliah over the land and put him in charge of the men, women, and children, the poorest left in the land. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So they and their men went to Gedaliah: Ishmael son of Nethaniah; Johanan and Jonathan, sons of Kareah; Seraiah son of Tanhumeth, the sons of Ephai the Netophathite, and Jezaniah son of the Maacathite. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gedaliah swore to them and their men, </span></span></p>
 

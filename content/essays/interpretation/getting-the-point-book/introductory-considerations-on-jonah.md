@@ -2,10 +2,11 @@
 title: "Appendix: Introductory Considerations on Jonah"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-11
 categories:
 - 'Interpretation'
 - 'Getting The Point Book'
-weight: 102
+weight: 25
 draft: false
 ---
 

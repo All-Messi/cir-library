@@ -2,6 +2,8 @@
 title: "THE RELATIONSHIP OF GENERAL REVELATION TO THEISTIC PHILOSOPHY IN ROMANS 1-2"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-07-23
+lastmod: 2025-07-12
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -235,7 +237,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=242 height=196 id="Picture 4"
+style='font-size:12.0pt'><img alt="Men&#x27;s collective sinfulness 1:18-3:20: men collectively 1:18-32, moralists 2:1-16, Jews 2:17-3:8" width=242 height=196 id="Picture 4"
 src="/images/essays/the-relationship-of-general-revelation-to-theistic-philosophy-in-romans-1-2/image001.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -397,7 +399,7 @@ While talking generally about </span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=108 height=111 id="Picture 3"
+style='font-size:12.0pt'><img alt="Nested boxes: all men, moralists, Jews" width=108 height=111 id="Picture 3"
 src="/images/essays/the-relationship-of-general-revelation-to-theistic-philosophy-in-romans-1-2/image002.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -691,7 +693,7 @@ style='position:relative;top:-3.0pt'>9</span></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=325 height=202 id="Picture 2"
+style='font-size:12.0pt'><img alt="Romans 1:16-32b by mode of revelation (special, general, social) and time (past, present)" width=325 height=202 id="Picture 2"
 src="/images/essays/the-relationship-of-general-revelation-to-theistic-philosophy-in-romans-1-2/image003.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -896,5 +898,5 @@ access to unperverted special revelation, Paul says that God overlooks it (Acts
 <b>17</b>:30; cp. Acts <b>14</b>:16) and judges them by consistency between the
 way they live and their conscience where it is leading them in conformity with
 a revelation they no longer have (Romans <b>2</b>:12-16). Special revelation is
-now coming again, and people are to repent (Acts <b>17</b>:30-31).</span></p>
+now coming again, and people are to repent (Acts <b>17</b>:30-31).</span></p><p class="cir-diagram" style="text-align:center;margin:1.25rem 0"><img src="/images/diagrams/the-relationship-of-general-revelation-to-theistic-philosophy-in-romans-1-2-4.png" alt="Diagram: overlapping boxes revelation and conscience; the overlap is the basis of judgment" width="228" style="max-width:100%;height:auto"></p>
 </div>

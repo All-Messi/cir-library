@@ -12,10 +12,6 @@ next: chapter-22
 ## Ezekiel Chapter 21
 
 
-### Ezek 20:45-49
-
-
-
 ### Babylon, God’s Sword of Judgment
 
 
@@ -72,7 +68,7 @@ next: chapter-22
 
 <p class="section-ref">Ezek 21:18-27</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“So prophesy, son of man, ‘The Lord G</span></i><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>OD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says about the Ammonites <a name="_Hlk147329479">and their disgrace: ‘a sword drawn, polished to slaughter like lightning—</a></span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“So prophesy, son of man, ‘The Lord G</span></i><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>OD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says about the Ammonites and their disgrace: ‘a sword drawn, polished to slaughter like lightning—</span></i></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>while they see false visions for you, while they tell you lying fortunes—to place </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that sword<i> on the necks of the sinful slain at their time of final punishment. </i></span></span>
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Put it back in its sheath. I’ll condemn you where you originated. </span></i></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll pour out my indignation on you, blow fire on you out of my anger, and turn you over to brutal men that know how to destroy. </span></i></span>

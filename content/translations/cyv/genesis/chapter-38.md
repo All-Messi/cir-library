@@ -15,7 +15,7 @@ next: chapter-39
 ### Judah and Tamar
 
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>About that time, Judah left his brothers and went down to visit an Adullamite named Hirah. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>About that time, Judah left his brothers and went down to visit an Adullamite named Hirah. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He saw the daughter of a Canaanite named Shua<sup>mas</sup>. He married her and slept with her. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>She had a son he named Er,
 </span></span>

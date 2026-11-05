@@ -2,6 +2,8 @@
 title: "EPISTEMOLOGY AS INTERPERSONAL (How We Know)"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-01-16
+lastmod: 2025-07-11
 categories:
 - 'Topics'
 - 'Interpersonalism'

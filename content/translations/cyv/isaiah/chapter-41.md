@@ -15,7 +15,7 @@ next: chapter-42
 ### God’s Help for Israel
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  41<sup>:1</sup></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Lands beyond the sea, come to order and listen;</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Lands beyond the sea, come to order and listen;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          prepare your case;</span></i></p>
 

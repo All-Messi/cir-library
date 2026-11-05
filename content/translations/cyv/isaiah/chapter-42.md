@@ -15,7 +15,7 @@ next: chapter-43
 ### The Servant of Yahveh
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  42<sup>:1</sup></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“My Servant that I uphold,</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“My Servant that I uphold,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          my Chosen One I delight in,</span></i></p>
 

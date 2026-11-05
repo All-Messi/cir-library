@@ -2,6 +2,7 @@
 title: "LEADING CONGREGATIONAL SINGING: SONG LEADERS AND INSTRUMENTALISTS"
 author: "Virgil & Ruth Ann Warren"
 date: '2026-04-02'
+lastmod: 2025-07-12
 categories:
 - 'Topics'
 - 'Music'

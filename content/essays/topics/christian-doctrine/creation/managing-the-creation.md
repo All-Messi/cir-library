@@ -2,6 +2,7 @@
 title: "MANAGING THE CREATION"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-15
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -23,7 +24,7 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+<p class="cir-diagram" style="text-align:center;margin:1.25rem 0"><img src="/images/diagrams/managing-the-creation-1.png" alt="Diagram: Natural law | Supernatural intervention" width="254" style="max-width:100%;height:auto"></p><p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><b><span style='font-size:12.0pt'>            </span></b><span
 style='font-size:12.0pt'>God maintains contact with his creation and control
 over it. Especially in contrast to deism, God did not create the universe and
@@ -38,7 +39,7 @@ have occurred had he not intervened.</span></p>
 18.0pt'><span style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'><img width=279 height=115
+line-height:18.0pt'><span style='font-size:12.0pt'><img alt="Providence and miracle: natural law and supernatural intervention" width=279 height=115
 src="/images/essays/managing-the-creation/image002.png"></span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
@@ -69,7 +70,7 @@ visible manner in which God breaks into history.</span></p>
 18.0pt'><span style='font-size:12.0pt'>            </span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'><img width=262 height=137
+line-height:18.0pt'><span style='font-size:12.0pt'><img alt="Providence and miracle over natural law and supernatural intervention; science and prayer" width=262 height=137
 src="/images/essays/managing-the-creation/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:

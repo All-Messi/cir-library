@@ -15,14 +15,12 @@ next: chapter-08
 ### Esther Reveals Haman’s Plot
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124859538"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king and Haman came to drink wine with Queen Esther. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king and Haman came to drink wine with Queen Esther. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king asked her that second day as they drank their wine, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            <b>“What’s your petition, Queen Esther; I’ll grant it. </b></span></i></p>
 
-
-### What’s your request? Up to half the kingdom I’ll do it.”
-
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>            What’s your request? Up to half the kingdom I’ll do it.”</span></i></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She answered, </span></span></p>
 
@@ -39,7 +37,9 @@ next: chapter-08
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King Ahasuerus asked her, <i>“Who is he and where is he, that would presume to do such a thing?”</i>
 <b>                      </b></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She said, <i>“A foe and enemy, this wicked Haman!”</i> Haman panicked.               </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esther 7:1-6</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She said, <i>“A foe and enemy, this wicked Haman!”</i> Haman panicked.               </span></span></p>
+
+<p class="section-ref">Esther 7:1-6</p>
 
 
 ### Haman Hanged
@@ -52,7 +52,9 @@ next: chapter-08
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>The king said, <i>“Hang him on it!”</i> </span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They hanged Haman on the gallows he’d built for Mordecai, and the king calmed down.<b>                        </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esther 7:6-10</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They hanged Haman on the gallows he’d built for Mordecai, and the king calmed down.<b>                        </b></span></span></p>
+
+<p class="section-ref">Esther 7:6-10</p>
 
 
 <style>

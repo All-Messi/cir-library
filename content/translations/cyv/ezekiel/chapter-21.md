@@ -12,10 +12,6 @@ next: chapter-22
 ## Ezekiel Chapter 21
 
 
-### Ezek 20:45-49
-
-
-
 ### Babylon, God’s Sword of Judgment
 
 
@@ -54,9 +50,7 @@ next: chapter-22
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to cut sharp wherever it’s aimed. </span></i></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll clap my hands and vent my fury. I’ve said so.’”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                </span></b></span></p>
 
-
-### Ezek 21:14-17
-
+<p class="section-ref">Ezek 21:14-17</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:49.5pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A message from Yahveh came to me:</span></span></p>
 

@@ -18,7 +18,7 @@ prev: chapter-51
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He did all the evil Jehoiakim had done. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Because of the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s anger over that, he put Jerusalem and Judah out of his presence.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk123760109"><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Zedekiah revolted against the king of Babylon. </span></a><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Zedekiah revolted against the king of Babylon. </span><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
 <b>tenth day, tenth month, ninth year of <i>Zedekiah’s</i> reign,</b> Nebuchadnezzar came with his army, set up camp against Jerusalem, and built a siege wall around it. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The city lay under siege till <b>Zedekiah’s eleventh year.</b> </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
@@ -43,7 +43,7 @@ prev: chapter-51
 
 <p class="section-ref">Jer 52:12-16</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk123760264"><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Babylonians broke in pieces the bronze pillars in front of the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s Temple, the stands, and the bronze sea; and carried their bronze to Babylon. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Babylonians broke in pieces the bronze pillars in front of the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s Temple, the stands, and the bronze sea; and carried their bronze to Babylon. </span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They took away the pots, shovels, snuffers, basins, pans—all the bronze articles for the Temple service. </span></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The captain of the guard also took away the bowls, firepans, basins, pots, lampstands, dishes for incense and liquid offering bowls, what was gold and fine silver. </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The 2 pillars, the sea, the 12 bronze bulls under the sea, and the stands King Solomon had made for the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s Temple—the bronze in all those items was too much to weigh. </span></span>
@@ -53,7 +53,7 @@ prev: chapter-51
 
 <p class="section-ref">Jer 52:17-23</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123760586"><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nebuzaradan
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nebuzaradan
 </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>took
 </span></span></p>
 
@@ -97,8 +97,6 @@ prev: chapter-51
 <span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>till his death.         </span></span></p>
 
 <p class="section-ref">Jer 52:31-34</p>
-
-<p class="MsoListBulletCxSpLast" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
 
 
 <style>

@@ -79,9 +79,7 @@ next: chapter-23
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            or regale the rich—come to poverty themselves.</span></p>
 
-
-### Prov 22:13-16
-
+<p class="section-ref">Prov 22:13-16</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Listen to the wise</span></span></p>
 
@@ -132,6 +130,10 @@ next: chapter-23
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that your ancestors have set.</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Do you see people skilled at their work?</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            They’ll serve kings, not just ordinary people.<b>            </b></span></p>
+
+<p class="section-ref">Prov 22:24-29</p>
 
 
 <style>

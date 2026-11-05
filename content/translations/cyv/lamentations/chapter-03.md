@@ -12,14 +12,10 @@ next: chapter-04
 ## Lamentations Chapter 3
 
 
-### My enemy destroyed the ones I cared for and raised.                  Lam 2:21-22
-
-
-
 ### Hope in Yahveh’s Faithfulness
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I have seen suffering</span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I have seen suffering</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  under the rod <i>God</i> used in his anger.</span></p>
 

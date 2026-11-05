@@ -439,7 +439,7 @@ style='font-size:12.0pt'>       </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>           <img width=312 height=68
+style='font-size:12.0pt'>           <img alt="Headship means responsibility for the family: servant-leader, attitude, role" width=312 height=68
 src="/images/essays/christian-marriage/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -454,7 +454,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>      </span><span style='font-size:6.0pt'> </span><span
-style='font-size:12.0pt'>     <img width=268 height=17
+style='font-size:12.0pt'>     <img alt="Job to be done → responsibility → authority" width=268 height=17
 src="/images/essays/christian-marriage/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -561,7 +561,7 @@ style='font-size:10.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                       <img width=168 height=119
+style='font-size:12.0pt'>                       <img alt="God → responsibility → purpose; fellow workers" width=168 height=119
 src="/images/essays/christian-marriage/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

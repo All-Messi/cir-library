@@ -15,7 +15,7 @@ next: chapter-10
 ### A Messiah Has Been Born to Us
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk123283616"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But there won’t be any more darkness for those who have been in distress. In earlier times, <i>God</i> didn’t give much prominence to the territory of Zebulun and Naphtali, but at a future time he’ll make it glorious along the road from the Jordan along the Sea <i>of Galilee</i>, Galilee of the Gentiles.</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But there won’t be any more darkness for those who have been in distress. In earlier times, <i>God</i> didn’t give much prominence to the territory of Zebulun and Naphtali, but at a future time he’ll make it glorious along the road from the Jordan along the Sea <i>of Galilee</i>, Galilee of the Gentiles.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Those who walk in deep darkness</span></span></p>
 
@@ -74,7 +74,7 @@ next: chapter-10
 ### God’s Anger at Israel
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><a name="_Hlk123283925"><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> is issuing a message against Jacob,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> is issuing a message against Jacob,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  <i>a message of condemnation </i>that falls on Israel.</span></p>
 
@@ -100,15 +100,13 @@ next: chapter-10
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        will devour Israel with wide-open jaws.</span></p>
 
-
-### Even then, his anger won’t be spent;
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span><b><span style='font-family:"Times New Roman",serif'>Even then, his anger won’t be spent;</span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-family:"Times New Roman",serif'>                        his fist will still be raised.                                            </span></b></span></p>
 
 <p class="section-ref">Is 9:8-12</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123284471"><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span></a><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yet the people still won’t come back </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yet the people still won’t come back </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        to the One that disciplined them</span></p>
 
@@ -134,15 +132,13 @@ next: chapter-10
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              they all speak foolishness.</span></p>
 
-
-### Even then, his anger won’t be spent;
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><b><span style='font-family:"Times New Roman",serif'>Even then, his anger won’t be spent;</span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-family:"Times New Roman",serif'>                        his fist will still be raised.</span></b><span style='font-family:"Times New Roman",serif'>                                            </span></p>
 
 <p class="section-ref">Is 9:13-17</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <a name="_Hlk123284595"> </a></span><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sin burns here like a brush fire,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>             </span><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sin burns here like a brush fire,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        consuming briars and thorns,</span></p>
 
@@ -170,9 +166,7 @@ next: chapter-10
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and together feed on Judah.</span></p>
 
-
-### Even then, his anger won’t be spent;
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><b><span style='font-family:"Times New Roman",serif'>Even then, his anger won’t be spent;</span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-family:"Times New Roman",serif'>                        his fist will still be raised.</span></b></span></p>
 

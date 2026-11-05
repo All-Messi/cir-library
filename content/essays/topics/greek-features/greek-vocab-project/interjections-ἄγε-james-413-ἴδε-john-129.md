@@ -1,7 +1,8 @@
 ---
-title: "INTERJECTIONS ἄγε, James 4:13 ἴδε, John 1:29"
-author: "Virgil Warren, christir.org"
+title: "Interjections"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-02-04
 categories:
 - 'Topics'
 - 'Greek Features'

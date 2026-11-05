@@ -2,6 +2,8 @@
 title: "INTERNAL EVIDENCE FOR THE AUTHORSHIP OF JOHNS GOSPEL"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2023-07-13
+lastmod: 2025-07-15
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'

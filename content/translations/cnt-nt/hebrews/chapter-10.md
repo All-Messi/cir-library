@@ -35,9 +35,7 @@ next: chapter-11
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i></b><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then I said,</span></i></b></span></p>
 
-
-### ‘God, I’ve come to do your will;
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    ‘God, I’ve come to do your will;        </span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                it’s been written about me in the scroll’” </span></i></b><b><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Ps 40:6-8, cp. LXX]</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></p>
 
@@ -61,9 +59,7 @@ next: chapter-11
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    after those days:</span></i></b></p>
 
-
-### I’ll put my laws in their hearts
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        I’ll put my laws in their hearts</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and write them on their minds’” </span></i></b><b><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>[Jer 31:33]</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>;</span></p>
 
@@ -97,9 +93,7 @@ next: chapter-11
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b><i>“Revenge is my business;</i></b></span></p>
 
-
-### I’ll take care of it” [Deut. 32:35];
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        I’ll take care of it” </span></i></b><b><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>[Deut. 32:35]</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>;</span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and,</span></p>
 
@@ -126,9 +120,7 @@ next: chapter-11
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and</span></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <b>my righteous one will have life by trust.</b></span></i></span></p>
 
-
-### If he gives up,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    <b>If he gives up,</b></span></i></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    I won’t be pleased with him”</span></i></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Hab 2:3-4]</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>.</span></b></p>
 

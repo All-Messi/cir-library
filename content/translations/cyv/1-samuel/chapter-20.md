@@ -98,6 +98,11 @@ next: chapter-21
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Goodbye. we’ve sworn loyalty to one another in Yahveh’s name, ‘He will always be with you and me, with your descendants and mine.’”</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He got up and left, and Jonathan went into town.<b>
+</b></span></p>
+
+<p class="section-ref">1 Sam 20:35-42</p>
+
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

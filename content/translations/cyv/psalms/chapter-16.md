@@ -45,7 +45,7 @@ next: chapter-17
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <i>even </i>at night my heart teaches me.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><a name="_Hlk122431442"><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I keep him</span><sup><span style='font-size:14.0pt;line-height:115%;font-family: "Times New Roman",serif'>Y</span></sup><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> continually beside me,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I keep him</span><sup><span style='font-size:14.0pt;line-height:115%;font-family: "Times New Roman",serif'>Y</span></sup><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> continually beside me,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      at my right hand so I don’t get unsettled.</span></p>
 

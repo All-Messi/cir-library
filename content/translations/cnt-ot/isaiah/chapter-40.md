@@ -15,7 +15,7 @@ next: chapter-41
 ### Comfort for God’s People
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk147156410"><b><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>         40<sup>:1</sup></span></b></a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Comfort, comfort my people,”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> your God says.</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Comfort, comfort my people,”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> your God says.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Speak graciously to Jerusalem;</span></i></span></p>
 
@@ -29,7 +29,7 @@ next: chapter-41
 
 <p class="section-ref">Is 40:1-2</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123330611"><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                  </span></i></a><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A voice is calling,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                  </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A voice is calling,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <i>“Build a road for the L</i></span><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> in the desert;</span></i></p>
 
@@ -99,7 +99,7 @@ next: chapter-41
 
 <p class="section-ref">Is 40:9-11</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></i><a name="_Hlk123331278"><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who else has measured the ocean in the palm of his hand</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></i><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who else has measured the ocean in the palm of his hand</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              or the sky with a span,</span></p>
 
@@ -133,7 +133,7 @@ next: chapter-41
 
 <p class="section-ref">Is 40:12-17</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span><a name="_Hlk123331510"><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who can we compare God to?</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who can we compare God to?</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        What’s he like?</span></p>
 
@@ -177,7 +177,7 @@ next: chapter-41
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              and the wind carries them off like chaff.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span><a name="_Hlk123331744"><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who can you compare him with;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who can you compare him with;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              who’s his equal?</span></p>
 

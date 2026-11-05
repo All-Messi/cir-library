@@ -1,7 +1,7 @@
 ---
 title: "As to an Altar"
 date: '2015-06-07'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

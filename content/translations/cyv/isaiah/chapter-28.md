@@ -15,14 +15,12 @@ next: chapter-29
 ### An Oracle About Samaria
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><span style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                  28<sup>:1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Misfortune awaits <b>the proud crown of Ephraim’s drunks</b>,</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Misfortune awaits <b>the proud crown of Ephraim’s drunks</b>,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><span style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                       </span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <b>the fading flower of its glorious beauty,</b> </span></p>
 
-
-### Samaria,
-that’s at the head of the fertile valley
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                          <i>Samaria</i>,
+<b>that’s at the head of the fertile valley</b> </span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                          of those drunk with wine.</span></p>
 

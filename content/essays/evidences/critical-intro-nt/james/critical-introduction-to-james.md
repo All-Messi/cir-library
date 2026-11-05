@@ -2,6 +2,7 @@
 title: "CRITICAL INTRODUCTION TO JAMES"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'

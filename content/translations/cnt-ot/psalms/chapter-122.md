@@ -13,7 +13,7 @@ next: chapter-123
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                       A Song of Ascents. by David</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124340862"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It made me happy when they said,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It made me happy when they said,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <i>“Let’s go to the L</i></span><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s Temple.”</span></i></p>
 
@@ -29,7 +29,7 @@ next: chapter-123
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the thrones of David’s dynasty. </span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124341315"><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pray for peace in Jerusalem:</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pray for peace in Jerusalem:</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>“May they prosper who love you;</i></span></p>
 

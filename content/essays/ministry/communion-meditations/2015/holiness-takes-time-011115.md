@@ -1,7 +1,7 @@
 ---
 title: "Holiness Takes Time"
 date: '2015-01-11'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

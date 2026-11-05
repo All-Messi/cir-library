@@ -11,7 +11,7 @@ next: chapter-15
 
 ## 1 Corinthians Chapter 14
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pursue [the] love, and earnestly-desire [the] spiritual (gifts), but specifically in-order-that you-may-be-prophesying. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pursue [the] love, and earnestly-desire [the] spiritual (gifts), but specifically in-order-that you-may-be-prophesying. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ffor the-one speaking in (a) language is┘not└speaking to-men but to-God, because nobody is-understanding; but by-(the)-Spirit he-speaks mysteries. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the-one prophesying speaks to-men edification and exhortation and consolation. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The-one speaking in-(a)-language builds┘himself└up, but the-one prophesying builds┘(the) church└up. </span></span>
@@ -40,9 +40,7 @@ next: chapter-15
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and with (the) lips of strangers</span></b></p>
 
-
-### I-will-speak to-[the] this people,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        I-will-speak to-[the] this people,</span></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and not-even </span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>so <b>will-they-listen</b>-to me,’ says (the) Lord.”</span></p>
 

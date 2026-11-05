@@ -15,7 +15,7 @@ next: chapter-07
 ### The LORD’s Case Against Israel
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><a name="_Hlk122904611"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Listen to what the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> says:</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Listen to what the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> says:</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>“Present to the mountains </i>your case against me<i>;</i></span></p>
 
@@ -25,7 +25,7 @@ next: chapter-07
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            you enduring foundations of the world.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <a name="_Hlk146826643">He has a suit against his people;</a></span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      He has a suit against his people;</span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            he’ll bring charges against Israel.</span></i></p>
 
@@ -68,7 +68,7 @@ next: chapter-07
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  the fruit of my body for the sin of my soul?</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><a name="_Hlk122904717"><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>No</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, he’s told you what’s good:</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>No</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, he’s told you what’s good:</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      what does the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> require from you</span></p>
 

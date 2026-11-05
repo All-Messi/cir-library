@@ -16,7 +16,7 @@ next: chapter-02
 ### Mourning over a Locust Invasion
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122885644"><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Listen to this, elders;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Listen to this, elders;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      pay attention, everybody in the land.</span></p>
 
@@ -28,11 +28,9 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they need to tell <u>their</u> descendants, and so on.     </span></p>
 
+<p class="section-ref">Joel 1:1-3</p>
 
-### Joel 1:1-3
-
-
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122885699"><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What the cutting locusts left</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What the cutting locusts left</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      the swarming locusts have eaten.</span></p>
 
@@ -58,7 +56,7 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      it has fangs like a lioness.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122885833"><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It’s destroyed my grapevines</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It’s destroyed my grapevines</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and ruined my fig trees.</span></p>
 
@@ -86,7 +84,7 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            the fresh oil has failed.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122885953"><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Despair, farmers; wail, vinedressers,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Despair, farmers; wail, vinedressers,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      for the wheat and barley;</span></p>
 
@@ -106,7 +104,7 @@ next: chapter-02
 ### A Call to Repentance
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122885991"><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Put on burlap and chant a dirge, priests;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Put on burlap and chant a dirge, priests;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      wail, ministers at the altar!</span></p>
 
@@ -142,7 +140,7 @@ next: chapter-02
 
 <p class="section-ref">Joel 1:13-17</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122886070"><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The cattle are bawling!</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The cattle are bawling!</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Herds are wandering aimlessly</span></p>
 

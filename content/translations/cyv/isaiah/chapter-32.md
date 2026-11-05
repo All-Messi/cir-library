@@ -15,7 +15,7 @@ next: chapter-33
 ### Israel’s Ultimate Deliverance
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  32<sup>:1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A righteous<i> </i>king is coming;</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A righteous<i> </i>king is coming;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    his princes will rule honestly.</span></p>
 
@@ -125,7 +125,7 @@ next: chapter-33
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    in safe houses and peaceful retreats.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <a name="_Hlk148472382"><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>Though hail flattens the forest </span></a></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>Though hail flattens the forest </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> and the city’s leveled,</span></p>
 

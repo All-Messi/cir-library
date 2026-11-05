@@ -10,7 +10,7 @@ prev: chapter-04
 
 ## 1 Thessalonians Chapter 5
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now about times and seasons, brothers, you-do┘not└have need (for anything) to-be-written to you.  </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now about times and seasons, brothers, you-do┘not└have need (for anything) to-be-written to you.  </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For you┘yourselves└know correctly/full-well that (the) day of-(the)-Lord comes just like (a) thief at night.  </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they-say, <i>“Peace and safety,”</i> then destruction comes-on them unexpected like [the] birth-pangs to-the-one having in (the) stomach, and they-will┘certainly not└escape.  </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But <u>you</u>, brothers, are not in (the) dark in-order-that the day might-overtake you like (a) thief.  </span></span>
@@ -44,12 +44,6 @@ prev: chapter-04
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Greet all the brothers with (a) holy kiss.  </span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I-adjure you by-the Lord to-have the letter read to-all the brothers.  </span></span>
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The grace of-the Lord of-us Jesus Christ (be) with you.</span></span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil Warren, PhD </span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>translator</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-family:"Times New Roman",serif'> christir.org</span></p>
 
 
 <style>

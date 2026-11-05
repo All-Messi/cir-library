@@ -120,7 +120,9 @@ next: chapter-11
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  Israel is his inheritance;</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        his name is Yahveh of Hosts.<b>                                     </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jer</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>10:11-16</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        his name is Yahveh of Hosts.<b></b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b></p>
+
+<p class="section-ref">Jer 10:11-16</p>
 
 
 ### The Looming Destruction
@@ -144,7 +146,7 @@ next: chapter-11
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                               it’s pain I have to bear.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><a name="_Hlk123577589"><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>My tent’s destroyed;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>My tent’s destroyed;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              its guy ropes have snapped.</span></p>
 

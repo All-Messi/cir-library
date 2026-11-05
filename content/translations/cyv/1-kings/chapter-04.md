@@ -18,40 +18,32 @@ next: chapter-05
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%'>Solomon ruled all Israel. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%'>These were his officials:</span></span></p>
 
-
-### Azariah Ben-Zadok was priest.
-
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>            <b>Azariah</b> Ben-Zadok was priest.</span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <b><span style='font-size:12.0pt;line-height:115%'>Elihoreph</span></b><span style='font-size:12.0pt;line-height:115%'> and <b>Ahijah</b>, Ben-Shisha, were secretaries.</span></span></p>
 
-
-### Jehoshaphat Ben-Ahilud was recorder.
-
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>            <b>Jehoshaphat</b> Ben-Ahilud was recorder.</span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <b><span style='font-size:12.0pt;line-height:115%'>Benaiah</span></b><span style='font-size:12.0pt;line-height:115%'> Ben-Jehoiada was the general over the army.</span></span></p>
 
-
-### Zadok and Abiathar were priests.
-
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>            <b>Zadok</b> and <b>Abiathar</b> were priests.</span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <b><span style='font-size:12.0pt;line-height:115%'>Azariah</span></b><span style='font-size:12.0pt;line-height:115%'> Ben-Nathan oversaw the deputies.</span></span></p>
 
-
-### Zabud Ben-Nathan, a priest, was the king’s personal advisor.
-
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>            <b>Zabud</b> Ben-Nathan, a priest, was the king’s personal advisor.</span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <b><span style='font-size:12.0pt;line-height:115%'>Ahishar</span></b><span style='font-size:12.0pt;line-height:115%'> governed the household.</span></span></p>
 
-
-### Adoniram Ben-Abda oversaw forced labor.
-
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>            <b>Adoniram</b> Ben-Abda oversaw forced labor.<b>                         </b></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%'>Solomon had 12 deputies who provided for him and his household, one per month per </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>                        year: </span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>            </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <b><span style='font-size:12.0pt;line-height:115%'>Benhur </span></b><span style='font-size:12.0pt;line-height:115%'>in the hill country of Ephraim,
-</span><b><span style='font-size:10.0pt;line-height:115%'>1 Kg 4:1-8</span></b></span></p>
+</span></span></p>
+
+<p class="section-ref">1 Kg 4:1-8</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>            </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <b><span style='font-size:12.0pt;line-height:115%'>Bendeker </span></b><span style='font-size:12.0pt;line-height:115%'>in Makaz, Shaalbim, Beth-shemesh, and Elon-beth-hanan;</span></span></p>
 
@@ -84,9 +76,9 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>            </span><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <b><span style='font-size:12.0pt;line-height:115%'>Geber</span></b><span style='font-size:12.0pt;line-height:115%'> Ben-Uri in Gilead (the country of King Sihon the Amorite and </span></span></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>                        Og, king of Bashan. He was the only deputy in the land.)<b>            </b></span></p>
 
-### Og, king of Bashan. He was the only deputy in the land.)            1 Kg 4:7-19
-
+<p class="section-ref">1 Kg 4:7-19</p>
 
 
 ### Solomon’s Prosperity and Wisdom
@@ -111,15 +103,18 @@ next: chapter-05
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%'>Judah and Israel lived safely, every man under his vine and fig tree from Dan to Beersheba Solomon’s whole life. </span></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%'>He had 40,000 stalls for horses for his chariots and 12,000 cavalry. </span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height: 115%'>For a month at a time, the deputies provided for him and everybody that came to his table; they left, not lacking anything. </span></span>
-<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%'>They also brought barley and straw for the horses and swift steeds to where it should be, each according to his responsibility.        </span><b><span style='font-size:10.0pt;line-height: 115%'>1 Kg 4:20-28</span></b><span style='font-size:12.0pt;line-height:115%'>
-</span></span></p>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%'>They also brought barley and straw for the horses and swift steeds to where it should be, each according to his responsibility.</span><b><span style='font-size:10.0pt;line-height: 115%'></span></b><span style='font-size:12.0pt;line-height:115%'></span></span></p>
+
+<p class="section-ref">1 Kg 4:20-28</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height: 115%'>God gave Solomon wisdom, great discernment, and breadth of mind. </span></span>
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%'>His wisdom surpassed the wisdom of men in the East and in Egypt. </span></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height: 115%'>He was wiser than anyone else—than Ethan the Ezrahite, Heman; or Calcol and Darda, sons of Mahol. He was famous in the nations all around. </span></span>
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%'>He authored 3,000 proverbs and wrote 1,005 songs. </span></span>
 <span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%'>He knew about trees from the cedars in Lebanon to the hyssop on the wall. He talked about animals, birds, crawling things, and fish. </span></span>
-<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%'>People came from every nation to hear his wisdom, kings everywhere who’d heard about it. <b>           </b></span><b><span style='font-size:10.0pt;line-height:115%'>1 Kg 4:29-34</span></b></span></p>
+<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%'>People came from every nation to hear his wisdom, kings everywhere who’d heard about it. <b>           </b></span></span></p>
+
+<p class="section-ref">1 Kg 4:29-34</p>
 
 
 <style>

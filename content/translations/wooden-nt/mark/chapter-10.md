@@ -11,7 +11,8 @@ next: chapter-11
 
 ## Mark Chapter 10
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>10<b><sup>:1</sup></b></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And having-arisen from-there, he-comes into the regions of-[the] Judaea [and]<sup>ms</sup> beyond the Jordan, crowd[s] were-traveling-together to him; and as he-was-eating, he-was-teaching them again. </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And Pharisees, having-approached, were-asking him if it-is/was-lawful for-a-husband to-divorce (a) wife, testing him. </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And having-arisen from-there, he-comes into the regions of-[the] Judaea [and]<sup>ms</sup> beyond the Jordan, crowd[s] were-traveling-together to him; and as he-was-eating, he-was-teaching them again. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And Pharisees, having-approached, were-asking him if it-is/was-lawful for-a-husband to-divorce (a) wife, testing him. </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the/he, having-answered, said to-them, <i>“What did┘Moses└command you?” </i></span></span></p>
 

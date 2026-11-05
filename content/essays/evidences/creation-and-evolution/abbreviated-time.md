@@ -2,6 +2,7 @@
 title: "ABBREVIATED TIME"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-16
 categories:
 - 'Evidences'
 - 'Creation And Evolution'
@@ -85,7 +86,7 @@ for the subsequent creation account</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=69 height=62 id="Picture 4"
+style='font-size:12.0pt'><img alt="Box: 1:1 above 1:2-2:3" width=69 height=62 id="Picture 4"
 src="/images/essays/abbreviated-time/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -165,7 +166,7 @@ theory, creative re-iterations)</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=159 height=45
+style='font-size:12.0pt'><img alt="Boxes: 1:1 and 1:2-2:3" width=159 height=45
 src="/images/essays/abbreviated-time/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -259,7 +260,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=250 height=168 id="Picture 3"
+style='font-size:12.0pt'><img alt="Genesis 1:1, 1:2-2:3 (days 1-6) and 2:4-25 as linked boxes" width=250 height=168 id="Picture 3"
 src="/images/essays/abbreviated-time/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -449,7 +450,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>          <img width=368 height=82 id="Picture 2"
+style='font-size:12.0pt'>          <img alt="The seven days, numbered 1 to 7, as a striped bar" width=368 height=82 id="Picture 2"
 src="/images/essays/abbreviated-time/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -612,7 +613,7 @@ style='font-size:12.0pt'> </span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=395 height=159 id="Picture 1"
+style='font-size:12.0pt'><img alt="Overlapping triangles: light, firmament, continents/seas and plant kingdom, luminaries, marine life, land animals" width=395 height=159 id="Picture 1"
 src="/images/essays/abbreviated-time/image005.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

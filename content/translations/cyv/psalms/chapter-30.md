@@ -15,7 +15,7 @@ next: chapter-31
 
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-top:0in;margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A Song at the Dedication of the Temple</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><a name="_Hlk123821747"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll praise you, Yahveh, because you’ve rescued me;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll praise you, Yahveh, because you’ve rescued me;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      you haven’t let my enemies celebrate victory over me.</span></p>
 

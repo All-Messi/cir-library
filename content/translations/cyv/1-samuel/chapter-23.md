@@ -75,7 +75,7 @@ next: chapter-24
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Saul went on one side of the mountain, and David and his men were on the other side. He was hurrying to get away from Saul, because Saul and his men were surrounding him and his men to capture them. </span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But a messenger came to Saul, saying, <i>“Come quick; the Philistines are raiding the land.”</i> </span></span>
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Saul quit chasing David and went to meet the Philistines. So they called the place The<i> </i>Rock<i>
-</i>of<i> </i>Escape<i> </i><a name="_Hlk77306677">[<i>Sela Hammachleqot</i>]. </a></span></span>
+</i>of<i> </i>Escape<i> </i>[<i>Sela Hammachleqot</i>]. </span></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David went and stayed in the strongholds at En-gedi.</span></span></p>
 
 <p class="section-ref">1 Sam 23:19-29</p>

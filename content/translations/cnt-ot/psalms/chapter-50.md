@@ -15,7 +15,7 @@ next: chapter-51
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God, the Mighty One, the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>, has spoken</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <a name="_Hlk123889577">and calls to earth from sunrise to sunset.</a></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and calls to earth from sunrise to sunset.</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He shines forth out of Zion in perfect beauty.</span></span></p>
 
@@ -25,7 +25,7 @@ next: chapter-51
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      a storm rages around him.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122457452"><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He calls on the sky above and the earth beneath </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He calls on the sky above and the earth beneath </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to witness the judgment of his people.</span></p>
 
@@ -39,7 +39,7 @@ next: chapter-51
 
 <p class="section-ref">Ps 50:1-6</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123889872"><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Listen, my people, and I’ll speak;</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Listen, my people, and I’ll speak;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Israel, I’ll bring my charges against you.</span></i></p>
 
@@ -49,7 +49,7 @@ next: chapter-51
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      or burnt offerings that are always in front of me.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122457561"><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But I don’t <u>need</u> any bulls from your barns</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But I don’t <u>need</u> any bulls from your barns</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            or male goats from your pens;</span></i></p>
 
@@ -72,7 +72,7 @@ next: chapter-51
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      or drink the blood of male goats?</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123890005"><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Offer to me a sacrifice of thanksgiving;</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Offer to me a sacrifice of thanksgiving;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      keep your vows to the Most High.</span></i></p>
 
@@ -82,7 +82,7 @@ next: chapter-51
 
 <p class="section-ref">Ps 50:7-15</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123891419"><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But God says to the sinful,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But God says to the sinful,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <i>“What reason do you have to recite my statutes</i></span></p>
 
@@ -104,7 +104,7 @@ next: chapter-51
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      you slander your mother’s son.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122457850"><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I didn’t speak up when you did those things,</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I didn’t speak up when you did those things,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      so you thought it didn’t matter to me;</span></i></p>
 
@@ -120,7 +120,7 @@ next: chapter-51
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and there won’t be anyone to save you.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122457950"><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Giving thanks is the sacrifice that honors me;</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Giving thanks is the sacrifice that honors me;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll show you my deliverance if you keep to my path.”</span></i></span></p>
 

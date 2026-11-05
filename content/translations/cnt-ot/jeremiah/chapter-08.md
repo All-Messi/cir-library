@@ -11,7 +11,7 @@ next: chapter-09
 
 ## Jeremiah Chapter 8
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123571011"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says, </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“At that time, they’ll bring out of their graves the bones of Judah’s kings, its officials, priests, prophets, and the people of Jerusalem. </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll spread them out to the sun, moon, and stars, which they’ve loved, served, and worshiped. They won’t be gathered up or buried. They’ll be like manure on the ground. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The remnant of this evil family will chose death rather than life.     </span></i></span></span></p>
@@ -38,7 +38,7 @@ next: chapter-09
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      They hang onto deceit and refuse to return.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123571247"><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve been listening to what they’re saying,</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve been listening to what they’re saying,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and it’s not right.</span></i></p>
 
@@ -86,7 +86,7 @@ next: chapter-09
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>             from prophet to priest.</span></i></b></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123571367"><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They try to bandage over my people’s wounds                                                                  by saying, ‘Everything’s all right,’ when it’s not.      </span></i></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They try to bandage over my people’s wounds                                                                  by saying, ‘Everything’s all right,’ when it’s not.      </span></i></b></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Are they ever ashamed of their disgusting acts?                                                 </span></i></b></span></p>
 
@@ -103,7 +103,7 @@ next: chapter-09
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        by giving us <b>poisoned water to drink.</b></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123571672"><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We looked for peace, but it didn’t come;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We looked for peace, but it didn’t come;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      we waited for healing, but terror came.<b>                            </b></span></p>
 

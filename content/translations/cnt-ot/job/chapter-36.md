@@ -77,7 +77,7 @@ next: chapter-37
 
 <p class="section-ref">Job 36:11-15</p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk125061363"><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>So he’s luring you with distress</span></i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>So he’s luring you with distress</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>                  into a safe space that’s not crowded</span></i></p>
 
@@ -113,7 +113,7 @@ next: chapter-37
 
 <p class="section-ref">Job 36:16-23</p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk125061509"><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>“Remember to extol his work</span></i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>“Remember to extol his work</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>                  that people sing about.</span></i></p>
 

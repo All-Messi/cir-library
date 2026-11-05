@@ -11,7 +11,7 @@ next: chapter-05
 
 ## Song of Solomon Chapter 4
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You are so beautiful, my darling;</span></i></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You are so beautiful, my darling;</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  you’re so beautiful!</span></i></p>
 
@@ -43,7 +43,9 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  that have 1,000 shields hanging on them,</span></i></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  the round shields of the strong men.</span></i><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>                     S of S 4:1-4</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  the round shields of the strong men.</span></i></span></p>
+
+<p class="section-ref">S of S 4:1-4</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your two breasts are like two fawns,</span></i></span></p>
 
@@ -69,7 +71,9 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        away from the lions’ dens,</span></i></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        the mountains and their leopards.</span></i><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>                  S of S 4:5-8</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        the mountains and their leopards.</span></i></span></p>
+
+<p class="section-ref">S of S 4:5-8</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ve made my heart beat faster, <b>my sister, my bride</b>;</span></i></span></p>
 
@@ -95,7 +99,9 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A garden locked is <b>my sister, my bride</b>,</span></i></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              a garden locked, a fountain sealed.                      </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> S of S 4:9-12</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              a garden locked, a fountain sealed.                      </span></i></span></p>
+
+<p class="section-ref">S of S 4:9-12</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your sprouts are an orchard of pomegranates</span></i></span></p>
 
@@ -111,7 +117,9 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              a well of fresh water,</span></i></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              a stream flowing from Lebanon.”</span></i><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        S of S 4:13-15</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              a stream flowing from Lebanon.”</span></i></span></p>
+
+<p class="section-ref">S of S 4:13-15</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bride</span></p>
 
@@ -125,7 +133,9 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#C00000'>                              let my beloved go to his garden,</span></i></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#C00000'>                                    and eat its best produce!”      </span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> S of S 4:16</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#C00000'>                                    and eat its best produce!”      </span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span></i></span></p>
+
+<p class="section-ref">S of S 4:16</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Groom</span></p>
 

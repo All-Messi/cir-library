@@ -11,7 +11,7 @@ next: chapter-10
 
 ## Joshua Chapter 9
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The kings heard about it in the hill country and the western foothills along the Mediterranean Sea up to Lebanon—the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The kings heard about it in the hill country and the western foothills along the Mediterranean Sea up to Lebanon—the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They formed an alliance against Israel.</span></span></p>
 
 
@@ -60,7 +60,9 @@ next: chapter-10
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“We heard that the </span></i><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> your God had commanded Moses to give you the land and destroy its people. We were afraid we’d be killed. </span></i><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We’re at your mercy. Do to us what you think’s right.” </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s what he did and rescued them from the people. </span></span>
-<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He made them cut wood and draw water for the community and the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s altar where he chose. They still do that.  </span><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                               Josh 9:16-27</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></b></span></p>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He made them cut wood and draw water for the community and the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s altar where he chose. They still do that.</span><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Josh 9:16-27</p>
 
 
 <style>

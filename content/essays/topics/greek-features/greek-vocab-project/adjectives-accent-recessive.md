@@ -1,7 +1,8 @@
 ---
-title: "ADJECTIVES Accent recessive"
-author: "Virgil Warren, christir.org"
+title: "Adjectives: Recessive Accent"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-02-04
 categories:
 - 'Topics'
 - 'Greek Features'
@@ -51,7 +52,7 @@ style='font-size:12.0pt'>            recessive</span></p>
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            ultimate  [-</span><span lang=EL
 style='font-size:12.0pt'>ρός</span><span style='font-size:12.0pt'>
-(revo&quot;), -to&quot; (tevo&quot;)]</span></p>
+(ρέος), -to&quot; (τέος)]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -167,7 +168,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
 style='font-size:12.0pt'>Intensive reflexive</span></b><span style='font-size:
-12.0pt'>  [i[dio&quot;]</span></p>
+12.0pt'>  [ἴδιος]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -201,8 +202,8 @@ capable of being used also as pronouns)</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            </span><span lang=ES style='font-size:
-12.0pt'>-o&quot;  -o&quot;  -on  [oujravnio&quot;, ejnantivo&quot;,
-wjfevlimo&quot;]</span></p>
+12.0pt'>-o&quot;  -o&quot;  -on  [οὐράνιος, ἐναντίος,
+ὠφέλιμος]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=ES
@@ -224,7 +225,7 @@ lang=EL style='font-size:12.0pt'>ης</span><span lang=ES style='font-size:12.0p
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=ES
-style='font-size:12.0pt'>            -u&quot;  -eia  -u</span></p>
+style='font-size:12.0pt'>            -υς  -εια  -u</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=ES
@@ -245,8 +246,8 @@ style='font-size:12.0pt'>            indeclinable  [cardinal numbers
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            irregular  [ajkwvn, eJkwvn, mevga&quot;,
-mevla&quot;, pa'&quot;, a{pa&quot;, poluv&quot;]</span></p>
+style='font-size:12.0pt'>            irregular  [ἀκών, ἑκών, μέγας,
+μέλας, pa'&quot;, ἅπας, πολύς]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -272,8 +273,8 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
 style='font-size:12.0pt'>Possessive adjectives</span></b><span
-style='font-size:12.0pt'> [same as pronominal adjectives] [i[dio&quot; (any
-person), ejmov&quot;,         hJmevtero&quot;, sov&quot;, uJmevtero&quot;]</span></p>
+style='font-size:12.0pt'> [same as pronominal adjectives] [ἴδιος (any
+person), ἐμός,         ἡμέτερος, σός, ὑμέτερος]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -298,7 +299,7 @@ style='font-size:12.0pt'>            characteristics of, having the <
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -iko&quot;  -ikh  -ikon</span></p>
+style='font-size:12.0pt'>                    -ικος  -ικη  -ικον</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -319,7 +320,7 @@ style='font-size:12.0pt'>            quality of, having the:  </span
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                    </span><span lang=ES
-style='font-size:12.0pt'>-h&quot;  -e&quot; </span></p>
+style='font-size:12.0pt'>-ης  -ες </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=ES
@@ -327,7 +328,7 @@ style='font-size:12.0pt'>                    -o&quot;  -h/a�
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=ES
-style='font-size:12.0pt'>                    -u&quot;  -eia  -u</span></p>
+style='font-size:12.0pt'>                    -υς  -εια  -u</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=ES
@@ -362,7 +363,7 @@ style='font-size:12.0pt'>            a-collective or intensive</span>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            </span><span lang=FR style='font-size:
-12.0pt'>ajrci-, </span></p>
+12.0pt'>ἀρχι-, </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
@@ -370,11 +371,11 @@ style='font-size:12.0pt'>            dus-, </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
-style='font-size:12.0pt'>            euj-,</span></p>
+style='font-size:12.0pt'>            εὐ-,</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
-style='font-size:12.0pt'>            hJmi-, </span></p>
+style='font-size:12.0pt'>            ἡμι-, </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
@@ -382,23 +383,23 @@ style='font-size:12.0pt'>            nh-, </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
-style='font-size:12.0pt'>            </span><span style='font-size:12.0pt'>-ano&quot;,
--anh, -anon:  no characteristic signification</span></p>
+style='font-size:12.0pt'>            </span><span style='font-size:12.0pt'>-ανος,
+-ανη, -anon:  no characteristic signification</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -ei&quot;, -essa, -en (genitives =
-ento&quot;, essh&quot;, en):  denoting fullness [usually poetic]</span></p>
+style='font-size:12.0pt'>            -εις, -εσσα, -en (genitives =
+εντος, εσσης, en):  denoting fullness [usually poetic]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -(eo&quot;) -ou&quot;, -(ea) -h, -(eon)
+style='font-size:12.0pt'>            -(εος) -ους, -(ea) -h, -(eon)
 -oun:  material formed from</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            </span><span lang=ES style='font-size:
-12.0pt'>-hn, -hn, -evn:  [G = -eno&quot;, eno&quot;, eno&quot;] [a[rshn]</span></p>
+12.0pt'>-hn, -ην, -έν:  [G = -ενος, ενος, ενος] [ἄρσην]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -410,16 +411,16 @@ vowel before the n if it is short.]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -h&quot;  -h&quot;  -e&quot;:  quality of</span></p>
+style='font-size:12.0pt'>            -ης  -ης  -ες:  quality of</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -iko&quot;  -ikh  -ikon:  having the
+style='font-size:12.0pt'>            -ικος  -ικη  -ικον:  having the
 characteristic of</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -imo&quot;  -imon:  having fitness or
+style='font-size:12.0pt'>            -ιμος  -ιμον:  having fitness or
 ability</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -429,17 +430,17 @@ formed from [proparoxytones]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -inov&quot;  -inhv   -inovn:  time related
+style='font-size:12.0pt'>            -ινός  -ινή   -ινόν:  time related
 to</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -vio&quot;  -ia  -ion:  related to an
+style='font-size:12.0pt'>            -vιος  -ια  -ion:  related to an
 attribute, locality, person, thing</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -isto&quot;, -isth, -iston:  superlative
+style='font-size:12.0pt'>            -ιστος, -ιστη, -ιστον:  superlative
 degree</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -448,12 +449,12 @@ style='font-size:12.0pt'>            -konta:  multiples of ten [inde
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -kovsioi  -kovsiai  -kovsia:  multiples of
+style='font-size:12.0pt'>            -κόσιοι  -κόσιαι  -κόσια:  multiples of
 hundreds </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -lov&quot;, -lhv, -lovn:  [usually
+style='font-size:12.0pt'>            -λός, -λή, -λόν:  [usually
 oxytones] active; no characteristic signification</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -478,7 +479,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -mo&quot;, -mh, -mon:  (no characteristic
+style='font-size:12.0pt'>            -μος, -μη, -mon:  (no characteristic
 signification)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -496,7 +497,7 @@ the n if it is short.]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -nov&quot;  -nhv  -novn:  from the place
+style='font-size:12.0pt'>            -νός  -νή  -νόν:  from the place
 of, characteristics of [usually oxytones](passive)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -506,20 +507,20 @@ of; or no characteristic signification</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -ou&quot;, -h, -oun:  [contracts]</span></p>
+style='font-size:12.0pt'>            -ους, -h, -oun:  [contracts]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -rov&quot;, -rav, -rovn:  [usually
+style='font-size:12.0pt'>            -ρός, -ρά, -ρόν:  [usually
 oxytones](usually active) no characteristic signification</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -simo&quot;, -simh, simon:</span></p>
+style='font-size:12.0pt'>            -σιμος, -σιμη, simon:</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -tato&quot;, tath, taton:  superlative
+style='font-size:12.0pt'>            -τατος, tath, taton:  superlative
 degree</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -529,17 +530,17 @@ style='font-size:12.0pt'>            -to&quot;, -th, -ton:  passive 
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -tevo&quot;  -teva  -tevon:  obligation or
+style='font-size:12.0pt'>            -τέος  -τέα  -τέον:  obligation or
 intention</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -tero&quot;, -tera, -teron:  comparative
+style='font-size:12.0pt'>            -τερος, -tera, -teron:  comparative
 degree</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -thrio&quot;, -thria, -thrion:</span></p>
+style='font-size:12.0pt'>            -τηριος, -τηρια, -τηριον:</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -553,11 +554,11 @@ as in &quot;tolerable&quot;)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -u&quot;  -eia  -u: having the quality of</span></p>
+style='font-size:12.0pt'>            -υς  -εια  -u: having the quality of</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -wlo&quot;, -wlh, -wlon:  quality</span></p>
+style='font-size:12.0pt'>            -ωλος, -ωλη, -ωλον:  quality</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -566,7 +567,7 @@ degree</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -w&quot;:  quality</span></p>
+style='font-size:12.0pt'>            -ως:  quality</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><b><span
@@ -590,13 +591,13 @@ style='font-size:12.0pt'>                    double root</spa
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            contract [ajrgurou'&quot;, aJplou'&quot;,
-diplou'&quot;, sidhrou'&quot;, tetraplou'&quot;, calou'&quot;, crusou'&quot;]</span></p>
+style='font-size:12.0pt'>            contract [ἀργυροῦς, ἁπλοῦς,
+διπλοῦς, σιδηροῦς, τετραπλοῦς, χαλοῦς, χρυσοῦς]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            predicate-position adjectives 
-[demonstratives, pa&quot;', a{pa&quot;, o{lo&quot; (possibly)]</span></p>
+[demonstratives, pa&quot;', ἅπας, ὅλος (possibly)]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -618,13 +619,13 @@ Guide</u>, 273-85]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            accompanied by genitive [koinwnivo&quot;,
-mestov&quot;, plhrhv&quot;]</span></p>
+style='font-size:12.0pt'>            accompanied by genitive [κοινωνίος,
+μεστός, πληρής]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            accompanied by dative  [ajpeiqhv&quot;,
-ejnantivo&quot;, o{moio&quot;, pistov&quot;, swthvrio&quot;, fanerov&quot;,                  wjfevlimo&quot;]</span></p>
+style='font-size:12.0pt'>            accompanied by dative  [ἀπειθής,
+ἐναντίος, ὅμοιος, πιστός, σωτήριος, φανερός,                  ὠφέλιμος]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span

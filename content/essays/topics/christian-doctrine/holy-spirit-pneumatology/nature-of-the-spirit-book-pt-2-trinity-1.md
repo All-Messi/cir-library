@@ -1,6 +1,6 @@
 ---
-title: "NATURE OF THE SPIRIT (book) pt 2 Trinity #1"
-author: "Virgil Warren, christir.org"
+title: "The Nature of the Spirit: A Person in the Divine Trinity"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:
 - 'Topics'
@@ -376,7 +376,7 @@ style='font-size:12.0pt'>                  2.   The procession
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>        <img width=225 height=97 id="Picture 2"
+style='font-size:12.0pt'>        <img alt="Triangle: Father, Son, Holy Spirit; pray, send, another (John 14:16, 26)" width=225 height=97 id="Picture 2"
 src="/images/essays/nature-of-the-spirit-book-pt-2-trinity-1/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -681,7 +681,7 @@ style='font-size:6.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>   <img width=239 height=157 id="Picture 1"
+style='font-size:12.0pt'>   <img alt="Circle of God with Son and HS going out and returning" width=239 height=157 id="Picture 1"
 src="/images/essays/nature-of-the-spirit-book-pt-2-trinity-1/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

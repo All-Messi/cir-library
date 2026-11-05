@@ -10,7 +10,7 @@ prev: chapter-05
 
 ## Galatians Chapter 6
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Brothers, even if (a) man is-caught-up in any sin, you the-ones spiritual restore [the] such-(a person) in (the) spirit of-humility/gentleness, watching yourselves lest you also get-tempted. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Brothers, even if (a) man is-caught-up in any sin, you the-ones spiritual restore [the] such-(a person) in (the) spirit of-humility/gentleness, watching yourselves lest you also get-tempted. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bear the burdens of-one-another, and in-this way fulfill the ‘law’ of-[the] Christ. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For if anybody thinks (himself) to-be something, being nothing, he-deceives himself. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But let┘each└examine the work of-himself, and then he-will-have [the] boasting to himself only and not to the other-(person). </span></span>
@@ -31,13 +31,6 @@ prev: chapter-05
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>During-the remaining (time) let┘nobody└cause me trouble, for I bear in the body of-me the marks of-[the] Jesus. </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>[The] grace of-the Lord of-us Jesus Christ (be) with the spirit of-you, brothers. Amen.</span></span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil Warren, PhD</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>translator</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span><span style='font-family:"Times New Roman",serif'>           christir.org</span></p>
 
 
 <style>

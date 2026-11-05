@@ -11,7 +11,7 @@ next: chapter-16
 
 ## 1 Corinthians Chapter 15
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now I-make-known to-you, brothers, the gospel that I-preached to-you, that you also received, and in which you┘also└stand, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now I-make-known to-you, brothers, the gospel that I-preached to-you, that you also received, and in which you┘also└stand, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and by which you-are-being-saved if you-hold-on-firmly to which word I-preached to-you—unless<sup>2</sup> you-believed in vain. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For I-delivered to-you among first-things, what also I-received, that Christ died for the sins of-us according-to the scriptures, </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and that he-was-buried and that he-has-been-raised on-the third [the] day according-to the scriptures, </span></span>
@@ -86,9 +86,7 @@ next: chapter-16
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v55" id="v55"><sup class="verse-num">55</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Where, death, (is) the victory of-you?</span></b></span></p>
 
-
-### Where, death, (is) the sting of-you?”
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Where, death, (is) the sting of-you?”</span></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v56" id="v56"><sup class="verse-num">56</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now the ‘sting’ of-[the] death (is) [the] sin, and the power of-[the] sin (is) the Law.
 </span></span>

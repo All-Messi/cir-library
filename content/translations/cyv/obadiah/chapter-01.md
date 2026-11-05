@@ -9,19 +9,13 @@ weight: 1
 
 ## Obadiah Chapter 1
 
-
-### Conversational Yahveh Covenant
-
-
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-top:0in;margin-bottom:0in;margin-left:.25in;text-align:center;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Vision of Obadiah</span></span></p>
 
 
 ### Edom’s Judgment Foretold
 
 
-
-### The Lord Yahveh says this about Edom;
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Lord Yahveh says this about Edom<b>;</b></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      we’ve heard the report;</span></p>
 
@@ -43,9 +37,7 @@ weight: 1
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and put your nest among the stars,</span></i></p>
 
-
-### I’ll bring you down.                                                    Obad 1-4
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I’ll bring you down.</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                   Obad 1-4</span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If thieves came to you at night—</span></i></span></p>
 
@@ -154,9 +146,7 @@ weight: 1
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  there’ll be no survivors in Edom.”</span></i></p>
 
-
-### Yahveh has said it.      Obad 15-18
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in; line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                                            </span></i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Yahveh has said it.      </span><b><span style='font-size:10.0pt;font-family:"Times New Roman",serif'>Obad 15-18</span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in; line-height:normal'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Then <i>my</i> people in the Negev will take over Esau’s mountains;</span></span></p>
 
@@ -172,17 +162,13 @@ weight: 1
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      the captives from Jerusalem that are in Sepharad <i>[north]</i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            will resettle their towns in the Negev <a name="_Hlk94693362"><i>[south].</i></a></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            will resettle their towns in the Negev <i>[south].</i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>All those who were rescued</span><b><sup><span style='font-family:"Times New Roman",serif'>LXX</span></sup></b><span style='font-family:"Times New Roman",serif'> </span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>will go up to Mount Zion</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and extend its dominion over Esau’s mountains.</span></p>
 
-
-### The kingdom will belong to Yahveh.                                     Obad 19-21
-
-
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The kingdom will belong to Yahveh.</span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                     Obad 19-21</span></b></p>
 
 
 <style>

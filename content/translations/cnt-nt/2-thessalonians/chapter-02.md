@@ -27,7 +27,9 @@ next: chapter-03
 <i>lawless one’s</i> coming will be like Satan’s working: with power, signs, false wonders, </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and every sinful deception, all aimed at people that perish, people that haven’t welcomed a love for the truth so they’d be saved. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So God will send them a deluding influence to cause them to believe a lie. </span></span>
-<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> the truth will judge disbelievers who delight in doing wrong.                     </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Th 2:1-12</span></b></span></p>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> the truth will judge disbelievers who delight in doing wrong.                     </span></span></p>
+
+<p class="section-ref">2 Th 2:1-12</p>
 
 
 ### God’s Choice of the Thessalonians
@@ -37,7 +39,9 @@ next: chapter-03
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He called you to that <i>truth</i> by the good news we delivered, which is for obtaining the honor our Lord Jesus Christ has. </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So, stand firm; hold onto the traditions we taught you by word and letter. </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now may our Lord Jesus Christ and God our Father—who loved us and gave <i>us</i> eternal comfort and good hope in grace—</span></span>
-<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>comfort you and strengthen <i>you</i> in every good thing you do and say.                                                                                                                                    </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Th 2:13-17</span></b></span></p>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>comfort you and strengthen <i>you</i> in every good thing you do and say.                                                                                                                                    </span></span></p>
+
+<p class="section-ref">2 Th 2:13-17</p>
 
 
 <style>

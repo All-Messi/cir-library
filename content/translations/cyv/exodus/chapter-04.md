@@ -70,7 +70,7 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At a place where they stayed on the way, Yahveh met him and threatened to put him to death. </span></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zipporah took a flint and cut off her son’s foreskin and threw it at Moses’ feet. She said, <i>‘You’re a bloody groom </i></span></span>
-<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <a name="_Hlk125712221"><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>(</span></a><span style='font-family:"Times New Roman",serif'>because of the circumcision</span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>)<i>!”</i> </span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So <i>God</i> let him alone.    </span></span></p>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>(</span><span style='font-family:"Times New Roman",serif'>because of the circumcision</span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>)<i>!”</i> </span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So <i>God</i> let him alone.    </span></span></p>
 
 <p class="section-ref">Ex 4:18-26</p>
 

@@ -13,7 +13,7 @@ next: chapter-110
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> For the Choir Director. A Psalm of David</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124260662"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God that I praise, speak up for me!</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God that I praise, speak up for me!</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Deceitful people speak against me;</span></span></p>
 
@@ -62,7 +62,7 @@ next: chapter-110
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> or be gracious to their fatherless children.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124260782"><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Cut off their posterity;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Cut off their posterity;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      erase their names from the next generation.<b>                     </b></span></p>
 
@@ -102,7 +102,7 @@ next: chapter-110
 
 <p class="section-ref">Ps 109:14-20</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124260988"><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God, deal graciously with me </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God, deal graciously with me </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>because your enduring love is good; </span></p>
 
@@ -142,7 +142,7 @@ next: chapter-110
 
 <p class="section-ref">Ps 109:26-29</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124261072"><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll praise the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> repeatedly;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll praise the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> repeatedly;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll praise him in front of everyone,</span></p>
 

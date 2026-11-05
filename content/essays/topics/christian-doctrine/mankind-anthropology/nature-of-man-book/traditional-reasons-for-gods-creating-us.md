@@ -2,6 +2,7 @@
 title: "TRADITIONAL REASONS FOR GODS CREATING US"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-02-04
 categories:
 - 'Topics'
 - 'Christian Doctrine'

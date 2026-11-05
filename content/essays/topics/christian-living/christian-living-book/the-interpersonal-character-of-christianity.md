@@ -2,6 +2,8 @@
 title: "THE INTERPERSONAL CHARACTER OF CHRISTIANITY"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2013-08-27
+lastmod: 2025-07-17
 categories:
 - 'Topics'
 - 'Christian Living'
@@ -52,7 +54,7 @@ style='font-size:6.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                  <img width=331 height=59
+style='font-size:12.0pt'>                  <img alt="Vertical, horizontal, individual → persons → action/doing → ongoing behavior, recurring action" width=331 height=59
 id="Picture 4" src="/images/essays/the-interpersonal-character-of-christianity/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -97,7 +99,7 @@ margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:8.0pt'>&nbsp;</s
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>         
-       <img width=351 height=100 id="Picture 3"
+       <img alt="Reason (humor, creativity, language, communication, self-transcendence), emotion (love, trust), will (responsibility, purpose), Spirit" width=351 height=100 id="Picture 3"
 src="/images/essays/the-interpersonal-character-of-christianity/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -254,7 +256,7 @@ margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>    
 “Characteristics of Interpersonalism.”)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>            <img
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>            <img alt="A. Compromise (thesis, antithesis, synthesis); B. chain reaction (domino effect) A → B → C → D; C. reciprocation (sets up a spiral, so growth is possible) A ⇄ B"
 width=286 height=195 id="Picture 2" src="/images/essays/the-interpersonal-character-of-christianity/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -286,7 +288,7 @@ coping</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>               
-<img width=317 height=60 id="Picture 1" src="/images/essays/the-interpersonal-character-of-christianity/image004.png"></span></p>
+<img alt="Vertical, horizontal, individual → interpersonal medium → reciprocal process" width=317 height=60 id="Picture 1" src="/images/essays/the-interpersonal-character-of-christianity/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>      </span></p>

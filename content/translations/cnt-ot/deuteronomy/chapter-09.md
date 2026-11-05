@@ -15,7 +15,7 @@ next: chapter-10
 ### Victory by God’s Power
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126574123"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Israel, you’re crossing the Jordan now to take over nations bigger and stronger than you, </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>to take over<i> big cities fortified to the sky, </i></span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Israel, you’re crossing the Jordan now to take over nations bigger and stronger than you, </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>to take over<i> big cities fortified to the sky, </i></span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to take over <i>people big and tall, the Anakim you’ve heard people say about, ‘Who can stand up to the descendants of Anak?’</i></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Understand that it’s the </span></i><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> your God who’s crossing over ahead of you like a consuming fire. He’ll conquer and destroy them so you can drive them out quickly.</span></i></span></p>
@@ -23,7 +23,7 @@ next: chapter-10
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When he drives them out, don’t tell yourselves it’s because of <u>your goodness</u> that he brought you to this land. Instead, </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>it’s<i> because of <u>their sinfulness</u> that he drove them out. </i></span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It’s not that you’re godly, but that they’re sinful. He’s confirming his oath to Abraham, Isaac, and Jacob.                                                                                       </span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126574397"><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“It’s not your goodness; you’re stubborn.                                    </span></i></span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“It’s not your goodness; you’re stubborn.                                    </span></i></span></span></p>
 
 <p class="section-ref">Deut 9:1-6</p>
 
@@ -52,7 +52,7 @@ next: chapter-10
 
 <p class="section-ref">Deut 9:7-21</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126574653"><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Again at Taberah, Massah, and Kibroth-hattaavah you provoked him. </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Again at Taberah, Massah, and Kibroth-hattaavah you provoked him. </span></i></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he sent you from Kadesh-barnea to go up and take over the land he’d given you, you wouldn’t listen or trust him. </span></i></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ve kept rebelling since I first knew you.</span></i></span></p>
 

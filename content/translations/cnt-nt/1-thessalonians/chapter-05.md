@@ -26,7 +26,9 @@ prev: chapter-04
 <u>you</u> must stay awake and sober. Put on the breastplate of faith and love, and the helmet of hope for salvation. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God didn’t destine us to <i>his </i>fury, but to salvation through our Lord Jesus Christ. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died for us; so whether we’re asleep or awake, we’ll live with him. </span></span>
-<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Comfort one another and keep building each other up like you’re doing.            </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Th 5:1-11</span></b></span></p>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Comfort one another and keep building each other up like you’re doing.            </span></span></p>
+
+<p class="section-ref">1 Th 5:1-11</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We ask you to acknowledge the ones that labor among you, that have responsibility for you in the Lord and instruct you. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For their work, regard them highly with love. Be at peace with each other. </span></span>
@@ -39,7 +41,9 @@ prev: chapter-04
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t quench the Spirit </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>or disregard prophecies. </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Examine everything, hold onto what’s good, </span></span>
-<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>abstain from evil in every way, shape, and form.             </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Th 5:12-22</span></b></span></p>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>abstain from evil in every way, shape, and form.             </span></span></p>
+
+<p class="section-ref">1 Th 5:12-22</p>
 
 
 ### Concluding Encouragement
@@ -54,9 +58,9 @@ prev: chapter-04
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>By the Lord, I charge you to read <i>this</i> letter to the whole church.           </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The grace of our Lord Jesus Christ </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>be</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> with you<sup>pl</sup>.                                            </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Th 5:23-28</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The grace of our Lord Jesus Christ </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>be</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> with you<sup>pl</sup>.                                            </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Translator: Virgil Warren                                                                                                 </span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
+<p class="section-ref">1 Th 5:23-28</p>
 
 
 <style>

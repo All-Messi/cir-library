@@ -2,6 +2,8 @@
 title: "GREEK ELEMENTS IN THE INTERPRETATION OF EPHESIANS 5:21"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2020-04-24
+lastmod: 2025-07-13
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -206,7 +208,7 @@ so also husbands are under the headship of Christ, whom they are to respect (Eph
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=370 height=114 id="Picture 1"
+style='font-size:12.0pt'><img alt="“Mutual submission” → Philippians 2:3, (2:4) mentality (“mind”); purpose &gt; responsibility &gt; authority (“head”)" width=370 height=114 id="Picture 1"
 src="/images/essays/greek-elements-in-the-interpretation-of-ephesians-521/image004.jpg"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

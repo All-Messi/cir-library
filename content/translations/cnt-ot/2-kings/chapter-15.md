@@ -15,13 +15,15 @@ next: chapter-16
 ### Azariah Rules in Judah
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>In the <b>twenty-seventh year of Jeroboam</b></span><b><sup><span style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'>II</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, king of Israel, <b>Azariah</b>/<i>Uzziah</i> son of Amaziah became king in Judah. </span><a name="_Hlk126343903"></span>
-<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He was 16 and ruled for <b>52 years in Jerusalem</b>. His mother was Jecoliah of Jerusalem. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>In the <b>twenty-seventh year of Jeroboam</b></span><b><sup><span style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'>II</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, king of Israel, <b>Azariah</b>/<i>Uzziah</i> son of Amaziah became king in Judah. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He was 16 and ruled for <b>52 years in Jerusalem</b>. His mother was Jecoliah of Jerusalem. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He did what was good like his father, </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but he didn’t take away the high places. The people still sacrificed and burned incense on them. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> made him a leper till he died. He lived in a separate house while his son Jotham managed the palace and judged the people. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of the acts of Azariah are recorded in <i>The Chronicles of the Kings of Judah</i>. </span></span>
-<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died and they buried him in The City of David, and Jotham became king.<b>                                              </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Kg 15:1-7</span></b></span></p>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died and they buried him in The City of David, and Jotham became king.<b>                                              </b></span></span></p>
+
+<p class="section-ref">2 Kg 15:1-7</p>
 
 
 ### Azariah Rules in Israel
@@ -33,7 +35,9 @@ next: chapter-16
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of the acts of Zechariah are recorded in <i>The Chronicles of the Kings of Israel</i>.
 </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is the message the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> gave Jehu, <i>“Your sons will sit on Israel’s throne for four generations.” </i>That’s what happened.<b>  </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Kg 15:8-12</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is the message the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> gave Jehu, <i>“Your sons will sit on Israel’s throne for four generations.” </i>That’s what happened.<b>  </b></span></span></p>
+
+<p class="section-ref">2 Kg 15:8-12</p>
 
 
 ### Shallum Rules in Israel
@@ -56,7 +60,7 @@ next: chapter-16
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of the acts of Menahem are recorded in <i>The Chronicles of the Kings of Israel</i>. </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died and his son Pekahiah became king.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                        </span><b><span lang=DE style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Kg 15:13-22</span></b></p>
+<p class="section-ref">2 Kg 15:13-22</p>
 
 
 ### Pekahiah Rules in Israel
@@ -67,7 +71,7 @@ next: chapter-16
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Pekah son of Remaliah, his officer, plotted against him and struck him in the fortress of the king’s palace with Argob and Arieh. 50 Gileadites helped him; he killed Pekahiah and became king. </span></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of the acts of Pekahiah are recorded in <i>The Chronicles of the Kings of Israel</i>.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                                                                                                                            </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Kg 15:23-26</span></b></p>
+<p class="section-ref">2 Kg 15:23-26</p>
 
 
 ### Pekah Rules in Israel
@@ -78,7 +82,9 @@ next: chapter-16
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In his reign, Tiglath-pileser, king of Assyria, came and captured Ijon, Abel-beth-maacah, Janoah, Kedesh, Hazor, Gilead, Galilee, and Naphtali. He took them captive to Assyria. </span></span>
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hoshea</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> son of Elah plotted against Pekah and struck him and became king in the <b>twentieth year of Jotham</b> son of Uzziah/<i>Azariah</i>. </span></span>
-<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of the acts of Pekah are recorded in <i>The Chronicles of the Kings of Israel</i>.<b>     </b></span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>2 Kg 15:27-31</span></b></span></p>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of the acts of Pekah are recorded in <i>The Chronicles of the Kings of Israel</i>.<b>     </b></span></span></p>
+
+<p class="section-ref">2 Kg 15:27-31</p>
 
 
 ### Jotham Rules in Judah
@@ -91,7 +97,9 @@ next: chapter-16
 <span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of the acts of Jotham are recorded in <i>The Chronicles of the Kings of Judah</i>. </span></span>
 <span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In those days the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> began to send Rezin, king of Aram, and Pekah son of Remaliah against Judah. </span></span>
 <span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jotham died and they buried him in The City of David. His son <b>Ahaz</b> became king.
-</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Kg 15:32-38</span></b></span></p>
+</span></span></p>
+
+<p class="section-ref">2 Kg 15:32-38</p>
 
 
 <style>

@@ -1,7 +1,7 @@
 ---
 title: "Picking Up Crosses"
 date: '2016-07-10'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

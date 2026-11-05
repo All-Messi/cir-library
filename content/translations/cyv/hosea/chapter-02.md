@@ -159,7 +159,7 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Then she’ll know Yahveh.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk94783620"><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, I’ll answer the sky </span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, I’ll answer the sky </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      that pleads for rain</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>,<i> </i></span></p>
 

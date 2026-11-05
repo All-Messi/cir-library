@@ -4,6 +4,7 @@ categories:
 - Evidences
 - Critical Intro Ot
 date: '2026-02-16'
+lastmod: 2025-07-10
 draft: false
 title: INTRODUCTORY CONSIDERATIONS ON JONAH
 weight: 2

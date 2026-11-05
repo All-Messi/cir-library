@@ -30,7 +30,7 @@ prev: chapter-06
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  each hunts the other with a net.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><a name="_Hlk122904849"><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Both hands do evil well,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Both hands do evil well,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      officials and judges both demand bribes,</span></p>
 
@@ -56,7 +56,7 @@ prev: chapter-06
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      be careful what you tell your wife.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><a name="_Hlk122904908"><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Son treats father with contempt;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Son treats father with contempt;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      daughter defies mother,</span></p>
 
@@ -102,7 +102,7 @@ prev: chapter-06
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  like dirt on a road.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><a name="_Hlk122905032"><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It’ll be a time, <i>Israel</i>, for rebuilding your walls</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It’ll be a time, <i>Israel</i>, for rebuilding your walls</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and extending your boundaries,</span></p>
 
@@ -131,7 +131,7 @@ prev: chapter-06
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  like they did in the old days.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><a name="_Hlk122905064"><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll show you amazing miracles </span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll show you amazing miracles </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      like I did when you came out of Egypt.”</span></i></p>
 
@@ -176,8 +176,6 @@ prev: chapter-06
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      like you swore to our ancestors so long ago.              </span></p>
 
 <p class="section-ref">Mic 7:18-20</p>
-
-<p class="MsoListBulletCxSpLast" ><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
 
 
 <style>

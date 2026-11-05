@@ -1,6 +1,6 @@
 ---
-title: "MIRACLE, Interaction of Faith and"
-author: "Virgil Warren, christir.org"
+title: "The Interaction of Faith and Miracle"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:
 - 'Topics'

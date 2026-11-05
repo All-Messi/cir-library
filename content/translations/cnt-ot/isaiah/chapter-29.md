@@ -15,7 +15,7 @@ next: chapter-30
 ### An Oracle About Jerusalem
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123159154"><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>              29<sup>:1</sup></span></b></a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Misfortune awaits you, Ariel, city where David camped!</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Misfortune awaits you, Ariel, city where David camped!</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Year after year, you observe the festivals on schedule.</span></i></p>
 
@@ -75,7 +75,7 @@ next: chapter-30
 
 <p class="section-ref">Is 29:5-8</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123158788"><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></a><a name="_Hlk86929267"><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But you linger and wait and blind yourselves.</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But you linger and wait and blind yourselves.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              You’re drunk, but not with wine;</span></p>
 
@@ -87,12 +87,12 @@ next: chapter-30
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              and covered your heads, seers.</span><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                             </span></b></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><a name="_Hlk123158702"><span class="verse verse-v11" id="v11"><sup class="verse-num">11-12</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This whole vision won’t mean much to you, either because it’s a <u>sealed scroll</u> to you or because you can’t read. Literate or not, you won’t get it.<i>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11-12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This whole vision won’t mean much to you, either because it’s a <u>sealed scroll</u> to you or because you can’t read. Literate or not, you won’t get it.<i>
 </i></span></span></p>
 
 <p class="section-ref">Is 29:9-12</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123158359"><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                  </span></i></a><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                  </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <i>“These people come near with their mouth</i></span></p>
 
@@ -136,7 +136,7 @@ next: chapter-30
 
 <p class="section-ref">Is 29:15-16</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123154942"><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                  </span></i></a><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Isn’t it just a little while</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                  </span></i><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Isn’t it just a little while</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        till Lebanon becomes a fertile field</span></p>
 

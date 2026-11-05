@@ -11,10 +11,6 @@ next: chapter-02
 ## Ruth Chapter 1
 
 
-### Conversational Yahveh Covenant
-
-
-
 ### Elimelech’s Family Moves to Moab
 
 

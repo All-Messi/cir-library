@@ -15,7 +15,7 @@ next: chapter-05
 ### Christian Unity
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>4</span></b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>:</span></sup><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I, a prisoner in the Lord, urge you to live appropriate to your calling—</span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I, a prisoner in the Lord, urge you to live appropriate to your calling—</span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>with humility and gentleness, with patience toward each other in love. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Make every effort to maintain spiritual unity* by being bound together with peace. </span></span></p>
 
@@ -84,6 +84,8 @@ next: chapter-05
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Get rid of bitterness, wrath, anger, angry shouting, blasphemy, hateful feelings. </span></span>
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Be kind to one another, tenderhearted, gracious, like God in Christ was gracious to you.
 </span></span></p>
+
+<p class="section-ref">Eph 4:25-32</p>
 
 
 <style>

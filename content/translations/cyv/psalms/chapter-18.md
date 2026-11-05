@@ -216,7 +216,7 @@ next: chapter-19
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      people I didn’t know now serve me.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><a name="_Hlk122433386"><span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Foreigners submit as soon as they hear me;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Foreigners submit as soon as they hear me;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>they lose heart and come cringing out of their fortresses.         </span></span></p>
 
@@ -224,11 +224,11 @@ next: chapter-19
 
 <p class="section-ref">Ps 18:37-45</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><a name="_Hlk123789084"><span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh lives; praise be to my Rock;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh lives; praise be to my Rock;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      exalted be God that delivers me,</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><a name="_Hlk122433470"><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></a><span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that avenges me,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that avenges me,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            that subdues nations under me.</span></p>
 

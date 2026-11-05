@@ -11,7 +11,7 @@ next: chapter-09
 
 ## Judges Chapter 8
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The men in Ephraim said to him, </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The men in Ephraim said to him, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“What have you done to us, not calling us when you went to fight Midian?”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> They were in animated contention with him. </span></p>
 
@@ -33,9 +33,7 @@ next: chapter-09
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told them, <i>“When I come back after peace is restored, I’ll tear down this tower.”</i><b>
 </b></span></span></p>
 
-
-### Jud 8:1-9
-
+<p class="section-ref">Jud 8:1-9</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zebah and Zalmunna were in Karkor with about 15,000 men, what were left from the entire army from east <i>of the Jordan</i>; 120,000 swordsmen had fallen. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gideon went up the caravan route east of Nobah and Jogbehah and caught them in a surprise attack. </span></span>
@@ -61,9 +59,9 @@ next: chapter-09
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Zebah and Zalmunna said, <i>“Be a man. Come do it yourself.” </i></span></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>Gideon got up and killed them and took the crescents off their camels’ necks.   </span></p>
 
-### Gideon got up and killed them and took the crescents off their camels’ necks.   Jud 8:10-21
-
+<p class="section-ref">Jud 8:10-21</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then the Israelites said to him, <i>“Be our ruler, you, your son, and your grandson as well. You’ve delivered us from Midian.” </i></span></span></p>
 
@@ -82,7 +80,9 @@ next: chapter-09
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As soon as he died, the people went back to worshiping the images of Baal. They made Baal-berith their god. </span></span>
 <span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They didn’t remember the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> their God, who had rescued them from their enemies in every direction, </span></span>
-<span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>or show kindness to Jerubbaal’s family in return for everything he’d done for Israel. <b>                                                                                                                  </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 8:22-35</span></b></span></p>
+<span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>or show kindness to Jerubbaal’s family in return for everything he’d done for Israel. <b>                                                                                                                  </b></span></span></p>
+
+<p class="section-ref">Jud 8:22-35</p>
 
 
 <style>

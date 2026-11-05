@@ -2,6 +2,8 @@
 title: "WISDOM LITERATURE"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2023-07-14
+lastmod: 2025-07-15
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'
@@ -72,7 +74,7 @@ literature is not interested just in what </span></p>
 <p class=MsoNormal><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt'><img width=279 height=136
+style='font-size:12.0pt'><img alt="Ellipses: LAW (commandment/faith, morality, disobedience) inside WISDOM (advice/opinion, procedure, expediency), with risk" width=279 height=136
 src="/images/essays/wisdom-literature/image001.png"></span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>   
@@ -105,7 +107,7 @@ moving toward the desired conclusion. As anyone can see</span></p>
 <p class=MsoNormal><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt'><img width=159 height=104 id="Picture 2"
+style='font-size:12.0pt'><img alt="Outline (I, A, B; II, A, B) with a vertical arrow through it" width=159 height=104 id="Picture 2"
 src="/images/essays/wisdom-literature/image002.png"></span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>&nbsp;</span></p>
@@ -126,7 +128,7 @@ around the</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt'><img width=234 height=219 id="Picture 1"
+style='font-size:12.0pt'><img alt="Flower diagram: theme at the center with petals a to l" width=234 height=219 id="Picture 1"
 src="/images/essays/wisdom-literature/image003.png"></span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>&nbsp;</span></p>

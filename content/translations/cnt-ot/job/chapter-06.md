@@ -11,7 +11,7 @@ next: chapter-07
 
 ## Job Chapter 6
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124935511"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Job answered:</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Job answered:</span></b></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif;color:gray'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:gray'>“Oh that my adversity was properly weighed</span></i></span></p>
 
@@ -41,7 +41,7 @@ next: chapter-07
 
 <p class="section-ref">Job 6:1-7</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk124935743"><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>“Oh that I could receive what I ask for,</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>“Oh that I could receive what I ask for,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                  that God would grant me what I long for!</span></i></p>
 
@@ -65,11 +65,11 @@ next: chapter-07
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>            </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>I can’t get any help from inside me;</span></i></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                  I can’t deliver myself.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>       </span></b><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                    </span></b></span></p>
 
-### I can’t deliver myself.                                           Job 6:8-13
+<p class="section-ref">Job 6:8-13</p>
 
-
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk124946886"><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>“Friends should be kind to people in despair; </span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>“Friends should be kind to people in despair; </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                  otherwise, they’ll lose reverence for the Almighty.</span></i></p>
 
@@ -97,7 +97,7 @@ next: chapter-07
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                  you see my misfortune and get scared.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>            </span></i><a name="_Hlk124947101"><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> </a><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:gray'>Have I said, ‘Give me something’;</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>            </span></i><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:gray'>Have I said, ‘Give me something’;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                   ‘pay a ransom for me from your wealth’;</span></i></p>
 
@@ -132,6 +132,10 @@ next: chapter-07
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                  my good reputation is at stake here.</span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>            </span></i><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>Has there been anything false about what I’ve said?</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                  Can’t I distinguish guilt from disaster?</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>               </span></b></span></p>
+
+<p class="section-ref">Job 6:24-30</p>
 
 
 <style>

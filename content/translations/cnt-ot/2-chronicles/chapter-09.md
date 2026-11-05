@@ -23,21 +23,25 @@ next: chapter-10
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:1.35pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The report was true that I heard in my country about your words and wisdom. </span></i></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But I didn’t believe it till I saw it. They didn’t tell me half of it. </span></i></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>How fortunate your officers must feel, being around you continually and listening to your wisdom. </span></i></span>
-<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bless the </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> your God that delighted in you and set you on his throne. He loved Israel and established the </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>nation<i> permanently; that’s why he made you their king—to do justice and goodness.”</i> <b>                                                                                   </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 9:1-8</span></b></span></p>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bless the </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> your God that delighted in you and set you on his throne. He loved Israel and established the </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>nation<i> permanently; that’s why he made you their king—to do justice and goodness.”</i> <b>                                                                                   </b></span></span></p>
+
+<p class="section-ref">2 Ch 9:1-8</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She gave him 4½ tons <sup>120 talents</sup> of gold and a large amount of spices and precious stones. There’d never been spices like what she gave him. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Hiram and Solomon’s crews brought gold from Ophir plus algum wood and precious stones. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From the algum <i>wood
 </i>he made steps for the L</span><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s Temple and the king’s palace as well as lyres and harps for the singers. Nobody in Judah had ever seen anything like them. </span></span>
-<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King Solomon gave the queen of Sheba everything she asked for—more than what she’d brought him. Then she and her attendants went back to her country.<b>  </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 9:9-12</span></b></span></p>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King Solomon gave the queen of Sheba everything she asked for—more than what she’d brought him. Then she and her attendants went back to her country.<b>  </b></span></span></p>
+
+<p class="section-ref">2 Ch 9:9-12</p>
 
 
 ### Solomon’s Wealth and Spendor
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The weight of gold that came to Solomon each year was <a name="_Hlk145087782">25 tons <sup>666 talents</sup></a> </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The weight of gold that came to Solomon each year was 25 tons <sup>666 talents</sup> </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>besides what traders and merchants brought, and besides the gold and silver the kings of Arabia and the governors of the country brought. </span></span>
-<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King Solomon made 200 large shields of beaten gold, using <a name="_Hlk145087815">15 lbs <sup>600 shekels</sup> of beaten gold </a>on each one. </span></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King Solomon made 200 large shields of beaten gold, using 15 lbs <sup>600 shekels</sup> of beaten gold on each one. </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He made 300 shields of beaten gold, using 300 gold shekels on each one. He put them in the Palace of the Forest of Lebanon. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He made a large throne out of ivory and overlaid it with pure gold. </span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It had 6 steps leading up to it, a gold footstool attached to it, arms on each side of the seat, and 2 lions standing beside the arms. </span></span>
@@ -46,7 +50,7 @@ next: chapter-10
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>He had ships that went to Tarshish every three years with Hiram’s sailors, and brought back gold, silver, ivory, apes and peacocks.<b>
 </b></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                                                                                                                              </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 9:13-21</span></b></p>
+<p class="section-ref">2 Ch 9:13-21</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King Solomon became greater than any other king anywhere in wealth and wisdom. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Kings from all over the world wanted to be around him to hear the wisdom God put in him. </span></span>
@@ -64,7 +68,9 @@ next: chapter-10
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of the acts of Solomon, first to last, are recorded in <i>The Chronicles of Nathan the Prophet</i>, <i>The Prophecy of Ahijah the Shilonite</i>, and <i>The Visions of Iddo the Seer</i> about Jeroboam son of Nebat. </span></span>
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He ruled for <b>40 years in Jerusalem</b> over all Israel. </span></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died and they buried him in The City of David. His son Rehoboam reigned.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 9:22-31</span></b></span></p>
+</b></span></span></p>
+
+<p class="section-ref">2 Ch 9:22-31</p>
 
 
 <style>

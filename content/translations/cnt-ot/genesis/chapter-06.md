@@ -15,7 +15,7 @@ next: chapter-07
 ### Evil Multiplies
 
 
-<p class="MsoListBulletCxSpMiddle" ><a name="_Hlk125446055"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When people were multiplying and having daughters, </span></span>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When people were multiplying and having daughters, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the sons of God saw they were beautiful and took as many wives as they wanted. </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God said, <i>“My breath won’t remain in humans as long because they’re physical. They’ll come to live 120 years.”</i></span></span></p>

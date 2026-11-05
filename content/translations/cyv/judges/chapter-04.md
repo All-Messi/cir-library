@@ -15,7 +15,7 @@ next: chapter-05
 ### Deborah Judges Israel
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After Ehud died, the people sinned again, </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After Ehud died, the people sinned again, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and Yahveh sold them to Jabin, king of Canaan in Hazor. Sisera commanded his army from Harosheth-hagoyim. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people appealed to Yahveh because <i>Sisera</i> had 900 iron chariots and oppressed Israel cruelly for 20 years.</span></span></p>
 
@@ -30,7 +30,9 @@ next: chapter-05
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll go with you, but that won’t give </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>you any <i>honor. Yahveh</i>
 <i>will be selling Sisera to a woman.”</i> </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She went with him to Kedesh, </span><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and Barak called Zebulun and Naphtali to Kedesh; 10,000 men went up with him.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>         Jud 4:1-10</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She went with him to Kedesh, </span><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and Barak called Zebulun and Naphtali to Kedesh; 10,000 men went up with him.</span></span></p>
+
+<p class="section-ref">Jud 4:1-10</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Heber the Kenite had moved away from the Kenites, descendants of Hobab, Moses’ <i>brother</i>-in-law*. He had pitched his tent as far away as the oak in Zaanannim near Kedesh.</span></span></p>
 
@@ -48,7 +50,9 @@ next: chapter-05
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As Barak pursued him, Jael went out to meet him, <i>“Come here, I’ll show you the man you’re looking for.” </i>He went into her tent and found Sisera lying there dead with the tent peg through his temple.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God subdued Jabin that day in front of Israel. </span></span>
-<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They kept pressing harder and harder on him till they’d destroyed him.             </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 4:11-24</span></b></span></p>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They kept pressing harder and harder on him till they’d destroyed him.             </span></span></p>
+
+<p class="section-ref">Jud 4:11-24</p>
 
 
 <style>

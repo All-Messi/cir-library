@@ -15,7 +15,7 @@ next: chapter-32
 ### Warning to Those Who Rely on Egypt
 
 
-<p class="MsoListBulletCxSpFirst" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><a name="_Hlk86930083"></a><a name="_Hlk123300461"><b><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>                  31<sup>:1</sup></span></b></a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Misfortune lies ahead for those who go down to Egypt for help,</span></p>
+<p class="MsoListBulletCxSpFirst" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Misfortune lies ahead for those who go down to Egypt for help,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  who rely on horses,</span></p>
 

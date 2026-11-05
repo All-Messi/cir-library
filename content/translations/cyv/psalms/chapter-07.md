@@ -35,9 +35,11 @@ next: chapter-08
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>trample me on the ground,</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            lay my honor in the dust.                                            </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ps 7:1-5</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            lay my honor in the dust.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><a name="_Hlk123813145"><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Rise up in anger, Yahveh,</span></span></p>
+<p class="section-ref">Ps 7:1-5</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Rise up in anger, Yahveh,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      against my angry enemies;</span></p>
 

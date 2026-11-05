@@ -11,11 +11,7 @@ next: chapter-28
 
 ## Job Chapter 27
 
-
-### Who can comprehend his power?”                Job 26:5-14
-
-
-<p class="MsoNormal" style='margin-bottom:0in;'><a name="_Hlk125034672"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Job continued his comments:</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Job continued his comments:</span></b></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>“As God lives, who has taken away my rights,</span></i></span></p>
 
@@ -35,7 +31,7 @@ next: chapter-28
 
 <p class="section-ref">Job 27:1-6</p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>            </span><a name="_Hlk125035048"><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> </a><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:gray'>“May my enemies be like the wicked;</span></i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>            </span><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:gray'>“May my enemies be like the wicked;</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                  may my attackers be like the sinful.</span></i></p>
 
@@ -61,7 +57,7 @@ next: chapter-28
 
 <p class="section-ref">Job 27:7-12</p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><a name="_Hlk125035495"><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>“This is sinful people’s lot from God,</span></i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>“This is sinful people’s lot from God,</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                        the fate tyrants receive from the Almighty:</span></i></p>
 

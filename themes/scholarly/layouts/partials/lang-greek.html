@@ -1,0 +1,9 @@
+{{- /* lang-greek.html — escape a plain-text title and mark its Greek runs with lang="el" so
+       screen readers switch voice (2026-11-04, site comb L10). Only for text the templates
+       print themselves (titles, subtitles, list rows); Greek inside converted bodies is the
+       converter's job. Usage: {{ partial "lang-greek.html" (partial "display-title.html" .Title) }} */ -}}
+{{- $s := . | default "" | htmlEscape -}}
+{{- if findRE `\p{Greek}` $s 1 -}}
+    {{- $s = replaceRE `(\p{Greek}[\p{Greek}\p{M}ʹ]*(?:[ \x{00a0}]+\p{Greek}[\p{Greek}\p{M}ʹ]*)*)` `<span lang="el">$1</span>` $s -}}
+{{- end -}}
+{{- return ($s | safeHTML) -}}

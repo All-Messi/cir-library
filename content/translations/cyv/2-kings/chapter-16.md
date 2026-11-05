@@ -24,7 +24,9 @@ next: chapter-17
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%'>At that time, Rezin recovered Elath and cleared the Judeans out of it entirely. Arameans came to Elath and still live there. </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%'>Ahaz sent ambassadors to Tiglath-pileser, <i>“I’m your servant and vassal. Come up and deliver me from the kings of Aram and Israel, who are rising up against me.” </i></span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%'>Ahaz took the silver and gold in Yahveh’s Temple and the king’s treasuries and sent a gift to the king of Assyria. </span></span>
-<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%'>He went up and conquered Damascus, exiled <i>its people </i>to Kir, and executed Rezin.</span><b><span style='font-size:10.0pt;line-height:115%'>                                                                                     2 Kg 16:1-9</span></b></span></p>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%'>He went up and conquered Damascus, exiled <i>its people </i>to Kir, and executed Rezin.</span></span></p>
+
+<p class="section-ref">2 Kg 16:1-9</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height: 115%'>King Ahaz went to Damascus to meet Tiglath-pileser and saw the altar at Damascus. He sent to Urijah the priest the pattern of the altar, its model, and details. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%'>Urijah built an altar like it before Ahaz got back. </span></span>
@@ -35,13 +37,17 @@ next: chapter-17
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%'>“On the great altar, burn the morning burnt offering, the evening meal offering, the king’s burnt offering and meal offering, with the people’s burnt offering, meal offering, and liquid offerings. Sprinkle on it the blood of the burnt offering and sacrifice. But the bronze altar will be for me to ask by.”</span></i><span style='font-size: 12.0pt;line-height:115%'> </span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%'>Urijah did what he said.<b>                                                                                               </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 16:10-16</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%'>Urijah did what he said.<b>                                                                                               </b></span></span></p>
+
+<p class="section-ref">2 Kg 16:10-16</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height: 115%'>Then Ahaz cut off the borders of the stands and removed the laver from them. He took down the sea from over the bronze oxen and put it on a stone pavement. </span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%'>Because of the king of Assyria, he took from Yahveh’s Temple the covered way for the Sabbath that they’d built in the Temple, as well as the outer entry for the king. </span></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%'>The rest of the acts of Ahaz are recorded in <i>The Chronicles of the Books of Judah</i>. </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%'>He died and they buried him in The City of David. His son <b>Hezekiah</b> reigned.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 16:17-20</span></b></span></p>
+</b></span></span></p>
+
+<p class="section-ref">2 Kg 16:17-20</p>
 
 
 <style>

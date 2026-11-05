@@ -15,7 +15,7 @@ next: chapter-11
 ### The Silver Trumpets
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>        <b>10<sup>:1</sup></b></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses, </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Make two bugles out of hammered silver. Use them to gather the community or move the camp out. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Blow both bugles to gather the community at the Tent of Meeting. </span></i></span>
@@ -56,9 +56,9 @@ next: chapter-11
 <p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt; '><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Dan’s standard, the rear guard for the camps, set out with Ahiezer over its army, </span></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pagiel over Asher’s army, </span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and Ahira over Naphtali’s army. </span></span>
-<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That was the order of the Israelite’s </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>tribal </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>armies.
-</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Num 10:17-28</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>
-                        </span></span></p>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That was the order of the Israelite’s </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>tribal </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>armies.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Num 10:17-28</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt; '><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses told Hobab Ben-Reuel/</span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>Jethro</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> from Midian, Moses’ father-in-law, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“We’re setting out to the place Yahveh said he’d give us. Go with us and we’ll do you good because he<sup>Y</sup> has promised good for Israel.”</span></i></span></p>
 

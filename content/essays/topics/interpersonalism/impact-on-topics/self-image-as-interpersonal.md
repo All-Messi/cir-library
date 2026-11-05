@@ -2,6 +2,7 @@
 title: "SELF-IMAGE AS INTERPERSONAL"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-16
 categories:
 - 'Topics'
 - 'Interpersonalism'
@@ -78,6 +79,5 @@ control over what nature gives us.</span></p>
 18.0pt'><span style='font-size:12.0pt'>            Self-esteem differs from
 pride by deriving from a comparison between responsibility and how well we
 fulfill it. That contrasts with pride in its negative sense, which derives from
-comparison between us and other people.                                      </span><span
-style='font-size:11.0pt'>christir.org</span></p>
+comparison between us and other people.                                      </span></p>
 </div>

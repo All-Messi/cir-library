@@ -15,7 +15,7 @@ next: chapter-04
 ### Jonah Preaches at Nineveh
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk122903022"></a><a name="_Hlk122902941"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told Jonah again, </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told Jonah again, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go to Nineveh, the big city, and deliver what I tell you.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So he went. It was a big city, a three-days’ walk-through. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He went through it one day’s walk and shouted, <i>“</i>God<i> is going to overthrow Nineveh in 40 days.” </i></span></span>
@@ -27,7 +27,9 @@ next: chapter-04
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“In Nineveh by decree of the king and his nobles: Don’t anybody—animal, herd, or flock—eat anything or drink water. </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>People and animals have to wear burlap. Call on God earnestly so everyone will turn from sinfulness and violence. </span></i></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who knows, maybe God will relent from his fierce anger and not destroy us.  </span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When God saw they’d repented, he relented from doing what he’d threatened.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>             Jon 3:1-10</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When God saw they’d repented, he relented from doing what he’d threatened.</span></span></p>
+
+<p class="section-ref">Jon 3:1-10</p>
 
 
 <style>

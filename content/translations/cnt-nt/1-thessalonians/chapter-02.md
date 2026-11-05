@@ -27,7 +27,9 @@ next: chapter-03
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You remember our labor and hardship, how we worked day and night so we wouldn’t burden <i>you </i>while we presented his good news to you. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Along with God, you can confirm how devoutly, uprightly, blamelessly we carried ourselves among you—</span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>like a father with his kids. </span></span>
-<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We urged you, encouraged you, and testified to you to live worthy of the One that was calling you to his kingdom and honor.</span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                                                           1 Th 2:1-12</span></b></span></p>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We urged you, encouraged you, and testified to you to live worthy of the One that was calling you to his kingdom and honor.</span></span></p>
+
+<p class="section-ref">1 Th 2:1-12</p>
 
 
 ### Their Openness to the Good News
@@ -40,7 +42,9 @@ next: chapter-03
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We’ve been away from you for a little while—in person, not in heart. </span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We’ve really wanted to see you, but Satan prevented it time and again. </span></span>
-<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who is our hope, our joy, the crown we’ll be proud of when the Lord Jesus comes? Aren’t <u>you</u> our joy and honor?</span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>         1 Th 2:13-19</span></b></span></p>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who is our hope, our joy, the crown we’ll be proud of when the Lord Jesus comes? Aren’t <u>you</u> our joy and honor?</span></span></p>
+
+<p class="section-ref">1 Th 2:13-19</p>
 
 
 <style>

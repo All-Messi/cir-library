@@ -11,7 +11,7 @@ next: chapter-09
 
 ## Job Chapter 8
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124948849"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bildad the Shuhite answered:</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bildad the Shuhite answered:</span></b></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#7030A0'>“How long will you talk like that?</span></i></span></p>
 
@@ -53,7 +53,7 @@ next: chapter-09
 
 <p class="section-ref">Job 8:8-10</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#7030A0'>            </span></i><a name="_Hlk124948963"><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#7030A0'>“Can papyrus grow where there’s no marsh?</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#7030A0'>            </span></i><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#7030A0'>“Can papyrus grow where there’s no marsh?</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#7030A0'>                  Can reeds grow without water?</span></i></p>
 
@@ -81,7 +81,7 @@ next: chapter-09
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#7030A0'>                              and grow among the stones.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#7030A0'>                        </span></i><a name="_Hlk124949064"><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> </a><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#7030A0'>But if it’s pulled loose,</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#7030A0'>                        </span></i><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#7030A0'>But if it’s pulled loose,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#7030A0'>                              you can’t tell it was ever there. </span></i></p>
 

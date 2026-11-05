@@ -112,18 +112,18 @@ next: chapter-13
 <span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malchijah, Elam, and Ezer. The singers sang with Jezrahiah their leader, </span></span>
 <span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and on that day they offered a great number of sacrifices and celebrated because God had made them happy. The women and children celebrated too; the joy in Jerusalem was heard a long way off.</span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>     </span></b></span></p>
 
-
-### Neh 12:31-43
-
+<p class="section-ref">Neh 12:31-43</p>
 
 
 ### Provisions for Temple Worship
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On that day, men were also appointed to oversee the rooms <a name="_Hlk125804799">for storing contributions, firstfruits, </a>and tithes, to gather into them from the fields of the towns the portions required by the Law for the priests and Levites; because Judah celebrated over the priests and Levites that served. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On that day, men were also appointed to oversee the rooms for storing contributions, firstfruits, and tithes, to gather into them from the fields of the towns the portions required by the Law for the priests and Levites; because Judah celebrated over the priests and Levites that served. </span></span>
 <span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They performed the worship of God and the service of purification, together with the singers and the gatekeepers according to the command of David and Solomon. </span></span>
 <span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the time of David and Asaph, there were leaders of the singers, and <i>there were</i> songs of praise and hymns of thanksgiving to God. </span></span>
 <span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel at the time of Zerubbabel and Nehemiah gave the portions due the singers and gatekeepers as each day required. They set apart the consecrated portion for the Levites, and the Levites set apart the consecrated portion for the descendants of Aaron.</span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></b></span></p>
+
+<p class="section-ref">Neh 12:44-47</p>
 
 
 <style>

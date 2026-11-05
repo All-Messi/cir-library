@@ -10,10 +10,6 @@ next: chapter-02
 
 ## Zephaniah Chapter 1
 
-
-### Conversational Yahveh Covenant
-
-
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A Message from Yahveh to Zephaniah Ben-Cushi</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><span lang=DA style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>(</span><span lang=DA style='font-family: "Times New Roman",serif'>Ben-Gedaliah Ben-Amariah</span><span lang=DA style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>) Ben-Hezekiah </span></p>
@@ -24,7 +20,7 @@ next: chapter-02
 ### The Coming Judgment on Judah
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122954195"><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll remove everything </span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll remove everything </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      from the earth,”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> Yahveh says,</span></p>
 

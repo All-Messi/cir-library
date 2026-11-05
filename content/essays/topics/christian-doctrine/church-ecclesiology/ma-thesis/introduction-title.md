@@ -1,7 +1,8 @@
 ---
-title: "INTRODUCTION Title"
-author: "Virgil Warren, christir.org"
+title: "Introduction"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-11
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -38,8 +39,7 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:12.0pt'>INTRODUCTION</span></b></p>
+
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 .5in'><b><span style='font-size:12.0pt'>&nbsp;</span></b></p>

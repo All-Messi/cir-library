@@ -14,7 +14,7 @@ prev: chapter-15
 ### The Resurrection of Messiah
 
 
-<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>16</span></b><b><sup><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>:</span></sup></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>When Sabbath had passed, Mary the Magdalene; Mary, the <i>mother</i> of James; and Salome had bought aromatic spices to put on his body. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>When Sabbath had passed, Mary the Magdalene; Mary, the <i>mother</i> of James; and Salome had bought aromatic spices to put on his body. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;font-family:"Times New Roman",serif'>Very early on the first <i>day</i> of the week, they came<sup>p</sup> to the tomb as the sun was just starting to come up. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They were saying to one another, <i>“Who’s going to roll the stone away for us from the entrance to the tomb?”</i> </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>When they looked up, they saw<sup>p</sup> that the really big stone had been rolled away. </span></span>
@@ -22,7 +22,9 @@ prev: chapter-15
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He said<sup>p</sup>,
 <i>“Don’t be startled. You’re looking for Jesus the Nazarene that was crucified. He’s not here; he resurrected. See where they laid him. </i></span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Go tell his disciples--particularly Peter, ‘He’s going on ahead of you</span></i><i><sup><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>pl</span></sup></i><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'> to Galilee. You’ll see him there like he said.’”</span></i><span style='font-size:12.0pt; font-family:"Times New Roman",serif'> </span></span>
-<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They went out and ran from the tomb because trembling and excitement gripped them. They didn’t talk to anybody because they were afraid.</span><b><span style='font-size:10.0pt; font-family:"Times New Roman",serif'>             Mk 16:1-8</span></b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>  </span></span></p>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They went out and ran from the tomb because trembling and excitement gripped them. They didn’t talk to anybody because they were afraid.</span><b><span style='font-size:10.0pt; font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Mk 16:1-8</p>
 
 
 ### Appearance to Mary the Magdalene
@@ -71,8 +73,6 @@ prev: chapter-15
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-family:"Times New Roman",serif'>After the Lord Jesus had spoken to them, he was taken up into heaven and sat down on God’s right hand. </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-family:"Times New Roman",serif'>The disciples </span></i><span style='font-family:"Times New Roman",serif'>went out and delivered the good news everywhere, and the Lord worked with them by confirming the message with the signs that followed.]]</span><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>  </span><span style='font-size:10.0pt;font-family:"Times New Roman",serif'>[</span><b><span style='font-size:10.0pt;font-family:"Times New Roman",serif'>Mk 16:19-20]</span></b></span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Translator: Virgil Warren </span><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                                                                                   </span><span style='font-size:10.0pt;font-family:"Times New Roman",serif'>christir.org</span></p>
 
 
 <style>

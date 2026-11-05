@@ -15,7 +15,8 @@ next: chapter-25
 ### Balaam’s Third Oracle
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt; '><b><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>24<sup>;1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Balaam saw that it pleased Yahveh to bless Israel, he didn’t go like before to look for omens, but faced the open country. </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He saw Israel camping by tribes, and God’s Spirit came on him. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Balaam saw that it pleased Yahveh to bless Israel, he didn’t go like before to look for omens, but faced the open country. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He saw Israel camping by tribes, and God’s Spirit came on him. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He took up this oracle:</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The oracle of Balaam Ben-Beor,</span></i></b></p>
@@ -58,7 +59,7 @@ next: chapter-25
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                            and shatter them with his arrows.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span></i><a name="_Hlk126746245"><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> lies down like a lion;</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                      </span></i><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> lies down like a lion;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                            who dares to rouse him?</span></i></p>
 

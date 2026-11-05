@@ -43,7 +43,7 @@ next: chapter-05
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Value it highly, and it’ll elevate you;</span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              <a name="_Hlk146532487">it will bring you honor if you embrace it.</a></span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              it will bring you honor if you embrace it.</span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It will put a beautiful wreath on your head</span></i></span></p>
 
@@ -51,7 +51,7 @@ next: chapter-05
 
 <p class="section-ref">Prov 4:1-9</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk146532589"><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Accept what I’m telling you, son,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Accept what I’m telling you, son,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and you’ll live a long time.</span></p>
 
@@ -69,7 +69,7 @@ next: chapter-05
 
 <p class="section-ref">Prov 4:10-13</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk146532845"><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t follow the road that sinners travel</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t follow the road that sinners travel</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            or walk the path of perverse people.</span></p>
 
@@ -95,7 +95,7 @@ next: chapter-05
 
 <p class="section-ref">Prov 4:14-19</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk146533221"><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pay attention to me, son;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pay attention to me, son;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            listen to what I’m telling you;</span></p>
 

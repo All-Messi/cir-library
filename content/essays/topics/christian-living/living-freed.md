@@ -211,7 +211,7 @@ style='font-size:12.0pt'>             </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            <img width=319 height=121
+style='font-size:12.0pt'>            <img alt="Internalize: “written on the heart” (Jeremiah 31:31) + “love for God” (1 John 5:3) frees us up for better performance" width=319 height=121
 src="/images/essays/living-freed/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -290,7 +290,7 @@ separates me from my past as far as the other person is </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                         <img width=186 height=104
+style='font-size:12.0pt'>                         <img alt="Perfection and performance: identification with Christ, repentance, forgiveness" width=186 height=104
 src="/images/essays/living-freed/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

@@ -68,6 +68,8 @@ next: chapter-17
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The islands sank, and the mountains collapsed. </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Enormous hailstones, weighing over 90 pounds, fell on people. They blasphemed God because the hailstone plague was so severe.                     </span></span></p>
 
+<p class="section-ref">Rev 16:17-21</p>
+
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

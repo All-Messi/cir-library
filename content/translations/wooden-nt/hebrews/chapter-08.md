@@ -11,7 +11,7 @@ next: chapter-09
 
 ## Hebrews Chapter 8
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now (the) chief-thing in the-things being-said:  we-have such (a) high-priest that sat-down on (the) right-(hand) of-the throne of-the Majesty in the heavens, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now (the) chief-thing in the-things being-said:  we-have such (a) high-priest that sat-down on (the) right-(hand) of-the throne of-the Majesty in the heavens, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(a) minister of-the saints/holy-things and of the true [the] tabernacle that the Lord pitched, not man.  </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For every high-priest is-appointed for [the] offering both gifts and sacrifices. Wherefore (it was) necessary also for-this-One to-have something to-offer.  </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So if he-were on earth, he┘would not-even└be (a) priest, ones-being [the] offering [the] gifts according-to (the) Law; </span></span>
@@ -24,9 +24,7 @@ next: chapter-09
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>“‘Behold, (the) days will-come,’ says (the) Lord,</i></b></span></p>
 
-
-### ‘and/that I-will-bring-about with the house of-Israel
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    ‘and/that I-will-bring-about with the house of-Israel</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and with the house of-Judah (a) new covenant,</span></i></b></p>
 
@@ -47,9 +45,7 @@ next: chapter-09
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    after [the] those days,’ says (the) Lord:</span></i></b></p>
 
-
-### ‘putting (the) laws of-me in the mind of-them,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        ‘putting (the) laws of-me in the mind of-them,</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and on (the) hearts of-them I-will-write them,</span></i></b></p>
 

@@ -12,8 +12,7 @@ next: chapter-04
 ## Galatians Chapter 3
 
 
-### Law
-vs. Trust
+### Law vs. Trust
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Foolish Galatians! Who cast a spell on you? Right in front of your eyes I portrayed Jesus Christ crucified. </span></span>
@@ -40,8 +39,7 @@ vs. Trust
 <p class="section-ref">Gal 3:7-14</p>
 
 
-### Law
-vs. Promise
+### Law vs. Promise
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Take an example from everyday life. Even with a human covenant, once it’s ratified, nobody annuls it or adds to it. </span></span>

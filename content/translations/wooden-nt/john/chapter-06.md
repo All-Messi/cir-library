@@ -11,7 +11,7 @@ next: chapter-07
 
 ## John Chapter 6
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After these-things [the] Jesus went-away beyond the Sea of-[the] Galilee, (the Sea of-[the] Tiberias. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After these-things [the] Jesus went-away beyond the Sea of-[the] Galilee, (the Sea of-[the] Tiberias. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And (a) large crowd was following him, because they-were-seeing the signs that he-was-doing on the-ones being-sick. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And Jesus went-up into the hill-country, and sat-down there with the disciples of-him.
 </span></span>
@@ -57,9 +57,7 @@ next: chapter-07
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then they-said to-him, <i>“What sign then do-you-do in-order-that we-may-see and believe you? What do-you-work? </i></span></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The<i> fathers of-us ate [the] manna in the desert, even-as it-is written, </i></span></span></p>
 
-
-### ‘He-gave them bread out-of the-sky to-eat.’”
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘He-gave them bread out-of the-sky to-eat.’” </span></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then [the] Jesus said to-them, <i>“Truly, truly, I-say to-you, Moses did┘not└give the bread out-of the sky, but the Father of-me is-giving you the true [the] bread out-of [the] heaven. </i></span></span>
 <span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>[For] the bread of-[the] God is the-One coming-down out-of [the] heaven and giving life to-the world.”</span></i></span></p>

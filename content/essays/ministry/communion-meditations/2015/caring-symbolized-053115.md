@@ -1,7 +1,7 @@
 ---
 title: "Caring Symbolized"
 date: '2015-05-31'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

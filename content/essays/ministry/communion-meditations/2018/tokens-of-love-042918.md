@@ -1,7 +1,7 @@
 ---
 title: "Tokens of Love"
 date: '2018-04-29'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

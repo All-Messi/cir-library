@@ -15,7 +15,7 @@ next: chapter-44
 ### Israel’s Only Savior
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  43<sup>:1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But this is what Yahveh your creator says, Jacob, </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But this is what Yahveh your creator says, Jacob, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    the One that formed you, Israel,</span></p>
 
@@ -69,9 +69,7 @@ next: chapter-44
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gather the nations; assemble the peoples.</span></span></p>
 
-
-### Which of their idols can tell about the past?
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                      </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Which of their idols can tell about the past?</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    They need to present witnesses to justify themselves</span></p>
 

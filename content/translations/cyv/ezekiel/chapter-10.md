@@ -35,9 +35,7 @@ next: chapter-11
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I heard the wheels called “whirling wheels.” </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They had four faces each—a cherub, man, lion, and eagle.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b></span></p>
 
-
-### Ezek 10:6-14
-
+<p class="section-ref">Ezek 10:6-14</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The cherubs rose up—the living beings I’d seen by the Chebar River. </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they moved, the wheels went beside them. When they lifted up their wings to rise from the ground, the wheels stayed beside them. </span></span>

@@ -2,6 +2,7 @@
 title: "THE STRUCTURE OF JOB"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Critical Intro Ot'
@@ -144,5 +145,5 @@ style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>&n
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>Resolution
 42:7-17                                                                             
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
+</span></p>
 </div>

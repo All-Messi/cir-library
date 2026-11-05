@@ -11,11 +11,7 @@ next: chapter-08
 
 ## Job Chapter 7
 
-
-### Can’t I distinguish guilt from disaster?               Job 6:24-30
-
-
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>              <span style='color:gray'>7<sup>:1</sup></span></span></b><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif;color:gray'>“Aren’t people forced into hard labor?</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif;color:gray'>“Aren’t people forced into hard labor?</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                        Aren’t their days like those of a hired hand?</span></i></p>
 

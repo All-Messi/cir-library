@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
-    <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    <title>{{ $seoTitle := partial "seo-title.html" . }}{{ if .IsHome }}{{ $seoTitle }}{{ else }}{{ $seoTitle }} | {{ .Site.Title }}{{ end }}</title>
+    {{ partial "seo-head.html" . }}
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Source+Sans+Pro:wght@400;500;600;700&family=Source+Serif+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
@@ -19,13 +19,13 @@
         <div class="container">
             <div class="header-content">
                 <a href="{{ .Site.BaseURL }}" class="site-branding">
-                    <img src="{{ "images/cir-logo.png" | relURL }}" alt="CIR Logo" class="site-logo">
+                    <img src="{{ "images/cir-logo.png" | relURL }}" alt="Christian Internet Resources, home" class="site-logo">
                 </a>
 
                 <div class="header-search">
                     <div class="search-wrapper">
                         <form action="{{ "search/" | absURL }}" method="get" class="header-search-form">
-                            <input type="search" name="q" class="header-search-input" placeholder="Search the library..." autocomplete="off" id="header-search-input">
+                            <input type="search" name="q" class="header-search-input" placeholder="Search the library..." autocomplete="off" id="header-search-input" aria-label="Search the library">
                             <button type="submit" class="header-search-btn" aria-label="Search">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
                                     <circle cx="11" cy="11" r="8"></circle>
@@ -43,7 +43,7 @@
                 <nav class="main-nav" id="main-nav">
                     <ul>
                         {{ range .Site.Menus.main }}
-                        <li><a href="{{ .URL }}" {{ if $.IsMenuCurrent "main" . }}class="active"{{ end }}>{{ .Name }}</a></li>
+                        <li{{ with .Identifier }} class="nav-{{ . }}"{{ end }}><a href="{{ .URL }}" {{ if $.IsMenuCurrent "main" . }}class="active"{{ end }}>{{ .Name }}</a></li>
                         {{ end }}
                     </ul>
                 </nav>
@@ -72,6 +72,7 @@
                     <li><a href="{{ "translations/harmony/" | absURL }}">Gospel Harmony</a></li>
                     <li><a href="{{ "books/" | absURL }}">Complete Books</a></li>
                     <li><a href="{{ "translations/resources/" | absURL }}">Textual Resources</a></li>
+                    <li><a href="{{ "essays/language/glossary-of-communication-related-terms/" | absURL }}">Glossary</a></li>
                 </ul>
             </div>
             <div class="sfn-col">
@@ -94,14 +95,19 @@
     .sfn-inner{max-width:1100px;margin:0 auto;display:grid;grid-template-columns:1.6fr 1fr 1fr;gap:3rem;padding-bottom:3rem;}
     .sfn-logo{width:40px;height:40px;opacity:0.6;filter:brightness(0) invert(1);margin-bottom:0.75rem;display:block;}
     .sfn-brand-name{font-family:'Playfair Display',serif;font-size:1.05rem;font-weight:700;color:rgba(255,255,255,.82);margin-bottom:0.5rem;}
-    .sfn-brand-tag{font-family:'Source Serif Pro',serif;font-size:0.82rem;color:rgba(255,255,255,.35);line-height:1.65;max-width:280px;}
-    .sfn-col-head{font-family:'Source Sans Pro',sans-serif;font-size:0.58rem;font-weight:700;text-transform:uppercase;letter-spacing:0.2em;color:rgba(255,255,255,.28);margin-bottom:0.85rem;}
+    .sfn-brand-tag{font-family:'Source Serif Pro',serif;font-size:0.82rem;color:rgba(255,255,255,.66);line-height:1.65;max-width:280px;}
+    .sfn-col-head{font-family:'Source Sans Pro',sans-serif;font-size:0.58rem;font-weight:700;text-transform:uppercase;letter-spacing:0.2em;color:rgba(255,255,255,.7);margin-bottom:0.85rem;}
     .sfn-col ul{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:0.5rem;}
-    .sfn-col a{font-family:'Source Sans Pro',sans-serif;font-size:0.85rem;color:rgba(255,255,255,.45);text-decoration:none;transition:color .15s;}
-    .sfn-col a:hover{color:rgba(255,255,255,.85);}
+    .sfn-col a{font-family:'Source Sans Pro',sans-serif;font-size:0.85rem;color:rgba(255,255,255,.7);text-decoration:none;transition:color .15s;}
+    .sfn-col a:hover{color:#fff;}
     .sfn-bottom{max-width:1100px;margin:0 auto;padding:1.5rem 0 2rem;border-top:1px solid rgba(255,255,255,.06);display:flex;justify-content:space-between;align-items:center;}
-    .sfn-bottom span{font-family:'Source Sans Pro',sans-serif;font-size:0.72rem;color:rgba(255,255,255,.22);}
+    .sfn-bottom span{font-family:'Source Sans Pro',sans-serif;font-size:0.72rem;color:rgba(255,255,255,.62);}
     @media(max-width:720px){.sfn-inner{grid-template-columns:1fr;gap:2rem;}.sfn-bottom{flex-direction:column;gap:0.5rem;text-align:center;}}
+    /* Glossary nav item (2026-11-04): a 6th item overflows the desktop header between the
+       hamburger breakpoint and ~1000px; there it stays reachable from the footer. */
+    @media(min-width:769px) and (max-width:1000px){html body .main-nav ul li.nav-glossary{display:none!important;}}
+    /* Screen-reader-only text (2026-11-04): e.g. the translation name inside a Bible chapter's h1 */
+    .visually-hidden{position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;border:0!important;}
     </style>
 
     <script src="{{ "js/main.js" | relURL }}"></script>

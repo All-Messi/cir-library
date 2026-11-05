@@ -1,7 +1,8 @@
 ---
-title: "CONJUNCTIONS Compounds Enclitics"
-author: "Virgil Warren, christir.org"
+title: "Conjunctions: Compounds and Enclitics"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-02-04
 categories:
 - 'Topics'
 - 'Greek Features'
@@ -66,12 +67,12 @@ style='font-size:12.0pt'>            adversative</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            appositional indicator  [wJ&quot;]</span></p>
+style='font-size:12.0pt'>            appositional indicator  [ὡς]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            </span><span lang=FR style='font-size:
-12.0pt'>conditional  [eij, eja;n]</span></p>
+12.0pt'>conditional  [εἰ, ἐὰν]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
@@ -84,11 +85,11 @@ style='font-size:12.0pt'>            illative</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
 style='font-size:12.0pt'>            </span><span style='font-size:12.0pt'>co-ordinating 
-[h[, gavr]</span></p>
+[ἤ, γάρ]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            subordinating  [ejpeiv]</span></p>
+style='font-size:12.0pt'>            subordinating  [ἐπεί]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span

@@ -25,9 +25,11 @@ next: chapter-10
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jehu said, <i>“Which one?”</i> </span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You, Sir.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> <b>                                                                                                              </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Kg 9:1-5</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You, Sir.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> <b>                                                                                                              </b></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk126337352"><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He got up and went into the house. The young man poured the oil on his head, </span></span></p>
+<p class="section-ref">2 Kg 9:1-5</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He got up and went into the house. The young man poured the oil on his head, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God of Israel says,</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> <i>‘I’ve anointed you king over his people Israel.</i> </span><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Strike Ahab’s family so I can avenge the blood of my prophets that Jezebel shed. </span></i></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ahab’s family will perish, and I’ll remove from him every male, bond and free. </span></i></span>
@@ -44,7 +46,9 @@ next: chapter-10
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, <i>“He said such and such, ‘The L</i></span><i><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says, “I’ve anointed you king of Israel.”’”</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Each man hurried and put his cloak under Jehu on the bare steps, blew the bugle, and said, <i>“<u>Jehu</u> is king!”</i></span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>       2 Kg 9:6-13</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Each man hurried and put his cloak under Jehu on the bare steps, blew the bugle, and said, <i>“<u>Jehu</u> is king!”</i></span></span></p>
+
+<p class="section-ref">2 Kg 9:6-13</p>
 
 
 ### Jehu Kills Joram and Ahaziah
@@ -69,7 +73,9 @@ next: chapter-10
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>Jehu answered, <i>“What do you have to do with peace? Defect and follow me.” </i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126337629"><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The watchman reported, <i>“He went to them, but didn’t come back. His driving is furious like Jehu’s.”</i><b>    </b></span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>2 Kg 9:14-20</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The watchman reported, <i>“He went to them, but didn’t come back. His driving is furious like Jehu’s.”</i><b>    </b></span></span></p>
+
+<p class="section-ref">2 Kg 9:14-20</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joram said, <i>“Get my chariot ready.”</i> They got it ready. <u>Joram</u> and <b>Ahaziah</b> went out in their chariots to meet Jehu and found him on Naboth’s property. </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Joram saw Jehu, he said, <i>“Are you coming in peace, Jehu?”</i> </span></span></p>
@@ -85,13 +91,15 @@ next: chapter-10
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Ahaziah saw that, he fled past the garden house. Jehu chased him and said, <i>“Shoot him, too, in the chariot.”</i> They shot him at the ascent of Gur, at Ibleam. He fled as far as Megiddo and died. </span></span>
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His servants hauled him to Jerusalem in a chariot and buried him in his own grave with his ancestors in The City of David. </span></span>
-<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ahaziah had become king in Judah in <b>the eleventh year of Joram</b>.<b>     </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Kg 9:21-29</span></b></span></p>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ahaziah had become king in Judah in <b>the eleventh year of Joram</b>.<b>     </b></span></span></p>
+
+<p class="section-ref">2 Kg 9:21-29</p>
 
 
 ### Jezebel Killed
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126338392"><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Jehu arrived at Jezreel, Jezebel heard about it, and put on eye shadow and adorned her head, and looked out the window. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Jehu arrived at Jezreel, Jezebel heard about it, and put on eye shadow and adorned her head, and looked out the window. </span></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Jehu came in the gate, she said, <i>“Is everything all right, Zimri, your master’s murderer?”</i> </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He looked up at the window and said, <i>“Who’s with me?” </i></span></span></p>
@@ -104,7 +112,9 @@ next: chapter-10
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They went to bury her, but they couldn’t find any of her except skull, feet, and palms. </span></span>
 <span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They came back and told him. He said, </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> said by Elijah, ‘Dogs will eat her body on her property. </span></i><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Her corpse will be like manure on her field; people won’t be able to tell if it’s Jezebel.’”</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> <b>                                                      </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Kg 9:30-37</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> said by Elijah, ‘Dogs will eat her body on her property. </span></i><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Her corpse will be like manure on her field; people won’t be able to tell if it’s Jezebel.’”</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> <b>                                                      </b></span></span></p>
+
+<p class="section-ref">2 Kg 9:30-37</p>
 
 
 <style>

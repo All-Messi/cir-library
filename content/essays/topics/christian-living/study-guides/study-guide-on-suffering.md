@@ -2,6 +2,7 @@
 title: "STUDY GUIDE ON SUFFERING"
 author: "Virgil Warren, PhD"
 date: '2026-03-19'
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Living'

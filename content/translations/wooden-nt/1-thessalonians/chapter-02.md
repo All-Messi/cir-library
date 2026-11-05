@@ -11,7 +11,7 @@ next: chapter-03
 
 ## 1 Thessalonians Chapter 2
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For you┘yourselves└know, brothers, the entering of-us [the] to you that it-proved┘not└to-be in-vain; </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For you┘yourselves└know, brothers, the entering of-us [the] to you that it-proved┘not└to-be in-vain; </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but, having-suffered-before and been-mistreated, as you-know, in Philippi, we-had-the-boldness in the God of-us to-speak to you the gospel of-[the] God in much struggling.  </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For the encouragement of-us (was) not out-of deception neither out-of impurity nor in deceit, </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but even-as we-have-been-approved by [the] God to-be-entrusted-with the gospel, thus we-speak, not as pleasing men, but God, the-One approving the hearts of-us.  </span></span>

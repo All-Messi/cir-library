@@ -1,7 +1,8 @@
 ---
-title: "COLOSSIANS, PHILEMON, AND EPHESIANS SENT SIMULTANEOUSLY (plus the letter to the Laodecians?)"
+title: "COLOSSIANS, PHILEMON, AND EPHESIANS SENT SIMULTANEOUSLY (plus the letter to the Laodiceans?)"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'

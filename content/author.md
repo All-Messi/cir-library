@@ -29,7 +29,7 @@ layout: "author-page"
 - Local ministry at Vermillion Christian Church, Vermillion Kansas
 - Mission work in Austria, Russia, Southeast Asia
 - Music: guitarist, arranger, composer, recording artist into Southeast Asia
-- Internet: Christian Internet Resources [christ.org]
+- Internet: Christian Internet Resources [christir.org](https://christir.org)
 
 </div>
 <div class="author-image">

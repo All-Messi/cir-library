@@ -20,7 +20,9 @@ next: chapter-13
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Gileadites captured the Jordan fords. When a refugee from Ephraim asked to go across, the Gileadites would ask him, <i>“Are you an</i> <i>Ephraimite?”</i> If he said, <i>“No,” </i></span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>they’d tell him to say<i> shibboleth. </i>He’d say <i>sibboleth </i>because he couldn’t pronounce it right; so they’d kill him. At that time, 42,000 Ephraimites fell.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jephthah judged Israel 6 years. He died and was buried in his city in Gilead.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>    Jud 12:1-7</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jephthah judged Israel 6 years. He died and was buried in his city in Gilead.</span></span></p>
+
+<p class="section-ref">Jud 12:1-7</p>
 
 
 ### Ibzan Judges Israel
@@ -44,7 +46,9 @@ next: chapter-13
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After him <b>Abdon</b> Ben-Hillel from Pirathon judged Israel. </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He had 40 sons and 30 grandsons that rode on 70 donkeys. He judged Israel 8 years.
 </span></span>
-<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died and was buried at Pirathon in Ephraim in the hill country of the Amalekites. </span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>Jud 12:8-15</span></b></span></p>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died and was buried at Pirathon in Ephraim in the hill country of the Amalekites. </span></span></p>
+
+<p class="section-ref">Jud 12:8-15</p>
 
 
 <style>

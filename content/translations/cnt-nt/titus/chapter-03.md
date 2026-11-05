@@ -14,7 +14,7 @@ prev: chapter-02
 ### Respecting Earthly Rulers
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Remind
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Remind
 </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>people</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> to submit to rulers and authorities,</span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to be obedient and ready to do everything that’s good. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Remind them</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> not to insult or get pushy, </span><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>but</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> to be considerate and gentle toward everybody. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At one time we were foolish too, disobedient, deceived, addicted to various lusts and pleasures. We spent our lives in evil and envy, hated and hating one another. </span></span>
@@ -50,8 +50,6 @@ prev: chapter-02
 <i>be</i> with you all.                                                                                             </span></p>
 
 <p class="section-ref">Tit 3:12-15</p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Translator: Virgil Warren</span><span style='font-family:"Times New Roman",serif'>,                                                                                                 christir.org</span></p>
 
 
 <style>

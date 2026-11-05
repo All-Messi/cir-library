@@ -15,14 +15,14 @@ next: chapter-13
 ### Christians as Living Sacrifices
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I urge you by God’s mercies to present your bodies <i>as</i> living sacrifices, holy <i>and</i> pleasing to God; <i>that’s</i> your spiritual service. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I urge you by God’s mercies to present your bodies <i>as</i> living sacrifices, holy <i>and</i> pleasing to God; <i>that’s</i> your spiritual service. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t conform yourselves to this world; transform yourselves by renewing your mind so you can discern what God’s will <i>is</i>—<i>what’s</i> good, pleasing, and perfect.                                                                                    </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>By the grace God gave me, I say to everyone among you not to think more of yourselves than you should. Think properly as measured by the faith God has allotted to each <i>of you</i>. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There are many parts to one body, and they don’t all serve the same purpose. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s how it is with the many of us that are in Christ. Individually we’re interdependent parts with one another. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We have different gifts according to God’s grace. If <i>our gift is</i></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> prophecy, <i>let’s prophesy </i>in accordance with our faith. </span></span>
-<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <a name="_Hlk136618767"><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>If <i>it’s </i>service, <i>let’s carry out our commitment to him</i> in <i>our</i> service. </span></a><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If <i>it’s</i> teaching, <i>let’s do it</i> in teaching. </span></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>If <i>it’s </i>service, <i>let’s carry out our commitment to him</i> in <i>our</i> service. </span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If <i>it’s</i> teaching, <i>let’s do it</i> in teaching. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If
 <i>it’s </i>encouraging, <i>let’s </i><i>do it</i> in encouragement. If <i>it’s</i> sharing, <i>let’s do it</i> liberally. If<i> it’s </i>leading,<i> </i>let’s <i>do it </i>diligently. If<i> it’s</i> showing mercy, <i>let’s do it</i> cheerfully.                                                                               </span></span></p>
 
@@ -50,9 +50,7 @@ next: chapter-13
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                                    if he’s thirsty, give him a drink.</span></i></b></p>
 
-
-### If you do that,
-
+<p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                        If you do that,</span></i></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                                    you’ll pour hot coals on his head”</span></i></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Pro 25:21-22]</span></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>.</span></b></p>
 

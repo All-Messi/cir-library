@@ -23,7 +23,9 @@ next: chapter-19
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height: 115%'>When the Arameans from Damascus came to help Hadadezer, David killed 22,000 of them. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%'>He put garrisons in Aram of Damascus, and the Arameans brought tribute. </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height: 115%'>He took the gold shields that Hadadezer’s officers carried and brought them to Jerusalem. </span></span>
-<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%'>From Tibhath and Cun, towns of Hadadezer, he took a large amount of bronze, which Solomon used to make the bronze sea, pillars, and bronze utensils.           </span><b><span style='font-size:10.0pt;line-height:115%'>1 Ch 18:1-8</span></b></span></p>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%'>From Tibhath and Cun, towns of Hadadezer, he took a large amount of bronze, which Solomon used to make the bronze sea, pillars, and bronze utensils.           </span></span></p>
+
+<p class="section-ref">1 Ch 18:1-8</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height: 115%'>Tou/<i>Toi</i>, king of Hamath, heard that David had defeated Hadadezer’s whole army. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%'>He sent his son Hadoram to greet him and bless him for it. Hadoram brought all kinds of gold, silver, and bronze articles. </span></span>
@@ -44,7 +46,9 @@ next: chapter-19
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>            </span><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%'>Benaiah Ben-Jehoiada was captain of David’s bodyguard;  </span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>            David’s sons were chiefs at his side.                                                        </span><b><span style='font-size:10.0pt;line-height:115%'>1 Ch 18:9-17</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>            David’s sons were chiefs at his side.                                                        </span></p>
+
+<p class="section-ref">1 Ch 18:9-17</p>
 
 
 <style>

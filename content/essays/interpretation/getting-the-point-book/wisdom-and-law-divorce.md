@@ -2,10 +2,12 @@
 title: "Appendix: Wisdom and Law — Divorce"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2005-07-16
+lastmod: 2025-07-17
 categories:
 - 'Interpretation'
 - 'Getting The Point Book'
-weight: 109
+weight: 30
 draft: false
 ---
 

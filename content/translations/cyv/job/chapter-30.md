@@ -11,7 +11,7 @@ next: chapter-31
 
 ## Job Chapter 30
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.75in;'><b><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>         30<sup>:1</sup></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>“But now people younger than me make fun of me,</span></i></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.75in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>“But now people younger than me make fun of me,</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>people whose fathers I wouldn’t let </span></i></p>
 

@@ -15,7 +15,7 @@ next: chapter-69
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> A Song</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123996965"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Arise, God, scatter your enemies;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Arise, God, scatter your enemies;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      chase off those who hate you!</span></p>
 
@@ -41,7 +41,7 @@ next: chapter-69
 
 <p class="section-ref">Ps 68:1-4</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123997138"><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God in his holy Temple</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God in his holy Temple</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      is a father for the fatherless and a judge for widows;</span></p>
 
@@ -71,7 +71,7 @@ next: chapter-69
 
 <p class="section-ref">Ps 68:5-10</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123997683"><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Lord gives the command,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Lord gives the command,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and a host of women sing the good news:</span></p>
 
@@ -99,7 +99,7 @@ next: chapter-69
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      He’ll certainly live there forever.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123998012"><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God had twice ten thousand chariots, thousands upon thousands;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God had twice ten thousand chariots, thousands upon thousands;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Yahveh came with them from Sinai to the holy place.</span></p>
 
@@ -111,7 +111,7 @@ next: chapter-69
 
 <p class="section-ref">Ps 68:11-18</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123998227"><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bless Yahveh, who carries our burdens every day,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bless Yahveh, who carries our burdens every day,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      who keeps us safe </span><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and rescues us;</span></span></p>
 
@@ -131,7 +131,7 @@ next: chapter-69
 
 <p class="section-ref">Ps 68:19-23</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123998664"><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ve seen your solemn procession, God,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ve seen your solemn procession, God,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      the procession of God, my King, into the sanctuary—</span></p>
 
@@ -153,7 +153,7 @@ next: chapter-69
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>show us your power like you have before.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk148632462"><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Kings will bring you gifts </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Kings will bring you gifts </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      because of your Temple in Jerusalem.</span></p>
 
@@ -171,7 +171,7 @@ next: chapter-69
 
 <p class="section-ref">Ps 68:24-31</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123998899"><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sing to God, kingdoms on earth;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sing to God, kingdoms on earth;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      sing praises to Yahveh,                                                     </span></p>
 

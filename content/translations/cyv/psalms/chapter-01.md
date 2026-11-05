@@ -11,10 +11,6 @@ next: chapter-02
 ## Psalms Chapter 1
 
 
-### Conversational Yahveh Covenant
-
-
-
 ### BOOK 1
 
 

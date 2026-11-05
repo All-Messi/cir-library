@@ -14,7 +14,7 @@ prev: chapter-15
 ### Extensive Greetings
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I commend to you our sister Phoebe, a servant in the church in Cenchrea. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I commend to you our sister Phoebe, a servant in the church in Cenchrea. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Welcome her in the Lord in a way appropriate to saints. Help her with whatever she needs. She’s helped lots of people, including me.                                                                                                </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Greet Prisca and Aquila, my fellow workers in Christ Jesus. </span></span>
@@ -64,11 +64,9 @@ prev: chapter-15
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:.5in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>leading to an obedience </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>rooted in</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> faith—</span></p>
 
-<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to the only wise God through Jesus Christ </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>be</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> glory forever! Amen.                          </span><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Rom 16:24-27</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></span></p>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to the only wise God through Jesus Christ </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>be</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> glory forever! Amen.</span><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Translator: Virgil Warren                                                                                                </span><span style='font-family:"Times New Roman",serif'>christir.org</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></p>
+<p class="section-ref">Rom 16:24-27</p>
 
 
 <style>

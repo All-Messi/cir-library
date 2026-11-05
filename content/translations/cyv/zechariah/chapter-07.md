@@ -39,8 +39,8 @@ next: chapter-08
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in; line-height:normal'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“Yahveh of Hosts says, ‘Judge fairly, practice kindness and mercy with each other. </span></i></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Don’t oppress widows and orphans, foreigners or poor people. Don’t plot against one another.’
-</span></i><a name="_Hlk146748573"></span>
-<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>But </span></i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>your ancestors<i> refused to pay attention, turned a stubborn shoulder, and covered their ears. </i></span></span>
+</span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>But </span></i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>your ancestors<i> refused to pay attention, turned a stubborn shoulder, and covered their ears. </i></span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They hardened their hearts like flint so they couldn’t hear the Law and what Yahveh had sent by his Spirit through the former prophets. That’s why he was so angry with them.
 </span></i></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Just as he called and they wouldn’t listen, so they called and he wouldn’t listen. </span></i></span>

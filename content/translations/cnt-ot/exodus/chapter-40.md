@@ -14,7 +14,7 @@ prev: chapter-39
 ### Setting Up the Tabernacle
 
 
-<p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then the </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told Moses, </span></span></p>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then the </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told Moses, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:1.25in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<b>The first day, first month</b>, set up the Tabernacle of the Tent of Meeting. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Put the Ark of Testimony in it and screen it off with the curtain. </span></i></span></p>
@@ -87,10 +87,9 @@ prev: chapter-39
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses couldn’t go into the Tent of Meeting because the cloud had settled on it, and the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s glory filled it. </span></span>
 <span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>During their travels, whenever the cloud rose up from the Tabernacle, the Israelites would move out. </span></span>
 <span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If it didn’t rise up, they’d stay till it did. </span></span>
-<span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The cloud was on the Tabernacle during the day; fire was in it at night where Israel could see it.
-</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ex 40:28-38</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>   </span></span></p>
+<span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The cloud was on the Tabernacle during the day; fire was in it at night where Israel could see it.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
 
-<p class="MsoNormal" ><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
+<p class="section-ref">Ex 40:28-38</p>
 
 
 <style>

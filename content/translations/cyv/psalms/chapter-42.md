@@ -37,7 +37,7 @@ next: chapter-43
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            leading the procession to the house of God,</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <a name="_Hlk88107226">singing for joy and giving thanks</a></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            singing for joy and giving thanks</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  in the great celebration.</span></p>
 
@@ -45,9 +45,7 @@ next: chapter-43
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Why be disturbed?</span></b></p>
 
-
-### Put your hope in God because I’ll still praise him
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Put your hope in God because I’ll still praise him</span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            for the help his presence brings.</span></b></p>
 
@@ -69,9 +67,7 @@ next: chapter-43
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I say to God, my Rock, <i>“Why have you forgotten me?</i></span></span></p>
 
-
-### Why do I go around mourning
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <b>Why do I go around mourning </b></span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            because my enemies oppress me?</span></i></b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>”</span></i></p>
 
@@ -81,13 +77,9 @@ next: chapter-43
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Why despair, my soul?</span></b></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Why be disturbed?</span></b></p>
 
-### Why be disturbed?
-
-
-
-### Put your hope in God because I’ll still praise him
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Put your hope in God because I’ll still praise him</span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            for the help his presence brings.                             </span></b></span></p>
 

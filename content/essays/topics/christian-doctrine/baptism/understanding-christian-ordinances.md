@@ -2,6 +2,8 @@
 title: "UNDERSTANDING CHRISTIAN ORDINANCES"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2007-07-09
+lastmod: 2025-07-14
 categories:
 - 'Topics'
 - 'Christian Doctrine'

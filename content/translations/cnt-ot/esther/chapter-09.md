@@ -15,7 +15,7 @@ next: chapter-10
 ### The Jews Destroy Their Enemies
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124859877"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
 <b>thirteenth day, twelfth month</b>, when the king’s edict was about to be carried out and the Jews’ enemies hoped to gain mastery over them, fortunes reversed. The Jews gained mastery over those who hated them. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They gathered in their towns throughout the provinces to seize the ones that tried to harm them. Nobody could stand up against them, because the dread of the Jews had fallen on the people. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Even the rulers of the provinces, the satraps, the governors, and the ones that were doing the king’s business helped the Jews, because the dread of Mordecai had fallen on them. </span></span>
@@ -54,9 +54,11 @@ next: chapter-10
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Vaizatha.
 </span><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> b<span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But
 <u>they didn’t take any plunder</u>.<b>                                                  
-</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esther 9:1-10</span></b></span></p>
+</b></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124861065"><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That day, the number killed in Susa was reported to the king. </span></span>
+<p class="section-ref">Esther 9:1-10</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That day, the number killed in Susa was reported to the king. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told Queen Esther, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The Jews have killed 500 men in Susa plus Haman’s 10 sons. </span></i></p>
@@ -76,26 +78,32 @@ next: chapter-10
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Jews in the provinces came together to defend themselves and rid themselves of their enemies. They killed 75,000 that hated them, but they didn’t take plunder. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They did that on the <b>thirteenth of Adar</b> and rested on the fourteenth with feasting and celebrating. </span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Jews in Susa gathered on both days and rested on the fifteenth with feasting and celebrating. </span></span>
-<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Jews in the rural towns made the fourteenth day of Adar a holiday for feasting and celebrating and sending dishes <i>of food</i> to one another.<b>                                           </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esther 9:11-19</span></b></span></p>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Jews in the rural towns made the fourteenth day of Adar a holiday for feasting and celebrating and sending dishes <i>of food</i> to one another.<b>                                           </b></span></span></p>
+
+<p class="section-ref">Esther 9:11-19</p>
 
 
 ### The Festival of Purim Inaugurated
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124861147"></a><a name="_Hlk124863526"><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mordecdai recorded those events and sent letters to all the Jews in the provinces of King Ahasuerus, near and far. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mordecdai recorded those events and sent letters to all the Jews in the provinces of King Ahasuerus, near and far. </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He obliged them to celebrate the <b>fourteenth and fifteenth of Adar</b> each year, </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>the days the Jews had rid themselves of their enemies. It was a month for them that turned sorrow into happiness, mourning into a holiday. They were to make them days of feasting and celebrating and sending dishes <i>of food</i> to one another and gifts to the poor. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>The Jews undertook to do what Mordecai had written. </span></span>
-<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Haman</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> son of Hammedatha the Agagite, <a name="_Hlk124863568"><b>enemy of the Jews</b>, had schemed to destroy them. He’d cast Pur (the lot) to disturb them and destroy them. </a></span></span>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Haman</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> son of Hammedatha the Agagite, <b>enemy of the Jews</b>, had schemed to destroy them. He’d cast Pur (the lot) to disturb them and destroy them. </span></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But when it came to the king’s attention, he commanded by letter that <i>Haman’s</i> scheme should come back on his own head; he and his sons would be hanged on the gallows. </span></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They called those days Purim after the Pur. Because of the instruction in this letter—what they’d seen in this regard and what had happened to them—</span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the Jews established a custom for themselves, their descendants, and their allies: to celebrate those two days according to their regulation at the appointed time each year. </span></span>
-<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Those days were to be remembered and celebrated throughout every generation, family, province, and city. The days of Purim were not to fail from among the Jews or their memory from their descendants.<b>                                              </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esther 9:20-28</span></b></span></p>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Those days were to be remembered and celebrated throughout every generation, family, province, and city. The days of Purim were not to fail from among the Jews or their memory from their descendants.<b>                                              </b></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Queen Esther, daughter of Abihail, <a name="_Hlk124863331">along with Mordecai the Jew, wrote with full authority to confirm this second letter about Purim. </a></span></span>
+<p class="section-ref">Esther 9:20-28</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Queen Esther, daughter of Abihail, along with Mordecai the Jew, wrote with full authority to confirm this second letter about Purim. </span></span>
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mordecai</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> sent letters to the Jews in the 127 provinces, a message of peace and truth, </span></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to establish those days of Purim at their appointed times, like Mordecai and Esther had set for themselves and their descendants with instructions for their times of fasting and mourning. </span></span>
-<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esther’s command established those customs for Purim, and it was written in the records.                                                        </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esther 9:29-32</span></b></span></p>
+<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esther’s command established those customs for Purim, and it was written in the records.                                                        </span></span></p>
+
+<p class="section-ref">Esther 9:29-32</p>
 
 
 <style>

@@ -1,7 +1,8 @@
 ---
-title: "COLOSSIANS JUMPSTARTERS Companion passages: Colossians 3:18-4:1; Ephesians 5:22-6:9 What subjects are involved here?"
-author: "Virgil Warren, christir.org"
+title: "Colossians Jump-Starters: Companion Passages"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Book Studies'
@@ -22,8 +23,7 @@ aliases:
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b>COLOSSIANS
-JUMPSTARTERS</b></p>
+
 
 <p class=MsoNormal align=center style='text-align:center'><b>&nbsp;</b></p>
 

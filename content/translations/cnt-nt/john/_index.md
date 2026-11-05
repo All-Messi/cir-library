@@ -1,6 +1,6 @@
 ---
 book: John
-chapters: 20
+chapters: 21
 title: John
 translation: CNT
 type: book
@@ -9,6 +9,6 @@ weight: 43
 
 ## John
 
-**20 Chapters**
+**21 Chapters**
 
 Select a chapter to begin reading:

@@ -15,7 +15,7 @@ next: chapter-26
 ### Moab Seduces Israel
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt; '><a name="_Hlk126748445"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While Israel was camping in Shittim, the people started carrying on prostitution with the women of Moab. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While Israel was camping in Shittim, the people started carrying on prostitution with the women of Moab. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They invited the people to the sacrifices to their gods, and the people ate and bowed to their gods. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In this way, Israel joined themselves to Baal of Peor, and Yahveh was angry. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told Moses, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“Seize the ringleaders and execute them in broad daylight in my<sup>Y </sup>presence so my fierce anger will turn away from Israel.”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></span>

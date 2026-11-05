@@ -15,7 +15,7 @@ next: chapter-23
 ### God Tests Abraham
 
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><a name="_Hlk125453476"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After this, God tested Abraham, <i>“Abraham.”</i></span></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After this, God tested Abraham, <i>“Abraham.”</i></span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Yes”</span></i></p>
 
@@ -52,7 +52,7 @@ next: chapter-23
 
 <p class="section-ref">Gen 22:9-14</p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><a name="_Hlk125453686"><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The angel called to Abraham again from the sky, </span></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The angel called to Abraham again from the sky, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ve sworn by myself</span></i></b><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span></i><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>Heb 6:13]</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to multiply your descendants like stars in the sky and sand on the shore. <b>Your descendants</b> <b>will </b>conquer the cities of their enemies </span></i></span>

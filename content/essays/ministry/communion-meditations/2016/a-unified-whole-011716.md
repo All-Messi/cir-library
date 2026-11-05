@@ -1,7 +1,7 @@
 ---
 title: "A Unified Whole"
 date: '2016-01-17'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

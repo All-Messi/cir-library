@@ -15,7 +15,7 @@ next: chapter-18
 ### Elijah Predicts a Drought
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126252466"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Elijah the Tishbite, a settler in Gilead, told Ahab, </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Elijah the Tishbite, a settler in Gilead, told Ahab, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“As the </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God of Israel lives that I serve, there won’t be dew or rain the next several years except when I say so.”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></p>
 
@@ -34,7 +34,9 @@ next: chapter-18
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then a message from the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> came to him, </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go to Zarephath, near Sidon, and stay. I’ve commanded a widow there to provide for you.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span>
-<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He went to Zarephath. When he came to the city gate, a widow was gathering sticks. He called to her, <i>“Please get me a little water in a jug to drink.”</i> <b>                                                                                                                             </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 17:1-10</span></b></span></p>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He went to Zarephath. When he came to the city gate, a widow was gathering sticks. He called to her, <i>“Please get me a little water in a jug to drink.”</i> <b>                                                                                                                             </b></span></span></p>
+
+<p class="section-ref">1 Kg 17:1-10</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As she was going to get it, he called to her to bring him a piece of bread too.<i> </i></span></span></p>
 
@@ -49,13 +51,15 @@ next: chapter-18
 </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God of Israel says the bowl of flour won’t get empty, and the jug of oil won’t go dry before it rains.” </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She did what he said; and she, her son, and household ate for many days. </span></span>
-<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The bowl didn’t get empty, and the jug didn’t go dry.<b>        </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 17:11-16</span></b></span></p>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The bowl didn’t get empty, and the jug didn’t go dry.<b>        </b></span></span></p>
+
+<p class="section-ref">1 Kg 17:11-16</p>
 
 
 ### Elijah Resurrects the Widow’s Son
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126252563"><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After that, her little boy got sick, so sick he quit breathing. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After that, her little boy got sick, so sick he quit breathing. </span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She said to Elijah, <i>“What do I have to do with you, man of God? You’ve come to remind me of my sin and put my son to death!” </i></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Give him to me.”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> He took him from her arms to the upper room where he was staying and laid him on his own bed. </span></span></p>
@@ -67,7 +71,9 @@ next: chapter-18
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Elijah brought him down to his mother. <i>“See, he’s alive.”</i> </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She told him, <i>“Now I know for sure you’re a man of God and what you say from the </i><i>L</i></span><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> is true.”</span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>          </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 17:17-24</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She told him, <i>“Now I know for sure you’re a man of God and what you say from the </i><i>L</i></span><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> is true.”</span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>          </span></b></span></span></p>
+
+<p class="section-ref">1 Kg 17:17-24</p>
 
 
 <style>

@@ -66,8 +66,6 @@ weight: 1
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The grace of the Lord Jesus Christ <i>be</i> with your<sup>pl</sup> spirit.                                      </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Phil 23-25</span></b></span></p>
 
-<p class="MsoNormal"><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>Translator: Virgil Warren,                                                                                                 </span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

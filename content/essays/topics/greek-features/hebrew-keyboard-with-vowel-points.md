@@ -4,6 +4,8 @@ categories:
 - Topics
 - Greek Features
 date: '2026-02-16'
+printed: 2020-05-19
+lastmod: 2020-05-19
 draft: false
 title: HEBREW KEYBOARD WITH VOWEL POINTS
 weight: 2

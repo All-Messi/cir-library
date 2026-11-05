@@ -2,10 +2,12 @@
 title: "The Meaning of Interpret"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2014-06-25
+lastmod: 2025-07-11
 categories:
 - 'Interpretation'
 - 'Getting The Point Book'
-weight: 5
+weight: 4
 draft: false
 ---
 
@@ -56,7 +58,7 @@ ul
 <div class="word-content">
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
 style='color:black'>            C. Consequent nature of appropriating scripture
-(illumination)      Virgil Warren, PhD</span></p>
+(illumination)</span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
 style='color:black'>                  1. The meaning of “interpret”</span></p>
@@ -149,7 +151,7 @@ rather than indirectly through the message. Illumination happens <u>parallel to<
 proclamation more than <u>through</u> proclamation. </span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
-style='color:black'><img width=460 height=102 id="Picture 10"
+style='color:black'><img alt="Not: Holy Spirit → Word → illumination; but: Holy Spirit and Word together → illumination" width=460 height=102 id="Picture 10"
 src="/images/essays/1-the-meaning-of-interpret/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
@@ -169,7 +171,7 @@ people have even on important matters. If direct implanting were so, the implant
 concepts would be the same in every mind.    </span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
-style='color:black'>      <img width=324 height=134 id="Picture 9"
+style='color:black'>      <img alt="Triangle: Spirit, Word and illumination in me, with circumstance and other Christians" width=324 height=134 id="Picture 9"
 src="/images/essays/1-the-meaning-of-interpret/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
@@ -216,37 +218,37 @@ factor or set of factors.</span></p>
 <p class=MsoNormal style='margin-left:.25in'><b><span style='color:black'>                        a</span></b><span
 style='color:black'> may be part of <b>b</b>.</span> </p>
 
-<p class=MsoNormal style='margin-left:.25in'><span style='color:black'>  <img
+<p class=MsoNormal style='margin-left:.25in'><span style='color:black'>  <img alt="Ellipse b containing circle a"
 width=159 height=32 id="Picture 8" src="/images/essays/1-the-meaning-of-interpret/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in'><b><span style='color:black'>a</span></b><span
 style='color:black'> may include <b>b</b>.</span></p>
 
-<p class=MsoNormal style='margin-left:.25in'><span style='color:black'>   <img
+<p class=MsoNormal style='margin-left:.25in'><span style='color:black'>   <img alt="Ellipse a containing circle b"
 width=147 height=32 id="Picture 7" src="/images/essays/1-the-meaning-of-interpret/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in'><b><span style='color:black'>a</span></b><span
 style='color:black'> and <b>b</b> may overlap.</span></p>
 
-<p class=MsoNormal style='margin-left:.25in'><span style='color:black'>    <img
+<p class=MsoNormal style='margin-left:.25in'><span style='color:black'>    <img alt="Overlapping ellipses a and b"
 width=177 height=40 id="Picture 6" src="/images/essays/1-the-meaning-of-interpret/image005.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in'><b><span style='color:black'>a</span></b><span
 style='color:black'> may be parallel to <b>b.</b></span></p>
 
-<p class=MsoNormal style='margin-left:.25in'><span style='color:black'>   <img
+<p class=MsoNormal style='margin-left:.25in'><span style='color:black'>   <img alt="Separate ellipses a and b"
 width=294 height=32 id="Picture 5" src="/images/essays/1-the-meaning-of-interpret/image006.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in'><b><span style='color:black'>a</span></b><span
 style='color:black'> may combine with <b>b</b> to form the whole. </span></p>
 
-<p class=MsoNormal style='margin-left:.25in'><span style='color:black'>  <img
+<p class=MsoNormal style='margin-left:.25in'><span style='color:black'>  <img alt="Ellipse divided into a and b"
 width=184 height=48 id="Picture 4" src="/images/essays/1-the-meaning-of-interpret/image007.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in'><b><span style='color:black'>a</span></b><span
 style='color:black'> and <b>b</b> may be two labels for the same thing.</span></p>
 
-<p class=MsoNormal style='margin-left:.25in'><span style='color:black'>   <img
+<p class=MsoNormal style='margin-left:.25in'><span style='color:black'>   <img alt="Ellipse: a ≡ b"
 width=153 height=48 id="Picture 3" src="/images/essays/1-the-meaning-of-interpret/image008.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
@@ -809,7 +811,7 @@ and interactive, and participates in what is sometimes called “circular
 causation.” The following diagram shows the overall process.</span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
-style='color:black'>   <img width=393 height=134 id="Picture 2"
+style='color:black'>   <img alt="Topics A to D linked to one another and to the biblical text" width=393 height=134 id="Picture 2"
 src="/images/essays/1-the-meaning-of-interpret/image009.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
@@ -1309,7 +1311,7 @@ possibilities. The goal of interpretation in this case is to restrict options,
 not to establish one view.</span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
-style='color:black'>       <img width=307 height=95 id="Picture 1"
+style='color:black'>       <img alt="The view (circled x) within a boundary of options among other x&#x27;s" width=307 height=95 id="Picture 1"
 src="/images/essays/1-the-meaning-of-interpret/image010.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span

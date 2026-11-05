@@ -2,6 +2,8 @@
 title: "SALVATION AS INTERPERSONAL"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2023-06-29
+lastmod: 2025-07-16
 categories:
 - 'Topics'
 - 'Interpersonalism'

@@ -60,9 +60,7 @@ next: chapter-07
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king was really relieved and had him brought up out of the den. They didn’t find any injury on him because he’d trusted in his God. </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king ordered the men to be brought who had maliciously accused Daniel, and threw them, their children, and wives into the den. They hadn’t hit the <i>den </i>floor before the lions pounced on them and crushed their bones.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></b></span></p>
 
-
-### Dan 6:19-24
-
+<p class="section-ref">Dan 6:19-24</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Darius wrote to the peoples, nations, and language groups in the empire:</span></span></p>
 
@@ -83,6 +81,8 @@ next: chapter-07
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and delivered Daniel from the lions.”</span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So Daniel enjoyed success during the regency of Darius and the reign of Cyrus the Persian. </span></span></p>
+
+<p class="section-ref">Dan 6:25-28</p>
 
 
 <style>

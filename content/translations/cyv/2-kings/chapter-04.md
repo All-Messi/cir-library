@@ -32,9 +32,9 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height: 115%'>She went and told the man of God. </span></span></p>
 
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height: 115%'>He said, <i>“Sell the oil to pay your debt. You and your sons can use the rest.”</i></span></p>
 
-### He said, “Sell the oil to pay your debt. You and your sons can use the rest.”        2 Kg 4:1-7
-
+<p class="section-ref">2 Kg 4:1-7</p>
 
 
 ### The Shunammite’s Son Resurrected
@@ -61,7 +61,9 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height: 115%'>She came to the doorway. </span><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height: 115%'>He said, <i>“At this time next year, you’ll be holding a son.”</i> </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt; line-height:115%'>“Man of God, don’t give me false hope!” </span></i><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%'>She did get pregnant and had a son at that time the next year.<b>  </b></span><b><span style='font-size:10.0pt; line-height:115%'>2 Kg 4:8-17</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt; line-height:115%'>“Man of God, don’t give me false hope!” </span></i><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%'>She did get pregnant and had a son at that time the next year.<b>  </b></span></span></p>
+
+<p class="section-ref">2 Kg 4:8-17</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height: 115%'>When the boy was growing up, he went out to his father and the harvest crew one day, </span></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%'>and told him, <i>“My head hurts! my head hurts!”</i> He told his servant, <i>“Carry him to his mother.”</i> </span></span>
@@ -75,7 +77,9 @@ next: chapter-05
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%'>She went to the man of God on Mount Carmel. When he saw her at a distance, he said to Gehazi, <i>“That’s the Shunammite. </i></span></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%'>Run and ask her if she and her husband and boy are all right.” </span></i></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height: 115%'>She answered, <i>“Yes.”</i> <b>                                                                                          </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 4:18-27</span></b></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height: 115%'>She answered, <i>“Yes.”</i> <b>                                                                                          </b></span></p>
+
+<p class="section-ref">2 Kg 4:18-27</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height: 115%'>When she came to the man of God on the hill, she took hold of his feet. Gehazi came to pull her away, but he said, <i>“Let her alone; she’s upset. Yahveh hasn’t revealed it to me.” </i></span></span></p>
 
@@ -89,7 +93,9 @@ next: chapter-05
 <span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%'>He went and lay down on the child, mouth to mouth, eyes to eyes, hands to hands, and stretched out on him. The child’s body got warm. </span></span>
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%'>He came back and paced back and forth in the house, and went up and stretched out on him <i>again</i>. The boy sneezed seven times and opened his eyes. </span></span>
 <span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%'>He called Gehazi, <i>“Call her.”</i> When she came in, he said, <i>“Pick up your boy.”</i> </span></span>
-<span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%'>She fell at his feet and bowed to the floor. She picked up the boy and went out.    </span><b><span style='font-size: 10.0pt;line-height:115%'>2 Kg 4:28-37</span></b></span></p>
+<span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%'>She fell at his feet and bowed to the floor. She picked up the boy and went out.    </span></span></p>
+
+<p class="section-ref">2 Kg 4:28-37</p>
 
 
 ### The Toxic Gourds
@@ -106,7 +112,9 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size:12.0pt;line-height: 115%'>A man came from Baal-shalishah and brought the man of God bread in a sack from the first fruit of his harvest:<i> </i>20 barley loaves made from fresh grain. <i>Elisha</i> said, <i>“Give them to the people to eat.”</i> </span></span>
 <span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size:12.0pt;line-height:115%'>His attendant said, <i>“What? How can I feed 100 men with this?”</i> But he said, <i>“Give it to them; Yahveh says they’ll eat and have some left over.” </i></span></span>
-<span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <span style='font-size:12.0pt;line-height:115%'>He set it in front of them, and they ate and had some left over.<b>    </b></span><b><span style='font-size:10.0pt; line-height:115%'>2 Kg 4:38-44</span></b></span></p>
+<span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <span style='font-size:12.0pt;line-height:115%'>He set it in front of them, and they ate and had some left over.<b>    </b></span></span></p>
+
+<p class="section-ref">2 Kg 4:38-44</p>
 
 
 <style>

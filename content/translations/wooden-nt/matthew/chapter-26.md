@@ -11,7 +11,7 @@ next: chapter-27
 
 ## Matthew Chapter 26
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And it-happened when [the] Jesus finished all [the] these words (that) he-said to-the disciples of-him. </span></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And it-happened when [the] Jesus finished all [the] these words (that) he-said to-the disciples of-him. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i>“</i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You-know that after two days comes the Passover, and the Son of-[the] Man is delivered unto [the] being-crucified.”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then the chief-priests and the elders of-the people gathered-together in the court of-the high-priest the-one called Caiaphas, </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and they-plotted in-order-that they-might-arrest [the] Jesus by-stealth and put┘(him)└to-death. </span></span>
@@ -59,9 +59,7 @@ next: chapter-27
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then [the] Jesus says to-them, <i>“You all will-be-offended in me in [the] this night, for it-is-written</i></span></span></p>
 
-
-### ‘I-will-strike-down the shepherd,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b>‘I-will-strike-down the shepherd,</b></span></i></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and the sheep of-the shepherd thoroughly-scattered.’</span></i></b></p>
 
@@ -117,9 +115,7 @@ next: chapter-27
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v64" id="v64"><sup class="verse-num">64</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>[The] Jesus says to-him, <i>“You said/Yes. Except I-tell-you</i></span></span></p>
 
-
-### From now you-will-see ‘the Son of-[the] Man,
-
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        From now you-will-see ‘<b>the Son of-[the] Man,</b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    <b>sitting on (the) right[s] of-the Power,’</b></span></i></p>
 

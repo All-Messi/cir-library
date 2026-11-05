@@ -15,7 +15,7 @@ next: chapter-24
 ### Denunciation of the Pharisees
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus told the crowd and his disciples<b><span style='color:#7030A0'>,</span></b><span style='color:#7030A0'> </span></span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus told the crowd and his disciples<b><span style='color:#7030A0'>,</span></b><span style='color:#7030A0'> </span></span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The scribes and Pharisees sit on Moses’ seat. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So do whatever they tell you, but don’t be like them; they say and don’t do. </span></i></span>

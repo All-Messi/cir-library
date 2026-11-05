@@ -49,7 +49,9 @@ next: chapter-16
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David told his aides in Jerusalem, <i>“Let’s flee. Otherwise, none of us will escape from him. Hurry so he won’t overtake us right away, bring down catastrophe on us, and strike the city with the sword.”</i> </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king’s aides told him, <i>“We’re ready to do whatever you decide.”         </i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Sam 15:7-15</span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>            </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king’s aides told him, <i>“We’re ready to do whatever you decide.”</i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">2 Sam 15:7-15</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So he and his whole family left except for 10 concubines to take care of the palace. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He and the people with him went out and stopped at the last house. </span></span>

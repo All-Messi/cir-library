@@ -17,7 +17,7 @@ next: chapter-21
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%'>A troublemaker happened to be there—Sheba Ben-Bicri, a Benjamite. He blew the ram’s horn and said,</span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>            <a name="_Hlk91690564"><i>“We don’t have any part with David</i></a></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>            <i>“We don’t have any part with David</i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%'>                        or any inheritance in Jesse’s son.</span></i></p>
 
@@ -25,10 +25,11 @@ next: chapter-21
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%'>The men from Israel deserted David and followed Sheba. But Judah stayed firmly committed to their king <i>and escorted him </i>from the Jordan to Jerusalem.</span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height: 115%'>David went to his palace in Jerusalem. The ten concubines he’d left behind to keep the house, he put under guard and took care of them; but didn’t have relations with them. They lived like widows till they died.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Sam</span></b><b><span style='font-size:12.0pt;line-height:115%'> </span></b><b><span style='font-size:10.0pt;line-height:115%'>20:1-3</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height: 115%'>David went to his palace in Jerusalem. The ten concubines he’d left behind to keep the house, he put under guard and took care of them; but didn’t have relations with them. They lived like widows till they died.<b></b></span><b><span style='font-size:10.0pt;line-height:115%'></span></b><b><span style='font-size:12.0pt;line-height:115%'></span></b><b><span style='font-size:10.0pt;line-height:115%'></span></b></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><a name="_Hlk126066985"><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> </a><span style='font-size:12.0pt;line-height:115%'>Then the king told Amasa, <i>“Call out Judah’s army within three days and be present here with them.” </i></span></span>
+<p class="section-ref">2 Sam 20:1-3</p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%'>Then the king told Amasa, <i>“Call out Judah’s army within three days and be present here with them.” </i></span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%'>Amasa went to call them out, but it took him longer than the appointed time. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt; line-height:115%'>David told Abishai, <i>“Sheba will do us more damage than Absalom. Take my troops and chase him he gets into fortified towns and escape from me.” </i></span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%'>So Joab’s men, along with the king’s bodyguard and the strong warriors, left to pursue Sheba. </span></span>

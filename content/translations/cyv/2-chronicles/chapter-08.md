@@ -27,7 +27,9 @@ next: chapter-09
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He didn’t make slaves out of Israelites for his work. They were soldiers, chief captains, and commanders of his chariots and cavalry. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Solomon had 250 chief officers that oversaw the people. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he brought Pharaoh’s daughter up from The City of David to the house he’d built for her, because he said, <i>“My wife won’t live in David’s palace, because the places are holy where Yahveh’s Ark has been.”
-</i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 8:1-11</span></b></span></p>
+</i></span></span></p>
+
+<p class="section-ref">2 Ch 8:1-11</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Solomon offered burnt offerings on the altar he’d built in front of the vestibule. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He followed the daily rule, offering them according to the commandment of Moses for Sabbaths, new moons, and the three annual festivals: The Festival of Unleavened Bread, The Festival of Weeks, and The Festival of Booths.</span></span></p>
@@ -37,7 +39,9 @@ next: chapter-09
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Solomon carried out his work from the day he laid the foundation of Yahveh’s Temple till he finished it. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he went to Ezion-geber and Eloth on the shore in Edom. </span></span>
-<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>By his own officers, Hiram sent him ships and sailors that knew the sea. They went with Solomon’s servants to Ophir and brought back <a name="_Hlk145087335">17 tons <sup>450 talents</sup> of gold</a>.                                                             </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 8:12-18</span></b></span></p>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>By his own officers, Hiram sent him ships and sailors that knew the sea. They went with Solomon’s servants to Ophir and brought back 17 tons <sup>450 talents</sup> of gold.                                                             </span></span></p>
+
+<p class="section-ref">2 Ch 8:12-18</p>
 
 
 <style>

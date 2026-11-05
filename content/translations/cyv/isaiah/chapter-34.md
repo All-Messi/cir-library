@@ -15,7 +15,7 @@ next: chapter-35
 ### An Oracle for the Nations
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  34<sup>:1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Come close, nations, and listen!</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Come close, nations, and listen!</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                       </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>world and everything in it, pay attention.</span></p>
 
@@ -65,7 +65,7 @@ next: chapter-35
 
 <p class="section-ref">Is 34:6-7</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><a name="_Hlk114874657"><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh will have a day of vengeance,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh will have a day of vengeance,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              a year of payback for what Edom did to Zion.</span></p>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Adversity Factor"
 date: '2015-05-24'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

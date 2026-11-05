@@ -4,9 +4,11 @@ categories:
 - Interpretation
 - Getting The Point Book
 date: '2026-02-16'
+printed: 2015-03-03
+lastmod: 2025-07-11
 draft: false
 title: "Interpreting Various Genre"
-weight: 14
+weight: 11
 ---
 
 <style>
@@ -53,8 +55,7 @@ ul
 <div class="word-content">
 <p class=MsoNormal style='margin-top:0in;margin-right:-31.5pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><b><span
-style='font-size:12.0pt'> IV. INTERPRETING VARIOUS CLASSES OF LITERATURE      </span></b><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
+style='font-size:12.0pt'> IV. INTERPRETING VARIOUS CLASSES OF LITERATURE</span></b></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -225,7 +226,7 @@ style='font-size:6.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            <img width=164 height=78
+style='font-size:12.0pt'>            <img alt="Arrow into a box containing x&#x27;s" width=164 height=78
 src="/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image001.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -240,7 +241,7 @@ generalized prediction illustrated above.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>          <img width=365 height=52
+style='font-size:12.0pt'>          <img alt="Arrow and brackets with x marks" width=365 height=52
 src="/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image002.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -257,7 +258,7 @@ Luke <b>21</b>:5-36).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            <img width=332 height=60
+style='font-size:12.0pt'>            <img alt="Arrow into a rounded box containing a, b, c and d" width=332 height=60
 src="/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image003.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -271,7 +272,7 @@ style='font-size:12.0pt'>                           �
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                      <img width=183 height=35
+style='font-size:12.0pt'>                      <img alt="Line with arrowheads at both ends" width=183 height=35
 src="/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image004.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -285,7 +286,7 @@ intention of the original     </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                <img width=243 height=35
+style='font-size:12.0pt'>                <img alt="Two arrows meeting at x" width=243 height=35
 src="/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image005.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -339,7 +340,7 @@ things at the same time. </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                           <img width=105 height=101
+style='font-size:12.0pt'>                           <img alt="Arrows diverging to a and b" width=105 height=101
 src="/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image006.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -349,7 +350,7 @@ accommodation applies a passage to a matter not in the mind of the author.</span
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            <img width=298 height=43
+style='font-size:12.0pt'>            <img alt="Arrows: one to a, one from b" width=298 height=43
 src="/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image007.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -1317,7 +1318,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>   <img width=407 height=130
+style='font-size:12.0pt'>   <img alt="Ellipses: LAW (commandment/faith, morality) and WISDOM (advice/opinion, procedure)" width=407 height=130
 src="/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image008.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -1329,7 +1330,7 @@ points and an overall presentation that moves to the </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            <img width=262 height=179
+style='font-size:12.0pt'>            <img alt="Outline (I, A, B; II, A, B) with a vertical arrow through it" width=262 height=179
 src="/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image009.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -1345,7 +1346,7 @@ arrangement. </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                   <img width=221 height=220
+style='font-size:12.0pt'>                   <img alt="Flower diagram: theme at the center with petals a to l" width=221 height=220
 src="/images/essays/iv-interpreting-various-classes-of-literature-virgil-warren-phd/image010.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

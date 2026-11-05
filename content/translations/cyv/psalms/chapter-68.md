@@ -15,7 +15,7 @@ next: chapter-69
 
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-top:0in;margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A Song</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><a name="_Hlk123996965"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Arise, God, scatter your enemies;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Arise, God, scatter your enemies;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      chase off those who hate you!</span></p>
 

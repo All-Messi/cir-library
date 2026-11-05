@@ -15,7 +15,7 @@ next: chapter-28
 ### The Altar on Mount Ebal
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.25in;'><a name="_Hlk126595289"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Moses and the elders in Israel charged the people,<i> </i></span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Moses and the elders in Israel charged the people,<i> </i></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Keep the commandments I’m giving you. </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When you cross the Jordan, set up large stones coated with lime. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Write this Law on them clearly so you can go to the promised land that’s flowing with milk and honey. </span></i></span>
@@ -35,7 +35,7 @@ next: chapter-28
 ### Curses from Mount Ebal
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126595534"><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses charged them, </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses charged them, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When you cross the Jordan, Simeon, Levi, Judah, Issachar, Joseph, and Benjamin will stand on Mount Gerizim to bless the people. </span></i></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Reuben, Gad, Asher, Zebulun, Dan, and Naphtali will stand on Mount Ebal </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to pronounce <i>a curse. </i></span></span>
@@ -75,7 +75,7 @@ next: chapter-28
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></b><b><i><span style='font-family:"Times New Roman",serif'>The people will say, ‘Amen</span></i></b><i><span style='font-family:"Times New Roman",serif'>.’ </span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126595915"><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Accursed is the man that lies with his sister, the daughter of his father </span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Accursed is the man that lies with his sister, the daughter of his father </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>or his mother.’</span></i></p>
 

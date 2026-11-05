@@ -15,7 +15,7 @@ next: chapter-03
 ### Grain Offerings
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><a name="_Hlk126788719"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“A
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“A
 <b>grain offering</b> to the L</span></i><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> will consist of fine flour with olive oil and frankincense added. </span></i></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Take it to the sons of Aaron the priests. </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>The priest</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> will take a handful of the mix and offer it up in smoke on the altar as God’s portion, an aroma pleasing to the L</span></i><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.
 </span></i></span>
@@ -23,7 +23,7 @@ next: chapter-03
 
 <p class="section-ref">Lev 2:1-3</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><a name="_Hlk126788841"><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When you bring a grain offering baked in an <u>oven</u>, it’ll be flat cakes of fine flour mixed with olive oil or wafers with no yeast in them, basted with olive oil. </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When you bring a grain offering baked in an <u>oven</u>, it’ll be flat cakes of fine flour mixed with olive oil or wafers with no yeast in them, basted with olive oil. </span></i></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you make it on a <u>griddle</u>, make it out of fine flour without yeast and mixed with olive oil. </span></i></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Break it up into pieces and pour the oil on it. </span></i></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you make your grain offering in a <u>pan</u>, make it out of fine flour mixed with olive oil. </span></i></span>
@@ -33,7 +33,7 @@ next: chapter-03
 
 <p class="section-ref">Lev 2:4-10</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                           </span></sup></b><a name="_Hlk126789143"><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t put yeast or honey in grain offerings. </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                           </span></sup></b><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t put yeast or honey in grain offerings. </span></i></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For an offering of the first part of the harvest, bring it to the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, but it’s not to rise up as a pleasing aroma on the altar. </span></i></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Season grain offerings with salt to put the salt of your God’s covenant in them.  </span></i></span></p>
 

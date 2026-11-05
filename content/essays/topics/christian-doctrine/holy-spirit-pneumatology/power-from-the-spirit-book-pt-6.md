@@ -1,12 +1,12 @@
 ---
-title: "POWER from the Spirit (book pt 6)"
-author: "Virgil Warren, christir.org"
+title: "Power from the Spirit"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:
 - 'Topics'
 - 'Christian Doctrine'
 - 'Holy Spirit Pneumatology'
-weight: 5
+weight: 6
 draft: false
 ---
 
@@ -613,7 +613,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            <img width=359 height=151 id="Picture 1"
+style='font-size:12.0pt'>            <img alt="Objective truth (HS&#x27;s presence with us) → actual testimony → subjective conviction (I have the Spirit) → motivation → fruit; testimony as misunderstood" width=359 height=151 id="Picture 1"
 src="/images/essays/power-from-the-spirit-book-pt-6/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -699,36 +699,7 @@ happiness and motivation to fix it up.</span></p>
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                  Christianity       
-        (1)                motivation                (2)               fruit</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt'><span style='position:relative;
-z-index:251659776'><span style='left:0px;position:absolute;left:192px;
-top:-870px;width:35px;height:49px'><img width=35 height=49
-src="/images/essays/power-from-the-spirit-book-pt-6/image002.png"></span></span><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<br clear=ALL>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                          Alternative
-religious</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                                
-construct</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+<p class="cir-diagram" style="text-align:center;margin:1.25rem 0"><img src="/images/diagrams/power-from-the-spirit-book-pt-6-2.png" alt="Diagram: Christianity —(1)→ motivation —(2)→ fruit, with an arrow from Alternative religious construct to motivation" width="370" style="max-width:100%;height:auto"></p><p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                  In step (2) Matthew <b>7</b>:15-20; <b>12</b>:23
 pertains to consistency between outward behavior and inward motivation. It does

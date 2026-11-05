@@ -11,7 +11,7 @@ next: chapter-08
 
 ## Matthew Chapter 7
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t criticize and you<sup>pl</sup> won’t get criticized. </span></i></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t criticize and you<sup>pl</sup> won’t get criticized. </span></i></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The criticism you<sup>pl</sup> criticize with, you’ll<sup>pl</sup> be criticized by; the measure you<sup>pl</sup> measure with, you’ll<sup>pl</sup> be measured by. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Why look<sup>sg</sup> at a speck of sawdust in somebody else’s eye, and not see the log in your<sup>sg</sup> own? </span></i></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>How can you<sup>sg</sup> say, ‘Let me get the piece of sawdust out of your<sup>sg</sup> eye,’ when there’s a log in yours!? </span></i></span>

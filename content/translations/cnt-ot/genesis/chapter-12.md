@@ -15,9 +15,9 @@ next: chapter-13
 ### The Call of Abram
 
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told Abram, </span></b></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told Abram, </span></b></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><a name="_Hlk125447636"><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Leave your country, your relatives, your father’s family, </span></i></b></a></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Leave your country, your relatives, your father’s family, </span></i></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>      and go to the land I’ll show you </span></i></b><b><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>[Acts 7:3]</span></b><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></i></p>
 
@@ -45,7 +45,7 @@ next: chapter-13
 
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A severe famine arose in the land; so he went on down to Egypt to stay awhile. </span></span>
-<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he got close to Egypt, he told Sarai, </span><a name="_Hlk125447838"></a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You’re a beautiful woman. </span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he got close to Egypt, he told Sarai, </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You’re a beautiful woman. </span></i></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the Egyptians see you, they’ll say you’re my wife and kill me. </span></i></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Say you’re my sister so they will treat me well.”         </span></i></span></p>
 

@@ -32,12 +32,6 @@ prev: chapter-02
 <u>you</u>, beloved, knowing-ahead-of-time, be-on-guard in-order-that you-may┘not└fall-from [the] your steadfastness, being-led-away by the error of-[the] morally-corrupt-((men).  </span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But grow in (the) grace and knowledge of-the Lord and Savior of-us Jesus Christ. To-him (be) glory both now and forever<sup>3</sup>.</span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil Warren, PhD </span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>translator</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                    </span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

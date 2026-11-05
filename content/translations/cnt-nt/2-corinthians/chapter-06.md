@@ -15,7 +15,7 @@ next: chapter-07
 ### Combating Opposition by Authentic Living
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>6</span></b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>:</span></sup><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We’re working with him and urging you not to receive God’s grace for nothing. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We’re working with him and urging you not to receive God’s grace for nothing. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He says, </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>“I listened to you at the right time;</i></b></span></p>
@@ -48,9 +48,7 @@ next: chapter-07
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>“‘I’ll live and move among them;</i></b></span></p>
 
-
-### I’ll be their God,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    I’ll be their God,</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and they’ll be my people </span></i></b><b><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>[Lev 26:12; Jer 32:28; Ezek 37:27]</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></i></p>
 
@@ -58,9 +56,7 @@ next: chapter-07
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and be separate,’ </span></i></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>the L</span></i><i><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says<b>.</b></span></i></p>
 
-
-### ‘Don’t touch anything unclean,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        ‘Don’t touch anything unclean,                    </span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and I’ll welcome you in </span></i></b><b><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>[Is 52:11; Ezek 20:34, 41]</span></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></i></b></p>
 

@@ -59,7 +59,7 @@ next: chapter-54
 
 <p class="section-ref">Is 53:4-6</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><a name="_Hlk86942862"><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He was oppressed and suffering,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He was oppressed and suffering,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    but he didn’t say anything;</span></p>
 

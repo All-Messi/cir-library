@@ -2,6 +2,8 @@
 title: "CRITICAL INTRODUCTION TO 2 PETER"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-04-03
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'

@@ -41,9 +41,7 @@ next: chapter-13
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b>“Behold, the king of-you is-coming,</b></span></i></p>
 
-
-### Sitting on (the) colt of-(a)-donkey.”
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    Sitting on (the) colt of-(a)-donkey.”</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The disciples of-him at-first<sup>2</sup> did┘not└understand, but when Jesus was-glorified, then they-remembered that these-things were written about him and they-did these-things to-him. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So the crowd—the-one being with him when he-called [the] Lazarus from the tomb and raised him from (the) dead—was-testifying. </span></span>
@@ -84,9 +82,7 @@ next: chapter-13
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b><i>“Lord, who believed the report of-us?</i></b></span></p>
 
-
-### And to-whom was┘the arm of-the Lord└revealed?”
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            And to-whom was┘the arm of-the Lord└revealed?” </span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On-account-of this they-were┘not└able to-believe, because Isaiah said again,</span></span></p>
 
@@ -94,9 +90,7 @@ next: chapter-13
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and hardened the heart of-them.</span></i></b></p>
 
-
-### In-order-that they-might┘not└see with the eyes,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        In-order-that they-might┘not└see with the eyes,</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and understand with-the heart,</span></i></b></p>
 

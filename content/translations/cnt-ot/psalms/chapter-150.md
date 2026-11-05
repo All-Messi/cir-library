@@ -13,7 +13,7 @@ prev: chapter-149
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hallelujah!
 </span></b></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <a name="_Hlk124379786">Praise God in his sanctuary;</a></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Praise God in his sanctuary;</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      praise him in his heavenly expanse.</span></p>
 
@@ -37,8 +37,6 @@ prev: chapter-149
                     </span></b></span></p>
 
 <p class="section-ref">Ps 150:1-6</p>
-
-<p class="MsoNormal" style='margin-bottom:0in'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
 
 
 <style>

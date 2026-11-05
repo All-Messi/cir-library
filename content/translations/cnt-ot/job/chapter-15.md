@@ -11,7 +11,7 @@ next: chapter-16
 
 ## Job Chapter 15
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124967841"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Eliphaz the Temanite answered:</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Eliphaz the Temanite answered:</span></b></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#00B050'>“Should you answer with empty talk</span></i></span></p>
 
@@ -47,7 +47,7 @@ next: chapter-16
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                  What do you understand that we don’t?</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>            </span></i><a name="_Hlk124967977"><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> </a><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B050'>There are gray-haired, aged men around here</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>            </span></i><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B050'>There are gray-haired, aged men around here</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                  that are older than your father.</span></i></p>
 
@@ -79,7 +79,7 @@ next: chapter-16
 
 <p class="section-ref">Job 15:12-16</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk124968101"><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>“Listen, I’ll tell you something; </span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>“Listen, I’ll tell you something; </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                  I’ll tell you what I’ve seen—</span></i></p>
 
@@ -123,7 +123,7 @@ next: chapter-16
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                  </span></i><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>They’re stout in face and thigh, </span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                  </span></i><a name="_Hlk124969552"><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> </a><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B050'>but they’ll live in desolate towns,</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                  </span></i><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B050'>but they’ll live in desolate towns,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                  in houses nobody wants to occupy,</span></i></p>
 
@@ -153,7 +153,7 @@ next: chapter-16
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                  their olive trees will lose their blossoms.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>            </span></i><a name="_Hlk124969664"><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> </a><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B050'>The godless live in barren company;</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>            </span></i><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B050'>The godless live in barren company;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                  fire consumes the tents of those who bribe.</span></i></p>
 

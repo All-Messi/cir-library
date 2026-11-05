@@ -11,10 +11,6 @@ next: chapter-39
 
 ## Job Chapter 38
 
-
-### Job 37:14-24
-
-
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God answered Job out of the whirlwind:</span></b></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Who is this that confuses my counsel</span></i></span></p>
@@ -91,9 +87,9 @@ next: chapter-39
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Do you have any idea how big the earth is?</span></i></span></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Tell me if you know that.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                      </span></b></span></p>
 
-### Tell me if you know that.                                      Job 38:16-18
-
+<p class="section-ref">Job 38:16-18</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Where’s the road to where light lives?</span></i></span></p>
 
@@ -165,9 +161,9 @@ next: chapter-39
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Do you send out lightning bolts on their way?</span></i></span></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Do they report to you, ‘We’re here’?</span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                   </span></b></span></p>
 
-### Do they report to you, ‘We’re here’?                   Job 38:31-35
-
+<p class="section-ref">Job 38:31-35</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Who endowed the heart with wisdom</span></i></span></p>
 

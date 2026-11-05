@@ -50,8 +50,9 @@ next: chapter-13
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, ‘This is what I’ll do: I’ll tear down my barns and build bigger ones so I can store all my grain and good things. </span></i></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll tell myself, “You have a lot of good things for years to come. Rest, eat, drink, celebrate.”’ </span></i></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God said, ‘You foolish man! Tonight they’ll demand your life; who will these things belong to then?’ </span></i></span>
-<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s how it is with people that store up for themselves and aren’t rich toward God.”
-</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Lk 12:13-21</span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>  </span></i></span></p>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s how it is with people that store up for themselves and aren’t rich toward God.”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Lk 12:13-21</p>
 
 
 ### Encouragement to Trust God

@@ -20,7 +20,7 @@ next: chapter-10
 ### Daniel’s Prayer for His People
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124490566"><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I, Daniel, read in the scroll that the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> had set 70 years for Jerusalem <i>to lie </i>in ruins, as revealed to Jeremiah the prophet. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I, Daniel, read in the scroll that the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> had set 70 years for Jerusalem <i>to lie </i>in ruins, as revealed to Jeremiah the prophet. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I turned my attention to the Lord God and looked to him in prayer with fasting, burlap, and ashes. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I confessed,           </span></span></p>
 
@@ -48,7 +48,7 @@ next: chapter-10
 ### The Seventy-Week Prophecy
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><a name="_Hlk124493698"><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While I was praying—confessing my sin and my people’s sin before the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> my God on behalf of <i>his</i> holy mountain—</span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While I was praying—confessing my sin and my people’s sin before the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> my God on behalf of <i>his</i> holy mountain—</span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the man Gabriel that I’d seen at the beginning, came to me in my exhaustion about the time of the evening offering. </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He instructed me, </span></span></p>
 

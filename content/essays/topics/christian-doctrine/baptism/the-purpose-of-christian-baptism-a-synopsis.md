@@ -2,6 +2,7 @@
 title: "THE PURPOSE OF CHRISTIAN BAPTISM: A SYNOPSIS"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-14
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -35,7 +36,7 @@ AS AN INTERPERSONAL “SYSTEM”         </span></b></p>
  </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>    
- <img width=385 height=168 src="/images/essays/the-purpose-of-christian-baptism-a-synopsis/image001.png"></span></p>
+ <img alt="Responses (belief, repentance, baptism; Rom. 6:3, Gal. 3:27, Acts 19:5, Mt. 28:19) → identity with Christ → results (forgiveness of sins, gift of the Spirit, membership in Christ&#x27;s body; Rom. 8:1, Acts 2:38)" width=385 height=168 src="/images/essays/the-purpose-of-christian-baptism-a-synopsis/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in'><span lang=EL style='font-size:
 12.0pt'>&nbsp;</span></p>

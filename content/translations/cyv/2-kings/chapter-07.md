@@ -26,7 +26,9 @@ next: chapter-08
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%'>As it was getting dark, they went to the Arameans’ camp. When they got to the edge of it, nobody was there. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%'>Yahveh had made the army hear the chariots and horses of a big army. They told one another, <i>“The king of Israel has hired the Hittites and Egyptians to attack us.”</i> </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%'>They ran for their lives in the twilight and abandoned their tents, their horses and donkeys, and the camp just like it was. </span></span>
-<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%'>When the lepers got to the camp, they went into one tent and ate and drank, and carried away silver, gold, and clothes, and hid them. They went back into another tent and carried <i>things</i> away and hid them.                          </span><b><span style='font-size: 10.0pt;line-height:115%'>2 Kg 7:1-8</span></b></span></p>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%'>When the lepers got to the camp, they went into one tent and ate and drank, and carried away silver, gold, and clothes, and hid them. They went back into another tent and carried <i>things</i> away and hid them.                          </span></span></p>
+
+<p class="section-ref">2 Kg 7:1-8</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height: 115%'>Then they said, </span></span></p>
 
@@ -45,7 +47,9 @@ next: chapter-08
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%'>“Have some men take five of the horses left in the city. They’ll be like the great number that’s left in it anyway. They’ll be like the big number in Israel that have already perished. Let’s send and see.” </span></i></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:10.0pt;'><i><span style='font-size:12.0pt;line-height:115%'> </span></i><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%'>The king sent two chariots with horses to look for the Aramean army. </span></span>
-<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt; line-height:115%'>and they tracked them to the Jordan. All along the road were clothes and equipment they’d thrown away as they fled. The messengers came back and told the king.<b>      </b></span><b><span style='font-size:10.0pt; line-height:115%'>2 Kg 7:9-15</span></b></span></p>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt; line-height:115%'>and they tracked them to the Jordan. All along the road were clothes and equipment they’d thrown away as they fled. The messengers came back and told the king.<b>      </b></span></span></p>
+
+<p class="section-ref">2 Kg 7:9-15</p>
 
 <p class="MsoListBullet" style='margin-bottom:0in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people went out and plundered Aram’s camp; .36 bushel </span><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 seah </span></sup><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>of fine flour sold for .4 oz <sup>a shekel</sup> and .73 bushel </span><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>2 seahs </span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>of barley for .4 oz <sup>a shekel</sup>—like Yahveh had said. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king appointed the royal officer he depended on to take charge of the gate, but the people trampled him. He died like the man of God had said when the king came down to him: </span></span>
@@ -55,8 +59,9 @@ next: chapter-08
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height: 115%'>He said, <i>“You’ll see it for yourself, but you won’t eat any of it.”</i></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height: 115%'>That’s what happened because the people trampled him to death at the gate.</span><b><span style='font-size:10.0pt;line-height:115%'>  2 Kg 7:16-20
-</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height: 115%'>That’s what happened because the people trampled him to death at the gate.</span></span></p>
+
+<p class="section-ref">2 Kg 7:16-20</p>
 
 
 <style>

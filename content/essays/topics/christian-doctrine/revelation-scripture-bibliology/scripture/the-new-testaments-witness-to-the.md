@@ -6,10 +6,13 @@ categories:
 - Revelation Scripture Bibliology
 - Scripture
 date: '2026-02-16'
+printed: 2023-07-06
+lastmod: 2025-07-12
 draft: false
-title: THE NEW TESTAMENT'S WITNESS TO THE
+title: "The New Testament’s Witness to the Old Testament’s Inspiration"
 weight: 4
-subtitle: "OLD TESTAMENT’S INSPIRATION*"
+aliases:
+- /essays/topics/christian-doctrine/revelation-scripture-bibliology/scripture/the-new-testaments-witness-to-the-old-testaments-inspiration/
 ---
 
 <style>
@@ -237,7 +240,7 @@ style='font-size:12.0pt'>                           �
 of scriptures: Romans <b>5</b>:9-12; Hebrews <b>1</b>:5-14</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:2.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-2.0in'><span
+margin-left:min(2.25in, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(24px, 35vw) - min(2.25in, 35vw))'><span
 style='font-size:12.0pt'>                                       (c)     Single
 citation for plural references: Matthew <b>21</b>:5; Mark<b> 1</b>:2-3; 2
 Corinthians <b>6</b>:16-18</span></p>

@@ -26,7 +26,9 @@ next: chapter-13
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> saw that, he told Shemaiah, </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:40.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“They’ve humbled themselves, so I won’t destroy them. I’ll grant them some measure of deliverance and not pour out my anger on Jerusalem by Shishak. </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But they’ll become his slaves so they’ll learn </span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the difference between<i> serving me and serving other countries.” </i><b>                                                                                               </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 12:1-8</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:40.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“They’ve humbled themselves, so I won’t destroy them. I’ll grant them some measure of deliverance and not pour out my anger on Jerusalem by Shishak. </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But they’ll become his slaves so they’ll learn </span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the difference between<i> serving me and serving other countries.” </i><b>                                                                                               </b></span></span></p>
+
+<p class="section-ref">2 Ch 12:1-8</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Shishak came up against Jerusalem and took the treasures out of L</span><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s Temple and the king’s palace. He took everything, including the gold shields Solomon had made. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King Rehoboam made bronze shields to replace them and committed them to the commanders of the guard that guarded the king’s palace. </span></span>
@@ -39,7 +41,9 @@ next: chapter-13
 </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The acts of Rehoboam, first to last, are recorded in <i>The Chronicles of Shemaiah the Prophet </i>and<i> The Chronicles of Iddo the Seer</i> by genealogical enrollment. There was war between Rehoboam and Jeroboam constantly. </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Rehoboam died and they buried him in The City of David, and his son Abijah became king.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 12:9-16</span></b></span></p>
+</b></span></span></p>
+
+<p class="section-ref">2 Ch 12:9-16</p>
 
 
 <style>

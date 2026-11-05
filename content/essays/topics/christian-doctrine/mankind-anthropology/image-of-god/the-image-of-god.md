@@ -6,6 +6,7 @@ categories:
 - Mankind Anthropology
 - Image Of God
 date: '2026-02-16'
+lastmod: 2025-07-16
 draft: false
 title: THE 'IMAGE OF GOD'
 weight: 4

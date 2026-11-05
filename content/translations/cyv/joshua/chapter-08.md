@@ -39,7 +39,9 @@ next: chapter-09
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the king of Ai saw it, the men in the city hurried out early to the descent toward the Arabah to meet Israel in battle. But he didn’t know about the ambush behind the city. </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joshua and the Israelites pretended to be beaten and retreated toward open country. </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people in the city were called together to chase them and drew away from it. </span></span>
-<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Every man in Ai and Bethel went out after Israel and left the city wide open.  </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Josh 8:10-17</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>       </span></span></p>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Every man in Ai and Bethel went out after Israel and left the city wide open.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Josh 8:10-17</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Joshua, <i>“Hold out your javelin.”</i> He held it out toward the city, </span></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and the ambush got up at once, went in, and took it. They hurried and set it on fire. </span></span>
@@ -55,9 +57,7 @@ next: chapter-09
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joshua burned the city and made it a pile of ruins till now. </span></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He hanged the king on a tree till sundown. Then he had <i>them</i> take his body down and throw it at the entrance to the city gate. They piled stones over it, which are still there. </span></span></p>
 
-
-### Josh 8:18-29
-
+<p class="section-ref">Josh 8:18-29</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joshua built an altar to Yahveh on Mount Ebal </span></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the way Moses commanded in the Law—with uncut stones nobody has used an iron tool on.<i> </i>They offered burnt offerings and peace offerings. </span></span>

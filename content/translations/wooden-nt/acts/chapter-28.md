@@ -10,7 +10,7 @@ prev: chapter-27
 
 ## Acts Chapter 28
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And having-been-saved/having-escaped, then we-came-to know that the island was-called Malta/Melite<sup>ms</sup>. </span></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And having-been-saved/having-escaped, then we-came-to know that the island was-called Malta/Melite<sup>ms</sup>. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the natives were-showing to-us no [the] little/usual kindness; for, having-kindled (a) fire on-account-of the present [the] rain and on-account-of the cold, they-welcomed us all. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And Paul, having-gathered a-certain bundle of-sticks and having-put (it) on the fire, (a) viper, having-come-out from the heat, fastened-on the hand of-him. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And when the natives saw the beast hanging from the hand of-him, they-began-to-say to one-another, <i>“Surely [the] this man is (a) murderer, whom, having-escaped/having-been-saved-from the sea, [the] justice did┘not└allow to-live.” </i></span></span>
@@ -44,9 +44,7 @@ prev: chapter-27
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Well did┘the Holy Spirit└speak through Isaiah the prophet to the fathers of-you, </span></i><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>saying,</span></i></span></p>
 
-
-### ‘Prophesy to [the] this people and say,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    <b>‘Prophesy to [the] this people and say,</b></span></i></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    “You-will┘certainly└hear</span></i></b></p>
 
@@ -76,9 +74,6 @@ prev: chapter-27
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he-remained for-two┘whole└years in his-own rented (quarters), and was-receiving all the-ones coming-in to him, </span></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>preaching/proclaiming<sup>sg</sup> the kingdom of-[the] God and teaching the-things about the Lord Jesus Christ with all boldness unhindered.</span></span></p>
-
-<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>Virgil Warren, PhD, translator
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 
 
 <style>

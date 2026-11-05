@@ -15,7 +15,7 @@ next: chapter-36
 ### Jacob Returns to Bethel
 
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><a name="_Hlk125371220"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God told Jacob, </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God told Jacob, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go up to Bethel and live and build an altar to me. </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>I’m the One</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> that appeared to you when you were running from Esau.” </span></i></p>
 
@@ -32,7 +32,7 @@ next: chapter-36
 
 <p class="section-ref">Gen 35:1-8</p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><a name="_Hlk125371383"><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God appeared to Jacob again after he came from Paddan-aram and blessed him. </span></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God appeared to Jacob again after he came from Paddan-aram and blessed him. </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You’re Jacob, </span></i></span></p>
 
@@ -54,7 +54,9 @@ next: chapter-36
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God ascended from him, </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>and Jacob set up a stone marker “where God” had spoken to him. He poured out a liquid offering on it, poured olive oil on it, </span></span>
-<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and named the place Bethel.</span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'> Gen 35:9-15</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>  </span></b></span></p>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and named the place Bethel.</span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Gen 35:9-15</p>
 
 
 ### The Deaths of Rachel and Isaac
@@ -71,7 +73,7 @@ next: chapter-36
 
 <p class="section-ref">Gen 35:16-22</p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            <a name="_Hlk125373917">Jacob had 12 sons.</a></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            Jacob had 12 sons.</span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>               </span><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>by Leah: Reuben, his firstborn, Simeon, Levi, Judah, Issachar, Zebulun;</span></span></p>
 

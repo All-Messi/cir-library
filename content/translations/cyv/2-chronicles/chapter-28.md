@@ -22,8 +22,9 @@ next: chapter-29
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh delivered him to the king of Aram. They defeated <i>Ahaz</i> and took a large number of captives to Damascus. <i>God </i>also delivered him to the king of Israel, who inflicted great casualties on him. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pekah Ben-Remaliah killed 120,000 in Judah in one day, all trained soldiers, because they’d left </span><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>Yahveh God of their ancestors. </span></span>
-<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zichri, a powerful man in Ephraim, killed Maaseiah the king’s son; Azrikam, the palace commander; and Elkanah, the king’s second-in-command.
-</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></b><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>28:1-7</span></b></span></p>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zichri, a powerful man in Ephraim, killed Maaseiah the king’s son; Azrikam, the palace commander; and Elkanah, the king’s second-in-command.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></b><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">2 Ch 28:1-7</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Israel took away 200,000 women, sons, and daughters; and a great deal of spoil. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But
@@ -37,7 +38,9 @@ next: chapter-29
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t bring the captives in here. You’re about to bring guilt on us against Yahveh and add to our sins. We have a lot of guilt, so his furious anger has turned against us.” </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The armed men left the captives and spoil with the officers and the assembly. </span></span>
-<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Designated men took the captives and put clothes from the spoil on the naked ones. They gave them clothes and sandals, fed them and gave them something to drink, put olive oil on their wounds, led their feeble ones on donkeys, and took the captives to their fellow countrymen at Jericho, the City of Palms. Then they came back to Samaria.             </span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>2 Ch 28:8-15</span></b></span></p>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Designated men took the captives and put clothes from the spoil on the naked ones. They gave them clothes and sandals, fed them and gave them something to drink, put olive oil on their wounds, led their feeble ones on donkeys, and took the captives to their fellow countrymen at Jericho, the City of Palms. Then they came back to Samaria.             </span></span></p>
+
+<p class="section-ref">2 Ch 28:8-15</p>
 
 
 ### Ahaz Closes the Temple
@@ -49,7 +52,9 @@ next: chapter-29
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That was </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>because
 </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh humbled Judah because of Ahaz; he’d brought about a lack of restraint in Judah and was terribly unfaithful to Yahveh. </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Tilgath-pilneser, king of Assyria, came and attacked him instead of reinforcing him. </span></span>
-<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ahaz took a portion out of </span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Yahveh’s Temple, the king’s palace, and the officials’ houses, and gave it to the king of Assyria; but he didn’t help him.      </span><b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>2 Ch 28:16-21</span></b></span></p>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ahaz took a portion out of </span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Yahveh’s Temple, the king’s palace, and the officials’ houses, and gave it to the king of Assyria; but he didn’t help him.      </span></span></p>
+
+<p class="section-ref">2 Ch 28:16-21</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In his distress, this same King Ahaz became more unfaithful to </span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He sacrificed to the gods of Damascus that had defeated him, </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Since the gods of Aram helped them, I’ll sacrifice to them so they’ll help <u>me</u>.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> But they became the downfall of his and Israel’s downfall. </span></span>
@@ -57,7 +62,9 @@ next: chapter-29
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In every city in Judah he made high places to burn incense to other gods and made </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh angry. </span></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of his ways and deeds, first to last, are recorded in </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Book of the Kings of Judah and Israel</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>. </span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ahaz died, and they buried him in Jerusalem but not in the tombs of the kings of Israel. His son Hezekiah reigned.
-</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 28:22-27</span></b></span></p>
+</span></span></p>
+
+<p class="section-ref">2 Ch 28:22-27</p>
 
 
 <style>

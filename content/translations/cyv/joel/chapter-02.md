@@ -171,9 +171,9 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Why should they say,</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            ‘Where’s their God?’”</span></i><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></p>
 
-### ‘Where’s their God?’”                                   Joel 2:15-17
-
+<p class="section-ref">Joel 2:15-17</p>
 
 
 ### Yahveh Promises Restoration
@@ -201,9 +201,9 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            The stench from rotting bodies will rise over the land.”</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Lord has done great things!<i> </i></span></p>
 
-### The Lord has done great things!                                 Joel 2:18-20
-
+<p class="section-ref">Joel 2:18-20</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t be afraid, O land; celebrate and be happy</span></span></p>
 
@@ -286,6 +286,8 @@ next: chapter-03
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            people will escape like Yahveh said;</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            among the survivors will be the people Yahveh calls.                   </span></p>
+
+<p class="section-ref">Joel 2:28-32</p>
 
 
 <style>

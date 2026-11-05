@@ -2,6 +2,8 @@
 title: "TRIMMING BACK THEOLOGY BY SHEDDING NATURAL DEPRAVITY"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2022-11-29
+lastmod: 2025-07-10
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -120,7 +122,7 @@ some or done to all,</span></p>
 font-family:"Times New Roman",serif'>whether the removal of depravity is <b>I</b>rresistible
 or resistible, and</span></p>
 
-<p class=MsoNormal style='margin-left:2.0in;text-indent:-.5in'><span
+<p class=MsoNormal style='margin-left:min(2.0in, 35vw);text-indent:calc(min(144px, 35vw) - min(2.0in, 35vw))'><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif'>whether it is
 effective (or at least circumstantially reinforced), that is, <b>P</b>erseverance
 of the saints. </span></p>

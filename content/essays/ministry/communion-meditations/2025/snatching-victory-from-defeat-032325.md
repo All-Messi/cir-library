@@ -1,7 +1,7 @@
 ---
 title: "Snatching Victory from Defeat"
 date: '2025-03-23'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

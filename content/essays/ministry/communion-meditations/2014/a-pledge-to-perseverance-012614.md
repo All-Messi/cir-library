@@ -1,7 +1,7 @@
 ---
 title: "A Pledge to Perseverance"
 date: '2014-01-26'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

@@ -15,7 +15,7 @@ next: chapter-16
 ### The 7 Last Plagues
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I saw another great, amazing sign: seven angels that had the seven last plagues. With them God will finish his anger. </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I saw another great, amazing sign: seven angels that had the seven last plagues. With them God will finish his anger. </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I saw what looked like a glass sea mixed with fire. Those who were victorious over the beast, its image, and the number of its name, stood on the glass sea, holding harps God gave them </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and singing the Song of Moses, God’s servant, and the Song of the Lamb:   </span></span></p>

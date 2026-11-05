@@ -11,14 +11,10 @@ next: chapter-02
 ## Numbers Chapter 1
 
 
-### Conversational Yahveh Covenant
-
-
-
 ### Census of Israel’s Troops
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          </span></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On the <b>first </b></span><b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>day</span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, second month, second year</span></b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> after they left Egypt, Yahveh told Moses at Sinai in the Tent of Meeting,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On the <b>first </b></span><b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>day</span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, second month, second year</span></b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> after they left Egypt, Yahveh told Moses at Sinai in the Tent of Meeting,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Take a census by families. Count the men </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>20 years old and up that can go to war. You and Aaron count them by armies. </span></i></span>

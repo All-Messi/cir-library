@@ -11,7 +11,7 @@ next: chapter-18
 
 ## Job Chapter 17
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                  </span></i><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>My spirit’s broken; my days are snuffed out;</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>My spirit’s broken; my days are snuffed out;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                        people have already dug my grave.</span></i></p>
 

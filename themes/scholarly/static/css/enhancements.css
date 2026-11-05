@@ -1392,7 +1392,7 @@ html body .hero .lead strong {
 .hp-cta-light:hover { color: #c8e8d0; }
 
 /* ─ Category chip ─ */
-.hp-chip { display: inline-block; font-family: 'Source Sans Pro', sans-serif; font-size: 0.58rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.16em; color: #888; background: #f2efea; padding: 0.22rem 0.55rem; border-radius: 2px; margin-bottom: 0.75rem; }
+.hp-chip { display: inline-block; font-family: 'Source Sans Pro', sans-serif; font-size: 0.58rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.16em; color: #6b6b6b; background: #f2efea; padding: 0.22rem 0.55rem; border-radius: 2px; margin-bottom: 0.75rem; }
 
 /* ─ Grids ─ */
 .hp-g3 { display: grid; grid-template-columns: repeat(3,1fr); gap: 1.25rem; }
@@ -1411,7 +1411,7 @@ html body .hero .lead strong {
 .hp-bs-commentary::before{ background: linear-gradient(180deg,#5c3018,#7a4020); }
 .hp-bs-evidences::before { background: linear-gradient(180deg,#3a2840,#543a58); }
 .hp-bookcard-body { padding: 1.6rem 1.3rem 1.5rem 1.75rem; display: flex; flex-direction: column; flex: 1; }
-.hp-bookcard-cat { font-family: 'Source Sans Pro', sans-serif; font-size: 0.58rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.16em; color: #888; margin-bottom: 0.45rem; }
+.hp-bookcard-cat { font-family: 'Source Sans Pro', sans-serif; font-size: 0.58rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.16em; color: #6b6b6b; margin-bottom: 0.45rem; }
 .hp-bookcard h3 { font-family: 'Playfair Display', serif; font-size: 1rem; font-weight: 700; color: #1a1a1a; line-height: 1.25; margin-bottom: 0.5rem; margin-top: 0; }
 .hp-bookcard p { font-family: 'Source Sans Pro', sans-serif; font-size: 0.74rem; color: #666; line-height: 1.55; flex: 1; margin-bottom: 0.9rem; }
 
@@ -1478,4 +1478,69 @@ html body .hero .lead strong {
         width: 34px !important;
         height: 34px !important;
     }
+}
+
+/* ============================================
+   2026-11-04 site-comb fixes (UI). Kept at the END of the file, after the
+   `html body` override block, so the mobile rules win (CLAUDE.md gotcha).
+   ============================================ */
+
+/* Header live-search suggestions on phones/tablets. The ≤768px header rules
+   set overflow:hidden on .site-header .container, .header-content and
+   .header-search, which clipped the absolutely positioned dropdown to the
+   60px header. Pin it to the viewport just under the header instead. */
+@media (max-width: 768px) {
+    html body .site-header .header-search .search-dropdown {
+        position: fixed;
+        top: 64px;
+        left: 8px;
+        right: 8px;
+        max-height: calc(100vh - 80px);
+        max-height: calc(100dvh - 80px);
+        z-index: 1001;
+    }
+}
+
+/* Gospel Harmony: a topic link (#healing-ten-lepers, Topics overlay) must land
+   below the sticky site header and reading toolbar, not under them. */
+.harmony-topic {
+    scroll-margin-top: 90px;
+}
+@media (max-width: 768px) {
+    .harmony-topic {
+        scroll-margin-top: 120px;
+    }
+}
+
+/* Gospel Harmony genealogy tables: on phones Luke's 5 fixed 20% columns broke
+   names mid-word ("Josep/h"). Tables with 4+ columns keep whole names and
+   scroll sideways inside their own box; Matthew's 3-column table still wraps. */
+@media (max-width: 600px) {
+    .genealogy-table:has(col:nth-child(4)) {
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        table-layout: auto;
+    }
+    .genealogy-table:has(col:nth-child(4)) td.genealogy-cell {
+        white-space: nowrap;
+        word-break: normal;
+        overflow-wrap: normal;
+    }
+}
+
+/* Gospel Harmony muted labels (topic refs in the Topics overlay, section reference,
+   harmony home lists) use var(--color-text-muted), #888 = 3.5:1 on white. Darken it on
+   harmony pages only to #6b6b6b (5.3:1). */
+.harmony-reading,
+.harmony-home,
+#topic-overlay {
+    --color-text-muted: #6b6b6b;
+}
+
+/* Restored Word diagrams (diagram_patches.py) stay centred: the .word-content
+   left-align override above would otherwise pin them to the left (2026-11-04). */
+.word-content p.cir-diagram,
+.content-body p.cir-diagram {
+    text-align: center !important;
 }

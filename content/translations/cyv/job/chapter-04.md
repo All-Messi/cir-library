@@ -11,10 +11,6 @@ next: chapter-05
 
 ## Job Chapter 4
 
-
-### I’m not at rest; only trouble is coming.”              Job 3:20-26
-
-
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Eliphaz the Temanite answered:</span></b></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#00B050'>“Will you be offended if someone offers you advice?</span></i></span></p>
@@ -100,6 +96,10 @@ next: chapter-05
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                                    they perish forever without anyone noticing.</span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                              </span></i><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#00B050'>Isn’t their tent-rope pulled up inside them?</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                                    They die in ignorance.’</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'><b></b></span></p>
+
+<p class="section-ref">Job 4:12-21</p>
 
 
 <style>

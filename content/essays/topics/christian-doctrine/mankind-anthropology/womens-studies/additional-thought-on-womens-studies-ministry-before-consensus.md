@@ -2,6 +2,7 @@
 title: "ADDITIONAL THOUGHT ON WOMENS STUDIES 'Ministry Before Consensus'"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-14
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -62,7 +63,7 @@ issues.” Some ministry is neither informal or formal <u>leadership</u>, but
 again that is not the kind of ministry women's roles </span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=435 height=264 id="Picture 1"
+style='font-size:12.0pt'><img alt="Nested ellipses: interpersonalism, ministry, leadership ministry, formal leadership, female formal leadership, female formal leadership over men" width=435 height=264 id="Picture 1"
 src="/images/essays/additional-thought-on-womens-studies-ministry-before-consensus/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -182,5 +183,5 @@ distinctive for Ephesus or for the first century.</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>                                                                                                                                      
-</span><span style='font-size:11.0pt'>chrisstir.org</span></p>
+</span><span style='font-size:11.0pt'></span></p>
 </div>

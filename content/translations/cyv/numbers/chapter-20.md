@@ -15,7 +15,7 @@ next: chapter-21
 ### The Death of Miriam
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The whole community came to the Wilderness of Zin in the first month and stayed at Kadesh. Miriam died and they buried her there.</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The whole community came to the Wilderness of Zin in the first month and stayed at Kadesh. Miriam died and they buried her there.</span></span></p>
 
 
 ### Moses Strikes the Rock
@@ -75,7 +75,9 @@ next: chapter-21
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After Moses stripped Aaron and put </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>his vestments</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> on Eleazar, Aaron died. Moses and Eleazar came down from the mountain. </span></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the community saw Aaron had died, they mourned for him 30 days.                      </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                      </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Num</span></b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> <b>20:22-29</b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'><b></b></span></p>
+
+<p class="section-ref">Num 20:22-29</p>
 
 
 <style>

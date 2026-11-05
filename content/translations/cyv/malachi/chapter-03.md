@@ -53,6 +53,8 @@ next: chapter-04
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll distinguish the good ones that serve me and from the bad ones that won’t.</span></i><b><i><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>
                                                                  </span></i></b></span></p>
 
+<p class="section-ref">Mal 3:13-18</p>
+
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

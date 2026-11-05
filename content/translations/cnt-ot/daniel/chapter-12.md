@@ -14,7 +14,7 @@ prev: chapter-11
 ### The Time of the End
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-right:.5in;margin-left:.5in; '><a name="_Hlk124499038"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“At that time, Michael, the great prince that guards your people, will rise up. There’ll be a distressful time like nothing since nations began. Everyone among your people who are written in the scroll will be rescued. </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-right:.5in;margin-left:.5in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“At that time, Michael, the great prince that guards your people, will rise up. There’ll be a distressful time like nothing since nations began. Everyone among your people who are written in the scroll will be rescued. </span></i></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Many asleep in their graves will wake up, some to eternal life, some to disgrace and eternal contempt. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The wise will shine as bright as the sky, including those who lead many to goodness—like the stars forever. </span></i></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Close up this message, Daniel, and seal the scroll till the time of the end. People will travel everywhere and spread knowledge.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                       </span></b></span></span></p>
@@ -36,8 +36,6 @@ prev: chapter-11
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Live out the rest </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>of your life<i>. You’ll enter into rest and rise again for your reward at the end of the age.”</i><b>                                                                                       </b></span></span></p>
 
 <p class="section-ref">Dan 12:9-13</p>
-
-<p class="MsoNormal" style='margin-top:0in;margin-right:27.35pt;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
 
 
 <style>

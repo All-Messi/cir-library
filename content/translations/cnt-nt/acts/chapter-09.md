@@ -15,7 +15,7 @@ next: chapter-10
 ### Saul’s Conversion
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Saul was still making murderous threats against the Lord’s disciples. He went to the high priest </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Saul was still making murderous threats against the Lord’s disciples. He went to the high priest </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and asked for letters to synagogues in Damascus so, if he found any belonging to The Way—men or women, he could bring them bound to Jerusalem. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As he was getting close to Damascus, all of a sudden, a light from the sky shined around him. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He fell to the ground and heard a voice, </span></span></p>

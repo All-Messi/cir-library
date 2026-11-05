@@ -22,7 +22,9 @@ next: chapter-22
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Jehoram had taken over the kingdom and made himself secure, he killed his brothers with the sword and some of the rulers too. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He was 32 when he became king and ruled for 8 years in Jerusalem. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He followed the ways of Israel’s kings like Ahab’s house did. (His wife was </span><span style='font-family:"Times New Roman",serif'>Ahab’s daughter.</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>) He did evil, </span></span>
-<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but because of his covenant with David, Yahveh wouldn’t destroy David’s house. He’d promised to give him and his descendants a lamp permanently.                                                                                      </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 21:1-7</span></b></span></p>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but because of his covenant with David, Yahveh wouldn’t destroy David’s house. He’d promised to give him and his descendants a lamp permanently.                                                                                      </span></span></p>
+
+<p class="section-ref">2 Ch 21:1-7</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>During his reign <u>Edom</u> revolted and set up its own king. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So Jehoram crossed over with his commanders and all his chariots. He got up at night and struck down the Edomites and the commanders of the chariots that were surrounding him. </span></span>
@@ -35,7 +37,9 @@ next: chapter-22
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Yahveh, God of your ancestor David, says, ‘You’ve not followed the ways of Jehoshaphat your father and Asa king of Judah. </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ve followed the kings of Israel and made Judah and Israel carry on </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>religious
 <i>prostitution like Ahab’s house did. You’ve even killed your own brothers, who were better than you. </i></span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m<sup>Y</sup> going to strike your people, your sons, your wives, and everything you own with catastrophe. </span></i></span>
-<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ll suffer with a severe intestinal disease till your bowels come out.’”            </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 21:8-15</span></b></span></p>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ll suffer with a severe intestinal disease till your bowels come out.’”            </span></i></span></span></p>
+
+<p class="section-ref">2 Ch 21:8-15</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Yahveh stirred up <u>the Philistines and Arabs</u> that bordered the Nubians. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They invaded Judah and carried away everything in the king’s palace, including his sons and wives. He didn’t have any son left except Jehoahaz, the youngest. </span></span></p>
@@ -43,7 +47,9 @@ next: chapter-22
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In addition, Yahveh struck him with an incurable disease. </span></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In two years, his bowels came out, and he died in severe pain. His people made no fire for him like they did for his ancestors. </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died with nobody’s regret. They buried him in The City of David, but not in the tombs of the kings.
-</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 21:16-20</span></b></span></p>
+</span></span></p>
+
+<p class="section-ref">2 Ch 21:16-20</p>
 
 
 <style>

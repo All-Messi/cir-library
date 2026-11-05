@@ -15,8 +15,8 @@ next: chapter-25
 ### Devastation of the Earth
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh is laying the earth waste, defacing its surface, scattering its residents. </span><a name="_Hlk148456361"></span>
-<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>People and priests, servants and masters, maids and mistresses, buyers and sellers, lenders and borrowers, creditors and debtors—everyone will be affected. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh is laying the earth waste, defacing its surface, scattering its residents. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>People and priests, servants and masters, maids and mistresses, buyers and sellers, lenders and borrowers, creditors and debtors—everyone will be affected. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The earth will be completely despoiled because Yahveh said so. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The earth withers, and its people waste away, even its high-ranking ones, </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>because they’ve polluted it by sinning against God’s laws, statutes, and everlasting covenant. </span></span>
@@ -81,11 +81,9 @@ next: chapter-25
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              But I say, <i>“Misfortune awaits me! Misfortune awaits me!</i></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    The devious deal deviously, so deviously!”</span></i><b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>   </span></b></p>
 
-### The devious deal deviously, so deviously!”
-
-
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><a name="_Hlk86926780"><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Terror, pit, and snare threaten you,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Terror, pit, and snare threaten you,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    people of the earth;</span></p>
 

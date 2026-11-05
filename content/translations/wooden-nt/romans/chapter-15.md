@@ -11,7 +11,7 @@ next: chapter-16
 
 ## Romans Chapter 15
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And we the-ones strong ought to-bear-with the weaknesses of-the-ones not-strong, and not to-please ourselves. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And we the-ones strong ought to-bear-with the weaknesses of-the-ones not-strong, and not to-please ourselves. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let┘each of-us└try-to-please the/our neighbor unto the good-thing for edification. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For [the] Christ also did┘not└please himself, but even-as it-has-been-written, <b>“The insults of-the-ones insulting you fell on me.”</b> </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For as-many-things-as were-written-beforehand were-written for [the] our instruction, in-order-that through [the] patience and through the encouragement of-the scriptures we-might-have hope. </span></span>
@@ -42,9 +42,7 @@ next: chapter-16
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and the-one arising to-rule (the) Gentiles.</span></b></p>
 
-
-### Gentiles will-hope in him.”
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Gentiles will-hope in him.”</span></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now may┘the God of-[the] hope└fill you with-all joy and peace in the/your believing, unto [the] your abounding in [the] hope by (the) power of-(the)-Holy Spirit.</span></span></p>
 

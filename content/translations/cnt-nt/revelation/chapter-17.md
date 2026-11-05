@@ -11,11 +11,7 @@ next: chapter-18
 
 ## Revelation Chapter 17
 
-
-### Rev 16:17-21
-
-
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>One of the seven angels with the seven bowls came over to me,  </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>One of the seven angels with the seven bowls came over to me,  </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“Come here; I’ll show you the condemnation of the great prostitute that sits on a vast expanse of water. </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Kings committed immoral acts with her, and people got drunk on the wine of her immorality.”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></span></p>
 

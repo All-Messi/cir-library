@@ -2,6 +2,8 @@
 title: "PLACE OF ACTS IN THE NEW TESTAMENT"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2023-07-13
+lastmod: 2025-07-15
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'
@@ -96,7 +98,7 @@ margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                     <img width=351 height=95
+style='font-size:12.0pt'>                     <img alt="Timeline: Jewish state, intercalary period from 30 to 70, Christian church" width=351 height=95
 id="Picture 1" src="/images/essays/place-of-acts-in-the-new-testament/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

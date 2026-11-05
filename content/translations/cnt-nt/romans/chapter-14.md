@@ -15,7 +15,7 @@ next: chapter-15
 ### Cautiously Accepting Weak Brothers
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Accept people that are weak in faith, and don’t pass judgment on the way they think. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Accept people that are weak in faith, and don’t pass judgment on the way they think. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>One person believes he can eat anything, but a weak person <i>just </i>eats vegetables. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The one that eats must not look down on the one that doesn’t; the one that doesn’t eat must not criticize the one that does. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What right do you have to criticize somebody else’s household servant? He stands or falls to his own Lord. And, he will stand because the Lord can make him stand. </span></span>
@@ -29,9 +29,7 @@ next: chapter-15
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                        <b><i>“‘As sure as I live,’ the L</i></b></span><b><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,</span></i></b></p>
 
-
-### ‘every knee will bend to me;
-
+<p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                                    ‘every knee will bend to me;</span></i></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                                    every tongue will acknowledge me’”</span></i></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Is 49:18 + 45:23]</span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>.</span></p>
 

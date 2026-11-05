@@ -2,6 +2,7 @@
 title: "RESPONDING TO ETHICAL RELATIVITY"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2026-03-26
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -75,6 +76,5 @@ exclusive moral practices exist or the fact that people have not come to
 agreement on a universal ethical basis does not work against ethical theory. Those
 practical observations merely reflect human imperfection, which is the very
 problem ethics addresses. Human failures in moral behavior are not reasons for having
-no way to measure moral behavior. “What is” does not determine “What ought.” </span><span
-style='font-size:11.0pt'>christir.org</span></p>
+no way to measure moral behavior. “What is” does not determine “What ought.” </span></p>
 </div>

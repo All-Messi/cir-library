@@ -10,11 +10,7 @@ next: chapter-02
 
 ## Leviticus Chapter 1
 
-
-### Conversational Yahveh Covenant
-
-
-<p class="MsoListBulletCxSpMiddle" ><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh called to Moses from the Tent of Meeting and told him,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh called to Moses from the Tent of Meeting and told him,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When you take an offering to Yahveh, take it from the herd or flock. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For a burnt offering from the <u>herd</u>, offer a male without defect. Offer it at the entrance to the Tent of Meeting </span></i></span>

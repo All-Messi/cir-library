@@ -2,10 +2,12 @@
 title: "RESOLVING CONFLICT"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Living'
 - 'Christian Living Book'
+weight: 9
 draft: false
 ---
 
@@ -84,7 +86,7 @@ style='font-size:12.0pt'>        </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>           <img width=262 height=70 id="Picture 4"
+style='font-size:12.0pt'>           <img alt="People: peacemaking ≠ compromise, patience ≠ indifference, presence ≠ approval, silence ≠ consent: issues" width=262 height=70 id="Picture 4"
 src="/images/essays/resolving-conflict/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -234,7 +236,7 @@ style='font-size:12.0pt'>                    </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                          <img width=135 height=72
+style='font-size:12.0pt'>                          <img alt="Stick figure between two circles" width=135 height=72
 id="Picture 3" src="/images/essays/resolving-conflict/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -384,7 +386,7 @@ style='font-size:12.0pt'>                     </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                        <img width=159 height=87
+style='font-size:12.0pt'>                        <img alt="Stick figure between two circles, with arrows between them" width=159 height=87
 id="Picture 2" src="/images/essays/resolving-conflict/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -487,7 +489,7 @@ style='font-size:6.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                      <img width=184 height=97
+style='font-size:12.0pt'>                      <img alt="Stick figure with arrows to two circles" width=184 height=97
 id="Picture 1" src="/images/essays/resolving-conflict/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

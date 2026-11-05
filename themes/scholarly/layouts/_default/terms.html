@@ -58,7 +58,7 @@
                         {{ $childPage := $.Site.GetPage (printf "categories/%s" (. | urlize)) }}
                         {{ if and $childPage (gt (len $childPage.Pages) 0) }}
                         <a href="{{ $childPage.RelPermalink }}" class="subcategory-tag">
-                            {{ . | title }}
+                            {{ $label := partial "category-label.html" . }}{{ if strings.HasSuffix $label " (Book)" }}{{ $label }}{{ else }}{{ . | title }}{{ end }}
                             <span class="sub-count">{{ len $childPage.Pages }}</span>
                         </a>
                         {{ end }}

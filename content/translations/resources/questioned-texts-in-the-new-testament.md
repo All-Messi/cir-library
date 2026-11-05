@@ -4,7 +4,7 @@ categories:
 - Bible Resources
 date: '2026-02-16'
 draft: false
-title: QUESTIONED TEXTS IN THE NEW TESTAMENT
+title: "Questioned Texts in the New Testament"
 weight: 1
 ---
 
@@ -329,6 +329,3 @@ Many additional variant readings are detailed in the critical apparatus of edite
 The forty-some variants cited above are rather few, given the size of the New Testament literature (about 850 pages, including textual notations in the American Bible Society’s edition). From a purely mechanical point of view, such a level of accuracy compares quite favorably with other writings of equal antiquity. (See F. F. Bruce, for some detailing of that point.)
 
 For the most part, the original text underneath the variants is sufficiently retrievable. Omissions are particularly so, as in cases of homoioteleuton, where material between the same wordings gets left out by the slip of a copyist’s eye as he looks back and forth from the text to his copy.
-
-
-christir.org

@@ -20,7 +20,9 @@ next: chapter-23
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>To his destruction, he also followed Ahab’s practices because his mother gave him bad advice. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He sinned in </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>going with Jehoram son of Ahab to fight Hazael, king of Aram, at Ramoth-gilead. But the Arameans wounded <i>Joram</i>/Jehoram. </span></span>
-<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He came back to heal in Jezreel from his wounds at Ramah. Ahaziah son of <i>Joram</i>/Jehoram king of Judah went down to see <i>Joram</i>/Jehoram in Jezreel because he was wounded.<b>        </b></span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>2 Ch 22:1-6</span></b></span></p>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He came back to heal in Jezreel from his wounds at Ramah. Ahaziah son of <i>Joram</i>/Jehoram king of Judah went down to see <i>Joram</i>/Jehoram in Jezreel because he was wounded.<b>        </b></span></span></p>
+
+<p class="section-ref">2 Ch 22:1-6</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The destruction of Ahaziah was from God for going to Joram/<i>Jehoram</i>. He went out with Jehoram against Jehu son of Nimshi that the L</span><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> had anointed to eliminate Ahab’s family. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Jehu was executing judgment on that family, he found Judah’s officials and the sons of Ahaziah’s brothers serving Ahaziah and killed them. </span></span>
@@ -33,7 +35,9 @@ next: chapter-23
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When his mother Athaliah saw he was dead, she killed the royal offspring in Judah. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Jehoshabeath, King <i>Joram</i>/Jehoram’s daughter, stole Ahaziah’s son Joash from among the king’s sons—who were being murdered—and placed him and his nurse in a bedroom. Jehoshabeath, wife of Jehoiada the priest and Ahaziah’s sister, hid him so Athaliah couldn’t kill him. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They hid him in God’s Temple for 6 years while <b>Athaliah</b> ruled the country.<b>
-                                                                                                                      </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 22:7-12</span></b></span></p>
+                                                                                                                      </b></span></span></p>
+
+<p class="section-ref">2 Ch 22:7-12</p>
 
 
 <style>

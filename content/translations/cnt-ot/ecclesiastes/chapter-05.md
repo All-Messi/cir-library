@@ -11,7 +11,7 @@ next: chapter-06
 
 ## Ecclesiastes Chapter 5
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122424625"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When you go to God’s Temple, go there to listen rather than offer mindless sacrifice and not realize you’re sinning. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When you go to God’s Temple, go there to listen rather than offer mindless sacrifice and not realize you’re sinning. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t think impulsively or speak rashly in God’s presence. He’s in heaven, you’re on earth; so don’t say too much. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Working too much fosters false dreams, and talking too much makes you a fool. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When you make a vow to God, don’t delay paying it. He doesn’t delight in fools; pay what you vow. </span></span>
@@ -30,7 +30,7 @@ next: chapter-06
 
 <p class="section-ref">Eccl 5:8-12</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122424878"><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There’s a grievous problem I’ve seen under the sun: wealth hoarded to the hoarder’s hurt. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There’s a grievous problem I’ve seen under the sun: wealth hoarded to the hoarder’s hurt. </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>When he lost that wealth in a bad venture and had fathered a son, he couldn’t support him. </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He came naked from his mother’s womb; he’ll go like he came. He won’t take anything with him from his labor. </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s a grievous thing: people die like they’re born; so what do they get out of working for the wind? </span></span>

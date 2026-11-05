@@ -53,7 +53,7 @@ next: chapter-03
 
 <p class="section-ref">Deut 2:8-25</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126565101"><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I sent ambassadors from the Wilderness of Kedemoth to Sihon with offers of peace,
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I sent ambassadors from the Wilderness of Kedemoth to Sihon with offers of peace,
 </span></i></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>‘Let me go through your land. I’ll stay on the highway. </span></i></span>
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sell me food and water. Just let me go through on foot—</span></i></span>
@@ -66,8 +66,9 @@ next: chapter-03
 <span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We captured his towns, and completely wiped out their men, women, and children. </span></i></span>
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We just took the animals as spoil. </span></i></span>
 <span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From Aroer on the edge of Arnon valley and from the city that’s in the valley, all the</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> way to Gilead <i>no city was too strong for us. Yahveh delivered them to us. </i></span></span>
-<span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You didn’t go near the land of the Ammonites—along Wadi Jabbok and the towns in the hill country—or wherever Yahveh else prohibited.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-                                                                                             </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Deut</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2:26-37</span></b></span></p>
+<span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You didn’t go near the land of the Ammonites—along Wadi Jabbok and the towns in the hill country—or wherever Yahveh else prohibited.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Deut 2:26-37</p>
 
 
 <style>

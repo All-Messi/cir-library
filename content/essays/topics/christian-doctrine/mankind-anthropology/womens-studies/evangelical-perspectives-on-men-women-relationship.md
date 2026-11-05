@@ -2,6 +2,8 @@
 title: "EVANGELICAL PERSPECTIVES ON MEN-WOMEN RELATIONSHIP"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 1997-11-20
+lastmod: 2025-07-14
 categories:
 - 'Topics'
 - 'Christian Doctrine'

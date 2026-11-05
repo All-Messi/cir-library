@@ -15,7 +15,7 @@ next: chapter-50
 ### Jacob Blesses His Sons
 
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jacob called for his sons<i>, “Gather around so I can tell you what will happen to you.</i></span></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jacob called for his sons<i>, “Gather around so I can tell you what will happen to you.</i></span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gather together, sons of Jacob</span></i></span></p>
 
@@ -37,7 +37,7 @@ next: chapter-50
 
 <p class="section-ref">Gen 49:1-4</p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span><a name="_Hlk125318350"><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<b><u>Simeon</u></b><u> and <b>Levi</b></u> are brothers;</span></i></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<b><u>Simeon</u></b><u> and <b>Levi</b></u> are brothers;</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    their swords are violent tools.</span></i></p>
 
@@ -61,7 +61,7 @@ next: chapter-50
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<b><u>Judah</u></b>, your brothers will praise you;</span></i></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    <a name="_Hlk125318481">your hand will be on your enemies’ neck;</a></span></i></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    your hand will be on your enemies’ neck;</span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    your father’s sons will bow to you.</span></i></p>
 
@@ -95,7 +95,7 @@ next: chapter-50
 
 <p class="section-ref">Gen 49:8-12</p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span><a name="_Hlk125318836"><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<b><u>Zebulun</u></b> will live by the lake;</span></i></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<b><u>Zebulun</u></b> will live by the lake;</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              he’ll be a haven for boats;</span></i></p>
 
@@ -115,7 +115,7 @@ next: chapter-50
 
 <p class="section-ref">Gen 49:13-15</p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span><a name="_Hlk125319117"><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<b><u>Dan</u></b> will judge his people,</span></i></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<b><u>Dan</u></b> will judge his people,</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    as one of the tribes in Israel.</span></i></p>
 
@@ -129,7 +129,7 @@ next: chapter-50
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I wait for your salvation, L</span></i><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.”</span></i></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        <a name="_Hlk125319231">      </a></span></i><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Raiders will raid <u>Gad</u>,</span></i></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Raiders will raid <u>Gad</u>,</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    but he’ll raid back.”                                                   </span></i></span></p>
 
@@ -143,7 +143,7 @@ next: chapter-50
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              that bears beautiful fauns.”</span></i></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><a name="_Hlk125319465"><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<b><u>Joseph</u></b> is a fruitful limb,</span></i></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<b><u>Joseph</u></b> is a fruitful limb,</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    a fruitful bough beside a spring;</span></i></p>
 
@@ -177,9 +177,11 @@ next: chapter-50
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                              May they be on Joseph’s head,</span></i></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    the distinguished one among his brothers.”   </span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gen</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>49:20-26</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    the distinguished one among his brothers.”</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span><a name="_Hlk125319530"><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<b><u>Benjamin</u></b> is a ravenous wolf.</span></i></span></p>
+<p class="section-ref">Gen 49:20-26</p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<b><u>Benjamin</u></b> is a ravenous wolf.</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    He eats prey in the morning </span></i></p>
 
@@ -189,7 +191,7 @@ next: chapter-50
 ### Jacob’s Death and Burial
 
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><a name="_Hlk125319667"><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s what their father told <i>his sons</i> when he blessed them, each with an appropriate blessing. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s what their father told <i>his sons</i> when he blessed them, each with an appropriate blessing. </span></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he charged them, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m about to pass on to my people. Bury me with my ancestors in the cave in the field of Ephron the Hittite, </span></i><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>in Machpelah east of Mamre, in Canaan, in the cave Abraham bought for a burial site. </span></i></span>
@@ -199,7 +201,7 @@ next: chapter-50
 
 <p class="section-ref">Gen 49:27-32</p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><a name="_Hlk125319725"><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Jacob finished charging his sons, he drew his feet into bed, breathed his last, and passed on to his people. </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Jacob finished charging his sons, he drew his feet into bed, breathed his last, and passed on to his people. </span></span></p>
 
 
 <style>

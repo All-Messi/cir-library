@@ -4,9 +4,10 @@ categories:
 - Interpretation
 - Getting The Point Book
 date: '2026-02-16'
+lastmod: 2025-07-11
 draft: false
 title: "Pitfall: Technicalizing Terminology"
-weight: 28
+weight: 19
 ---
 
 <style>
@@ -43,8 +44,7 @@ ul
 <div class="word-content">
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            H. Technicalizing terminology                                                     
-Virgil Warren, PhD</span></p>
+style='font-size:12.0pt'>            H. Technicalizing terminology</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

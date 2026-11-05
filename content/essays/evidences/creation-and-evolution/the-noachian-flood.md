@@ -1,7 +1,8 @@
 ---
 title: "THE NOACHIAN FLOOD"
-author: "Virgil Warren PhD"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-16
 categories:
 - 'Evidences'
 - 'Creation And Evolution'

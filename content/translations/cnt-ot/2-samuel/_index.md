@@ -4,7 +4,7 @@ chapters: 24
 title: 2 Samuel
 translation: COT
 type: book
-weight: 49
+weight: 10
 ---
 
 ## 2 Samuel

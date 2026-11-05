@@ -10,7 +10,7 @@ prev: chapter-05
 
 ## Ephesians Chapter 6
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>6</span></b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>:</span></sup><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Children, obey your parents in the Lord; it’s the right thing to do. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Children, obey your parents in the Lord; it’s the right thing to do. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2-3</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Honor your father and mother so you’ll live long and well”</span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:8.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Ex 20:12; Deut. 5:16]</span></b><span style='font-size:8.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>(</span><span style='font-family:"Times New Roman",serif'>the first commandment with a promise <i>attached</i></span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>). </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Dads, don’t make your kids resent you. Raise them up in the Lord’s instruction and discipline.                                                                                                                                    </span></span></p>
 
@@ -51,8 +51,6 @@ prev: chapter-05
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Grace </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>be</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> with everybody that has undying love for him.                                                                                                                      </span></span></p>
 
 <p class="section-ref">Eph 6:21-24</p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Translator: Virgil Warren                                                                                                </span><span style='font-family:"Times New Roman",serif'> christir.org</span></p>
 
 
 <style>

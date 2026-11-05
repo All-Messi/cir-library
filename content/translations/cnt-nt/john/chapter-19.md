@@ -11,7 +11,7 @@ next: chapter-20
 
 ## John Chapter 19
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>19<sup>:</sup></span></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Pilate took Jesus and had him flogged. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Pilate took Jesus and had him flogged. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The soldiers twisted thorns together to make a crown and put it on his head. They put a purple robe on him </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and started coming up to him and saying, <i>“Hail, King of the Jews!” </i>and slapping him.</span></span></p>
 

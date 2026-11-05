@@ -33,7 +33,7 @@ next: chapter-105
 
 <p class="section-ref">Ps 104:1-4</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><a name="_Hlk124242393"><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You built the earth on foundations</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You built the earth on foundations</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      so it would never shift.</span></p>
 
@@ -175,9 +175,7 @@ next: chapter-105
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            let the wicked cease to exist.</span></p>
 
-
-### Bless Yahveh, everything that I am!
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bless Yahveh, everything that I am!</span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                <b>Hallelujah!                             </b></span></p>
 

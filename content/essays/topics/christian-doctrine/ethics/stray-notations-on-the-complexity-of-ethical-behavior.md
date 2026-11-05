@@ -2,6 +2,7 @@
 title: "STRAY NOTATIONS ON THE COMPLEXITY OF ETHICAL BEHAVIOR"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2026-03-26
 categories:
 - 'Topics'
 - 'Christian Doctrine'

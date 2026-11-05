@@ -23,9 +23,7 @@ next: chapter-48
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He measured 1723ft <sup>1,000 cubits</sup> again, a river I couldn’t cross because it was too deep to ford; it was deep enough to swim in. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, <i>“Do you see that?”            </i></span><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b></span></p>
 
-
-### Ezek 47:1-6a
-
+<p class="section-ref">Ezek 47:1-6a</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>He took me back to the riverbank. </span><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Lots of trees were growing on both sides of the river now. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, </span></span></p>
@@ -35,9 +33,7 @@ next: chapter-48
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But its swamps and marshes will stay salty. </span></i></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On both riverbanks, all kinds of fruit trees will grow. Their leaves won’t wither, and their fruit won’t fail. They’ll bear year around because their water flows from the sanctuary. Their fruit will provide food and their leaves will provide healing.”               </span></i></span></p>
 
-
-### Ezek 47:6b-12
-
+<p class="section-ref">Ezek 47:6b-12</p>
 
 
 ### The Boundaries of the Land
@@ -61,9 +57,11 @@ next: chapter-48
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21-22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“So divide the land by lots as an inheritance for the tribes and the foreigners that live among you; and have sons. Treat foreigners like native-born Israelites. Allot them an inheritance </span></i></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>in the tribe where each one lives,”                   </span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                        </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the Lord Yahveh says.<i>                </i></span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>Ezek 47:13-23</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                        </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the Lord Yahveh says.<i></i></span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk200632034"><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Division</span></b></a><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></sup></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>of the Land</span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>       </span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></p>
+<p class="section-ref">Ezek 47:13-23</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Division</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></sup></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>of the Land</span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>       </span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></p>
 
 
 <style>

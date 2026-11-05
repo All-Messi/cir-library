@@ -15,7 +15,7 @@ next: chapter-15
 ### A Taunt for the King of Babylon
 
 
-<p class="MsoListBulletCxSpFirst" style='margin-bottom:0in; '><a name="_Hlk86923712"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Yahveh will have mercy on Jacob, choose Israel again, and settle them in their own land, foreigners will join Jacob’s house. </span></span>
+<p class="MsoListBulletCxSpFirst" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Yahveh will have mercy on Jacob, choose Israel again, and settle them in their own land, foreigners will join Jacob’s house. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The nations will help bring them home. Israel will possess them as an inheritance in Yahveh’s land, as male and female servants. They’ll capture their captors and rule their rulers. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Yahveh gives them relief from their pain, turmoil, and harsh slavery, </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>they’ll taunt the king of Babylon:</span></span></p>
@@ -172,13 +172,13 @@ next: chapter-15
 ### Oracle Against Philistia
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk86924101"><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> </a><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The year King Ahaz died</span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>,</span><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>this oracle came:</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The year King Ahaz died</span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>,</span><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>this oracle came:</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You that live in Philistia, don’t celebrate</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    because the rod that struck you is broken;</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123134081"><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              from that serpent’s stock</span></i></a></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              from that serpent’s stock</span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    a more poisonous snake will come.</span></i></p>
 

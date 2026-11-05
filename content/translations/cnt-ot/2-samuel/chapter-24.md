@@ -21,7 +21,9 @@ prev: chapter-23
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They went to Gilead and the area around Tahtim-hodshi, to Dan-jaan and on around to Sidon, </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to the fortress of Tyre and the towns of the Hivites and Canaanites; and to the south of Judah to Beersheba. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they’d cycled through the country, they came to Jerusalem after 9 months and 20 days, </span></span>
-<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and Joab reported the number of the census. <b>                                                                                                                                            </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Sam 24:1-9</span></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></b></span></p>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and Joab reported the number of the census.<b></b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">2 Sam 24:1-9</p>
 
 
 ### God’s Judgment on David’s Sin
@@ -35,7 +37,7 @@ prev: chapter-23
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gad went and asked David, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Will
-<a name="_Hlk145156678">three </a></span></i><span style='font-family:"Times New Roman",serif'>[1 Chronicles 21:12]<i> </i></span><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>years of famine come on you and your land? Will you flee from your enemies for three months? Or will there be a three-day plague in your land? Which answer will I take back to the One who sent me?”</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></p>
+three </span></i><span style='font-family:"Times New Roman",serif'>[1 Chronicles 21:12]<i> </i></span><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>years of famine come on you and your land? Will you flee from your enemies for three months? Or will there be a three-day plague in your land? Which answer will I take back to the One who sent me?”</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David told Gad, </span></span></p>
 
@@ -73,8 +75,6 @@ prev: chapter-23
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            He bought the threshing floor and oxen for 20 oz <sup>50 shekels</sup> of silver. </span><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He built an altar and offered burnt offerings and peace offerings. The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> was moved by <i>David’s</i> petition for the country and held back the plague.        </span></span></p>
 
 <p class="section-ref">2 Sam 24:18-25</p>
-
-<p class="MsoNormal" ><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
 
 
 <style>

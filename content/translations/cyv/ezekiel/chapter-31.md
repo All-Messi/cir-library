@@ -85,7 +85,7 @@ next: chapter-32
 
 <p class="section-ref">Ezek 31:15-18</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk200627334"><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A Lament for Pharaoh</span></b></a><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>     </span></sup></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A Lament for Pharaoh</span></b><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>     </span></sup></b></p>
 
 
 <style>

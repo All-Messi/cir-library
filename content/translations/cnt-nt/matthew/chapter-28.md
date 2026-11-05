@@ -14,7 +14,7 @@ prev: chapter-27
 ### The Resurrection of Jesus
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After the Sabbath, as the first day of the week began to dawn, Mary the Magdalene and the other Mary came to see the tomb. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After the Sabbath, as the first day of the week began to dawn, Mary the Magdalene and the other Mary came to see the tomb. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There was a violent earthquake. An angel of the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> came down from heaven, rolled the stone away, and sat on it. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His appearance was like lightning; his clothes were white as snow. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The guards were so shaken they were paralyzed with fear like dead men.</span></span></p>
@@ -60,8 +60,6 @@ prev: chapter-27
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and</span></i><i><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>teach them to observe everything I’ve commanded you. I’ll always be with you till the end of the age.”                                                                                                </span></i></span></span></p>
 
 <p class="section-ref">Mt 28:16-20</p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Translator: Virgil Warren                                                                                              </span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 
 
 <style>

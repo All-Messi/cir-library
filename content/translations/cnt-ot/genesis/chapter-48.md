@@ -15,7 +15,7 @@ next: chapter-49
 ### Jacob Blesses Ephraim and Manasseh
 
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><a name="_Hlk125320371"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After this, they told Joseph, <i>“Your father is failing.”</i> So he took his sons Manasseh and Ephraim with him. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After this, they told Joseph, <i>“Your father is failing.”</i> So he took his sons Manasseh and Ephraim with him. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they told Jacob, <i>“Joseph’s here,” </i>Israel gathered his strength and sat up in bed. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told Joseph,   </span></span></p>
 
@@ -32,7 +32,7 @@ next: chapter-49
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Bring them to me so I can bless them.”</span></i></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><a name="_Hlk125320527"><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel’s sight was so weak from age he could hardly see. Joseph brought them, and he kissed them and hugged them. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel’s sight was so weak from age he could hardly see. Joseph brought them, and he kissed them and hugged them. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told Joseph, <i>“I never expected to see you, and God has let me see your children too!” </i></span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joseph took them from his knees and bowed to the ground. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joseph took Ephraim with his right hand toward Israel’s left, and Manasseh with his left hand toward Israel’s right. </span></span>
@@ -53,7 +53,7 @@ next: chapter-49
 
 <p class="section-ref">Gen 48:8-16</p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><a name="_Hlk125320567"><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Joseph saw his father put his right hand on Ephraim’s head, it displeased him. He took hold of his father’s hand to move it to Manasseh’s head, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Joseph saw his father put his right hand on Ephraim’s head, it displeased him. He took hold of his father’s hand to move it to Manasseh’s head, </span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Not that way, father. This is the firstborn. Put your hand on his head.”</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But his father refused, <i>“I know, son; I know. He’ll become numerous too. But his younger brother will be more numerous. Many nations will descend from him.” </i></span></span>

@@ -11,7 +11,7 @@ next: chapter-15
 
 ## Matthew Chapter 14
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that [the] time Herod the tetrarch heard the news of-Jesus, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that [the] time Herod the tetrarch heard the news of-Jesus, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and he-said to-the servants of-him, <i>“This is John the Baptist. <u>He</u> arose from the dead and on-account-of this, [the] powers are-at-work in him</i>.” </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For [the] Herod, having-arrested [the] John, bound [him]<sup>ms</sup>, and put (him) in prison on-account-of Herodias, the wife of-Philip, the brother of-him.<i>
 </i></span></span>

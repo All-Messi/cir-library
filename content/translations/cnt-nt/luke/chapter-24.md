@@ -18,7 +18,7 @@ prev: chapter-23
 ### Peter and John’s Visit
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But early in the morning on the first day of the week, <i>the women</i> went to the tomb, carrying the spices they’d prepared. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But early in the morning on the first day of the week, <i>the women</i> went to the tomb, carrying the spices they’d prepared. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They found the stone rolled away from the tomb, </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but when they went in, didn’t find the body of the Lord Jesus. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While they were wondering what happened, two men stood by them in dazzling clothes. </span></span>
@@ -75,7 +75,9 @@ prev: chapter-23
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:8.0pt;line-height:115%;font-family:"Times New Roman",serif'>
  </span><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>They got up and went right back to Jerusalem and found the eleven with some others, </span></span>
 <span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>who told <i>them</i> that the Lord really <u>did</u> resurrect and had appeared to Simon. </span></span>
-<span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In turn, <u>they</u> recounted what happened on the road and how they recognized him when he broke the bread.         </span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>Lk 24:33-35</span></b><span style='font-size:8.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
+<span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In turn, <u>they</u> recounted what happened on the road and how they recognized him when he broke the bread.</span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></b><span style='font-size:8.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Lk 24:33-35</p>
 
 
 ### Appearance to the Ten
@@ -103,7 +105,9 @@ prev: chapter-23
 <span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the Messiah would suffer and resurrect the third day, </span></i></span>
 <span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and in his name repentance for forgiveness would be presented in every country. Beginning in Jerusalem, </span></i></span>
 <span class="verse verse-v48" id="v48"><sup class="verse-num">48</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>you’ll testify to these things. </span></i></span>
-<span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll send<sup>p</sup> on you what the Father promised, but stay in the city till I clothe you with power from on high.”                                                                       </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Lk 24:36-49</span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>             </span></i></span></p>
+<span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll send<sup>p</sup> on you what the Father promised, but stay in the city till I clothe you with power from on high.”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Lk 24:36-49</p>
 
 
 ### The Ascension
@@ -115,8 +119,6 @@ prev: chapter-23
 <span class="verse verse-v53" id="v53"><sup class="verse-num">53</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and were continually in the Temple, praising God.            </span></span></p>
 
 <p class="section-ref">Lk 24:50-53</p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Translator: Virgil Warren                                                                                           </span><span style='font-family:"Times New Roman",serif'>      christir.org</span></p>
 
 
 <style>

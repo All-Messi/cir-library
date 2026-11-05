@@ -11,7 +11,7 @@ next: chapter-04
 
 ## Romans Chapter 3
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What then (is) the advantage of-the Jew, or what (is) the benefit of-[the] circumcision? </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What then (is) the advantage of-the Jew, or what (is) the benefit of-[the] circumcision? </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Much according-to every way. For, first-of-all, (that) they-were-entrusted-with the oracles of-[the] God. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For what? If some disbelieved, the disbelief of-them will┘not<sup>┘┘</sup>└cancel-out the faithfulness of-[the] God, <sup>└└</sup>will it? </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>May-it┘not└be! But let┘[the] God└be true, and every man (a) liar, as it-has-been-written,</span></span></p>
@@ -44,9 +44,7 @@ next: chapter-04
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        with-the tongues of-them they-deceive;</span></b></p>
 
-
-### (the) poison of-snakes (is) under the lips of-them;
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        (the) poison of-snakes (is) under the lips of-them;</span></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the mouth of-whom is-full of-cursing and spite;</span></b></span></p>
 

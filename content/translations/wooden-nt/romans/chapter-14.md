@@ -11,7 +11,7 @@ next: chapter-15
 
 ## Romans Chapter 14
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now accept the-one weak in-the faith, not unto passing-judgments of-reasons. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now accept the-one weak in-the faith, not unto passing-judgments of-reasons. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>One has-faith/believes to-eat all-things, but the weak-one eats vegetables. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let┘the-one eating not└look-down-on the-one not eating, and let┘the-one not eating not└criticize the-one eating, for [the] God accepted him. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who are you the-one criticizing another’s servant? To his-own Lord he-stands or falls. And he-will-stand, for the Lord is-able to-make┘him└stand. </span></span>

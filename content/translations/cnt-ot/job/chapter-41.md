@@ -11,11 +11,7 @@ next: chapter-42
 
 ## Job Chapter 41
 
-
-### Can anybody trap it and put a ring in its nose?   Job 40:19-24
-
-
-<p class="MsoNormal" style='margin-bottom:0in;'><a name="_Hlk125096515"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Can you pull Leviathan in on a fishhook</span></i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Can you pull Leviathan in on a fishhook</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  or muzzle it with a noose?</span></i></p>
 
@@ -50,7 +46,7 @@ next: chapter-42
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  You won’t do that again!</span></i></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk125096689"><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Anything you try to do with it is useless;</span></i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Anything you try to do with it is useless;</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  the very sight of it is overpowering.</span></i></p>
 
@@ -60,9 +56,9 @@ next: chapter-42
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who has given to me that I should repay? </span></i></b><b><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Rom 11:35]</span></b></span></p>
 
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  Whatever’s under the sky is </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>already<i> mine.</i><b>            </b></span></p>
 
-### Whatever’s under the sky is already mine.            Job 41:8-11
-
+<p class="section-ref">Job 41:8-11</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I won’t fail to mention its limbs,</span></i></span></p>
 
@@ -102,7 +98,7 @@ next: chapter-42
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        as from a boiling pot or burning reeds.</span></i></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></i><a name="_Hlk125096909"><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Flames burst out of its mouth;</span></i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></i><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Flames burst out of its mouth;</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        its breath lights coals.</span></i></p>
 
@@ -132,7 +128,7 @@ next: chapter-42
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        it deflects bronze </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>weapons <i>like rotten sticks.</i></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></i><a name="_Hlk125097189"><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Arrows can’t chase it away;</span></i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></i><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Arrows can’t chase it away;</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        sling stones amount to wads of sod.</span></i></p>
 

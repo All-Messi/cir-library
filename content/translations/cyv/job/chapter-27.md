@@ -11,10 +11,6 @@ next: chapter-28
 
 ## Job Chapter 27
 
-
-### Who can comprehend his power?”          Job 26:5-14
-
-
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Job continued his comments:</span></b></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>“As God lives, who has taken away my rights,</span></i></span></p>

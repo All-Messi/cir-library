@@ -2,6 +2,7 @@
 title: "PROVIDENCE"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -36,7 +37,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                         <img width=305 height=123
+style='font-size:12.0pt'>                         <img alt="Natural law; supernatural intervention: special providence and express miracle" width=305 height=123
 src="/images/essays/providence/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -57,7 +58,7 @@ style='font-size:4.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'><img width=390 height=143
+style='font-size:12.0pt'><img alt="Nature, intervention and revelation as parallel lines, with a wavy line of special intervention (miracle)" width=390 height=143
 src="/images/essays/providence/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

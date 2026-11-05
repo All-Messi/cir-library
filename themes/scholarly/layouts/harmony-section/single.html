@@ -18,30 +18,30 @@
         <div class="toolbar-search-wrapper">
             <div class="toolbar-search">
                 <svg class="toolbar-search-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-                <input type="text" id="harmony-search-input" class="toolbar-search-input" placeholder="Search harmony..." autocomplete="off">
+                <input type="text" id="harmony-search-input" class="toolbar-search-input" placeholder="Search harmony..." autocomplete="off" aria-label="Search the Gospel Harmony">
             </div>
             <div id="harmony-search-dropdown" class="bible-search-dropdown"></div>
         </div>
 
         <div class="toolbar-right">
             <!-- Jump to Topic -->
-            <div class="toolbar-select" onclick="toggleTopicOverlay()">
+            <button type="button" class="toolbar-select" onclick="toggleTopicOverlay()" aria-haspopup="dialog" aria-expanded="false" aria-controls="topic-overlay" aria-label="Jump to a topic">
                 <span class="toolbar-select-value">Topics</span>
-                <svg width="10" height="10" viewBox="0 0 12 12" fill="none"><path d="M3 5l3 3 3-3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
-            </div>
+                <svg aria-hidden="true" width="10" height="10" viewBox="0 0 12 12" fill="none"><path d="M3 5l3 3 3-3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+            </button>
             {{ partial "pdf-link.html" . }}
-            <button class="toolbar-btn font-btn" onclick="toggleReaderSettings()" data-tip="Text size">
+            <button type="button" class="toolbar-btn font-btn" onclick="toggleReaderSettings()" data-tip="Text size" aria-label="Reader settings: text size and font">
                 <span class="font-icon">A</span><span class="font-icon font-icon-lg">A</span>
             </button>
         </div>
     </nav>
 
     <!-- Topic Overlay (jump to topic) -->
-    <div id="topic-overlay" class="overlay" style="display:none;">
+    <div id="topic-overlay" class="overlay" style="display:none;" role="dialog" aria-modal="true" aria-labelledby="topic-overlay-title">
         <div class="overlay-content overlay-narrow">
             <div class="overlay-header">
-                <h3>Jump to Topic</h3>
-                <button class="overlay-close" onclick="toggleTopicOverlay()">✕</button>
+                <h3 id="topic-overlay-title">Jump to Topic</h3>
+                <button type="button" class="overlay-close" onclick="toggleTopicOverlay()" aria-label="Close">✕</button>
             </div>
             <div class="books-list">
                 {{ range $.Site.Data.harmony_topics }}
@@ -151,14 +151,23 @@ function toggleTopicOverlay() {
 /* ---- Harmony Text Search ---- */
 var harmonySearchData = null;
 
-fetch('{{ "index.json" | absURL }}')
-    .then(function(r) { return r.json(); })
-    .then(function(data) {
-        harmonySearchData = data.filter(function(item) {
-            return item.permalink && item.permalink.indexOf('/harmony/') !== -1;
-        });
-    })
-    .catch(function() {});
+var harmonySearchLoading = false;
+// index.json is ~6 MB: fetch it on first focus/typing in the harmony search box, not on
+// page load (2026-11-04, same pattern as the header search in baseof).
+function loadHarmonySearchIndex() {
+    if (harmonySearchData || harmonySearchLoading) return;
+    harmonySearchLoading = true;
+    fetch('{{ "index.json" | absURL }}')
+        .then(function(r) { return r.json(); })
+        .then(function(data) {
+            harmonySearchData = data.filter(function(item) {
+                return item.permalink && item.permalink.indexOf('/harmony/') !== -1;
+            });
+            var inp = document.getElementById('harmony-search-input');
+            if (inp && inp.value.trim().length >= 2) inp.dispatchEvent(new Event('input'));
+        })
+        .catch(function() { harmonySearchLoading = false; });
+}
 
 (function() {
     var input = document.getElementById('harmony-search-input');
@@ -166,7 +175,9 @@ fetch('{{ "index.json" | absURL }}')
     if (!input) return;
 
     var debounce = null;
+    input.addEventListener('focus', loadHarmonySearchIndex);
     input.addEventListener('input', function() {
+        loadHarmonySearchIndex();
         clearTimeout(debounce);
         debounce = setTimeout(doHarmonySearch, 150);
     });
@@ -339,4 +350,6 @@ document.addEventListener('keydown', function(e) {
 </script>
 
 {{ partial "reading-ui.html" . }}
+{{ partial "overlay-a11y.html" . }}
+<style>button.toolbar-select { background: none; font: inherit; color: inherit; margin: 0; }</style>
 {{ end }}

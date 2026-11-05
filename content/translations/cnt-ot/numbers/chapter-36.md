@@ -37,9 +37,6 @@ prev: chapter-35
 
 <p class="section-ref">Num 36:1-13</p>
 
-<p class="MsoNormal" ><span style='font-family:"Times New Roman",serif'>Version by Virgil Warren: </span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>christir.org<sup>
-</sup></span></p>
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

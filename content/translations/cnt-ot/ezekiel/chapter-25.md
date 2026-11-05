@@ -12,10 +12,6 @@ next: chapter-26
 ## Ezekiel Chapter 25
 
 
-### Ezek 24:25-27
-
-
-
 ### A Message for Ammon
 
 

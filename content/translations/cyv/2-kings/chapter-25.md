@@ -27,7 +27,9 @@ prev: chapter-24
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%'>The Babylonian army tore down the walls around Jerusalem. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height: 115%'>He exiled the rest of the people in the city, the deserters, and the rest of the population. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%'>He left some of the very poor to take care of the vineyards and fields.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 25:1-12</span></b></span></p>
+</b></span></span></p>
+
+<p class="section-ref">2 Kg 25:1-12</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height: 115%'>The Babylonians broke to pieces the bronze pillars, the stands, and the bronze sea that were in Yahveh’s Temple, and carried the bronze to Babylon. </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%'>They took away the pots, shovels, snuffers, spoons, and bronze items used in the <i>Temple </i>service. </span></span>
@@ -44,7 +46,9 @@ prev: chapter-24
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height: 115%'>When the commanders of the forces and their men heard it, they came to Gedaliah at Mizpah: Ishmael Ben-Nethaniah, Johanan Ben-Kareah, Seraiah Ben-Tanhumeth the Netophathite, Jaazaniah son of the Maacathite, and their men.
 </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%'>Gedaliah swore to them and their men,
-<i>“Don’t be afraid of the Babylonians. Live in the land and serve the king of Babylon, and you’ll be okay.”                                        </i></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 25:13-24</span></b></span></p>
+<i>“Don’t be afraid of the Babylonians. Live in the land and serve the king of Babylon, and you’ll be okay.”                                        </i></span></span></p>
+
+<p class="section-ref">2 Kg 25:13-24</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height: 115%'>But in the <b>seventh month</b>, Ishmael Ben-Nethaniah Ben-Elishama from the royal family, came with ten men and struck Gedaliah down. He died along with the Jews and Babylonians that were with him in Mizpah. </span></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%'>Then the people, least and greatest, and the commanders of the forces went to Egypt for fear of the Babylonians. </span></span></p>
@@ -56,7 +60,9 @@ prev: chapter-24
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height: 115%'>The <b>twenty-seventh day, twelfth month, thirty-seventh year</b> of Jehoiachin’s exile, Evil-merodach, king of Babylon, in his first year, released him from prison. </span></span>
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%'>He spoke graciously to him and set his throne above the other kings in Babylon. </span></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%'>Jehoiachin changed out of his prison clothes and had his meals in the king’s presence the rest of his life. </span></span>
-<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%'>The king gave him a regular serving each day.  <b>     </b></span><b><span style='font-size:10.0pt;line-height: 115%'>2 Kg 25:25-30</span></b></span></p>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%'>The king gave him a regular serving each day.  <b>     </b></span></span></p>
+
+<p class="section-ref">2 Kg 25:25-30</p>
 
 
 <style>

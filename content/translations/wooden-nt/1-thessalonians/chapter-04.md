@@ -11,7 +11,7 @@ next: chapter-05
 
 ## 1 Thessalonians Chapter 4
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Finally, then, brothers, we-ask you and urge (you) in (the) Lord Jesus, in-order-that even-as you-received from us [the] how it-is-necessary for-you to-walk and to-be-pleasing to-God, even-as also you-walk, in-order-that you increase more.
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Finally, then, brothers, we-ask you and urge (you) in (the) Lord Jesus, in-order-that even-as you-received from us [the] how it-is-necessary for-you to-walk and to-be-pleasing to-God, even-as also you-walk, in-order-that you increase more.
 </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For you-know what commandments we-gave you by the Lord Jesus.  </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For this is (the) will of-[the] God the sanctification of-you:  (that) you abstain from sexual-immorality; </span></span>

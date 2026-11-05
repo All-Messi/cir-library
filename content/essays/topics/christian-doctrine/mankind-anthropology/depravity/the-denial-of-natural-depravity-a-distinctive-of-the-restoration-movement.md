@@ -2,6 +2,7 @@
 title: "THE DENIAL OF NATURAL DEPRAVITY: A DISTINCTIVE OF 'THE RESTORATION MOVEMENT'"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-15
 categories:
 - 'Topics'
 - 'Christian Doctrine'

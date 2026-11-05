@@ -11,7 +11,7 @@ next: chapter-12
 
 ## Hebrews Chapter 11
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now faith is (the) assurance of-things hoped-for, (the) certainty of-things┘not└seen.
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now faith is (the) assurance of-things hoped-for, (the) certainty of-things┘not└seen.
 </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For by this the ancients had-witness-borne-to-(them).</span></span></p>
 

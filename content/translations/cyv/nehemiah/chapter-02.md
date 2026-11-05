@@ -12,11 +12,6 @@ next: chapter-03
 ## Nehemiah Chapter 2
 
 
-### I was the king’s cupbearer.              
-Neh 1:1-11
-
-
-
 ### Nehemiah Sent to Jerusalem
 
 
@@ -36,10 +31,10 @@ Neh 1:1-11
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If it pleases you, give me letters to the governors of Beyond the River to let me travel through to Judah. </span></i></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Also, give me <i>a letter to Asaph the keeper of the king’s forest, to give me timber to make beams for the gates of the fortress that’s by the Temple, for the city wall and a house for myself.”</i> </span></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He granted them because my God’s good hand was on me.<b>
+</b></span></p>
 
-### He granted them because my God’s good hand was on me.
-Neh 2:1-8
-
+<p class="section-ref">Neh 2:1-8</p>
 
 
 ### Nehemiah Inspects the Walls of Jerusalem

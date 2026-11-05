@@ -1,5 +1,5 @@
 ---
-title: "THE GENERAL PICTURE OF"
+title: "The General Picture of Practical Christian Living"
 author: "Virgil Warren, PhD"
 date: '2026-03-19'
 categories:
@@ -7,7 +7,6 @@ categories:
 - 'Christian Living'
 weight: 3
 draft: false
-subtitle: "PRACTICAL CHRISTIAN LIVING"
 ---
 
 <style>
@@ -77,7 +76,7 @@ margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=366 height=229
+style='font-size:12.0pt'><img alt="Existential: love → faith → hope; God (first great command, vertical), me (inner, outer), others (second great command, horizontal); eschatological" width=366 height=229
 src="/images/essays/the-general-picture-of/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

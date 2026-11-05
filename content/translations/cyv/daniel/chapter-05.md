@@ -46,8 +46,9 @@ next: chapter-06
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Are you the Daniel that’s among the exiles from Judah my predecessor brought back? </span></i><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve heard you have the spirit of the gods in you and you have insight, understanding, and extraordinary wisdom. </span></i></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve just now brought in the wise men and conjurers to read this inscription and interpret it, but they can’t do it. </span></i></span>
-<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve heard that you can give interpretations and solve difficult problems. If you can read the inscription and tell me what it means, you’ll dress in purple, wear a gold chain around your neck, and be third in the empire.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-                                                                                           </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Dan 5:13-16</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  </span></b></span></p>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve heard that you can give interpretations and solve difficult problems. If you can read the inscription and tell me what it means, you’ll dress in purple, wear a gold chain around your neck, and be third in the empire.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Dan 5:13-16</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Daniel said,</span></span></p>
 
@@ -60,9 +61,7 @@ next: chapter-06
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24-25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He has sent the hand that wrote this inscription: ‘MENE, MENE, TEKEL, UPHARSIN.’</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span></b></span></p>
 
-
-### Dan 5:17-25
-
+<p class="section-ref">Dan 5:17-25</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It means:</span></i></span></p>
 

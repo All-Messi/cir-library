@@ -15,7 +15,7 @@ next: chapter-15
 ### Samson’s Marriage
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Samson went down to Timnah and saw a young Philistine woman. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Samson went down to Timnah and saw a young Philistine woman. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He came up and told his parents, <i>“I saw a young Philistine woman at Timnah. Get her for me for a wife.”</i> </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They said, <i>“Isn’t there a woman among your relatives or all our people that you have to marry a woman from the uncircumcised Philistines?” </i></span></span></p>
@@ -28,7 +28,9 @@ next: chapter-15
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and the Spirit of Yahveh came mightily on him. Barehanded he tore the lion apart like it was a kid. </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He went down and talked to the woman, and she pleased him well. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After a while, he went back to take her and turned aside to see the lion’s carcass. There was a swarm of bees and honey in it. </span></span>
-<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He scraped it out into his hands and went on, eating as he went. He came to his parents and gave them some to eat; but he didn’t tell them he got it out of the lion’s carcass.  </span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>Jud 14:1-9</span></b></span></p>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He scraped it out into his hands and went on, eating as he went. He came to his parents and gave them some to eat; but he didn’t tell them he got it out of the lion’s carcass.  </span></span></p>
+
+<p class="section-ref">Jud 14:1-9</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His father went down to the woman, and Samson held a feast there. That’s the way young men used to do. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the people saw him, they brought 30 companions to be with him. </span></span></p>
@@ -43,10 +45,10 @@ next: chapter-15
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Out of the strong came something sweet.”</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In three days, they couldn’t explain the riddle.
+</span></p>
 
-### In three days, they couldn’t explain the riddle.
-Jud 14:10-14
-
+<p class="section-ref">Jud 14:10-14</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The fourth day, they told Samson’s wife, <i>“Entice your husband to tell us what the riddle means, or we’ll burn you and your father’s family. Have you invited us here to make us poor?”</i> </span></span></p>
 
@@ -69,7 +71,9 @@ Jud 14:10-14
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Spirit of Yahveh came on him mightily, and he went down to Ashkelon and killed 30 men from the city. He took their spoil and gave the festive robes to the ones that told him the riddle. In hot anger he went back to his father’s house.
 </span></span>
-<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So Samson’s father-in-law gave his wife to his companion, who had been his best man.                                                                                                            </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 14:15-20</span></b></span></p>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So Samson’s father-in-law gave his wife to his companion, who had been his best man.                                                                                                            </span></span></p>
+
+<p class="section-ref">Jud 14:15-20</p>
 
 
 <style>

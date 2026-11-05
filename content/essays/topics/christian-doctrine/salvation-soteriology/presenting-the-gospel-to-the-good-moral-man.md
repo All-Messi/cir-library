@@ -2,6 +2,8 @@
 title: "PRESENTING THE GOSPEL TO 'THE GOOD MORAL MAN'"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 1997-07-06
+lastmod: 2025-07-12
 categories:
 - 'Topics'
 - 'Christian Doctrine'

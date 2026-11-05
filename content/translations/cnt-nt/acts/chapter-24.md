@@ -15,7 +15,7 @@ next: chapter-25
 ### Paul’s Accusers Come
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Five days later, the high priest Ananias came down with some elders and an orator, Tertullus. They<sup> </sup>brought charges to the governor against Paul. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Five days later, the high priest Ananias came down with some elders and an orator, Tertullus. They<sup> </sup>brought charges to the governor against Paul. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After Felix called for Paul, Tertullus began accusing him to the governor, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            <i>“We’ve experienced considerable peace because of you, and your foresight has led to reforms for this nation. </i></span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>With gratitude we welcome them, most excellent Felix, in every way and everywhere. </span></i></span>
@@ -42,8 +42,9 @@ next: chapter-25
 </span></i></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>They can’t prove to you any of these accusations. </span></i></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I do admit that according to The Way, which they’re calling a ‘sect,’ I serve our ancestors’ God, and believe everything written in the Law and the Prophets. </span></i></span>
-<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In God I have a hope these men themselves share, that the just and unjust will resurrect.                </span></i><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>Acts 24:10-15</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></i></span></p>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In God I have a hope these men themselves share, that the just and unjust will resurrect.</span></i><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Acts 24:10-15</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I always do my best to have a clear conscience toward God and </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>other<i> people. </i></span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After some years I was bringing offerings and charitable gifts to my nation. </span></i></span>

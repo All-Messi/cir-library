@@ -2,6 +2,7 @@
 title: "REASONS FOR THE INCARNATION"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2026-08-22
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -215,9 +216,7 @@ style='font-size:12.0pt'>LESSONS FROM THE INCARNATION</span></b></p>
 margin-left:22.5pt;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:22.5pt;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
+
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
 style='font-size:12.0pt'>&nbsp;</span></b></p>

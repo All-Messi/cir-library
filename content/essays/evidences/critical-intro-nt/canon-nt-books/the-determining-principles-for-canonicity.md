@@ -2,6 +2,7 @@
 title: "THE DETERMINING PRINCIPLES FOR CANONICITY"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'
@@ -34,7 +35,7 @@ a writing belongs in the Judaeo-Christian canon.</span></p>
 style='font-size:10.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:10.0pt'><img width=449 height=130 id="Picture 4"
+style='font-size:10.0pt'><img alt="Table of the historical, doctrinal and subjective principles with function, locus and passage" width=449 height=130 id="Picture 4"
 src="/images/essays/the-determining-principles-for-canonicity/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -98,7 +99,7 @@ canonicity.</span></p>
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                  <img width=328 height=157
+style='font-size:12.0pt'>                  <img alt="Diagram: the objective historical and doctrinal principles answer the subjective need, leading to use" width=328 height=157
 id="Picture 3" src="/images/essays/the-determining-principles-for-canonicity/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -148,7 +149,7 @@ something that should have impact [B], and what does not have impact </span></p>
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                                 <img
+style='font-size:12.0pt'>                                                 <img alt="Overlapping circles truth and impact, with A², A¹ and B"
 width=156 height=87 id="Picture 2" src="/images/essays/the-determining-principles-for-canonicity/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -214,7 +215,7 @@ tests any miracles used to authenticate further doctrine that contradicts    
 style='font-size:12.0pt'>             </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                      <img width=316 height=83
+style='font-size:12.0pt'>                      <img alt="Stupendous miracle A proves doctrine A, which tests miracle B, which proves doctrine B" width=316 height=83
 id="Picture 1" src="/images/essays/the-determining-principles-for-canonicity/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

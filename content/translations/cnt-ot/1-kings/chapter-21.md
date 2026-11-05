@@ -15,7 +15,7 @@ next: chapter-22
 ### Naboth’s Vineyard
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126314754"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After this, Naboth the Jezreelite had a vineyard in Jezreel beside King Ahab’s palace. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After this, Naboth the Jezreelite had a vineyard in Jezreel beside King Ahab’s palace. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ahab spoke to him about it, <i>“Give me your vineyard so I can use it for a vegetable garden; it’s close to my palace. I’ll trade you a better vineyard for it.”</i> </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Naboth said, <i>“The
@@ -25,7 +25,9 @@ next: chapter-22
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His wife Jezebel came in, <i>“Why are you so sullen you won’t eat?”</i></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I asked Naboth to let me buy his vineyard or trade him for another one, but he wouldn’t do it.’” </span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>          </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 21:1-6</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I asked Naboth to let me buy his vineyard or trade him for another one, but he wouldn’t do it.’” </span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>          </span></b></span></span></p>
+
+<p class="section-ref">1 Kg 21:1-6</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jezebel said, <i>“Do you rule Israel? Get up, eat something, and be happy. I’ll get you his vineyard.”</i> </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She wrote letters in Ahab’s name, sealed them with his seal, and sent them to the elders and nobles in Naboth’s town, </span></span>
@@ -37,11 +39,13 @@ next: chapter-22
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The two worthless fellows came in and sat down with him, and started accusing him of cursing God and the king. They took him outside the city and stoned him, </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and sent word to Jezebel. </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She told Ahab, <i>“Go take Naboth’s vineyard; he’s dead.” </i></span></span>
-<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He got up to go down and take it.              </span><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 21:7-16</span></b></span></p>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He got up to go down and take it.              </span></span></p>
+
+<p class="section-ref">1 Kg 21:7-16</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then a message from the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> came to Elijah, </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126316309"><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Meet Ahab in Naboth’s vineyard. He’s gone down to confiscate it. </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Meet Ahab in Naboth’s vineyard. He’s gone down to confiscate it. </span></i></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Tell him I’ve said, ‘Have you murdered and confiscated? Where dogs licked up Naboth’s blood, they’ll lick up yours.’” </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ahab said, <i>“Have you found me, my enemy?”</i> </span></span></p>
@@ -55,10 +59,12 @@ next: chapter-22
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nobody had sold himself to doing evil like Ahab did, influenced by his wife. </span></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He acted horribly in following idols like the Amorites had done that the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> originally drove out. </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126316578"><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Ahab heard that, he tore his clothes, put on burlap, and fasted. He lay down in burlap and walked around in mourning. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Ahab heard that, he tore his clothes, put on burlap, and fasted. He lay down in burlap and walked around in mourning. </span></span>
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then a message came to Elijah, </span></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“See how Ahab has humbled himself? Since he’s done that, I won’t do what I’d promised during his lifetime. I’ll bring it on his family during his son’s life.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>
-</span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 21:17-29</span></b></span></p>
+</span></b></span></span></p>
+
+<p class="section-ref">1 Kg 21:17-29</p>
 
 
 <style>

@@ -15,7 +15,7 @@ next: chapter-06
 ### David Becomes King of Israel
 
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%'>All the tribes came to David in Hebron and said, </span></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%'>All the tribes came to David in Hebron and said, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%'>“We’re your flesh and bones. </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%'>When Saul was king, you were the one that led Israel out and back. Yahveh told you you’d shepherd his people.” </span></i></span></p>
 
@@ -31,8 +31,9 @@ next: chapter-06
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%'>but he captured the Zion fortress, The City of David. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%'>He said that day, <i>“Whoever strikes the Jebusites, reach ‘the lame and blind’ </i>[</span>that David hated<span style='font-size:12.0pt;line-height:115%'>]<i> through the water tunnel.”</i> That’s why people say,<i>“‘The blind and lame’ won’t get into the house.”</i> </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%'>David lived in the fortress and named it The City of David [<i>Ir-David</i>]. He built all around from the Millo inward. </span></span>
-<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt; line-height:115%'>He kept getting greater because Yahveh God of Hosts was with him.</span><b><span style='font-size:10.0pt;line-height:115%'>                                                                                                    2 Sam 5:1-10</span></b><span style='font-size:12.0pt;line-height:115%'>
-</span></span></p>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt; line-height:115%'>He kept getting greater because Yahveh God of Hosts was with him.</span><b><span style='font-size:10.0pt;line-height:115%'></span></b><span style='font-size:12.0pt;line-height:115%'></span></span></p>
+
+<p class="section-ref">2 Sam 5:1-10</p>
 
 <p class="MsoListBulletCxSpFirst" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Hiram, king of Tyre, sent ambassadors to David with cedar timber, carpenters, and stonemasons to build him a palace. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He realized that Yahveh had established him as king and that he’d honored his kingdom for Israel’s sake.</span></span></p>

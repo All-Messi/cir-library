@@ -2,10 +2,13 @@
 title: "ENHANCING SELF-IMAGE"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2020-09-30
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Living'
 - 'Christian Living Book'
+weight: 36
 draft: false
 ---
 

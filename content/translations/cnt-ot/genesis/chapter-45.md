@@ -37,7 +37,7 @@ next: chapter-46
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You and my brother Benjamin can see I’m telling you this directly. </span></i></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Tell my father about my splendor in Egypt and everything you’ve seen. Hurry and bring him down here.”</span></i></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><a name="_Hlk125361757"><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he embraced Benjamin and cried, and Benjamin cried and embraced Joseph. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he embraced Benjamin and cried, and Benjamin cried and embraced Joseph. </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joseph kissed his brothers and cried on them. Afterward they talked.                                                                                                                                </span></span></p>
 
 <p class="section-ref">Gen 45:1-15</p>

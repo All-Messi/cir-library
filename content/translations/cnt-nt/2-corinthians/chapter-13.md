@@ -40,11 +40,6 @@ prev: chapter-12
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>13(14)</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The grace of the Lord Jesus Christ, the love of God, and the fellowship of the Holy Spirit </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>be</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> with you all.      </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Cor 13:11-13(14)</span></b></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Translator: Virgil Warren       </span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-                                                                                                    </span><span style='font-family:"Times New Roman",serif'>christir</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.org</span></p>
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

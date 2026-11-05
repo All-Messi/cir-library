@@ -15,16 +15,14 @@ next: chapter-12
 ### Israel’s Remnant
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So God hasn’t set his people aside, has he? Goodness, no! I’m an Israelite too, a descendant of Abraham from the tribe of Benjamin. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So God hasn’t set his people aside, has he? Goodness, no! I’m an Israelite too, a descendant of Abraham from the tribe of Benjamin. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God hasn’t set aside the people he chose ahead of time. Don’t you know what the scripture says in the passage about Elijah? He pleads with God against Israel,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:.75in; '><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“L</span></i></b><b><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, they’ve killed your prophets</span></i></b></span></p>
 
 <p class="MsoListBulletCxSpMiddle" ><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and torn down your altars</span></i></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>;</span></b></p>
 
-
-### I’m the only one left,
-
+<p class="MsoListBulletCxSpMiddle" ><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        I’m the only one left, </span></i></b></p>
 
 <p class="MsoListBulletCxSpMiddle" ><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and they’re trying to kill <u>me</u>”</span></i></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[1 Kg 19:10]</span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>.</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></p>
 
@@ -77,7 +75,9 @@ next: chapter-12
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If God didn’t spare the natural branches <i>because they didn’t trust</i>, he won’t spare you <i>either</i>. </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So pay attention to God’s kindness <u>and</u> severity. For the ones that fell, severity; but for you, God’s kindness—<u>if</u> you stay in his kindness. Otherwise, <u>you</u>’ll be removed too. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And if <u>they</u> don’t keep distrusting, God will graft them back in; he can do that. </span></span>
-<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>If God took <u>you</u> out of a naturally wild olive tree and grafted you unnaturally into a cultivated olive tree, much more will he graft <u>them</u> into their own olive tree.              </span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>Rom 11:17-24</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></span></p>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>If God took <u>you</u> out of a naturally wild olive tree and grafted you unnaturally into a cultivated olive tree, much more will he graft <u>them</u> into their own olive tree.</span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Rom 11:17-24</p>
 
 
 ### Israel’s Salvation by Trust

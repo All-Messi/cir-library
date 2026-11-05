@@ -22,8 +22,8 @@ next: chapter-18
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That same night, the message from God came to him, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go tell my servant David, ‘The </span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says, “You’re not to build me a temple. </span></i></span>
-<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I haven’t lived in a temple since I brought Israel up. I’ve gone from tent to tent and place to place. </span></i><a name="_Hlk145343141"></span>
-<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In all the places where I’ve lived with Israel, have I asked any judge that I’ve commanded to shepherd my people why he hasn’t built me a cedar temple?”’ </span></i></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I haven’t lived in a temple since I brought Israel up. I’ve gone from tent to tent and place to place. </span></i></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In all the places where I’ve lived with Israel, have I asked any judge that I’ve commanded to shepherd my people why he hasn’t built me a cedar temple?”’ </span></i></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Tell David, ‘The </span></i><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> of Hosts says, “I took you out of the pasture from behind sheep and made you a leader over Israel. </span></i></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve been with you wherever you’ve gone and removed your enemies from you. I’ll make you as famous as anyone that’s ever lived in the world. </span></i></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll appoint you a place for my people, and plant them so they won’t have to move anymore. Sinful people won’t lay waste to them like they did before, </span></i></span>
@@ -32,7 +32,9 @@ next: chapter-18
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’ll build me a temple. </span></i></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll be his father, and he’ll be my son. I won’t take my enduring love away from him like I did with your predecessor. </span></i></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll settle him in my house and kingdom permanently.”’”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 17:1-14</span></b></span></p>
+</span></b></span></span></p>
+
+<p class="section-ref">1 Ch 17:1-14</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nathan told David everything in his vision.  </span></span></p>
 
@@ -54,7 +56,7 @@ next: chapter-18
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25-26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It’s a good thing that you’ve revealed to me that you’ll build a dynasty for me</span></i><i><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> That’s encouraged me to pray to you. </span></i></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It has pleased you to bless my family so it will continue permanently. You’ve blessed it forever.”</span></i><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>  </span></b></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                    1 Ch 17:15-27            </span></b></p>
+<p class="section-ref">1 Ch 17:15-27</p>
 
 
 <style>

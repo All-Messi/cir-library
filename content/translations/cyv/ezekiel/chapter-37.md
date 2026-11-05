@@ -23,7 +23,9 @@ next: chapter-38
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll put sinews on you, make flesh grow back, and cover you with skin. <u>You’ll know I’m Yahveh</u>.’” </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As I prophesied, there was a rattling sound, and the bones came together, bone to bone. </span></span>
-<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I saw sinews on them, flesh grew, and skin covered them; but they weren’t breathing.                                                                                      </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ezek 37:1-8</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>             </span></span></p>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I saw sinews on them, flesh grew, and skin covered them; but they weren’t breathing.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Ezek 37:1-8</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told me to prophesy to their breath,<i> “The Lord Yahveh says to come from the four winds and breathe on these slain so they can come to life.”</i></span></span></p>
 

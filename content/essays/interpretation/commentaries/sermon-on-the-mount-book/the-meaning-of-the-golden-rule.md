@@ -2,6 +2,7 @@
 title: "THE MEANING OF THE GOLDEN RULE"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-11
 categories:
 - 'Interpretation'
 - 'Commentaries'

@@ -32,9 +32,7 @@ next: chapter-07
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he shouted to me, <i>“Look, the ones going north have appeased my anger there.”      </i></span></span></p>
 
-
-### Zech 6:1-8
-
+<p class="section-ref">Zech 6:1-8</p>
 
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A Message from Yahveh to Me</span></span></p>
 
@@ -50,7 +48,7 @@ next: chapter-07
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The crown will serve as a memorial to Heldai, Tobijah, Jedaiah, and Josiah in Yahveh’s Temple. </span></i></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>People from a long way off will come to rebuild the Temple.” </span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><a name="_Hlk122964290"><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>When these things come about, they’ll </span></i></a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>assure you that Yahveh of Hosts has sent me. They will all happen if you faithfully obey him.</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>When these things come about, they’ll </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>assure you that Yahveh of Hosts has sent me. They will all happen if you faithfully obey him.</span></p>
 
 <p class="section-ref">Zech 6:9-15</p>
 

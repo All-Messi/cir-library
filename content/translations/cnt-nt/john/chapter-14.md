@@ -15,7 +15,7 @@ next: chapter-15
 ### Jesus’ Farewell Discourse
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t worry. You believe in God; believe in me too. </span></i></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t worry. You believe in God; believe in me too. </span></i></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There are many rooms in my Father’s house. If that weren’t so, I would’ve told you, because I’m going to get a place ready for you. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When I’ve done that, I’ll come back</span></i><i><sup><span style='font-family:"Times New Roman",serif'>p</span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> to get you so you can be with me. </span></i></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You know how to get to where I’m going.”</span></i></span></p>

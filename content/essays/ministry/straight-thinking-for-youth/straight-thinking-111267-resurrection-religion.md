@@ -1,7 +1,9 @@
 ---
-title: "Straight Thinking 111267 RESURRECTION RELIGION"
-author: "Virgil Warren, christir.org"
+title: "Resurrection Religion"
+subtitle: "Straight Thinking, November 12, 1967"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-12
 categories:
 - 'Ministry'
 - 'Straight Thinking For Youth'
@@ -26,14 +28,11 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>Straight Thinking</span></b></p>
 
-<p class=MsoNormal align=center style='margin-bottom:.25in;text-align:center'><span
-style='font-size:10.0pt;line-height:115%'>111267</span></p>
 
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%'>RESURRECTION RELIGION</span></p>
+
+
+
 
 <p class=MsoNormal style='text-align:justify'><i><span style='font-size:12.0pt;
 line-height:115%'>Sunday. </span></i><span style='font-size:12.0pt;line-height:
@@ -105,6 +104,5 @@ Christian religion is resurrection religion. (</span><span style='font-size:
 10.0pt;line-height:115%'>Read Acts <b>5</b>:34-39</span><span style='font-size:
 12.0pt;line-height:115%'>.)</span></p>
 
-<p class=MsoNormal>Virgil Warren, <u>Straight</u>, November 12, 1967, p13                                                                
-chiristir.org</p>
+<p class=MsoNormal>Virgil Warren, <u>Straight</u>, November 12, 1967, p13</p>
 </div>

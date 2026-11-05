@@ -30,13 +30,6 @@ weight: 1
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But I-hope to-see you soon, and we-will-speak mouth to mouth.  </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Peace to-you.  The friends greet you.  Greet the friends by name.</span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil Warren, PhD</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>translator</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

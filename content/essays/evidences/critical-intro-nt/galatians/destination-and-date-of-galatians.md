@@ -2,6 +2,8 @@
 title: "DESTINATION AND DATE OF GALATIANS"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-06-30
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'

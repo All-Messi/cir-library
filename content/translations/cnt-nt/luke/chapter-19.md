@@ -15,7 +15,7 @@ next: chapter-20
 ### Jesus and Zacchaeus
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>19</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:</span></sup></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus was passing through Jericho, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus was passing through Jericho, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and a wealthy tax collector named Zacchaeus </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>wanted to see what he looked like, but he couldn’t because of the crowd; he was too short. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So he ran ahead and climbed up in a sycamore tree that Jesus was heading toward. </span></span>

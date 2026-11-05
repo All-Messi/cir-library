@@ -15,7 +15,7 @@ next: chapter-07
 ### Jerusalem Under Siege
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123553402"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“People of Benjamin, get out of Jerusalem!</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“People of Benjamin, get out of Jerusalem!</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>     </span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Blow a bugle in Tekoa,</span></i></p>
 
@@ -28,7 +28,7 @@ next: chapter-07
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll destroy attractive, delicate Zion.</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Shepherds’
-</span></i><a name="_Hlk121759688"><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>[commanders]</span></a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>will lead their companies there</span></i></span></p>
+</span></i><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>[commanders]</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>will lead their companies there</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and pitch camps around it,</span></i></p>
 
@@ -68,7 +68,7 @@ next: chapter-07
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>its
 <i>sickness and wounds are constantly evident to me.</i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123553599"><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jerusalem, pay attention to the warning,</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jerusalem, pay attention to the warning,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      or I’ll separate you from me</span></i></p>
 
@@ -88,9 +88,7 @@ next: chapter-07
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>How should I warn them?</span></span></p>
 
-
-### They’ve covered their ears and can’t listen;
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ve covered their ears and can’t listen;</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      any message from the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> offends them.                      </span></p>
 
@@ -125,15 +123,11 @@ next: chapter-07
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Are they ashamed of their disgusting acts?</span></i></b></span></p>
 
-
-### Not at all. They can’t even blush;
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Not at all. They can’t even blush;</span></i></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  so they’ll fall with the falling.</span></i></b></p>
 
-
-### When I punish them,
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            When I punish them,</span></i></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  I’ll cast them down,” </span></i></b><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>the L</span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says.                 </span></b></span></p>
 
@@ -157,7 +151,7 @@ next: chapter-07
 
 <p class="section-ref">Jer 6:16-17</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123554482"><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“So listen, nations;</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“So listen, nations;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      know, community, what’s among them.</span></i></p>
 
@@ -173,7 +167,7 @@ next: chapter-07
 
 <p class="section-ref">Jer 6:18-20</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123559041"><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll lay obstacles in front of my people</span></i></p>
 
@@ -222,7 +216,7 @@ next: chapter-07
 
 <p class="section-ref">Jer 6:22-26</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123559235"><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jeremiah,
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jeremiah,
 <i>I’ve made you an assayer among my people</i></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      so you can test </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>them <i>and know how they live.</i></span></p>

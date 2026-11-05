@@ -11,10 +11,6 @@ next: chapter-06
 
 ## Hebrews Chapter 5
 
-
-### Heb 4:14-16
-
-
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Every high priest is appointed for people from among people to deal with things that relate to God, and to offer gifts and sacrifices for sins. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’s somebody that can deal gently with the ignorant and erring because he has weaknesses too. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On that account he’s obligated to offer </span><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>sacrifices</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> for his own sins as well as the people’s. </span></span>

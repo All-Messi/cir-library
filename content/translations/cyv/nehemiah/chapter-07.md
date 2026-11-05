@@ -44,10 +44,10 @@ next: chapter-08
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              (descendants of Jeshua and </span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              Joab)                                    2,818
+</span></p>
 
-### Joab)                                    2,818
-Neh 7:6-11
-
+<p class="section-ref">Neh 7:6-11</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Elam                  1,254</span></span></p>
 
@@ -122,10 +122,10 @@ Neh 7:6-11
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              the family of Jehaiah</span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    (through Jeshua)               973
+</span></p>
 
-### (through Jeshua)               973
-Neh 7:27-39
-
+<p class="section-ref">Neh 7:27-39</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in'><span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Immer          1,052</span></span></p>
 
@@ -189,7 +189,7 @@ Neh 7:27-39
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v68" id="v68"><sup class="verse-num">68</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They had 736 horses, 245 mules, </span></span>
 <span class="verse verse-v69" id="v69"><sup class="verse-num">69</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>435 camels, and 6,720 donkeys.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk145623822"><span class="verse verse-v70" id="v70"><sup class="verse-num">70</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The governor donated to the treasury 19 lbs <sup>1,000 drachmas</sup> of gold, 50 basins, and 530 priests’ vestments. </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v70" id="v70"><sup class="verse-num">70</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The governor donated to the treasury 19 lbs <sup>1,000 drachmas</sup> of gold, 50 basins, and 530 priests’ vestments. </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v71" id="v71"><sup class="verse-num">71</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For the work, some leaders of families donated to the treasury 375 lbs <sup>20,000 darics</sup> of gold and 2,750 lbs <sup>2,200 minas </sup>of silver.                        </span></span></p>
 

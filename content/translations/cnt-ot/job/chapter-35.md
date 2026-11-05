@@ -11,7 +11,7 @@ next: chapter-36
 
 ## Job Chapter 35
 
-<p class="MsoNormal" style='margin-bottom:0in;'><a name="_Hlk125060955"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Elihu continued:</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Elihu continued:</span></b></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#00B0F0'>“Do you think it’s righteous</span></i></span></p>
 
@@ -39,7 +39,7 @@ next: chapter-36
 
 <p class="section-ref">Job 35:1-8</p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk125061044"><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>“They cry out because they’re oppressed;</span></i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>“They cry out because they’re oppressed;</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>                  they call for help against powerful </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>people<i>.</i></span></p>
 

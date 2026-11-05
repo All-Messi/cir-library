@@ -15,7 +15,7 @@ next: chapter-32
 ### Jacob Flees from Laban
 
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><a name="_Hlk125375594"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jacob overheard Laban’s sons say, </span><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>“Jacob has taken everything our father had and created that wealth.”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jacob overheard Laban’s sons say, </span><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>“Jacob has taken everything our father had and created that wealth.”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He saw that Laban’s attitude had changed. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The LORD told him, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“Go back to the land of your ancestors and relatives. I’ll be with you.” </span></i></span></p>
 
@@ -31,7 +31,7 @@ next: chapter-32
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Look up and see that the male goats that are mating are striped, speckled, and mottled, because I’ve seen what Laban’s been doing to you. </span></i></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m the God in Bethel, where you anointed a marker and took a vow to me. Now leave this country and go back where you were born.” </span></i></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><a name="_Hlk125375676"><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Rachel and Leah answered, </span></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Rachel and Leah answered, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Do we still have any inheritance in our father’s family? </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Doesn’t he treat us like foreigners? He’s sold us and completely used up our purchase price. </span></i></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The wealth God has taken from him clearly belongs to us and our children; do what God has told you.”                                                                                                                   </span></i></span></span></p>
@@ -46,7 +46,7 @@ next: chapter-32
 
 <p class="section-ref">Gen 31:17-21</p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><a name="_Hlk125375924"><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Three days later, Laban heard Jacob had left. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Three days later, Laban heard Jacob had left. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He took some of his relatives and chased him for a week. He caught up with him in the hill country in Gilead. </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God came to Laban in a dream at night, <i>“Don’t say anything to Jacob good or bad.”</i> </span></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jacob had pitched his tent in the hill country, and Laban and his relatives also camped there. </span></span>
@@ -66,7 +66,7 @@ next: chapter-32
 
 <p class="section-ref">Gen 31:22-32</p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><a name="_Hlk125376130"><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Laban went to Jacob’s tent, Leah’s tent, the two maids’ tent, but didn’t find them. He left Leah’s tent and went to Rachel’s. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Laban went to Jacob’s tent, Leah’s tent, the two maids’ tent, but didn’t find them. He left Leah’s tent and went to Rachel’s. </span></span>
 <span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She’d put the household idols in a camel’s saddle and sat on them. Laban rummaged through the tent but didn’t find them. </span></span>
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She told her father, <i>“Don’t be mad at me for not getting up. The way of women is on me.”</i> He looked around but didn’t find them.                     </span></span></p>
 
@@ -86,7 +86,7 @@ next: chapter-32
 
 <p class="section-ref">Gen 31:36-42</p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><a name="_Hlk125376317"><span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Laban answered him, </span></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Laban answered him, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“By rights, the daughters belong to me, the little ones and flocks too, everything you’re looking at is mine. But what can I do about my daughters and their children now? </span></i><span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let’s make a treaty, a witness between us.”</span></i></span></p>
 

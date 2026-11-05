@@ -2,6 +2,7 @@
 title: "CRITICAL INTRODUCTION TO JUDE"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'
@@ -317,7 +318,7 @@ margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                     <img width=295 height=118
+style='font-size:12.0pt'>                     <img alt="Circle: (a) book is canonical, (b) event is true, (c) case is illustrative" width=295 height=118
 id="Picture 1" src="/images/essays/critical-introduction-to-jude/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -600,12 +601,12 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:11.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:4.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-220.5pt'><span
+margin-left:min(4.25in, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(114px, 35vw) - min(4.25in, 35vw))'><span
 style='font-size:11.0pt'> <b>1</b>:12 <u>I will</u> always<u> remind you</u> of
 these          5    <u>I   want   to   remind   you</u>,   <i>though</i></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:4.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-220.5pt'><i><span
+margin-left:min(4.25in, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(114px, 35vw) - min(4.25in, 35vw))'><i><span
 style='font-size:11.0pt'>         </span></i><span style='font-size:11.0pt'>things
 <i>though you know</i> . . .                        <i>you</i> <i>know</i> everything</span></p>
 

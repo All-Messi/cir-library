@@ -2,10 +2,13 @@
 title: "MANAGING EMOTIONS"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-05-18
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Living'
 - 'Christian Living Book'
+weight: 12
 draft: false
 ---
 
@@ -220,7 +223,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                              <img width=292
+style='font-size:12.0pt'>                              <img alt="Event → interpretation → feelings → behavior" width=292
 height=32 id="Picture 1" src="/images/essays/managing-emotions/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

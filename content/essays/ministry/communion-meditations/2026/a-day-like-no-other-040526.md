@@ -1,7 +1,7 @@
 ---
 title: "A Day Like No Other"
 date: '2026-04-05'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

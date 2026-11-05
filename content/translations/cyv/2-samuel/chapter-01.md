@@ -11,10 +11,6 @@ next: chapter-02
 ## 2 Samuel Chapter 1
 
 
-### Conversational Yahveh Covenant
-
-
-
 ### David Learns of Saul’s Death
 
 
@@ -92,9 +88,9 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jonathan’s bow didn’t retreat;</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Saul’s sword didn’t come back empty.                                   </span></i></span></p>
 
-### Saul’s sword didn’t come back empty.                                   2 Sam 1:19-22
-
+<p class="section-ref">2 Sam 1:19-22</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Saul and Jonathan, beloved and pleasant in life,</span></i></span></p>
 

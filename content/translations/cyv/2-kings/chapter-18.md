@@ -30,11 +30,13 @@ next: chapter-19
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%'>He exiled Israel to Assyria and put them in Halah, on the Habor, the Gozan River, and in towns of the Medes. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt; line-height:115%'>He did it</span></i><span style='font-size:12.0pt;line-height: 115%'> because they wouldn’t obey Yahveh their God. They sinned against his covenant in everything Moses commanded.<b> </b></span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><b><span style='font-size:10.0pt; line-height:115%'>                                                                                                                              2 Kg 18:1-12</span></b></p>
+<p class="section-ref">2 Kg 18:1-12</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height: 115%'>In the <b>fourteenth year of King Hezekiah</b>, Sennacherib, king of Assyria, attacked the fortified towns in Judah and took them. </span></span>
-<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%'>Hezekiah sent to the king of Assyria at Lachish, <i>“I’ve done wrong. Withdraw from me; whatever you impose I’ll bear.” </i>The king of Assyria required <a name="_Hlk145080132">11⅓ lbs <sup>300 talents of</sup> silver </a>and <a name="_Hlk145080420">1¼ tons <sup>30 talents</sup> of </a>gold. </span></span>
-<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%'>He gave him all the silver in Yahveh’s Temple and the treasuries in the king’s house. </span><b><sup><span style='font-size:16.0pt;line-height:115%'>16</span></sup></b><span style='font-size:12.0pt;line-height:115%'>Hezekiah cut the <i>gold</i> off the doors of the Temple and the doorposts he’d overlaid and gave it to him.<b>    </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 18:13-16</span></b><b><span style='font-size:12.0pt;line-height:115%'>     </span></b></span></p>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%'>Hezekiah sent to the king of Assyria at Lachish, <i>“I’ve done wrong. Withdraw from me; whatever you impose I’ll bear.” </i>The king of Assyria required 11⅓ lbs <sup>300 talents of</sup> silver and 1¼ tons <sup>30 talents</sup> of gold. </span></span>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%'>He gave him all the silver in Yahveh’s Temple and the treasuries in the king’s house. </span><b><sup><span style='font-size:16.0pt;line-height:115%'>16</span></sup></b><span style='font-size:12.0pt;line-height:115%'>Hezekiah cut the <i>gold</i> off the doors of the Temple and the doorposts he’d overlaid and gave it to him.<b></b></span><b><span style='font-size:10.0pt;line-height:115%'></span></b><b><span style='font-size:12.0pt;line-height:115%'></span></b></span></p>
+
+<p class="section-ref">2 Kg 18:13-16</p>
 
 
 ### Sennacherib Threatens Jerusalem
@@ -53,7 +55,7 @@ next: chapter-19
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%'>Haven’t I come up with Yahveh’s approval to destroy this place? He told me to attack this country and destroy it.”</span></i><b><span style='font-size:12.0pt;line-height:115%'>
 </span></b></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.5in;'><b><span style='font-size:12.0pt;line-height:115%'>                                                                            </span></b><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 18:17-25</span></b></p>
+<p class="section-ref">2 Kg 18:17-25</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height: 115%'>Then Eliakim, Shebnah, and Joah told the Rabshakeh, <i>“Speak to us in Aramaic; we understand it. Don’t speak to us in Hebrew in front of the people on the wall.” </i></span></span></p>
 
@@ -71,7 +73,9 @@ next: chapter-19
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <i><span style='font-size:12.0pt;line-height:115%'>Who among the gods of the countries have delivered them from me, that Yahveh should deliver Jerusalem from me?’”</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%'>The people didn’t respond; the king told them not to answer him.<i> </i></span></span>
-<span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height: 115%'>Then Eliakim, Shebna, and Joah went to Hezekiah with clothes torn and told him what the Rabshakeh had said.</span><b><span style='font-size:10.0pt; line-height:115%'>                                                                                  2 Kg 18:26-37</span></b><b><span style='font-size:12.0pt;line-height:115%'>    </span></b></span></p>
+<span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height: 115%'>Then Eliakim, Shebna, and Joah went to Hezekiah with clothes torn and told him what the Rabshakeh had said.</span><b><span style='font-size:10.0pt; line-height:115%'></span></b><b><span style='font-size:12.0pt;line-height:115%'></span></b></span></p>
+
+<p class="section-ref">2 Kg 18:26-37</p>
 
 
 <style>

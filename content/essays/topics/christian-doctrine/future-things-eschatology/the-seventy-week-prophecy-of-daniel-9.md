@@ -2,6 +2,7 @@
 title: "THE SEVENTY-WEEK PROPHECY OF DANIEL 9"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-10
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -425,5 +426,5 @@ assigns to them.</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Summary Diagram</span></p>
+style='font-size:12.0pt'>Summary Diagram</span></p><p class="cir-diagram" style="text-align:center;margin:1.25rem 0"><img src="/images/diagrams/the-seventy-week-prophecy-of-daniel-9-1.png" alt="Summary diagram: 7 hebdomads (93 years) from 538 B.C. decree to rebuild Jerusalem (Daniel 9:25) to 445 B.C. wall of Jerusalem completed; 62 hebdomads (493 years) to 6 B.C. birth of Messiah; 1 hebdomad (76 years) to A.D. 70 destruction of Jerusalem (Daniel 9:26)" width="372" style="max-width:100%;height:auto"></p>
 </div>

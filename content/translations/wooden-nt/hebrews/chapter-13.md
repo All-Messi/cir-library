@@ -10,7 +10,7 @@ prev: chapter-12
 
 ## Hebrews Chapter 13
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let brotherly-love continue.  </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let brotherly-love continue.  </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Do┘not└forget the love-of-strangers, for through this some were-unaware, having-entertained angels.  </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Remember the-ones bound as bound-with (them), the-ones being-mistreated as also yourselves being in (the) body.  </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> (<span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let) [the] marriage (be) honorable in all-people and the bed (be) undefiled, for [the] God will-judge fornicators and adulterers.  </span></span>
@@ -21,9 +21,7 @@ prev: chapter-12
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    [and]<sup>ms</sup> I-will be-afraid.                                                           </span></i></b></p>
 
-
-### What will┘man└do to-me?”
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    What will┘man└do to-me?”</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Remember the leaders of-you, who spoke to-you the word of-[the] God; considering the outcome of-the way-of-life of-whom, imitate the/their faith.  </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus Christ (is) the same yesterday and today and </span><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'>unto the ages<sup>3</sup>/forever<sup>3</sup></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.
@@ -51,13 +49,6 @@ prev: chapter-12
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Greet all the leaders of-you and all the saints; the-ones from [the] Italy greet you.           </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>[The] grace (be) with you all.</span></span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil Warren, PhD</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>translator</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 
 
 <style>

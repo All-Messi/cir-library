@@ -2,6 +2,7 @@
 title: "EVENTS AND STATEMENTS RE INTERPERSONAL PRIORITIES"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-16
 categories:
 - 'Topics'
 - 'Interpersonalism'

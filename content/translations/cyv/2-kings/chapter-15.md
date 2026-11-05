@@ -22,7 +22,9 @@ next: chapter-16
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%'>but he didn’t take away the high places. The people still sacrificed and burned incense on them. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%'>Yahveh made him a leper till he died. He lived in a separate house while his son Jotham managed the palace and judged the people. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%'>The rest of the acts of Azariah are recorded in <i>The Chronicles of the Kings of Judah</i>. </span></span>
-<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%'>He died and they buried him in The City of David, and Jotham became king.<b>                                             </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 15:1-7</span></b></span></p>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%'>He died and they buried him in The City of David, and Jotham became king.<b>                                             </b></span></span></p>
+
+<p class="section-ref">2 Kg 15:1-7</p>
 
 
 ### Azariah Rules in Israel
@@ -33,7 +35,9 @@ next: chapter-16
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%'>Shallum Ben-Jabesh plotted against him and struck him in the people’s presence and killed him. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%'>The rest of the acts of Zechariah are recorded in <i>The Chronicles of the Kings of Israel</i>. </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height: 115%'>This is the message Yahveh gave Jehu, <i>“Your sons will sit on Israel’s throne for four generations.” </i>That’s what happened.</span><b><span style='font-size:10.0pt;line-height:115%'>           2 Kg 15:8-12</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height: 115%'>This is the message Yahveh gave Jehu, <i>“Your sons will sit on Israel’s throne for four generations.” </i>That’s what happened.</span></span></p>
+
+<p class="section-ref">2 Kg 15:8-12</p>
 
 
 ### Shallum Rules in Israel
@@ -52,10 +56,12 @@ next: chapter-16
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height: 115%'>In the <b>thirty-ninth year of Azariah</b><i>/Uzziah</i>, king of Judah, <u>Menahem</u> became king in Israel and ruled for 10 years in Samaria. </span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%'>He never stopped <i>doing </i>the sins of Jeroboam</span><b><sup><span style='font-size:14.0pt;line-height:115%'>I</span></sup></b><span style='font-size:12.0pt;line-height:115%'> that got Israel to sin.</span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height: 115%'>Pul, king of Assyria, came against the country, and Menahem gave him <a name="_Hlk145079815">37¾ tons <sup>1,000 talents</sup> of silver </a>so he would be with him to strengthen the kingdom under his rule. </span></span>
-<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%'>Then Menahem exacted the money from important men with wealth in Israel, <a name="_Hlk145079982">1¼ lbs <sup>50 shekels</sup> of silver </a>from each one to pay the king of Assyria. The king of Assyria went back. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height: 115%'>Pul, king of Assyria, came against the country, and Menahem gave him 37¾ tons <sup>1,000 talents</sup> of silver so he would be with him to strengthen the kingdom under his rule. </span></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%'>Then Menahem exacted the money from important men with wealth in Israel, 1¼ lbs <sup>50 shekels</sup> of silver from each one to pay the king of Assyria. The king of Assyria went back. </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%'>The rest of the acts of Menahem are recorded in <i>The Chronicles of the Kings of Israel</i>. </span></span>
-<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%'>He died and his son Pekahiah became king.</span><b><span style='font-size:10.0pt;line-height:115%'>                                                                2 Kg 15:13-22</span></b></span></p>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%'>He died and his son Pekahiah became king.</span></span></p>
+
+<p class="section-ref">2 Kg 15:13-22</p>
 
 
 ### Pekahiah Rules in Israel
@@ -64,7 +70,9 @@ next: chapter-16
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height: 115%'>In the <b>fiftieth year of Azariah</b>/<i>Uzziah</i>, king of Judah, <u>Pekahiah</u> became king of Israel in Samaria <i>and ruled</i> for 2 years. </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%'>He didn’t stop <i>doing </i>the sins of Jeroboam<b><sup>I</sup></b> that got Israel to sin. </span></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%'>Then Pekah Ben-Remaliah, his officer, plotted against him and struck him in the fortress of the king’s palace with Argob and Arieh. 50 Gileadites helped him; he killed Pekahiah and became king. </span></span>
-<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%'>The rest of the acts of Pekahiah are recorded in <i>The Chronicles of the Kings of Israel</i>.</span><b><span style='font-size:10.0pt;line-height:115%'>                                                                        2 Kg 15:23-26</span></b></span></p>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%'>The rest of the acts of Pekahiah are recorded in <i>The Chronicles of the Kings of Israel</i>.</span></span></p>
+
+<p class="section-ref">2 Kg 15:23-26</p>
 
 
 ### Pekah Rules in Israel
@@ -75,7 +83,9 @@ next: chapter-16
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height: 115%'>In his reign, Tiglath-pileser, king of Assyria, came and captured Ijon, Abel-beth-maacah, Janoah, Kedesh, Hazor, Gilead, Galilee, and Naphtali. He took them captive to Assyria. </span></span>
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <u><span style='font-size:12.0pt; line-height:115%'>Hoshea</span></u><span style='font-size:12.0pt;line-height: 115%'> Ben-Elah plotted against Pekah and struck him and became king in the <b>twentieth year of Jotham</b> Ben-Uzziah/<i>Azariah</i>. </span></span>
-<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%'>The rest of the acts of Pekah are recorded in <i>The Chronicles of the Kings of Israel</i>.</span><b><sup><span style='font-size:14.0pt;line-height:115%'>            </span></sup></b><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 15:27-31</span></b></span></p>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%'>The rest of the acts of Pekah are recorded in <i>The Chronicles of the Kings of Israel</i>.</span><b><sup><span style='font-size:14.0pt;line-height:115%'>            </span></sup></b></span></span></p>
+
+<p class="section-ref">2 Kg 15:27-31</p>
 
 
 ### Jotham Rules in Judah
@@ -87,7 +97,9 @@ next: chapter-16
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%'>But he didn’t take away the high places. The people still sacrificed and burned incense on them. He built the upper gate of Yahveh’s Temple. </span></span>
 <span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height: 115%'>The rest of the acts of Jotham are recorded in <i>The Chronicles of the Kings of Judah</i>. </span></span>
 <span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%'>In those days Yahveh began to send Rezin, king of Aram, and Pekah Ben-Remaliah against Judah. </span></span>
-<span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%'>Jotham died and they buried him in The City of David. His son <b>Ahaz</b> became king.                                      </span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 15:32-38</span></b></span></p>
+<span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%'>Jotham died and they buried him in The City of David. His son <b>Ahaz</b> became king.                                      </span></span></p>
+
+<p class="section-ref">2 Kg 15:32-38</p>
 
 
 <style>

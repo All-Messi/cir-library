@@ -1,7 +1,8 @@
 ---
 title: "SUFFERING IN THE WORLD: DOES GOD LOVE US?"
-author: "Virgil Warren, Ph.D."
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-15
 categories:
 - 'Evidences'
 - 'Evil Problem Of Theodicy'

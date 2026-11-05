@@ -95,9 +95,7 @@ next: chapter-38
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>Should somebody let him know I want to speak?</span></i></span></p>
 
-
-### Does anyone ever want to be destroyed?
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>Does anyone ever want to be destroyed?</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'> </span></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>“We can’t look at the bright light in the sky</span></i></span></p>
 
@@ -114,6 +112,8 @@ next: chapter-38
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>So people everywhere revere him</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>because he doesn’t value people that are wise in their own conceit.”</span></i></p>
+
+<p class="section-ref">Job 37:14-24</p>
 
 
 <style>

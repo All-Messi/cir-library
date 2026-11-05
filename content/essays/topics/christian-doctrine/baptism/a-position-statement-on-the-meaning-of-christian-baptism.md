@@ -2,6 +2,8 @@
 title: "A POSITION STATEMENT ON THE MEANING OF CHRISTIAN BAPTISM"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-07-28
+lastmod: 2025-07-14
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -247,7 +249,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
-style='font-size:12.0pt'>                <img width=368 height=121
+style='font-size:12.0pt'>                <img alt="Interpersonal character of salvation: responses (belief, repentance, baptism) → man&#x27;s choice → identity with Christ → God&#x27;s choice → consequences (forgiveness of sins, gift of the Spirit, membership in Christ&#x27;s body)" width=368 height=121
 id="Picture 6" src="/images/essays/a-position-statement-on-the-meaning-of-christian-baptism/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -394,7 +396,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
-style='font-size:12.0pt'>                                           <img
+style='font-size:12.0pt'>                                           <img alt="Legal system: action → authority → result"
 width=219 height=82 id="Picture 5" src="/images/essays/a-position-statement-on-the-meaning-of-christian-baptism/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -416,7 +418,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:4.5pt;margin-bottom:.0001pt;text-align:justify;line-height:18.0pt'><span
-style='font-size:12.0pt'>                                       <img width=220
+style='font-size:12.0pt'>                                       <img alt="Natural system: action → force → result" width=220
 height=84 id="Picture 4" src="/images/essays/a-position-statement-on-the-meaning-of-christian-baptism/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -431,7 +433,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:4.5pt;margin-bottom:.0001pt;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'>  <img width=223 height=86
+line-height:18.0pt'><span style='font-size:12.0pt'>  <img alt="Interpersonal system: action → choice → result" width=223 height=86
 id="Picture 3" src="/images/essays/a-position-statement-on-the-meaning-of-christian-baptism/image004.png"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
@@ -726,7 +728,7 @@ style='font-size:4.0pt'>&nbsp;</span></p>
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:4.5pt;margin-bottom:.0001pt;text-align:center;
 line-height:18.0pt'><span style='font-size:12.0pt'> </span><span lang=EL
-style='font-size:12.0pt'><img width=310 height=49 id="Picture 2"
+style='font-size:12.0pt'><img alt="Interpersonal character of knowing by faith: uninformed person → trusted revealer → unseen event" width=310 height=49 id="Picture 2"
 src="/images/essays/a-position-statement-on-the-meaning-of-christian-baptism/image005.png"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
@@ -988,7 +990,7 @@ margin-bottom:0in;margin-left:4.5pt;margin-bottom:.0001pt;text-align:center'><sp
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:4.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'> <img
+margin-left:4.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'> <img alt="Responses (belief, repentance, baptism; Rom. 6:3, Gal. 3:27, Acts 19:5, Mt. 28:19) → identity with Christ → results (forgiveness of sins, gift of the Spirit, membership in Christ&#x27;s body; Rom. 8:1, Acts 2:38)"
 width=418 height=194 id="Picture 1" src="/images/essays/a-position-statement-on-the-meaning-of-christian-baptism/image006.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

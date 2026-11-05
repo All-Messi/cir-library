@@ -62,11 +62,11 @@ next: chapter-39
 <p class="section-ref">Ex 38:21-23</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>All the <u>gold</u> for the work on the sanctuary, including the wave offering, was
-<a name="_Hlk145081699">2,208 lbs <sup>29 talents</sup></a> <sup>and 730 shekels</sup> <sup>of the sanctuary</sup>. </span></span>
+2,208 lbs <sup>29 talents</sup> <sup>and 730 shekels</sup> <sup>of the sanctuary</sup>. </span></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
-<u>silver</u> from the community was <a name="_Hlk145082960">7595 lbs <sup>100 talents and 1,775 shekels of the sanctuary</sup></a>, </span></span>
+<u>silver</u> from the community was 7595 lbs <sup>100 talents and 1,775 shekels of the sanctuary</sup>, </span></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>a beka per head, for each one that passed by that was 20 years old and up: 603,550 men. </span></span>
-<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The 7550 lbs <sup>100 talents</sup> of silver went for casting the bases of the sanctuary and the curtain: 100 bases for the <a name="_Hlk145083235">7550 lbs <sup>100 talents</sup></a>, 75½ lbs <sup>one talent</sup> per base. </span></span>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The 7550 lbs <sup>100 talents</sup> of silver went for casting the bases of the sanctuary and the curtain: 100 bases for the 7550 lbs <sup>100 talents</sup>, 75½ lbs <sup>one talent</sup> per base. </span></span>
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The 18 lbs <sup>1,775 shekels</sup> </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>of silver</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
 </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bezalel</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> went for the hooks and rings for the posts and to overlay the tops of them. </span></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The

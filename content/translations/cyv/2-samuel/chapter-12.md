@@ -41,6 +41,9 @@ next: chapter-13
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height: 115%'>Nathan said, <i>“Yahveh has set your sin aside; you won’t die. </i></span><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%'>But by doing this, you’ve completely scorned him. The child will die.”</span></i></span></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%'>Nathan left.<b>
+</b></span></span></p>
+
 <p class="section-ref">2 Sam 12:7-15a</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height: 115%'>Yahveh struck the child, and it got sick. </span><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%'>David asked God for the child and fasted. He went in and lay all night on the floor. </span></span>
@@ -68,7 +71,7 @@ next: chapter-13
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%'>“I’ve attacked Rabbah and seized the city’s water supply. </span></i><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt; line-height:115%'>Gather </span></i><span style='font-size:12.0pt;line-height: 115%'>the rest of <i>the army and capture the city so I won’t, and people name it after me.” </i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%'>David gathered the rest of the army, went to Rabbah, and captured it. </span></span>
-<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height: 115%'>He took their king’s crown off his head. It weighed <a name="_Hlk145081177">75½ lbs <sup>one talent </sup>of gold </a>and was set with precious stones. They put it on David’s head. He brought large amounts of spoil out of the city. </span></span>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height: 115%'>He took their king’s crown off his head. It weighed 75½ lbs <sup>one talent </sup>of gold and was set with precious stones. They put it on David’s head. He brought large amounts of spoil out of the city. </span></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%'>He also brought out its people, and put them under saws, iron picks and axes; and made them pass through the brick kilns. That’s what he did to all the Ammonite towns. Then he and the whole army went back to Jerusalem.<b>                                                                                                               </b></span></span></p>
 
 <p class="section-ref">2 Sam 12:26-31</p>

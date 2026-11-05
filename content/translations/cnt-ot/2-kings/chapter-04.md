@@ -15,7 +15,7 @@ next: chapter-05
 ### The Widow’s Oil Jar
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126327256"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The wife of a man from the company of prophets cried out to Elisha, <i>“My husband’s dead. You know how he respected the LORD. A creditor has come to take my two children as his slaves.” </i></span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The wife of a man from the company of prophets cried out to Elisha, <i>“My husband’s dead. You know how he respected the LORD. A creditor has come to take my two children as his slaves.” </i></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“What can I do? What do you have in the house?” </span></i></span></p>
 
@@ -33,14 +33,14 @@ next: chapter-05
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She went and told the man of God. </span></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, <i>“Sell the oil to pay your debt. You and your sons can use the rest.”</i></span></p>
 
-### He said, “Sell the oil to pay your debt. You and your sons can use the rest.”        2 Kg 4:1-7
-
+<p class="section-ref">2 Kg 4:1-7</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Shunammite’s Son Resurrected</span></b><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>  </span></sup></b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span></sup></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126327511"><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Elisha passed over to Shunem, where a well-to-do woman lived. She persuaded him to eat<i> there</i>. So, whenever he went by, he’d stop there to eat. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Elisha passed over to Shunem, where a well-to-do woman lived. She persuaded him to eat<i> there</i>. So, whenever he went by, he’d stop there to eat. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She told her husband, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I sense that this is a holy man of God. </span></i><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let’s build a small upper room with walls, and put a bed, table and chair, and lampstand in there for him. When he comes, he can turn in there.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
@@ -61,7 +61,9 @@ next: chapter-05
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She came to the doorway. </span><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, <i>“At this time next year, you’ll be holding a son.”</i> </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126327865"><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“Man of God, don’t give me false hope!” </span></i></a><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She did get pregnant and had a son at that time the next year.<b>  </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Kg 4:8-17</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“Man of God, don’t give me false hope!” </span></i><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She did get pregnant and had a son at that time the next year.<b>  </b></span></span></p>
+
+<p class="section-ref">2 Kg 4:8-17</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the boy was growing up, he went out to his father and the harvest crew one day, </span></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and told him, <i>“My head hurts! my head hurts!”</i> He told his servant, <i>“Carry him to his mother.”</i> </span></span>
@@ -75,13 +77,15 @@ next: chapter-05
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She went to the man of God on Mount Carmel. When he saw her at a distance, he said to Gehazi, <i>“That’s the Shunammite. </i></span></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Run and ask her if she and her husband and boy are all right.” </span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>She answered, <i>“Yes.”</i> <b>                                                                                          </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Kg 4:18-27</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>She answered, <i>“Yes.”</i> <b>                                                                                          </b></span></p>
+
+<p class="section-ref">2 Kg 4:18-27</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When she came to the man of God on the hill, she took hold of his feet. Gehazi came to pull her away, but he said, <i>“Let her alone; she’s upset. The L</i></span><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> hasn’t revealed it to me.” </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She said, <i>“Did I ask you for a son? Didn’t I say not to give me false hope?”</i></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126328263"><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told Gehazi, <i>“Gird up*, take my staff, and go. Don’t greet anybody. If anybody greets you, don’t answer. Lay my staff on the boy’s face.”</i> </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told Gehazi, <i>“Gird up*, take my staff, and go. Don’t greet anybody. If anybody greets you, don’t answer. Lay my staff on the boy’s face.”</i> </span></span>
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The mother swore, <i>“As sure as the L</i></span><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> lives and you live, I won’t leave without you.” </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He went along. </span></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gehazi went on ahead and laid the staff on the boy’s face, but he didn’t make a sound or respond. <i>Gehazi</i> went back and told him, <i>“The boy hasn’t woken up.” </i></span></span>
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Elisha went into the house, the boy was dead on the bed. </span></span>
@@ -91,13 +95,15 @@ next: chapter-05
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He came back and paced back and forth in the house, and went up and stretched out on him <i>again</i>. The boy sneezed seven times and opened his eyes. </span></span>
 <span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He called Gehazi, <i>“Call her.”</i> When she came in, he said, <i>“Pick up your boy.”</i>
 </span></span>
-<span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She fell at his feet and bowed to the floor. She picked up the boy and went out.    </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Kg 4:28-37</span></b></span></p>
+<span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She fell at his feet and bowed to the floor. She picked up the boy and went out.    </span></span></p>
+
+<p class="section-ref">2 Kg 4:28-37</p>
 
 
 ### The Toxic Gourds
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126328638"><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Elisha got back to Gilgal, there was a famine in the land. As men from the company of prophets were sitting with him, he told <i>Gehazi</i>, <i>“Put on a large pot and heat stew for them.”</i> </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Elisha got back to Gilgal, there was a famine in the land. As men from the company of prophets were sitting with him, he told <i>Gehazi</i>, <i>“Put on a large pot and heat stew for them.”</i> </span></span>
 <span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>One of them went out into the field to gather plants, found a wild vine, and gathered his lap full of gourds from it. He came and sliced them into the pot of stew. They didn’t know <i>what they were</i>. </span></span>
 <span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They poured it out for the people to eat. After they’d eaten a little, they cried out, <i>“Man of God, there’s poison in this stew!” </i></span></span>
 <span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, <i>“Bring some</i> <i>meal.”</i> He threw it into the pot and said, <i>“Pour it out for the people to eat.”</i>  Then there wasn’t anything harmful in it.</span></span></p>
@@ -108,7 +114,9 @@ next: chapter-05
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A man came from Baal-shalishah and brought the man of God bread in a sack from the first fruit of his harvest:<i> </i>20 barley loaves made from fresh grain. <i>Elisha</i> said, <i>“Give them to the people to eat.”</i> </span></span>
 <span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His attendant said, <i>“What? How can I feed 100 men with this?”</i> But he said, <i>“Give it to them; the L</i></span><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says they’ll eat and have some left over.” </span></i></span>
-<span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He set it in front of them, and they ate and had some left over.<b>  </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Kg 4:38-44</span></b></span></p>
+<span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He set it in front of them, and they ate and had some left over.<b>  </b></span></span></p>
+
+<p class="section-ref">2 Kg 4:38-44</p>
 
 
 <style>

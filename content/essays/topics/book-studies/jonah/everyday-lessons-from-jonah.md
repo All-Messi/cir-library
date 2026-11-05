@@ -2,6 +2,8 @@
 title: "EVERYDAY LESSONS FROM JONAH"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2024-10-23
+lastmod: 2025-07-14
 categories:
 - 'Topics'
 - 'Book Studies'

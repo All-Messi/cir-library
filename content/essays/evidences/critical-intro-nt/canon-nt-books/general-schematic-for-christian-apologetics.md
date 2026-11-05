@@ -51,5 +51,5 @@ subjectively that the truth is also the truth for us. Living in the new conditio
 helps us identify more clearly the real needs among, and plus, perceived needs.
 This stage helps us understand the message itself more clearly, and so on. The
 process forms an ongoing dynamic of reciprocal causations between the three “poles.”
-</span></p>
+</span></p><p class="cir-diagram" style="text-align:center;margin:1.25rem 0"><img src="/images/diagrams/general-schematic-for-christian-apologetics-1.png" alt="General schematic: Objective (past) and Subjective (present); (1) Need leads to (2) Answer, which leads to (3) Confirmation, which returns to Need" width="300" style="max-width:100%;height:auto"></p>
 </div>

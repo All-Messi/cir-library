@@ -2,10 +2,12 @@
 title: "DEALING WITH DIFFERENCES"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Living'
 - 'Christian Living Book'
+weight: 11
 draft: false
 ---
 
@@ -84,7 +86,7 @@ relate to those who are different from </span></p>
 style='font-size:12.0pt'>            yourself.    </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><img width=75
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><img alt="Two stick figures side by side" width=75
 height=53 src="/images/essays/dealing-with-differences/image001.png" align=left hspace=12></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -102,7 +104,7 @@ set of     </span></p>
 style='font-size:12.0pt'>                  ideas and values.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><img width=75
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><img alt="Stick figure reaching toward another" width=75
 height=49 src="/images/essays/dealing-with-differences/image002.png" align=left hspace=12></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -120,7 +122,7 @@ have  </span></p>
 style='font-size:12.0pt'>                  relationship. “I” become “you.”</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><img width=74
+0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><img alt="Stick figure drawing another toward himself" width=74
 height=50 src="/images/essays/dealing-with-differences/image003.png" align=left hspace=12></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -142,7 +144,7 @@ style='font-size:12.0pt'>                  a relationship. “Yo
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:.25in'><img
+0in;margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-indent:.25in'><img alt="Two stick figures with overlapping circles"
 width=77 height=59 src="/images/essays/dealing-with-differences/image004.png" align=left hspace=12><span
 style='font-size:12.0pt'>Mutual respect, or acceptance, allows every </span></p>
 
@@ -333,7 +335,7 @@ style='font-size:12.0pt'>                           �
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>       <img width=205 height=139 id="Picture 2"
+style='font-size:12.0pt'>       <img alt="Six scales: whole–part, non-crisis–crisis, event–time, person–goal, influence–authority, openness–closedness" width=205 height=139 id="Picture 2"
 src="/images/essays/dealing-with-differences/image005.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -433,7 +435,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>       <img width=373 height=157 id="Picture 1"
+style='font-size:12.0pt'>       <img alt="The six scales (whole–part to openness–closedness) compared for yourself and another person" width=373 height=157 id="Picture 1"
 src="/images/essays/dealing-with-differences/image006.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -563,5 +565,5 @@ style='font-size:12.0pt'>            D.  Describe rather than evaluat
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            E.   Let humility reign.                                                                                 
-</span><span style='font-size:11.0pt'>christir.org</span></p>
+</span></p>
 </div>

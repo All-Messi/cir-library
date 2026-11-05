@@ -1,7 +1,7 @@
 ---
 title: "Not Our Call"
 date: '2015-08-22'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

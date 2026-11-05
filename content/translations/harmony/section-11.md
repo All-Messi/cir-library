@@ -2,7 +2,7 @@
 end_topic: 47
 next: ../section-12
 prev: ../section-10
-reference: 9:9; Lk 6:17-49
+reference: 'Mt (9:9) 10:2-4; Mk (2:14) 3:13-19; Lk 6:12-16; Jn (1:42; 6:71) 21:2, 15 (Acts 1:13); Lk 6:17-49'
 section: 11
 start_topic: 46
 title: Choosing the Twelve and Sermon on the Plain
@@ -10,9 +10,11 @@ type: harmony-section
 weight: 11
 ---
 
-<div id="mt-9-9-10-2-4-mk-2-14-3-13-19-lk-6-12-16-jn-1-42-6-71-21-2-15-acts-1-13" class="harmony-topic">
-<h3 class="topic-header">Mt (9:9) 10:2-4; Mk (2:14) 3:13-19; Lk 6:12-16; Jn (1:42; 6:71) 21:2, 15 (Acts 1:13)</h3>
-<p class="topic-reference">(9:9)</p>
+<div id="calling-the-twelve-apostles" class="harmony-topic">
+<h3 class="topic-header">Calling the Twelve Apostles</h3>
+<span id="mt-9-9-10-2-4-mk-2-14-3-13-19-lk-6-12-16-jn-1-42-6-71-21-2-15-acts-1-13" class="topic-anchor-alias"></span>
+<p class="topic-reference">(<span class="gospel-mt">Mt</span> (9:9) 10:2-4; <span class="gospel-mk">Mk</span> (2:14) 3:13-19; <span class="gospel-lk">Lk</span> 6:12-16; <span class="gospel-jn">Jn</span> (1:42; 6:71) 21:2, 15 (Acts 1:13))</p>
+<p class="harmony-text">	<span class="gospel-lk"><strong>At that time, he went up a mountain to spend the night praying. At daylight, </strong></span><span class="gospel-mk"><strong>he called the ones he wanted. He appointed twelve and named them “apostles.” </strong></span><span class="gospel-mk"><strong><em>He appointed them </em></strong></span><span class="gospel-mk"><strong>to be with him so he could “send” them out to preach and have authority to cast out demons. </strong></span><span class="gospel-mk"><strong><em>The twelve were </em></strong></span><span class="gospel-mk"><strong>Simon </strong></span><span class="gospel-jn"><strong><em>[</em></strong></span><span class="gospel-jn"><strong>Bar-Jonah, </strong></span><span class="gospel-mt"><em>“Son of John”]</em></span><span class="gospel-mt">, </span><span class="gospel-mk"><strong>that he named “Peter” </strong></span><span class="gospel-mk"><strong><em>[</em></strong></span><span class="gospel-jn"><strong><em>or Cephas</em></strong></span><span class="gospel-mk"><strong><em>, “Rock”]</em></strong></span><span class="gospel-mk"><strong>, </strong></span><span class="gospel-lk"><strong>and his brother Andrew; </strong></span><span class="gospel-mk"><strong>James and John, sons of Zebedee, that he nicknamed “</strong></span><span class="gospel-mk"><strong><em>Boanerges</em></strong></span><span class="gospel-mk"><strong> [Sons of Thunder]”; Philip, Bartholomew </strong></span><span class="gospel-jn"><strong><em>[or, Nathanel?]</em></strong></span><span class="gospel-jn"><strong>,</strong></span><span class="gospel-mk"><strong> Matthew </strong></span><span class="gospel-mk"><strong><em>[Levi, son of Alphaeus]</em></strong></span><span class="gospel-mk"><strong>, Thomas </strong></span><span class="gospel-jn"><strong><em>[Didymus]</em></strong></span><span class="gospel-mk"><strong>; James, son of Alphaeus; Thaddaeus </strong></span><span class="gospel-lk"><strong><em>[or, Judas, son of James; Lebbaeusms], </em></strong></span><span class="gospel-mk"><strong>Simon the Zealot </strong></span><span class="gospel-mt"><strong><em>[or, Cananaean]</em></strong></span><span class="gospel-mk"><strong>, and Judas Iscariot </strong></span><span class="gospel-jn"><strong><em>[son of Simon Iscariot]</em></strong></span><span class="gospel-jn"><strong>, </strong></span><span class="gospel-mk"><strong>who also betrayed him. </strong></span></p>
 </div>
 
 <div id="sermon-on-the-level-place" class="harmony-topic">

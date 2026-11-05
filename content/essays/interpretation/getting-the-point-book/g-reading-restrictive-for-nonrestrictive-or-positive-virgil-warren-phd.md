@@ -4,9 +4,10 @@ categories:
 - Interpretation
 - Getting The Point Book
 date: '2026-02-16'
+lastmod: 2025-07-11
 draft: false
 title: "Pitfall: Reading Restrictive for Non-Restrictive"
-weight: 26
+weight: 18
 ---
 
 <style>
@@ -37,7 +38,7 @@ span.HeaderChar
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            G.  Reading restrictive for nonrestrictive
-(or positive)                   Virgil Warren, PhD</span></p>
+(or positive)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

@@ -51,7 +51,7 @@ next: chapter-13
 
 <p class="section-ref">Josh 12:7-24</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><a name="_Hlk200044671"><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Land Still to Be Taken</span></b></a><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>              </span></sup></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Land Still to Be Taken</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>              </span></sup></b></p>
 
 
 <style>

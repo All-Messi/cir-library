@@ -11,7 +11,7 @@ next: chapter-07
 
 ## Amos Chapter 6
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>     6<sup>:1</sup></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Misfortune awaits those of you at ease in Zion,</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Misfortune awaits those of you at ease in Zion,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  who feel secure in Samaria,</span></i></p>
 
@@ -31,9 +31,9 @@ next: chapter-07
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Are you trying to push away the time of catastrophe?</span></i></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            You’re only bringing the violence nearer.                 </span></i></span></p>
 
-### You’re only bringing the violence nearer.                 Amos 6:1-3
-
+<p class="section-ref">Amos 6:1-3</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Misfortune awaits you that stretch out on ivory beds,</span></i></span></p>
 

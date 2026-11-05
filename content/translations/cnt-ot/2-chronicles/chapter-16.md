@@ -21,7 +21,9 @@ next: chapter-17
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Benhadad listened and sent his armies against the towns in Israel. They conquered Ijon, Dan, Abel-maim, and the store towns in Naphtali. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Baasha heard about it, he stopped fortifying Ramah. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then King Asa brought Judah, and they carried away the stones and timber from Ramah that Baasha had been using, and with them <i>Asa</i> fortified Geba and Mizpah.
-<b>  </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>2 Ch 16:1-6</span></b></span></p>
+<b>  </b></span></span></p>
+
+<p class="section-ref">2 Ch 16:1-6</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, Hanani the seer came to Asa, </span></span></p>
 
@@ -33,7 +35,9 @@ next: chapter-17
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The acts of Asa, first to last, are recorded in <i>The Book of the Kings of Judah and Israel. </i></span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the <b>thirty-ninth year of his reign</b>, Asa got a serious infection in his feet; yet even in his disease he didn’t look to the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> but to doctors. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died in the <b>forty-first year</b> of his reign. </span></span>
-<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They buried him in a tomb he’d hewn out for himself in The City of David. They laid him on a bier he’d filled with various spices prepared by incense makers. They built a big fire in his honor.<b>                                                                       </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 16:7-14</span></b></span></p>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They buried him in a tomb he’d hewn out for himself in The City of David. They laid him on a bier he’d filled with various spices prepared by incense makers. They built a big fire in his honor.<b>                                                                       </b></span></span></p>
+
+<p class="section-ref">2 Ch 16:7-14</p>
 
 
 <style>

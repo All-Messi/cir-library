@@ -47,7 +47,7 @@ next: chapter-04
 
 <p class="section-ref">Eccl 3:1-11</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122424494"><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I realize there’s nothing better for people than to be happy and enjoy themselves as long as they live. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I realize there’s nothing better for people than to be happy and enjoy themselves as long as they live. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There’s nothing better than eating and drinking and taking pleasure in their work—that’s God’s gift. </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Everything God does is final. There’s nothing to add or take away, because he has worked in such a way that people should respect him. </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What will be has already been, because God does again what he’s done before. </span></span></p>

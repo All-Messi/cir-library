@@ -31,9 +31,9 @@ next: chapter-06
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>“What’s your petition; I’ll grant it. </b></span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            What’s your request? I’ll do it up to half the kingdom.”</span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                       </span></b></span></p>
 
-### What’s your request? I’ll do it up to half the kingdom.”                       Esther 5:1-6
-
+<p class="section-ref">Esther 5:1-6</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esther answered, </span></span></p>
 
@@ -52,6 +52,11 @@ next: chapter-06
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<i>Even Queen Esther didn’t have anybody but me come with the king to the banquet she’d prepared. She’s also invited me with him tomorrow. </i></span><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yet none of this satisfies me whenever I see Mordecai the Jew sitting at the king’s gate.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zeresh and his friends said, <i>“Have gallows built 75ft high. In the morning, ask the king to have Mordecai hanged on it. Then go happy with him to the banquet.” </i></span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Haman liked that, so he had them built.<b>
+</b></span></p>
+
+<p class="section-ref">Esther 5:7-14</p>
 
 
 <style>

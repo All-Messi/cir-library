@@ -1,6 +1,6 @@
 ---
-title: "XENOGLOSSIA (HS book) pt 13) #1"
-author: "Virgil Warren, christir.org"
+title: "Xenoglossia"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:
 - 'Topics'

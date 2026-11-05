@@ -87,9 +87,7 @@ next: chapter-04
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Palal son of Uzai <i>made repairs </i>by the Angle and the tower projecting from the king’s upper house, which is by the court of the guard. </span></span></p>
 
-
-### After him Pedaiah son of Parosh made repairs.
-
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>After him Pedaiah son of Parosh <i>made repairs</i>. <b>                                                  </b></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Temple servants living in Ophel <i>made repairs</i> up to the front of the Water Gate toward the east and the projecting tower.                                                                                                             </span></span></p>
 

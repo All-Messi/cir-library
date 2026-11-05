@@ -10,7 +10,7 @@ next: chapter-02
 
 ## Ezekiel Chapter 1
 
-<p class="MsoListBulletCxSpFirst" style='margin-bottom:0in; '><a name="_Hlk124529807"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
+<p class="MsoListBulletCxSpFirst" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
 <b>fifth day, fourth month, thirtieth year</b>, I was by the Chebar River with the exiles. The sky opened up, and I saw a vision of God. (</span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-family:"Times New Roman",serif'>The <b>fifth</b> <b>month, fifth year of Jehoiachin’s exile</b>, </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-family:"Times New Roman",serif'>God’s message came to Ezekiel, and God’s hand came on him.</span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>)</span><span style='font-family:"Times New Roman",serif'>
@@ -25,8 +25,8 @@ next: chapter-02
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Their wings spread out above them, two wings touching the wings of the next living beings and two covering their bodies. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They went straight forward wherever the spirit went, without turning as they went. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Among the beings were what looked like burning coals, like torches moving back and forth. The fire burned bright, and lightning kept flashing out of it. </span></span>
-<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The living beings darted back and <a name="_Hlk124529928">forth like bolts of lightning.
-                                   </a></span></span></p>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The living beings darted back and forth like bolts of lightning.
+                                   </span></span></p>
 
 <p class="section-ref">Ezek 1:1-14</p>
 
@@ -37,11 +37,12 @@ next: chapter-02
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19-20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the living beings left the ground or moved, the wheels moved with them. The spirit of the living beings was in the wheels. [</span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124530151"><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A bright expanse glowed like crystal above them. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A bright expanse glowed like crystal above them. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Under it their wings stretched out toward one another, and two wings covered the sides of their bodies. </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Their wings sounded like rushing water, like the Almighty, like war, like an army camp. When they stood still, they lowered their wings, </span></span>
-<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and a voice spoke from the expanse above them.
-</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ezek 1:15-25</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>     </span></span></p>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and a voice spoke from the expanse above them.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Ezek 1:15-25</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>High above the expanse was a throne the color of lapis lazuli; the One sitting on it resembled a man. </span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From the waist up, he glowed like metal on fire; from the waist down, he resembled fire. The radiance around him was </span></span>

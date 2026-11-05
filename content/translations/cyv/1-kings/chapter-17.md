@@ -34,7 +34,9 @@ next: chapter-18
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then a message from Yahveh came to him, </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go to Zarephath, near Sidon, and stay. I’ve commanded a widow there to provide for you.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span>
-<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He went to Zarephath. When he came to the city gate, a widow was gathering sticks. He called to her, <i>“Please get me a little water in a jug to drink.”</i> <b>                                                                                                                             </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 17:1-10</span></b></span></p>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He went to Zarephath. When he came to the city gate, a widow was gathering sticks. He called to her, <i>“Please get me a little water in a jug to drink.”</i> <b>                                                                                                                             </b></span></span></p>
+
+<p class="section-ref">1 Kg 17:1-10</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As she was going to get it, he called to her to bring him a piece of bread too.<i>
 </i></span></span></p>
@@ -50,7 +52,9 @@ next: chapter-18
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-top:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%'>She did what he said; and she, her son, and household ate for many days. </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt; line-height:115%'>The bowl didn’t get empty, and the jug didn’t go dry.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%'>1 Kg 17:11-16</span></b></span></p>
+</b></span></span></p>
+
+<p class="section-ref">1 Kg 17:11-16</p>
 
 
 ### Elijah Resurrects the Widow’s Son
@@ -68,7 +72,9 @@ next: chapter-18
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height: 115%'>Elijah brought him down to his mother. <i>“See, he’s alive.”</i> </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height: 115%'>She told him, <i>“Now I know for sure you’re a man of God and what you say from Yahveh is true.”</i><b>             </b></span><b><span style='font-size:10.0pt;line-height:115%'>1 Kg 17:17-24</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height: 115%'>She told him, <i>“Now I know for sure you’re a man of God and what you say from Yahveh is true.”</i><b>             </b></span></span></p>
+
+<p class="section-ref">1 Kg 17:17-24</p>
 
 
 <style>

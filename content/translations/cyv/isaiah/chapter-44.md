@@ -11,7 +11,7 @@ next: chapter-45
 
 ## Isaiah Chapter 44
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                       44<sup>:1</sup></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“But listen now, Jacob my servant,</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“But listen now, Jacob my servant,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    Israel my chosen one.</span></i></p>
 
@@ -53,7 +53,7 @@ next: chapter-45
 ### The Folly of Idols
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><a name="_Hlk86938559"><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is what the King of Israel says</span><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>Y</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is what the King of Israel says</span><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>Y</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>its Redeemer, Yahveh of Hosts,</span></p>
 
@@ -150,7 +150,7 @@ next: chapter-45
 
 <p class="section-ref">Is 44:24-25</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><a name="_Hlk86939295"><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I carry out my prophets’ predictions</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span></i><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I carry out my prophets’ predictions</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                      </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and</span></i><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>perform my messengers’ advice;</span></i></p>
 

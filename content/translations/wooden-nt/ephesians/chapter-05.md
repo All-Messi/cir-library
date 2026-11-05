@@ -11,7 +11,7 @@ next: chapter-06
 
 ## Ephesians Chapter 5
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So be imitators of-[the] God as beloved children, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So be imitators of-[the] God as beloved children, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and walk in love even-as also [the] Christ loved you and gave himself for you (as an) offering and sacrifice to-[the] God for (a) sweet fragrance. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let┘sexaul-immorality and every impurity or greed not-even└be-named among you, even-as is-appropriate for-saints. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And(Let there be no) filthiness and foolish-talk or vulgar-talking, which-things are not fitting, but rather thanksgiving. </span></span>

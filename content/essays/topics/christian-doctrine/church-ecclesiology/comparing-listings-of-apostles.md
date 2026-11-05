@@ -2,6 +2,8 @@
 title: "COMPARING LISTINGS OF APOSTLES"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2023-07-13
+lastmod: 2025-07-15
 categories:
 - 'Topics'
 - 'Christian Doctrine'

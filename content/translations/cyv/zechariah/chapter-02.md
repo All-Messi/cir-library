@@ -18,7 +18,7 @@ next: chapter-03
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then I saw a man holding a measuring line, and </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>asked him where he was going.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122962178"><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“To measure how wide and long</span></i></a><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> <i>Jerusalem is.”</i> </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“To measure how wide and long</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> <i>Jerusalem is.”</i> </span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The angel that was talking to me was leaving, and another angel met him </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and said, </span></span></p>

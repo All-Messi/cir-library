@@ -10,7 +10,7 @@ prev: chapter-07
 
 ## Song of Solomon Chapter 8
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         <span style='color:#C00000'>8<sup>:1</sup></span></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>“Oh that you were my brother,</span></i></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>“Oh that you were my brother,</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                        who nursed at my mother’s breasts.</span></i></p>
 
@@ -38,7 +38,9 @@ prev: chapter-07
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#00B050'>“Who’s that coming up from the countryside,</span></i></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                  leaning on her beloved?”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                     </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>S of S 8:1-5a</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                  leaning on her beloved?”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                     </span></b></span></p>
+
+<p class="section-ref">S of S 8:1-5a</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Groom</span></p>
 
@@ -66,7 +68,9 @@ prev: chapter-07
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  If a man would offer all the wealth in his house for love,</span></i></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        it would be utterly scorned.”</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                          </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>S of S 8:5b-7</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        it would be utterly scorned.”</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                          </span></b></span></p>
+
+<p class="section-ref">S of S 8:5b-7</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Friends</span></p>
 
@@ -84,7 +88,9 @@ prev: chapter-07
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                  but if she’s a door,</span></i></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                        we’ll barricade her in with cedar boards.”</span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>    </span></b><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'>S of S 8:8-9</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                        we’ll barricade her in with cedar boards.”</span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>    </span></b></span></p>
+
+<p class="section-ref">S of S 8:8-9</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bride     </span></p>
 
@@ -119,9 +125,9 @@ prev: chapter-07
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  be like a gazelle or young stag</span></i></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  on the mountains of spices.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                                </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>S of S 8:10-14</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  on the mountains of spices.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                                </span></b></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
+<p class="section-ref">S of S 8:10-14</p>
 
 
 <style>

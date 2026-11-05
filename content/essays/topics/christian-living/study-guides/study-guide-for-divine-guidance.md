@@ -2,6 +2,7 @@
 title: "STUDY GUIDE FOR DIVINE GUIDANCE"
 author: "Virgil Warren, PhD"
 date: '2026-03-19'
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Living'
@@ -79,7 +80,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'> <img width=428 height=95
+style='font-size:12.0pt'> <img alt="General will for human life (x&#x27;s) and specific will for my life (X)" width=428 height=95
 src="/images/essays/study-guide-for-divine-guidance/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -137,5 +138,5 @@ margin-left:81.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-45.0pt'
 style='font-size:12.0pt'>        8.    In light of the possibility that God has
 or does not have a specific work for your life, how will you proceed to decide
 what you will do next with the life he has given you?                                                                                                 
-</span><span style='font-size:11.0pt'>christir.org</span></p>
+</span></p>
 </div>

@@ -15,7 +15,7 @@ next: chapter-13
 ### A Song of Praise for Salvation
 
 
-<p class="MsoListBulletCxSpFirst" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk86923337"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, you’ll say,</span></span></p>
+<p class="MsoListBulletCxSpFirst" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, you’ll say,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Thank you, L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>;        </span></i></p>
 

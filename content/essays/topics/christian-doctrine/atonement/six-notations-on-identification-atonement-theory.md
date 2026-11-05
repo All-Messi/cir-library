@@ -2,6 +2,8 @@
 title: "SIX NOTATIONS ON IDENTIFICATION ATONEMENT THEORY"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2026-08-24
+lastmod: 2026-08-24
 categories:
 - 'Topics'
 - 'Christian Doctrine'

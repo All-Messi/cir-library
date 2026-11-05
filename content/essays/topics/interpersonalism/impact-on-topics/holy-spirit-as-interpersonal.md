@@ -2,6 +2,8 @@
 title: "HOLY SPIRIT AS INTERPERSONAL"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2014-12-13
+lastmod: 2025-07-11
 categories:
 - 'Topics'
 - 'Interpersonalism'
@@ -56,7 +58,7 @@ scripture, (b) through the influences of people influenced by scripture,  and (
 through the sheer  relationship  itself.               </span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'><img width=309 height=156
+line-height:18.0pt'><span style='font-size:12.0pt'><img alt="Triangle: Spirit, Word and illumination in me, with circumstance and other Christians; paths (a) to (e)" width=309 height=156
 id="Picture 1" src="/images/essays/holy-spirit-as-interpersonal/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:

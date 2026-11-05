@@ -26,7 +26,9 @@ next: chapter-29
 
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%'>“Solomon, son, know your father’s God. Serve him with all </span></i><span style='font-size:12.0pt;line-height: 115%'>your <i>heart and a willing mind, because Yahveh examines every heart and understands every intent. </i></span></span>
-<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt; line-height:115%'>Be diligent about that because he has chosen you to build a temple for the sanctuary. Have the courage to do it.”                                                                                     </span></i><b><span style='font-size:10.0pt;line-height:115%'>1 Ch 28:1-10</span></b></span></p>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt; line-height:115%'>Be diligent about that because he has chosen you to build a temple for the sanctuary. Have the courage to do it.”                                                                                     </span></i></span></span></p>
+
+<p class="section-ref">1 Ch 28:1-10</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%'>Then David gave Solomon </span></span></p>
 
@@ -42,7 +44,9 @@ next: chapter-29
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%'>the plans </span></i><span style='font-size:12.0pt;line-height:115%'>for the work of service,</span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%'> the utensils for the service,                                                                    </span><b><span style='font-size:10.0pt;line-height:115%'>1 Ch 28:11-13</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%'> the utensils for the service,                                                                    </span></p>
+
+<p class="section-ref">1 Ch 28:11-13</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:1.0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%'>the golden <i>utensils</i>, the weight of gold for them;  </span></span></p>
 
@@ -72,11 +76,15 @@ next: chapter-29
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:1.5in;'><span style='font-size:12.0pt;line-height:115%'>wings and cover the Ark of the Covenant. </span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.5in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height: 115%'>The details of this pattern he made clear in writing from Yahveh’s hand.      </span><b><span style='font-size:10.0pt;line-height:115%'>1 Ch 28:14-19</span></b></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.5in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height: 115%'>The details of this pattern he made clear in writing from Yahveh’s hand.      </span></span></p>
+
+<p class="section-ref">1 Ch 28:14-19</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%'>Then David told Solomon, </span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%'>“Be strong and courageous; don’t be afraid or intimidated. Yahveh’s with you. He won’t fail you or abandon you till the work is done. </span></i><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%'>There are divisions of priests and Levites for serving in God’s Temple, and every willing man with skill will be with you for all kinds of service. The officials and the people will be entirely at your command.”    </span></i><b><span style='font-size:10.0pt;line-height:115%'>1 Ch 28:20-21</span></b></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%'>“Be strong and courageous; don’t be afraid or intimidated. Yahveh’s with you. He won’t fail you or abandon you till the work is done. </span></i><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%'>There are divisions of priests and Levites for serving in God’s Temple, and every willing man with skill will be with you for all kinds of service. The officials and the people will be entirely at your command.”    </span></i></span></span></p>
+
+<p class="section-ref">1 Ch 28:20-21</p>
 
 
 <style>

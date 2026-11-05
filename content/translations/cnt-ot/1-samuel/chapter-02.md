@@ -12,11 +12,6 @@ next: chapter-03
 ## 1 Samuel Chapter 2
 
 
-### He worshipped the LORD there.
-1 Sam 1:21-28
-
-
-
 ### Hannah’s Prayer
 
 
@@ -127,7 +122,7 @@ next: chapter-03
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says, ‘I revealed myself to your ancestor’s house when they were in bondage to Pharaoh. </span></i><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I chose them from Israel’s tribes to be my priests: to go up to my altar, to burn incense, to carry an ephod in front of me. I gave your ancestor the fire offerings of Israel. </span></i></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Why are you greedy about the sacrifices and offerings I’ve commanded? </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Why are you</span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> honoring your sons more than me by making yourselves fat with the best of every offering my people make?’ </span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“So the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> God of Israel says, ‘I did say that your house and your father’s would follow me forever, <a name="_Hlk94350132">but I’m certainly not going to carry through on that now</a>. I’ll honor the ones that honor me, and care less about the ones that despise me. </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“So the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> God of Israel says, ‘I did say that your house and your father’s would follow me forever, but I’m certainly not going to carry through on that now. I’ll honor the ones that honor me, and care less about the ones that despise me. </span></i></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The time’s coming when I’ll get rid of your strength and the strength of your ancestor’s house. There’ll never be an old man in your family. </span></i></span>
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In distress you’ll see the prosperity I’ll put on Israel. </span></i></span>
 <span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But I won’t remove every man of yours from my altar and make your eyes fail from crying, make you grieve, make the added number in your house die in their prime. </span></i></span>

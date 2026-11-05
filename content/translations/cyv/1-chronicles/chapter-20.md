@@ -16,14 +16,16 @@ next: chapter-21
 
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%'>In the spring, when kings go to war, Joab led out the army and ravaged the country of the Ammonites and laid siege to Rabbah. David stayed in Jerusalem. Joab attacked Rabbah and overthrew it. </span></span>
-<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%'>Then David <i>went to Rabbah and </i>took the crown off their king’s head, and found that it weighed <a name="_Hlk145084806">75½ lbs <sup>a talent</sup> of gold</a>, and was set with precious stones. They placed it on David’s head, and he brought out a really large amount of spoil from the city. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%'>Then David <i>went to Rabbah and </i>took the crown off their king’s head, and found that it weighed 75½ lbs <sup>a talent</sup> of gold, and was set with precious stones. They placed it on David’s head, and he brought out a really large amount of spoil from the city. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt; line-height:115%'>He brought the people out, and cut them with saws, sharp instruments, and axes. He did that to all the Ammonite towns. Then he and the people came back to Jerusalem. </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height: 115%'>About this time, war broke out with the Philistines at Gezer. Sibbecai the Hushathite killed <u>Sippai</u>, a descendant of the giants, and they were subdued. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%'>There was war with the Philistines again, and Elhanan Ben-Jair killed <u>Lahmi</u> brother of Goliath the Gittite, the shaft of whose spear was like a weaver’s beam. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%'>Another time there was war at Gath, where there was a <u>huge man with six digits</u> on each hand and foot. He had descended from the giants too. </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height: 115%'>When he taunted Israel, Jonathan, son of David’s brother Shimea, killed him. </span></span>
-<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%'>Those <i>three </i>descended from the giants in Gath that David and his warriors killed.                                                                                     </span><b><span style='font-size:10.0pt;line-height:115%'>1 Ch 20:1-8</span></b></span></p>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%'>Those <i>three </i>descended from the giants in Gath that David and his warriors killed.                                                                                     </span></span></p>
+
+<p class="section-ref">1 Ch 20:1-8</p>
 
 
 <style>

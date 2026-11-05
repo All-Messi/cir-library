@@ -11,7 +11,7 @@ next: chapter-03
 
 ## 1 Peter Chapter 2
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Therefore, putting-aside all wickedness/hateful-feelings and all deceit and hypocrisy and jealousy and all insults, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Therefore, putting-aside all wickedness/hateful-feelings and all deceit and hypocrisy and jealousy and all insults, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>like newborn infants be-hungry for the spiritual/designed-for-you, pure/undiluted milk so you-can-grow by it into salvation, </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>if you tasted that the Lord (is) kind; </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to whom coming—(as to a) living stone, rejected [on-the-one-hand] by men, but to God chosen (and) precious—</span></span>
@@ -20,9 +20,7 @@ next: chapter-03
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b>“Behold, I-lay in Zion (a) stone,</b></span></p>
 
-
-### (a) precious corner-stone;
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    (a) precious corner-stone;</span></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and the-one believing in him </span></b></p>
 

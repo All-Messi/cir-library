@@ -15,7 +15,7 @@ next: chapter-15
 ### The People Rebel
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          </span></i><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The community cried out loud that night </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The community cried out loud that night </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and complained to Moses and Aaron, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“We should’ve died in Egypt! We should’ve died in the desert! </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Why is Yahveh taking us to this land to fall by the sword? Our wives and little ones will become spoils of war. Wouldn’t we be better off to go back to Egypt?”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>

@@ -1,6 +1,6 @@
 ---
 title: "THE SABBATH, THE LORD'S DAY, AND THE CHRISTIAN"
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:
 - 'Topics'
@@ -280,7 +280,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>  <img width=437 height=148
+style='font-size:12.0pt'>  <img alt="“Pre-Israel” (Exodus 16:23-30), national Israel (Deuteronomy 5:15, memorial of the exodus), “forever” (Exodus 31:16-17); Gentiles (Exodus 20:10)" width=437 height=148
 src="/images/essays/the-sabbath-the-lords-day-and-the-christian/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

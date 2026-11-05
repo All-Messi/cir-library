@@ -1,7 +1,7 @@
 ---
 title: "Managing Distress"
 date: '2014-07-20'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

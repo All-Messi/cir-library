@@ -2,6 +2,8 @@
 title: "SOME IMPLICATIONS OF LEGAL PROCESS FOR HERMENEUTICS, FAITH, AND PRACTICE IN THE CHRISTIAN SYSTEM"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2020-09-11
+lastmod: 2025-07-11
 categories:
 - 'Interpretation'
 draft: false
@@ -798,7 +800,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 (degree)    NOTE: paradigm shift, category change</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:2.0in;text-align:justify;text-indent:.5in'><span style='font-size:
+margin-left:min(2.0in, 35vw);text-align:justify;text-indent:.5in'><span style='font-size:
 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> morphing
 continuum into a category shift: when a category can no longer accommodate an
 issue as required by practical reality, the next higher more inclusive category

@@ -11,7 +11,7 @@ next: chapter-45
 
 ## Isaiah Chapter 44
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk86936365"><b><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>         </span></b></a><a name="_Hlk86933249"></a><a name="_Hlk123381049"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“But listen now, Jacob my servant,</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“But listen now, Jacob my servant,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Israel my chosen one.</span></i></p>
 
@@ -53,7 +53,7 @@ next: chapter-45
 ### The Folly of Idols
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></i><a name="_Hlk123381985"></a><a name="_Hlk86938559"><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is what the King of Israel says,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></i><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is what the King of Israel says,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>its Redeemer, the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> of Hosts,</span></p>
 
@@ -83,11 +83,11 @@ next: chapter-45
 
 <p class="section-ref">Is 44:6-8</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk86938674"><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Those who carve idols don’t accomplish anything because their precious objects can’t do anything. Their worshippers don’t know <i>that</i>; so they’ll be put to shame. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Those who carve idols don’t accomplish anything because their precious objects can’t do anything. Their worshippers don’t know <i>that</i>; so they’ll be put to shame. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who but fools make their own gods and then worship them? </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The craftsmen are mere mortals. They’ll all gather with the worshipers, take their stand, and go down in terror and infamy.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk123382586"><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A blacksmith shapes iron into a cutting tool over coals <i>in his forge</i>. He beats it with hammers till he gets hungry and weak, thirsty and tired. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A blacksmith shapes iron into a cutting tool over coals <i>in his forge</i>. He beats it with hammers till he gets hungry and weak, thirsty and tired. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then a carver shapes a block of wood, stretches out a measuring line on it, and draws a pattern on it with red chalk. He works it with chisels and planes <i>to look </i>like a beautiful human figure to set in a little shrine in <i>somebody’s</i> house. </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He cuts down a cedar, takes a cypress or oak, and plants a fir tree in the woods, and the rain makes it grow. </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15-16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It becomes something he can burn. So he burns half of it to warm himself up and say <i>“Ah, I’m warm; the heat feels good.”</i> Or he bakes bread and eats a roast and is satisfied. </span></span>
@@ -102,7 +102,7 @@ next: chapter-45
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I worshiped the other half!”</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><a name="_Hlk86938780"></a><a name="_Hlk86939006"></a><a name="_Hlk123383336"><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He eats ashes and trusts something that can’t help him. He doesn’t ask, <i>“Am I holding</i> <i>something fake in my</i> <i>hand?”</i> </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He eats ashes and trusts something that can’t help him. He doesn’t ask, <i>“Am I holding</i> <i>something fake in my</i> <i>hand?”</i> </span></span></p>
 
 
 ### Restoration for Jerusalem
@@ -128,7 +128,7 @@ next: chapter-45
 
 <p class="section-ref">Is 44:18-23</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123383504"><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is what the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> your Redeemer says</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is what the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> your Redeemer says</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>who formed you in the womb,</span></p>
 
@@ -150,7 +150,7 @@ next: chapter-45
 
 <p class="section-ref">Is 44:24-25</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123383886"><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>            </span></i></a><a name="_Hlk86939295"><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I carry out my prophets’ predictions</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I carry out my prophets’ predictions</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                           </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and</span></i><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>perform my messengers’ advice;</span></i></p>
 

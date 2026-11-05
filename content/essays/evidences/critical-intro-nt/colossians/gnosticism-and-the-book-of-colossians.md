@@ -2,6 +2,8 @@
 title: "GNOSTICISM AND THE BOOK OF COLOSSIANS"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2019-03-03
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'
@@ -111,7 +113,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                     <img width=256
+style='font-size:12.0pt'>                                     <img alt="Stacked boxes of aeons with S and M descending from Pure Spirit; “fullness” (pleroma)" width=256
 height=257 id="Picture 1" src="/images/essays/gnosticism-and-the-book-of-colossians/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

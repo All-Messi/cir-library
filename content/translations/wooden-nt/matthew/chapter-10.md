@@ -11,7 +11,7 @@ next: chapter-11
 
 ## Matthew Chapter 10
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And having-summoned the twelve disciples of-him, he-gave them authority of-unclean spirits so-as to-cast┘them└out and to-heal every disease and every sickness. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And having-summoned the twelve disciples of-him, he-gave them authority of-unclean spirits so-as to-cast┘them└out and to-heal every disease and every sickness. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And these are the names of-the twelve apostles: first Simon, the-one called Peter; and Andrew, the brother of-him; and James, the (son) of-[the] Zebedee, and John, the brother of-him; </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Philip and Bartholomew, Thomas and Matthew, the tax-collector; James the (son) of-[the] Alpheus, and Thaddeus, </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Simon the Cananaean, and Judas [the] Iscariot, the-one also having-betrayed him.</span></span></p>
@@ -53,9 +53,7 @@ next: chapter-11
 <p class="MsoNormal" style='margin-top:0in;margin-right:31.5pt;margin-bottom: 0in;margin-left:.5in;'><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Do┘not└think that I-came to-put peace on the earth. I-did┘not└come to-put peace, but (a) sword. </span></i></span>
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For I-came to-divide</span></i></span></p>
 
-
-### (a) man ‘against the father of-him,’
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:31.5pt;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    (a) man ‘<b>against the father of-him,’</b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:31.5pt;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    and
 <b>‘ (a) daughter against the mother of-her,’</b></span></i></p>

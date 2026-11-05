@@ -21,9 +21,7 @@ next: chapter-06
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We told them the names of the men that were reconstructing it. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But God kept an eye on the elders of the Jews. They didn’t stop them till a report could go to Darius and a written reply could come back. </span></span></p>
 
-
-### Ezra 5:1-6
-
+<p class="section-ref">Ezra 5:1-6</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Here’s a copy of Tattenai’s letter to King Darius: </span></span></p>
 

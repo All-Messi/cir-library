@@ -4,7 +4,7 @@ chapters: 25
 title: 2 Kings
 translation: CYV
 type: book
-weight: 51
+weight: 12
 ---
 
 ## 2 Kings

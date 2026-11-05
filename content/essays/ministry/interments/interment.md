@@ -1,9 +1,10 @@
 ---
-author: Virgil Warren, christir.org
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Interments
 date: '2026-02-16'
+lastmod: 2025-07-04
 draft: false
 title: INTERMENT
 weight: 2
@@ -88,7 +89,4 @@ will be like the one we’re witnessing here today.</span></p>
 <p class=MsoNormal style='margin-bottom:6.0pt;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-bottom:6.0pt;text-align:justify'><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil
-Warren, christir.org</span></p>
 </div>

@@ -6,7 +6,7 @@
 }
 
 .gospel-mk {
-    color: #215868; /* Mark - Teal */
+    color: #006600; /* Mark - green (Virgil's Word colour; was teal #215868 until 2026-11-04) */
 }
 
 .gospel-lk {
@@ -42,7 +42,7 @@
 }
 
 .harmony-legend .gospel-mk {
-    border-left: 4px solid #215868;
+    border-left: 4px solid #006600;
 }
 
 .harmony-legend .gospel-lk {
@@ -163,7 +163,7 @@
     }
     
     .gospel-mt { color: #000000 !important; }
-    .gospel-mk { color: #215868 !important; }
+    .gospel-mk { color: #006600 !important; }
     .gospel-lk { color: #7030A0 !important; }
     .gospel-jn { color: #C00000 !important; }
 }

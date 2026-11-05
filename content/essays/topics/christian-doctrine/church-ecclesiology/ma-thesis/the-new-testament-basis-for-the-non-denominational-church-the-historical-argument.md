@@ -6,6 +6,7 @@ categories:
 - Church Ecclesiology
 - Ma Thesis
 date: '2026-02-16'
+lastmod: 2025-07-11
 draft: false
 title: 'THE NEW TESTAMENT BASIS FOR THE NON-DENOMINATIONAL CHURCH: THE HISTORICAL
   ARGUMENT'

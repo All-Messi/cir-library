@@ -31,7 +31,7 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and confiscate the property they’ve inherited.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><a name="_Hlk122903492"><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <i>“I’m devising a catastrophe for this family;</i></span></p>
 
@@ -60,7 +60,7 @@ next: chapter-03
 
 <p class="section-ref">Mic 2:1-5</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><a name="_Hlk122903661"><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“‘Don’t preach about such things,’ they say;</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“‘Don’t preach about such things,’ they say;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      ‘disgrace won’t catch up with us.’</span></i></p>
 
@@ -105,7 +105,7 @@ next: chapter-03
 
 <p class="section-ref">Mic 2:6-11</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><a name="_Hlk122903716"><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll assemble you, Jacob, remnant of Israel,</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll assemble you, Jacob, remnant of Israel,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and put you together like sheep in a fold;</span></i></p>
 

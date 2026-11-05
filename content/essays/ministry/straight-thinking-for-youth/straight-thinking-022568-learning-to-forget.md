@@ -1,7 +1,9 @@
 ---
-title: "Straight Thinking 022568 LEARNING TO FORGET"
-author: "Virgil Warren, christir.org"
+title: "Learning to Forget"
+subtitle: "Straight Thinking, February 25, 1968"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-12
 categories:
 - 'Ministry'
 - 'Straight Thinking For Youth'
@@ -26,14 +28,11 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>Straight Thinking</span></b></p>
 
-<p class=MsoNormal align=center style='margin-bottom:.25in;text-align:center'><span
-style='font-size:10.0pt;line-height:115%'>022568</span></p>
 
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%'>LEARNING TO FORGET</span></p>
+
+
+
 
 <p class=MsoNormal style='text-align:justify'><i><span style='font-size:12.0pt;
 line-height:115%'>Sunday. </span></i><span style='font-size:12.0pt;line-height:
@@ -106,6 +105,5 @@ style='font-size:10.0pt;line-height:115%'>Read Luke <b>23</b>:34</span><span
 style='font-size:12.0pt;line-height:115%'>.)</span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
-line-height:115%'>Virgil Warren, <u>Straight</u>, February 25, 1968, p13                                                                              
-christir.org</span></p>
+line-height:115%'>Virgil Warren, <u>Straight</u>, February 25, 1968, p13</span></p>
 </div>

@@ -2,6 +2,8 @@
 title: "COMMENTS ON DIVORCE: MATTHEW 5:32"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2014-03-26
+lastmod: 2026-03-26
 categories:
 - 'Topics'
 - 'Christian Doctrine'

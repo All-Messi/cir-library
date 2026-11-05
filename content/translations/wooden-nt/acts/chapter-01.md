@@ -10,7 +10,7 @@ next: chapter-02
 
 ## Acts Chapter 1
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The first volume I-made about all-things, O Theophilus, that [the] Jesus began both to-do and to-teach, </span></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The first volume I-made about all-things, O Theophilus, that [the] Jesus began both to-do and to-teach, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>until which day he-was-taken-up, having-given-commission by (the) Holy Spirit to-the/his apostles whom he-chose, </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to-whom also he-presented himself living after his [the] suffering in many proofs, through forth days, appearing to-them and saying the-things about the kingdom of-the God; </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and assembling-with (them) commanded them not to-depart from Jerusalem, but to-await the promise of-the Father, <i>“which you-heard-from me, </i></span></span>
@@ -43,17 +43,13 @@ next: chapter-02
 </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For it-has-been-written in (the) Book of Psalms,</span></i></span></p>
 
-
-### ‘Let┘the house/home of-him└become desolate,
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b><i>‘Let┘the house/home of-him└become desolate,</i></b></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and let┘the/a dweller not└be in it.’</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and</span></i></p>
 
-
-### ‘Let┘another└take the office of-him.’
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b><i>‘Let┘another└take the office of-him.’</i></b></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So it-is-necessary—of-the men traveling-with us in all (the) time in which the Lord Jesus went-in and went-out with us, </span></i></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>beginning from the baptism of-John to the day which he-was-taken-up from us—that one of-these become (a) witness with us of-the resurrection of-him.”</span></i><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></sup></b></span></p>

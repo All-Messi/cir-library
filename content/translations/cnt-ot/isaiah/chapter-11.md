@@ -15,7 +15,7 @@ next: chapter-12
 ### A Branch from Jesse
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123272955"><b><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>         </span></b></a><a name="_Hlk86923018"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A sapling will grow out of Jesse’s stump;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A sapling will grow out of Jesse’s stump;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  a branch from his roots will bear fruit.</span></p>
 
@@ -47,7 +47,7 @@ next: chapter-12
 
 <p class="section-ref">Is 11:1-5</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><a name="_Hlk123273154"><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wolves will live with lambs;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wolves will live with lambs;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  leopards will lie down beside baby goats;</span></p>
 
@@ -73,7 +73,7 @@ next: chapter-12
 
 <p class="section-ref">Is 11:6-9</p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><a name="_Hlk86923238"><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, Jesse’s heir will serve as a banner for the Gentiles. They’ll rally to him, and his resting place will be glorious. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, Jesse’s heir will serve as a banner for the Gentiles. They’ll rally to him, and his resting place will be glorious. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For a second time he’ll recover the remnant of his people that are left in Assyria, Egypt, Pathros, Nubia, Elam, Shinar, Hamath, and islands in the sea. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’ll hoist a flag for the nations and repatriate the exiles of Israel and Judah from every direction. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ephraim and Judah won’t resent each other or harass one another. </span></span>

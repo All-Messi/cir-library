@@ -15,16 +15,14 @@ next: chapter-17
 ### Jerusalem, an Unfaithful Wife
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.25in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         16<sup>:1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A message from the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> came to me: </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A message from the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> came to me: </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Son of man, confront Jerusalem about her detestable things. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Say, ‘Your birth was from the Canaanites—an Amorite father and a Hittite mother. </span></i></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When you were born, your umbilical cord wasn’t cut off, you weren’t washed, or rubbed with salt, or even wrapped in cloth. </span></i></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nobody took pity on you to do any of those things for you. You were tossed out in an open field because you were repulsive.</span></i><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'>   </span></b></span></p>
 
-
-### Ezek 16:1-5
-
+<p class="section-ref">Ezek 16:1-5</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When I went by and saw you squirming in your blood, I said to you, ‘Live!’ </span></i></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I made you as numerous as plants in a field. You grew up tall and filled out. Your breasts formed and your hair grew, but you were naked and bare. </span></i></span>

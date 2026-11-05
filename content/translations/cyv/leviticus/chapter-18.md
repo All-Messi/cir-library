@@ -11,7 +11,7 @@ next: chapter-19
 
 ## Leviticus Chapter 18
 
-<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></i><span class="verse verse-v1" id="v1"><sup class="verse-num">1-2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses to say to Israel,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v1" id="v1"><sup class="verse-num">1-2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses to say to Israel,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:.5in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“<u>I’m Yahveh your God</u>. </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t do what they do in Egypt where you lived or in Canaan where I’m taking you. Don’t follow their statutes. </span></i></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you obey my regulations and keep my statutes, </span></i></span>

@@ -28,7 +28,9 @@ next: chapter-12
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Adoraim, Lachish, Azekah, </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zorah, Aijalon, and Hebron. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He reinforced the fortresses and put officers in them along with stores of food, olive oil, and wine. </span></span>
-<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>He put shields and spears in every city and reinforced them greatly. He held onto Judah and Benjamin. <b>                                                                                                                                          </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 11:1-12</span></b></span></p>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>He put shields and spears in every city and reinforced them greatly. He held onto Judah and Benjamin. <b>                                                                                                                                          </b></span></span></p>
+
+<p class="section-ref">2 Ch 11:1-12</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The priests and Levites throughout Israel stood with him from all their districts. </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Levites abandoned their pastures and property and came to Judah and Jerusalem, because Jeroboam and his sons had excluded them from serving as priests to the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.
@@ -46,7 +48,9 @@ next: chapter-12
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After her, he married Absalom’s daughter Maacah. She bore him Abijah, Attai, Ziza, and Shelomith. </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Rehoboam loved Maacah more than his other wives and concubines. He’d married 18 wives and 60 concubines and fathered 28 sons and 60 daughters. </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He appointed Abijah as leader among his brothers because he intended to make him king. </span></span>
-<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>He acted wisely and distributed some of his sons throughout Judah and Benjamin in the fortified towns, and gave them food in abundance, and sought many wives for them.<b>                </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 11:13-23</span></b></span></p>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>He acted wisely and distributed some of his sons throughout Judah and Benjamin in the fortified towns, and gave them food in abundance, and sought many wives for them.<b>                </b></span></span></p>
+
+<p class="section-ref">2 Ch 11:13-23</p>
 
 
 <style>

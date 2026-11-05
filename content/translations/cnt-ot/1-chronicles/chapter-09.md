@@ -11,11 +11,6 @@ next: chapter-10
 
 ## 1 Chronicles Chapter 9
 
-
-### Those were all descendants of Benjamin.
-1 Ch 8:29-40
-
-
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>So Israel was enrolled by genealogies. They’re recorded in </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>The Book of the Kings of</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel.</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Judah was exiled to Babylon because they were unfaithful.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The first to live again in their towns </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>were</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Israel, the priests, the Levites, and the Temple servants. </span></span>
@@ -29,7 +24,9 @@ next: chapter-10
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from the descendants of Benjamin </span><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>were</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Sallu son of Meshullam son of Hodaviah son of Hassenuah, </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and Ibneiah son of Jeroham, Elah son of Uzzi son of Michri, and Meshullam son of Shephatiah son of Reuel son of Ibnijah, </span></span>
-<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and their relatives by generations: 956. Those were heads of families.<b>                                                                                                                               </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 9:1-9</span></b></span></p>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and their relatives by generations: 956. Those were heads of families.<b>                                                                                                                               </b></span></span></p>
+
+<p class="section-ref">1 Ch 9:1-9</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From the priests </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>were</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Jedaiah, Jehoiarib, Jachin, </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Azariah son of Hilkiah son of Meshullam son of Zadok son of Meraioth son of Ahitub, the chief officer of God’s Temple; </span></span>
@@ -38,7 +35,9 @@ next: chapter-10
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From the Levites </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>were</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Shemaiah son of Hasshub son of Azrikam son of Hashabiah from the sons of Merari; </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bakbakkar, Heresh, Galal, Mattaniah son of Mica son of Zichri son of Asaph, </span></span>
-<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Obadiah son of Shemaiah son of Galal son of Jeduthun, Berechiah son of Asa son of Elkanah that lived in the villages of the Netophathites.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                 1 Ch 9:10-16</span></b></span></p>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Obadiah son of Shemaiah son of Galal son of Jeduthun, Berechiah son of Asa son of Elkanah that lived in the villages of the Netophathites.</span></span></p>
+
+<p class="section-ref">1 Ch 9:10-16</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The gatekeepers were Shallum, Akkub, Talmon, Ahiman, and their relatives, (</span><span style='font-family:"Times New Roman",serif'>Shallum the chief) </span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>stationed previously at the king’s gate to the east. </span></span>
@@ -57,7 +56,9 @@ next: chapter-10
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Some were appointed to oversee the furniture and utensils for the sanctuary, the fine flour, the wine, oil, frankincense, and spices. </span></span>
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Some descendants of the priests mixed the spices. </span></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mattithiah, one of the Levites, the firstborn of Shallum the Korahite, was responsible for what was baked in pans. </span></span>
-<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Some relatives of the Kohathites prepared the showbread every Sabbath. <b>                                                                                                                                                 </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 9:17-32</span></b></span></p>
+<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Some relatives of the Kohathites prepared the showbread every Sabbath. <b>                                                                                                                                                 </b></span></span></p>
+
+<p class="section-ref">1 Ch 9:17-32</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>These are the singers, heads of families among the Levites. They lived in rooms in the Temple because they were on duty day and night. </span></span>
 <span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They were heads of families among the Levites according to their generations, chief men living in Jerusalem. </span></span></p>
@@ -66,7 +67,9 @@ next: chapter-10
 <span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His firstborn </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>was</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> Abdon, then Zur, Kish, Baal, <u>Ner</u>, Nadab, </span></span>
 <span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gedor, Ahio, Zechariah, and <u>Mikloth</u>.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk137461611"><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mikloth was father of Shimeam/</span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Shimeah</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>. All these families lived near each other in Jerusalem. <b>           </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 9:33-38</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mikloth was father of Shimeam/</span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Shimeah</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>. All these families lived near each other in Jerusalem. <b>           </b></span></span></p>
+
+<p class="section-ref">1 Ch 9:33-38</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ner</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> was father of Kish father of Saul father of <u>Jonathan</u>, Malchi-shua, Abinadab, and Eshbaal.</span></span></p>
 
@@ -79,7 +82,9 @@ next: chapter-10
 </span><span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and Ahaz father of Jarah father of Alemeth, Azmaveth, and </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:1.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>  Zimri father of Moza </span><span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>father of Binea, Rephaiah, Eleasah and <u>Azel</u>. </span></span>
-<span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Azel</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> had six sons: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan.<b>                                                                                                                                              </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 9:39-44</span></b></span></p>
+<span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Azel</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> had six sons: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan.<b>                                                                                                                                              </b></span></span></p>
+
+<p class="section-ref">1 Ch 9:39-44</p>
 
 
 <style>

@@ -90,7 +90,7 @@ next: chapter-06
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      will live among many nations</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  like a young lion in a flock of sheep.<a name="_Hlk147840385"></a></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  like a young lion in a flock of sheep.</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      He mauls and mangles as he goes;</span></p>
 

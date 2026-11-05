@@ -11,7 +11,7 @@ next: chapter-15
 
 ## Job Chapter 14
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><b><i><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>              </span></i></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>“Mortals born of women</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>“Mortals born of women</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                        are short-lived and filled with turmoil.</span></i></p>
 

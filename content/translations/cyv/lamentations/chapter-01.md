@@ -11,10 +11,6 @@ next: chapter-02
 ## Lamentations Chapter 1
 
 
-### Conversational Yahveh Covenant
-
-
-
 ### Jerusalem Deserted
 
 
@@ -76,9 +72,9 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  because they’ve seen her nakedness.</span></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  She groans and turns away.</span></p>
 
-### She groans and turns away.                                                          Lam 1:5-8
-
+<p class="section-ref">Lam 1:5-8</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Her uncleanness was in her skirts;</span></span></p>
 
@@ -130,9 +126,9 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        because there’s no comforter near to restore my soul.</span></i></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  My children are desolate because the enemy has prevailed.”</span></i></span></p>
 
-### My children are desolate because the enemy has prevailed.”     Lam 1:13-16
-
+<p class="section-ref">Lam 1:13-16</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zion holds out her hands, but there’s no one to comfort her;</span></span></p>
 
@@ -158,9 +154,9 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  My heart’s upset because I’ve been rebellious.</span></i></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  The sword bereaves in the street; it’s like death in the house.      </span></i></span></p>
 
-### The sword bereaves in the street; it’s like death in the house.      Lam 1:17-20
-
+<p class="section-ref">Lam 1:17-20</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ve heard that I’m groaning with nobody to comfort me.</span></i></span></p>
 
@@ -175,6 +171,10 @@ next: chapter-02
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pay attention to their sinfulness, </span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and deal with them like you’ve dealt with me for my sins.</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  I groan a lot, and my heart is faint.”</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                            </span></b></span></p>
+
+<p class="section-ref">Lam 1:21-22</p>
 
 
 <style>

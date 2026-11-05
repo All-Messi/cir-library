@@ -11,14 +11,16 @@ next: chapter-07
 
 ## Genesis Chapter 6
 
+
+### Evil Multiplies
+
+
 <p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>When people were multiplying and having daughters, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the sons of God saw they were beautiful and took as many wives as they wanted.  </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh God said, <i>“My breath won’t remain in humans as long because they’re physical. They’ll come to live 120 years.”</i></span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh God said, <i>“My breath won’t remain in humans as long because they’re physical. They’ll come to live 120 years.”</i></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span style='font-size:10.0pt;line-height:115%;font-family: Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There were important men then and later when the sons of God had relations with women and had children. They were the powerful men of old, men of renown. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There were important men then and later when the sons of God had relations with women and had children. They were the powerful men of old, men of renown. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh saw that people had become so wicked that every motive was evil. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He</span><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>Y</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> was grieved from having made them. </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll</span></i><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Y</span></sup><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> wipe them out along with the animals, crawling things, and birds.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>
@@ -26,27 +28,16 @@ next: chapter-07
 
 <p class="section-ref">Gen 6:1-8</p>
 
+<p class="MsoListBulletCxSpMiddle" align=center style='margin-left:.25in; text-align:center;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Noah’s Generations</span></span></p>
 
-### ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-<p class="MsoListBulletCxSpMiddle" align=center style='margin-left:.25in; text-align:center;'><span style='font-size:12.0pt;line-height: 115%;font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Noah’s Generations</span></span></p>
-
-<p class="MsoListBulletCxSpMiddle" align=center style='margin-left:.25in; text-align:center;'><span style='font-size:12.0pt;line-height: 115%;font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Noah was a good man, blameless in his time, one that followed God. </span><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He had three sons: Shem, Ham, and Japheth. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Noah was a good man, blameless in his time, one that followed God. </span><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He had three sons: Shem, Ham, and Japheth. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The world had become corrupt and full of violence. [</span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]
 </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God told Noah, </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God told Noah, </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:.5in; '><span style='font-size:12.0pt;line-height:115%;font-family: Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“It’s obvious that I need to wipe people out. They’ve filled the world with violence. I’m going to destroy them along with the world.
+<p class="MsoListBulletCxSpMiddle" style='margin-left:.5in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“It’s obvious that I need to wipe people out. They’ve filled the world with violence. I’m going to destroy them along with the world.
 </span></i><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Build an ark out of gopher wood, make rooms in it, and coat it with pitch inside and out. </span></i></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Make it 450 x 75 x 45ft tall. </span></i></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Put a window in it 1½ft from the top and a door in the side of it. Build 3 floors in it. </span></i></span>
@@ -56,21 +47,9 @@ next: chapter-07
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>birds, animals, and crawling things will come to you. </span></i></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gather as much food as you and the animals will eat.” </span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:.25in; '><span style='font-size:10.0pt;line-height:115%;font-family: Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Noah followed his instructions.                                                                                 </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:.25in; '><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Noah followed his instructions.                                                                                 </span></span></p>
 
 <p class="section-ref">Gen 6:9-22</p>
-
-
-### ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;
-
-
-<p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>The Great Flood</span></b></p>
-
-<p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: Symbol'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></p>
 
 
 <style>

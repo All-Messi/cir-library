@@ -118,6 +118,10 @@ next: chapter-04
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                  </span></i><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>I’m not at ease, I’m not at peace;</span></i></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                        I’m not at rest; only trouble is coming.”              </span></i></span></p>
+
+<p class="section-ref">Job 3:20-26</p>
+
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

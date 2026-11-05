@@ -31,7 +31,9 @@ next: chapter-03
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>they served Yahveh while he was alive and the elders that outlived him, who’d seen Yahveh’s great work for Israel. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died at 110. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They buried him in his inheritance in Timnath-heres in the hill country of Ephraim north of Mount Gaash. </span></span>
-<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That whole generation passed on to their ancestors, and another generation grew up that hadn’t known Yahveh or seen his work for Israel.    </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 2:1-10</span></b></span></p>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That whole generation passed on to their ancestors, and another generation grew up that hadn’t known Yahveh or seen his work for Israel.    </span></span></p>
+
+<p class="section-ref">Jud 2:1-10</p>
 
 
 ### Disobedience and Defeat
@@ -50,7 +52,9 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“They’ve sinned against my covenant like their ancestors. </span></i><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From now on, I won’t drive out any nation Joshua left when he died. </span></i></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll use them to test Israel to see if they’ll follow me<sup>Y</sup> like their ancestors.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> [</span></span>
-<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>]  <i>             </i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 2:11-23</span></b></span></p>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>]  <i>             </i></span></span></p>
+
+<p class="section-ref">Jud 2:11-23</p>
 
 
 <style>

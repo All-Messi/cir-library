@@ -1,7 +1,7 @@
 ---
 title: "Faithful to the End"
 date: '2025-12-28'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

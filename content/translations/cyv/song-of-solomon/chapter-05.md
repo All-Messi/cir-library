@@ -11,7 +11,7 @@ next: chapter-06
 
 ## Song of Solomon Chapter 5
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ve come to my garden, <b>my sister, my bride</b>;</span></i></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ve come to my garden, <b>my sister, my bride</b>;</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        I’ve gathered my myrrh and spice.</span></i></p>
 
@@ -21,7 +21,9 @@ next: chapter-06
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  Eat, friends, and drink;</span></i></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        drink deeply, lovers.”</span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                                     </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>S of S 5:1</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        drink deeply, lovers.”</span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                                     </span></b></span></p>
+
+<p class="section-ref">S of S 5:1</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bride</span></p>
 
@@ -29,9 +31,7 @@ next: chapter-06
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                        A voice! my beloved is knocking.</span></i></p>
 
-
-### ‘Open for me, my sister, my darling,
-
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  ‘Open for me, <b>my sister, my darling</b>,</span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                        my dove, my perfect one!</span></i></p>
 
@@ -49,7 +49,9 @@ next: chapter-06
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>            </span></i><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>My beloved extended his hand through the opening,</span></i></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  my feelings were aroused.</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                                    </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>S of S 5:2-4</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  my feelings were aroused.</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                                    </span></b></span></p>
+
+<p class="section-ref">S of S 5:2-4</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I got up to open the door for him;</span></i></span></p>
 
@@ -75,7 +77,9 @@ next: chapter-06
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I adjure you, young women of Jerusalem, </span></i></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  if you find my beloved, tell him I’m lovesick.”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>     S of S 5:5-8</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  if you find my beloved, tell him I’m lovesick.”</span></i></span></p>
+
+<p class="section-ref">S of S 5:5-8</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Friends</span></p>
 
@@ -85,7 +89,9 @@ next: chapter-06
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                  What kind of beloved is your beloved,</span></i></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                        that you adjure us that way?”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>            </span></b><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>            S of S 5:9</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                        that you adjure us that way?”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>            </span></b></span></p>
+
+<p class="section-ref">S of S 5:9</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bride</span></p>
 
@@ -133,7 +139,9 @@ next: chapter-06
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  That’s my beloved, my friend,</span></i></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                        young women of Jerusalem.”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>  </span></b><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>                        S of S 5:10-16</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                        young women of Jerusalem.”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>  </span></b></span></p>
+
+<p class="section-ref">S of S 5:10-16</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Friends</span></p>
 

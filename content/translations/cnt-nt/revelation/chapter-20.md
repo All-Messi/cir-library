@@ -19,9 +19,7 @@ next: chapter-21
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He seized the dragon—the old serpent, the devil, Satan—bound him for 1,000 years, </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and threw him into the abyss. He locked it and sealed it over him so he couldn’t deceive the nations till the 1,000 years were over. Afterward he’ll need to be released for a little while.</span></span></p>
 
-
-### Rev 20:1-3
-
+<p class="section-ref">Rev 20:1-3</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I saw thrones, and the people that sat on them received the authority to judge. I saw the souls of the people beheaded for <i>bearing </i>the message about Jesus and the word of God, <i>people </i>that hadn’t worshiped the beast or its image and hadn’t received the stamp on their forehead or hand. They’ll live and reign with Christ 1,000 years. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of the dead didn’t live again till the 1,000 years ended. That’s the first resurrection. </span></span>

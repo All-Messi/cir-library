@@ -11,7 +11,7 @@ next: chapter-04
 
 ## Hebrews Chapter 3
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wherefore, holy brothers, partakes of-(a)-heavenly calling, consider-carefully the Apostles and High Priest of-the confession of-us-Jesus, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wherefore, holy brothers, partakes of-(a)-heavenly calling, consider-carefully the Apostles and High Priest of-the confession of-us-Jesus, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>being faithful to-the-One having-appointed him as also Moses (was) in the whole house of-him.  </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This-One was-made-worthy of-more glory than Moses, according as the-one having-prepared the/a house has more honor than the house.  </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For every house is-built by somebody, but the-One having-built all-things is God.  </span></span>
@@ -40,9 +40,7 @@ next: chapter-04
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i></b><b><i><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If they-will-enter into the rest of-me.”/</span></i></b></p>
 
-
-### They-will┘certainly not└- enter into the rest of-me.”
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    They-will┘certainly not└- enter into the rest of-me.”</span></i></b><b><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>           </span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Beware, brothers, lest-at-any-time (an) evil heart of-disbelief will-be in any of-you in [the] falling-away from (the/a) living God.  </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But encourage each-other according-to each day, as-long-as<sup>2</sup> it-is-called ‘Today,’ in-order-that not anybody of you be-hardened by-(the)-deceitfulness of-[the] sin—</span></span>
@@ -51,9 +49,7 @@ next: chapter-04
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>“Today if you<sup>pl</sup>-hear the voice of-him,</i></b></span></p>
 
-
-### ‘do┘not└harden the hearts of-you as at [the] Meribah/in the provocation.’”
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    ‘do┘not└harden the hearts of-you as </span></i></b><b><i><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>at [the] Meribah/in the provocation</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>.’”</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For who, having-heard, provoked (him)?  [But] (was it) not all the-ones coming-out from Egypt through Moses?  </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And with-whom was-he-‘displeased for-forty-years’?  (Was  it) not with-the-ones the corpses of-whom fell in the desert?  </span></span>

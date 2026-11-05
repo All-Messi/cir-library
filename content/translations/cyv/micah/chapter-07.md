@@ -177,8 +177,6 @@ prev: chapter-06
 
 <p class="section-ref">Mic 7:18-20</p>
 
-<p class="MsoListBulletCxSpLast" style='margin-left:0in;'><span style='font-family:"Times New Roman",serif'>Version by Virgil Warren: christiir.org</span></p>
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

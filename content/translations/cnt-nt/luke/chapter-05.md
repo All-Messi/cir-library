@@ -15,7 +15,7 @@ next: chapter-06
 ### The Calling of Four Fishermen
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While a crowd was pressing on him and listening to God’s message, he was standing by Lake Gennesaret </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While a crowd was pressing on him and listening to God’s message, he was standing by Lake Gennesaret </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and saw two boats at the edge of the lake. The fishermen had gotten out of them and were washing their nets.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He got in one of the boats—Simon’s—and asked him to shove it out a little from the shore. Then he sat down and started teaching the crowd from the boat. </span></span>

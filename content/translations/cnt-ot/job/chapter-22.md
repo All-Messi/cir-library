@@ -11,13 +11,9 @@ next: chapter-23
 
 ## Job Chapter 22
 
-
-### Your explanations don’t make any sense.”           Job 21:30-34
-
-
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Eliphaz the Temanite answered:</span></b></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><a name="_Hlk125024945"><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>“What benefit can a mortal be to God?</span></i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>“What benefit can a mortal be to God?</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                  Aren’t even the wise only useful to themselves?</span></i></p>
 
@@ -59,7 +55,7 @@ next: chapter-23
 
 <p class="section-ref">Job 22:1-11</p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>            </span></i><a name="_Hlk125025888"><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> </a><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B050'>“Isn’t God high in the sky,</span></i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>            </span></i><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B050'>“Isn’t God high in the sky,</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                  higher than the stars?</span></i></p>
 
@@ -83,7 +79,7 @@ next: chapter-23
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                  ‘What good is the Almighty to us?’</span></i></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>            </span></i><a name="_Hlk125027016"><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> </a><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B050'>Yet he’s filled their houses with good things—</span></i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>            </span></i><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B050'>Yet he’s filled their houses with good things—</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                  (but I stay away from sinners’ counsel).</span></i></p>
 
@@ -136,6 +132,8 @@ next: chapter-23
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#00B050'>He delivers innocent people;</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                  so you’ll be delivered because you have clean hands.”</span></i></p>
+
+<p class="section-ref">Job 22:21-30</p>
 
 
 <style>

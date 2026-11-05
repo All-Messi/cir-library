@@ -41,7 +41,7 @@ next: chapter-22
 ### Rights of the Firstborn
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:31.5pt; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124590460"><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If a man has two wives, one loved and the other loved less,</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <i>and both have had male firstborn, he can’t put the firstborn of the loved ahead of the firstborn of the one loved less if the latter is older. </i></span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:31.5pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If a man has two wives, one loved and the other loved less,</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <i>and both have had male firstborn, he can’t put the firstborn of the loved ahead of the firstborn of the one loved less if the latter is older. </i></span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16-17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he wills his possessions, he must give the double portion to the firstborn of the one less loved. The one that first issued from his virility holds the right of the firstborn.</span></i></span></p>
 
 

@@ -54,8 +54,8 @@ next: chapter-14
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There weren’t any blacksmiths in Israel, so the Hebrews couldn’t make swords or spears. </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They had to go down to the Philistines to sharpen their forks, plowshares, picks, axes, and goads, and to fix their goad points. </span>
-<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> They charged the Israelites <a name="_Hlk145153738">¼ oz <sup>two-thirds of a shekel</sup> of silver for sharpening plowshares and picks and ⅛ oz <sup>a third of a shekel
-</sup>for sharpening forks</a>, axes, and goads. </span></span>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> They charged the Israelites ¼ oz <sup>two-thirds of a shekel</sup> of silver for sharpening plowshares and picks and ⅛ oz <sup>a third of a shekel
+</sup>for sharpening forks, axes, and goads. </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The day of the battle, none of the people with Saul and Jonathan had swords or spears, just Saul and Jonathan. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A Philistine contingent went out to secure the pass by Michmash.<b> </b></span></span></p>
 

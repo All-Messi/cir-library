@@ -11,7 +11,7 @@ next: chapter-06
 
 ## Revelation Chapter 5
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And I-saw on the right (hand) of-the-One sitting on the throne (a) book/scroll written inside/front and out/back, securely-sealed with-seven seals.  </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And I-saw on the right (hand) of-the-One sitting on the throne (a) book/scroll written inside/front and out/back, securely-sealed with-seven seals.  </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And I-saw (a) strong angel proclaiming with (a) loud voice, <i>“Who (is) worthy to-open-up the book/scroll and to-undo/break the seals of-it?”  </i></span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And nobody was-able in [the] heaven neither on [the] earth nor under the earth to-open-up the book/scroll nor to-look-at it.  </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And I-was-crying/began-to-cry much, because nobody was-found worthy to-open-up the book/scroll nor to-look-at it.  </span></span>

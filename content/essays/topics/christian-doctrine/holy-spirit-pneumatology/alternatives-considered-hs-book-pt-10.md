@@ -1,12 +1,12 @@
 ---
-title: "ALTERNATIVES Considered (HS book pt 10)"
-author: "Virgil Warren, christir.org"
+title: "Alternatives Considered"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:
 - 'Topics'
 - 'Christian Doctrine'
 - 'Holy Spirit Pneumatology'
-weight: 9
+weight: 10
 draft: false
 ---
 

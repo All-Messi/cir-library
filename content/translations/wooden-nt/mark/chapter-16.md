@@ -10,7 +10,7 @@ prev: chapter-15
 
 ## Mark Chapter 16
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the Sabbath having passed, Mary the Magdalene, and Mary the (mother) of-[the] James, and Salome bought spices in-order-that, having-come, they-might-anoint-him. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the Sabbath having passed, Mary the Magdalene, and Mary the (mother) of-[the] James, and Salome bought spices in-order-that, having-come, they-might-anoint-him. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And very early on-the one (day) of-the week[s], they-come to the tomb, the-sun having-risen. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And they-were-saying to each-other, <i>“Who will-roll-away the stone for-us from the entrance of-the tomb?” </i></span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And having-looked-up, they-see that the stone has-been-been-rolled-away, for it-was exceedingly large. </span></span>
@@ -37,12 +37,6 @@ prev: chapter-15
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then the Lord Jesus, after [the] speaking to-them, was-taken-up into [the] heaven and sat-down on (the) right (hand) of-[the] God. </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And those, having-gone-out, preached everywhere, the Lord working-with (them) and confirming the word through the signs following.]]</span></span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil Warren, PhD</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>translator</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                    </span><span style='font-family:"Times New Roman",serif'>   christir.org</span></p>
 
 
 <style>

@@ -1,7 +1,9 @@
 ---
-title: "A MAP OF EPHESIANS 1:15-23 Ephesians have Paul responds Ephesians receive God does faith in the Lord thanks wisdom/knowledge/ resurrection"
-author: "Virgil Warren, christir.org"
+title: "A Map of Ephesians 1:15-23"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2005-03-13
+lastmod: 2025-07-12
 categories:
 - 'Topics'
 - 'Sermons Devotions'
@@ -26,8 +28,7 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='text-align:center'><b><span
-style='font-size:14.0pt'>A MAP OF EPHESIANS 1:15-23</span></b></p>
+
 
 <p class=MsoNormal align=center style='text-align:center'>&nbsp;</p>
 

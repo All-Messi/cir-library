@@ -13,7 +13,7 @@ next: chapter-136
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hallelujah!</span></b></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124355647"><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>Praise the L</span></a><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>;</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>Praise the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>;</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      praise him, his servant,</span></p>
 
@@ -47,7 +47,7 @@ next: chapter-136
 
 <p class="section-ref">Ps 135:5-7</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124355843"><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He struck Egypt’s firstborn,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He struck Egypt’s firstborn,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      people and animals.</span></p>
 
@@ -97,9 +97,7 @@ next: chapter-136
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>House of Israel, <b>bless the L</b></span><b><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span></b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>;</span></span></p>
 
-
-### House of Aaron, bless the LORD;
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> House of Aaron, <b>bless the L</b></span><b><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>;</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>House of Levi, <b>bless the L</b></span><b><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span></b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>;</span></span></p>
 

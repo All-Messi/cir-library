@@ -11,7 +11,7 @@ next: chapter-10
 
 ## 2 Corinthians Chapter 9
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For about the ministry [the] to the saints it-is unnecessary for-me to-write to-you. </span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For about the ministry [the] to the saints it-is unnecessary for-me to-write to-you. </span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> For I-know the commitment/eagerness/willingness of-you which I-boast to-(the)-Macedonia about you, that Achaia has-been-prepared from (a) year-ago and the zeal of-you aroused/stirred-up the very-many (of then). </span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> But I-sent the brothers, in-order-that the boasting of-us [the] about you would<b>┘</b>note└be-empty in this matter, in-order-that, as I-was-saying, you may be prepared/ready, 4lest somehow if Macedonia come with me and find you not-ready/unprepared, we would-be-embarrassed/ashamed, (in-order-that I-may<b>┘</b>not└say) by thie [the] confidence. </span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> So I-considered (it) necessary to-urge the brothers in-order-that they-would-go-on-ahead to you and prepare-in-advance-of-time the previously-promised blessing of-you, this to-be ready thus as (a) blessing and not as something-pressured-to-be done.</span></span></p>
@@ -23,9 +23,7 @@ next: chapter-10
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b>“He-scattered; he-gave to-the poor;</b></span></p>
 
-
-### The righteousness of-him remains forever3.
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    The righteousness of-him remains forever<sup>3</sup>.</span></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now the-One supplying seed to-the sower and bread for food will-supply and multiply the seed of-you and will-increase the harvest of-the righteousness of-you, </span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> being-enriched in everything to all generosity, which is-producing through us thanksgiving to-[the] God; </span>

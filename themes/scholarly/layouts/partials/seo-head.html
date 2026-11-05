@@ -1,0 +1,207 @@
+{{- /* seo-head.html — search-engine and link-preview metadata (2026-11-04, site comb §3).
+       Included once from baseof <head>. Emits: meta description, robots (noindex on every
+       non-production build, i.e. the staging mirror), canonical, Open Graph / Twitter card,
+       favicons, JSON-LD (@graph: Person + WebSite + one node for the page) and, on essays,
+       Google Scholar citation_* tags.
+       Every absolute URL is built on params.canonicalBase (https://christir.org), never on
+       the build's baseURL, so the staging mirror points search engines at production. */ -}}
+{{- $p := . -}}
+{{- $prod := site.Params.canonicalBase | default "https://christir.org" | strings.TrimSuffix "/" -}}
+{{- $basePath := (urls.Parse site.BaseURL).Path | strings.TrimSuffix "/" -}}
+{{- $path := $p.RelPermalink -}}
+{{- if $basePath }}{{ $path = strings.TrimPrefix $basePath $path }}{{ end -}}
+{{- $canonical := printf "%s%s" $prod $path -}}
+{{- with $p.Params.canonicalURL }}{{ $canonical = cond (strings.HasPrefix . "http") . (printf "%s/%s" $prod (strings.TrimPrefix "/" .)) }}{{ end -}}
+{{- $is404 := eq $p.Kind "404" -}}
+
+{{- /* ---------- page classification ---------- */ -}}
+{{- $type := $p.Type -}}
+{{- $isChapter := eq $type "chapter" -}}
+{{- $isBibleBook := eq $type "book" -}}
+{{- $isHarmony := eq $type "harmony-section" -}}
+{{- $isMed := and $p.IsPage (strings.Contains $path "/communion-meditations/") -}}
+{{- $isEssay := and $p.IsPage (eq $p.Section "essays") -}}
+{{- $isArticle := and $p.IsPage (not $isChapter) (not $isHarmony) (not (in (slice "search") $type)) (ne $p.Layout "author-page") (ne $p.Layout "about") -}}
+{{- $kind := $p.Params.content_kind | default "" -}}
+{{- $scholar := and $isEssay (not $isMed) (not (in (slice "title-page" "study-prompt") $kind)) -}}
+{{- $transAbbr := $p.Params.translation | default "" -}}
+{{- $transTitle := "Conversational Bible" -}}{{- $transPath := "" -}}
+{{- $transPage := false -}}
+{{- if $isChapter }}{{ with $p.Parent }}{{ with .Parent }}{{ $transPage = . }}{{ end }}{{ end }}{{ else if $isBibleBook }}{{ with $p.Parent }}{{ $transPage = . }}{{ end }}{{ end -}}
+{{- with $transPage }}{{ $transTitle = .Title }}{{ $transPath = .RelPermalink }}{{ if $basePath }}{{ $transPath = strings.TrimPrefix $basePath $transPath }}{{ end }}{{ end -}}
+{{- $pdf := "" -}}{{ if or $isArticle $isBibleBook }}{{ $pdf = partial "pdf-path.html" $p }}{{ end -}}
+{{- $pdfURL := "" -}}{{ with $pdf }}{{ $pdfURL = printf "%s/%s" $prod . }}{{ end -}}
+
+{{- /* ---------- title / description ---------- */ -}}
+{{- $title := partial "seo-title.html" $p -}}
+{{- $desc := "" -}}
+{{- with $p.Description }}{{ $desc = . }}{{ end -}}
+{{- if not $desc -}}
+    {{- if $isChapter -}}
+        {{- $desc = printf "%s %v in the %s (%s), a translation by Virgil Warren, PhD." ($p.Params.book | default $p.Parent.Title) $p.Params.chapter $transTitle $transAbbr -}}
+    {{- else if $isBibleBook -}}
+        {{- $desc = printf "%s in the %s (%s), translated by Virgil Warren, PhD: all %d chapters, with a downloadable PDF." ($p.Params.book | default $p.Title) $transTitle $transAbbr (len $p.RegularPages) -}}
+    {{- else if $isHarmony -}}
+        {{- $desc = printf "Section %v of The Harmonized Gospels by Virgil Warren, PhD: %s (%s)." $p.Params.section $p.Title ($p.Params.reference | default "Matthew, Mark, Luke and John" | strings.TrimSuffix ";") | truncate 155 -}}
+    {{- else if $p.IsPage -}}
+        {{- $desc = partial "excerpt.html" $p -}}
+    {{- else if eq $p.Kind "term" -}}
+        {{- if eq $p.Layout "book-toc" -}}
+            {{- $desc = printf "%s, a book by Virgil Warren, PhD: table of contents and all %d chapters to read online." (replace $p.Title " (Book)" "") (len $p.Pages) -}}
+        {{- else -}}
+            {{- $desc = printf "%d writings by Virgil Warren, PhD filed under %s on Christian Internet Resources." (len $p.Pages) (partial "display-title.html" $p.Title) -}}
+        {{- end -}}
+    {{- else if eq $p.Kind "section" -}}
+        {{- $lead := $p.Content | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace -}}
+        {{- if gt (len $lead) 40 -}}
+            {{- $desc = $lead | truncate 155 -}}
+        {{- else if strings.Contains $path "/communion-meditations/" -}}
+            {{- $n := len $p.RegularPagesRecursive -}}
+            {{- $desc = printf "%s: %d communion %s by Virgil Warren, PhD, written for the Lord's Supper." $title $n (cond (eq $n 1) "meditation" "meditations") -}}
+        {{- else if eq $p.Section "essays" -}}
+            {{- $n := len $p.RegularPagesRecursive -}}
+            {{- $desc = printf "%s: %d %s by Virgil Warren, PhD." $title $n (cond (eq $n 1) "essay" "essays and studies") -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+{{- if and (not $desc) (eq $path "/translations/") -}}
+    {{- $desc = "Bible translations by Virgil Warren, PhD: the Conversational New Testament, Conversational Old Testament, Conversational Yahveh Version and Wooden New Testament, with a Gospel harmony." -}}
+{{- end -}}
+{{- if not $desc }}{{ $desc = site.Params.description }}{{ end -}}
+{{- $ogImage := printf "%s/%s" $prod (site.Params.ogImage | default "images/og-default.png") -}}
+
+    <meta name="description" content="{{ $desc }}">
+    <meta name="author" content="Virgil Warren, PhD">
+{{- if or (not hugo.IsProduction) $is404 }}
+    <meta name="robots" content="noindex,nofollow">
+{{- end }}
+{{- if not $is404 }}
+    <link rel="canonical" href="{{ $canonical }}">
+{{- end }}
+    <link rel="icon" href="{{ "favicon.ico" | relURL }}" sizes="any">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | relURL }}">
+    <link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | relURL }}">
+    <meta property="og:site_name" content="{{ site.Title }}">
+    <meta property="og:type" content="{{ if $isArticle }}article{{ else }}website{{ end }}">
+    <meta property="og:title" content="{{ $title }}">
+    <meta property="og:description" content="{{ $desc }}">
+    <meta property="og:url" content="{{ $canonical }}">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:image" content="{{ $ogImage }}">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Christian Internet Resources: the theological library of Virgil Warren, PhD">
+{{- if $isArticle }}
+    <meta property="article:author" content="{{ $prod }}/author/">
+    {{- if and $isMed (not $p.Date.IsZero) }}
+    <meta property="article:published_time" content="{{ $p.Date.Format "2006-01-02" }}">
+    {{- end }}
+{{- end }}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ $title }}">
+    <meta name="twitter:description" content="{{ $desc }}">
+    <meta name="twitter:image" content="{{ $ogImage }}">
+{{- if $scholar }}
+    <meta name="citation_title" content="{{ partial "display-title.html" $p.Title }}">
+    <meta name="citation_author" content="Warren, Virgil">
+    {{- with ($p.Params.publication_date | default $p.Params.year) }}
+    <meta name="citation_publication_date" content="{{ . }}">
+    {{- end }}
+    <meta name="citation_language" content="en">
+    <meta name="citation_publisher" content="Christian Internet Resources">
+    <meta name="citation_abstract_html_url" content="{{ $canonical }}">
+    {{- with $pdfURL }}
+    <meta name="citation_pdf_url" content="{{ . }}">
+    {{- end }}
+{{- end }}
+
+{{- /* ---------- JSON-LD ---------- */ -}}
+{{- $personID := printf "%s/author/#person" $prod -}}
+{{- $siteID := printf "%s/#website" $prod -}}
+{{- $person := dict
+    "@type" "Person"
+    "@id" $personID
+    "name" "Virgil Warren"
+    "honorificSuffix" "PhD"
+    "alternateName" (slice "Virgil Warren, PhD" "Dr. Virgil Warren")
+    "url" (printf "%s/author/" $prod)
+    "image" (printf "%s/images/warren.jpg" $prod)
+    "description" "Theologian, Bible translator and teacher. PhD in systematic theology, The Southern Baptist Theological Seminary (1977); taught Bible, theology and biblical languages at Manhattan Christian College 1977-1995."
+    "jobTitle" "Theologian and Bible translator"
+    "alumniOf" (slice
+        (dict "@type" "CollegeOrUniversity" "name" "The Southern Baptist Theological Seminary")
+        (dict "@type" "CollegeOrUniversity" "name" "Wheaton College Graduate School")
+        (dict "@type" "CollegeOrUniversity" "name" "Cincinnati Bible Seminary"))
+    "knowsAbout" (slice "Systematic theology" "Biblical interpretation" "New Testament Greek" "Bible translation" "Interpersonalism" "Christian apologetics")
+-}}
+{{- $website := dict
+    "@type" "WebSite"
+    "@id" $siteID
+    "url" (printf "%s/" $prod)
+    "name" site.Title
+    "alternateName" (slice "CIR" "christir.org")
+    "description" site.Params.description
+    "inLanguage" "en-US"
+    "author" (dict "@id" $personID)
+    "publisher" (dict "@id" $personID)
+    "copyrightHolder" (dict "@id" $personID)
+    "potentialAction" (dict
+        "@type" "SearchAction"
+        "target" (dict "@type" "EntryPoint" "urlTemplate" (printf "%s/search/?q={search_term_string}" $prod))
+        "query-input" "required name=search_term_string")
+-}}
+{{- $node := dict -}}
+{{- $me := dict "@id" $personID -}}
+{{- $site := dict "@id" $siteID -}}
+{{- if $isChapter -}}
+    {{- $bookPath := strings.TrimPrefix $basePath $p.Parent.RelPermalink -}}
+    {{- $transNode := dict "@type" "Book" "@id" (printf "%s%s#book" $prod $transPath) "name" $transTitle "url" (printf "%s%s" $prod $transPath) "translator" $me "inLanguage" "en" "bookFormat" "https://schema.org/EBook" "isPartOf" $site -}}
+    {{- $bookNode := dict "@type" "Book" "@id" (printf "%s%s#book" $prod $bookPath) "name" (printf "%s — %s" ($p.Params.book | default $p.Parent.Title) $transNode.name) "url" (printf "%s%s" $prod $bookPath) "translator" $me "inLanguage" "en" "isPartOf" $transNode -}}
+    {{- $node = dict "@type" "Chapter" "@id" (printf "%s#chapter" $canonical) "name" $title "description" $desc "url" $canonical "position" $p.Params.chapter "inLanguage" "en" "translator" $me "isAccessibleForFree" true "isPartOf" $bookNode -}}
+{{- else if $isBibleBook -}}
+    {{- $transNode := dict "@type" "Book" "@id" (printf "%s%s#book" $prod $transPath) "name" $transTitle "url" (printf "%s%s" $prod $transPath) "translator" $me "inLanguage" "en" "bookFormat" "https://schema.org/EBook" "isPartOf" $site -}}
+    {{- $node = dict "@type" "Book" "@id" (printf "%s#book" $canonical) "name" $title "description" $desc "url" $canonical "translator" $me "inLanguage" "en" "isAccessibleForFree" true "isPartOf" $transNode -}}
+    {{- with $pdfURL }}{{ $node = merge $node (dict "associatedMedia" (dict "@type" "MediaObject" "contentUrl" . "encodingFormat" "application/pdf")) }}{{ end -}}
+{{- else if eq $p.Layout "translation-home" -}}
+    {{- $node = dict "@type" "Book" "@id" (printf "%s#book" $canonical) "name" $p.Title "description" $desc "url" $canonical "translator" $me "inLanguage" "en" "bookFormat" "https://schema.org/EBook" "isAccessibleForFree" true "isPartOf" $site -}}
+{{- else if $isHarmony -}}
+    {{- $hPath := strings.TrimPrefix $basePath $p.Parent.RelPermalink -}}
+    {{- $node = dict "@type" "Chapter" "@id" (printf "%s#chapter" $canonical) "name" $p.Title "description" $desc "url" $canonical "position" $p.Params.section "inLanguage" "en" "author" $me "isAccessibleForFree" true "isPartOf" (dict "@type" "Book" "@id" (printf "%s%s#book" $prod $hPath) "name" $p.Parent.Title "url" (printf "%s%s" $prod $hPath) "author" $me "isPartOf" $site) -}}
+{{- else if eq $type "harmony-home" -}}
+    {{- $node = dict "@type" "Book" "@id" (printf "%s#book" $canonical) "name" $p.Title "description" $desc "url" $canonical "author" $me "inLanguage" "en" "isAccessibleForFree" true "isPartOf" $site -}}
+{{- else if eq $p.Layout "author-page" -}}
+    {{- $node = dict "@type" "ProfilePage" "@id" $canonical "url" $canonical "name" $title "mainEntity" $me "isPartOf" $site -}}
+{{- else if and (eq $p.Kind "term") (eq $p.Layout "book-toc") -}}
+    {{- $node = dict "@type" "Book" "@id" (printf "%s#book" $canonical) "name" (replace (partial "display-title.html" $p.Title) " (Book)" "") "description" $desc "url" $canonical "author" $me "inLanguage" "en" "isAccessibleForFree" true "isPartOf" $site -}}
+{{- else if $isArticle -}}
+    {{- $dt := partial "display-title.html" $p.Title -}}
+    {{- $headline := $dt -}}{{ if gt (len $dt) 110 }}{{ $headline = printf "%s…" (substr $dt 0 108 | strings.TrimSpace) }}{{ end -}}
+    {{- $node = dict
+        "@type" (cond $scholar "ScholarlyArticle" "Article")
+        "@id" (printf "%s#article" $canonical)
+        "headline" $headline
+        "name" $dt
+        "description" $desc
+        "url" $canonical
+        "mainEntityOfPage" $canonical
+        "author" $me
+        "publisher" $me
+        "copyrightHolder" $me
+        "inLanguage" "en"
+        "isAccessibleForFree" true
+        "image" $ogImage
+        "isPartOf" $site
+    -}}
+    {{- if and $p.Parent (ne $p.Parent.Kind "home") }}{{ $node = merge $node (dict "articleSection" (partial "seo-title.html" $p.Parent)) }}{{ end -}}
+    {{- if $isMed }}{{ $node = merge $node (dict "genre" "Communion meditation") }}{{ if not $p.Date.IsZero }}{{ $node = merge $node (dict "datePublished" ($p.Date.Format "2006-01-02")) }}{{ end }}{{ end -}}
+    {{- with ($p.Params.publication_date | default $p.Params.year) }}{{ $node = merge $node (dict "datePublished" (printf "%v" .)) }}{{ end -}}
+    {{- /* dateModified (2026-11-04): only from front-matter lastmod (the Word file's modified date,
+           scripts/sync_revised_dates.py), never from the conversion `date:` fallback. */ -}}
+    {{- if and $p.Params.lastmod (not $p.Lastmod.IsZero) }}{{ $node = merge $node (dict "dateModified" ($p.Lastmod.Format "2006-01-02")) }}{{ end -}}
+    {{- with $pdfURL }}{{ $node = merge $node (dict "associatedMedia" (dict "@type" "MediaObject" "contentUrl" . "encodingFormat" "application/pdf")) }}{{ end -}}
+{{- else if and (not $p.IsHome) (not $is404) -}}
+    {{- $node = dict "@type" (cond $p.IsPage "WebPage" "CollectionPage") "@id" $canonical "url" $canonical "name" $title "description" $desc "inLanguage" "en" "isPartOf" $site -}}
+{{- end -}}
+{{- $graph := slice $person $website -}}
+{{- if $node }}{{ $graph = $graph | append $node }}{{ end }}
+    <script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" $graph | jsonify | safeJS }}</script>

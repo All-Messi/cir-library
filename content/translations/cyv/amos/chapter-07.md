@@ -20,13 +20,9 @@ next: chapter-08
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <b>“Lord Yahveh, please pardon!</b></span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      How will Joseph make it?</span></i></b></p>
 
-### How will Joseph make it?
-
-
-
-### He’s too small!”
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            He’s too small!”</span></i></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh changed his mind.</span></b></span></p>
 
@@ -43,13 +39,9 @@ next: chapter-08
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <b> <i>“Lord Yahveh, please stop!</i></b></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      How can Joseph make it? </span></i></b></p>
 
-### How can Joseph make it?
-
-
-
-### He’s too small!”
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            He’s too small!”</span></i></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh changed his mind.</span></b></span></p>
 
@@ -75,9 +67,9 @@ next: chapter-08
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            the sanctuaries of Israel will be laid waste;</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I’ll attack Jeroboam’s dynasty with a sword.”</span></i></span></p>
 
-### I’ll attack Jeroboam’s dynasty with a sword.”                Amos 7:7-9
-
+<p class="section-ref">Amos 7:7-9</p>
 
 
 ### Amaziah Accuses Amos of Conspiracy
@@ -106,6 +98,10 @@ next: chapter-08
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>your property will be parceled up, </span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and you’ll die in an unclean land. </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Israel will go into exile.’”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>  </span></p>
+
+<p class="section-ref">Amos 7:10-17</p>
 
 
 <style>

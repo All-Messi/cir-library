@@ -1,7 +1,7 @@
 ---
 title: "The Redemption Yet to Come"
 date: '2014-09-28'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

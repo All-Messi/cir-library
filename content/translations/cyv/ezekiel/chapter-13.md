@@ -33,9 +33,7 @@ next: chapter-14
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Tell him it will fall. A downpour will come, hailstones will fall, violent wind will blow. </span></i></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When it falls, won’t they ask you where the plaster is you daubed on it?’”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></b></span></p>
 
-
-### Ezek 13:8-12
-
+<p class="section-ref">Ezek 13:8-12</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So</span><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the Lord Yahveh says, <i>“In my anger I’ll make a violent wind break out with hailstones and a downpour to bring down </i>that wall<i>. </i></span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What you daubed with whitewash I’ll bring down till its foundation shows. When it falls, it will bring you down with it. <u>You’ll know I’m Yahveh</u>. </span></i></span>

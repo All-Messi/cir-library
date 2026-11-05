@@ -11,9 +11,9 @@ next: chapter-23
 
 ## Isaiah Chapter 22
 
-<p class="MsoListBulletCxSpMiddle" align=center style='margin-top:0in;margin-bottom:0in;margin-left:.25in;text-align:center;'><a name="_Hlk86925783"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Oracle About the Valley of Vision</span></span></p>
+<p class="MsoListBulletCxSpMiddle" align=center style='margin-top:0in;margin-bottom:0in;margin-left:.25in;text-align:center;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Oracle About the Valley of Vision</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123264432"><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>What’s the matter with you? </span></a></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>What’s the matter with you? </span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Why are you all running up to the housetops?</span></p>
 
@@ -61,7 +61,7 @@ next: chapter-23
 
 <p class="section-ref">Is 22:4-8a</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123265683"></a><a name="_Hlk114840851"><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>At that time, you depend on the weapons in the House of the Forest </span></a></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>At that time, you depend on the weapons in the House of the Forest </span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>when you see how many breaches were in the wall of David’s city; </span></span></p>
 
@@ -77,14 +77,15 @@ next: chapter-23
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Lord G</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>OD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> of Hosts had called for you to weep, wail, shave <i>your</i> head, and put on burlap. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Instead, you’ve celebrated with revelry, butchering cattle and sheep, eating meat and drinking wine: <i>“Let’s eat and drink; tomorrow we die.”</i> </span></span>
-<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> of Hosts revealed this to me, <i>“I won’t forgive that sin as long as you live.”</i>
-                                                                      </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Is 22:8b-14</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                 </span></span></p>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> of Hosts revealed this to me, <i>“I won’t forgive that sin as long as you live.”</i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Is 22:8b-14</p>
 
 
 ### An Oracle for Shebna
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk86925976"><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Lord G</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>OD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> of Hosts says, </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Lord G</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>OD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> of Hosts says, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go ask Shebna, the palace administrator, </span></i><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Who are you that you’ve hewn out a monumental tomb for yourself here high in the rock? </span></i></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17-19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Arrogant man! I’m going to depose you from your office, wad you into a ball, and throw you away into a large country to die there with your splendid chariots, you disgrace to your master’s house. </span></i></span></p>

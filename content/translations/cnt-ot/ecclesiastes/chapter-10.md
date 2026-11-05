@@ -29,7 +29,7 @@ next: chapter-11
 
 <p class="section-ref">Eccl 10:1-4</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122425650"><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There’s a problem I’ve seen under the sun, an error that originates in rulers </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There’s a problem I’ve seen under the sun, an error that originates in rulers </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>who appoint foolish people to high positions while putting successful people in lower ones. </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve seen slaves ride horses beside princes that walk on the ground like slaves.</span></span></p>
 
@@ -75,7 +75,7 @@ next: chapter-11
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      whose princes feast in the morning.<b>                                 </b></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122425714"><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’re a fortunate land if its king is noble </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’re a fortunate land if its king is noble </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and its princes eat at normal times—</span></p>
 

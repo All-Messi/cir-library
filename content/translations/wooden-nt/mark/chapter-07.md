@@ -21,9 +21,7 @@ next: chapter-08
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Isaiah well prophesied concerning you [the] hypocrites, when he-has-written [that]<sup>ms</sup>,</span></i></p>
 
-
-### ‘This [the] people honors me with the/their lips,
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b><i>‘This [the] people honors me with the/their lips,</i></b></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        but the heart of-them is far from me;</span></i></b></p>
 
@@ -36,19 +34,13 @@ next: chapter-08
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he-was-saying to-them, <i>“Well you-set-aside the commandment of-[the] God in-order-that you-may-establish the tradition of-you. </i></span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For Moses said,</span></i></span></p>
 
-
-### ‘Honor the father of-you and the mother of-you,’
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>‘Honor the father of-you and the mother of-you,’</b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and</span></i></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            ‘<b>Let┘the-one speaking-evil-of father and mother</b></span></i></p>
 
-### ‘Let┘the-one speaking-evil-of father and mother
-
-
-
-### └die with death/surely-be-put-to-death.’
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            └</span></i></b><b><i><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>die with death/surely-be-put-to-death</span></i></b><b><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.’ </span></i></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But
 <u>you</u> say, ‘If (a) man says to-the/his father or the/his mother, “Corban,”

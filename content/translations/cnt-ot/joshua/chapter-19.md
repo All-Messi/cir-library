@@ -12,11 +12,6 @@ next: chapter-20
 ## Joshua Chapter 19
 
 
-### That was Benjamin’s inheritance by clans.
-                        Josh 18:21-28
-
-
-
 ### Allotment to Simeon
 
 

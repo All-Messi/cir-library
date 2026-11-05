@@ -2,6 +2,8 @@
 title: "INTERPRETING THE CREATION NARRATIVE"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2018-07-15
+lastmod: 2025-07-10
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -6423,7 +6425,7 @@ detailed in large part in 1:2-2:3. </b></p>
 
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'>&nbsp;</p>
 
-<p class=MsoNormal style='text-align:justify;text-indent:.5in'>       <img
+<p class=MsoNormal style='text-align:justify;text-indent:.5in'>       <img alt="Genesis 1:1, 1:2-2:3 (days 1-6) and 2:4-25 as linked boxes"
 width=212 height=137 src="/images/essays/interpreting-the-creation-narrative/image001.png">          </p>
 
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'>That is part of
@@ -6471,7 +6473,7 @@ up the account from Day (3 plus) 6 in chapter <b>1</b>. </p>
 
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'>&nbsp;</p>
 
-<p class=MsoNormal style='text-align:justify;text-indent:.5in'>       <img
+<p class=MsoNormal style='text-align:justify;text-indent:.5in'>       <img alt="Genesis 1:1, 1:2-2:3 (days 1-6) and 2:4-25 as linked boxes"
 width=200 height=134 src="/images/essays/interpreting-the-creation-narrative/image002.png"></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>&nbsp;</span></p>

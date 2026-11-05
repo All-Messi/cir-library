@@ -22,12 +22,14 @@ prev: chapter-28
 </sup>tons <i><sup>3,000 talents</sup> of gold from Ophir, </i>264¼ tons<i> <sup>7,000 talents</sup> of refined silver for overlaying the walls of the Temple, </i></span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and the gold and silver items the craftsmen will make. Who will offer willingly, consecrating himself to the </span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> today?”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></b></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                        </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 29:1-5</span></b></p>
+<p class="section-ref">1 Ch 29:1-5</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The heads of families made freewill offerings, as did the tribal leaders, the commanders of thousands and hundreds, and the officers over the king’s work. </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They gave for the service of God’s Temple 188¾ tons <sup>5,000 talents </sup>of gold, 185 lbs <sup>10,000 darics</sup> of gold, 377½ tons <sup>10,000 talents </sup>of silver, 679½ tons <sup>18,000 talents</sup> of brass, and 3775 tons <sup>100,000 talents</sup> of iron. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Whoever had precious stones gave them to the treasury in the care of Jehiel the Gershonite. </span></span>
-<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people celebrated because they had given willingly and offered freely with all their heart. David also celebrated greatly.</span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>         1 Ch 29:6-9</span></b></span></p>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people celebrated because they had given willingly and offered freely with all their heart. David also celebrated greatly.</span></span></p>
+
+<p class="section-ref">1 Ch 29:6-9</p>
 
 
 ### David’s Prayer of Praise
@@ -44,7 +46,9 @@ prev: chapter-28
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This abundance we’ve provided for building you a temple comes from you and belongs to you. </span></i></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I know you test the heart and are delighted with godliness. With a godly heart I’ve freely offered everything and seen your people offering freely and joyfully. </span></i></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God of Abraham, Isaac, and Israel, always keep such purposes and thoughts in your people’s hearts and direct their hearts to you. </span></i></span>
-<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Give Solomon my son a whole heart for keeping your commandments, testimonies, and statutes; and for accomplishing everything so he can build the Temple I’ve made provisions for.”        </span></i><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>1 Ch 29:10-19</span></b></span></p>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Give Solomon my son a whole heart for keeping your commandments, testimonies, and statutes; and for accomplishing everything so he can build the Temple I’ve made provisions for.”        </span></i></span></span></p>
+
+<p class="section-ref">1 Ch 29:10-19</p>
 
 
 ### Solomon Anointed as King
@@ -66,9 +70,9 @@ prev: chapter-28
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>for <b>40 years, 7 in Hebron and for 33 in Jerusalem</b>. </span></span>
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died at a good old age, full of wealth and honor, and <b>Solomon</b> reigned. </span></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The acts of King David, from first to last, are recorded in <i>The Chronicles of Samuel the Seer, The Chronicles of Nathan the Prophet</i>, and <i>The Chronicles of Gad the Seer</i>, </span></span>
-<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>with accounts of his rule and strength, and the circumstances that came on him, on Israel, and on the surrounding kingdoms.                                                                                                   </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 29:20-30</span></b></span></p>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>with accounts of his rule and strength, and the circumstances that came on him, on Israel, and on the surrounding kingdoms.                                                                                                   </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
+<p class="section-ref">1 Ch 29:20-30</p>
 
 
 <style>

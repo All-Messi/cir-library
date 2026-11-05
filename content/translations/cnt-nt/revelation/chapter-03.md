@@ -12,14 +12,10 @@ next: chapter-04
 ## Revelation Chapter 3
 
 
-### Rev 2:18-29
-
-
-
 ### The Letter to Sardis
 
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Write this to the evangelist for the church in Sardis:</span></i></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Write this to the evangelist for the church in Sardis:</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            ‘This is what he says <span style='color:#C00000'>who has the seven spirits of God and the seven stars:</span> <span style='color:#00B050'>“I know what you’re doing</span>,
 <span style='color:#00B050'>that you’re alive in name only. </span></span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wake up and strengthen what’s left that’s about to die. I haven’t found your deeds perfect in front of my God. </span></i></span>
@@ -30,9 +26,7 @@ next: chapter-04
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#7030A0'>Whoever has an ear, listen to what the Spirit’s telling the churches.”’”</span></i></span></p>
 
-
-### Rev 3:1-6
-
+<p class="section-ref">Rev 3:1-6</p>
 
 
 ### The Letter to Philadelphia
@@ -57,9 +51,7 @@ next: chapter-04
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#7030A0'>Whoever has an ear, listen to what the Spirit’s telling the churches.’”                                               </span></i></span></p>
 
-
-### Rev 3:7-13
-
+<p class="section-ref">Rev 3:7-13</p>
 
 
 ### The Letter to Laodicea

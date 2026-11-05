@@ -31,7 +31,9 @@ next: chapter-10
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Their king, the angel of the abyss, had the Hebrew name Abaddon—<i>Apollyon*</i> <i>[Destroyer]
 </i>in Greek.</span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The first woe is over; two more are coming.                                                       </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Rev 9:7-12</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>       </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The first woe is over; two more are coming.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Rev 9:7-12</p>
 
 
 ### The Sixth Trumpet/The Second Woe

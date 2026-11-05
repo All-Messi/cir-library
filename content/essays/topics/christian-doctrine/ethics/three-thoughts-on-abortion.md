@@ -2,6 +2,7 @@
 title: "THREE THOUGHTS ON ABORTION"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2026-10-16
 categories:
 - 'Topics'
 - 'Christian Doctrine'

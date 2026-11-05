@@ -1,7 +1,7 @@
 ---
 title: "Helping Anyway"
 date: '2015-08-02'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

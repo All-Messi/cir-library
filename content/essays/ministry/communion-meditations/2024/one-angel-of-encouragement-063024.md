@@ -1,7 +1,7 @@
 ---
 title: "One Angel of Encouragement"
 date: '2024-06-30'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

@@ -1,7 +1,7 @@
 ---
 title: "Aspiration to Be like Christ"
 date: '2013-01-27'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

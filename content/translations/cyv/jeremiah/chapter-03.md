@@ -76,9 +76,7 @@ next: chapter-04
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Unfaithful Israel has proved to be more upright than unfaithful Judah. </span></i><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Go deliver this message toward the north,</span></i></span></p>
 
-
-### ‘Come back, unfaithful Israel;
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Come back, unfaithful Israel;</span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  I won’t stay angry forever.</span></i></p>
 
@@ -92,16 +90,16 @@ next: chapter-04
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  because I’m your master.</span></i></p>
 
-
-### I’ll bring back to Zion one from this town and two from that family.
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I’ll bring back to Zion one from this town and two from that family.</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>    </span></b></p>
 
 <p class="section-ref">Jer 3:11-14</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll give you shepherds after my own heart who will feed you knowledge and insight. </span></i></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When you’ve multiplied in the land, they won’t say anymore ‘The Ark of Yahveh’s covenant.’ It won’t be remembered or missed or remade. </span></i></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, they’ll call Jerusalem The Throne of Yahveh. All the nations will gather there to be in his presence. They’ll stop following their stubborn, sinful hearts. </span></i></span>
-<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Judah will follow Israel; together they’ll come back from</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> exile in <i>the north to the land I gave their ancestors.    </i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jer 3:15-18</span></b><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></sup></b></span></p>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Judah will follow Israel; together they’ll come back from</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> exile in <i>the north to the land I gave their ancestors.</i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></sup></b></span></p>
+
+<p class="section-ref">Jer 3:15-18</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Then I said how I’d include you among my children</span></i></span></p>
 

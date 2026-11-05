@@ -1,7 +1,7 @@
 ---
 title: "Not Alone"
 date: '2025-09-07'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

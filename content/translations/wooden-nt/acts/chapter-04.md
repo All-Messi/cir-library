@@ -11,7 +11,7 @@ next: chapter-05
 
 ## Acts Chapter 4
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And they speaking to the people, the priests and the captain-of-the-temple-guard and the Sadducees confronted them, </span></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And they speaking to the people, the priests and the captain-of-the-temple-guard and the Sadducees confronted them, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>greatly-annoyed on-account-of their teaching the people and proclaiming in [the] Jesus the resurrection [the] of (the) dead. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And they-laid┘[the] hands└on them and put (them) in jail till the next-day, for evening was already. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And many of-the-ones having-heard the word believed, and [the]<sup>ms</sup> number of-the men became [about]<sup>ms</sup> five thousand.</span></span></p>
@@ -57,9 +57,7 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Master, you the-One having-made the sky and the earth and the sea and all the-things in them, </span></i><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the-One having-spoken through (the) Holy Spirit (through the) mouth of-David your servant, the father of-us,</span></i></span></p>
 
-
-### ‘Why did (the) nations rage,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>‘Why did (the) nations rage,</i></b></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and (the) peoples imagine empty-things?</span></i></b></p>
 

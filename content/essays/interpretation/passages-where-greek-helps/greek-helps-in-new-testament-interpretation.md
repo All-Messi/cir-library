@@ -2,6 +2,7 @@
 title: "GREEK HELPS IN NEW TESTAMENT INTERPRETATION"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-11
 categories:
 - 'Interpretation'
 - 'Passages Where Greek Helps'
@@ -14129,23 +14130,23 @@ line-height:115%;font-family:"Times New Roman",serif'>John 16:31</span></b><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                         question/statement</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-9.0pt;margin-bottom:
-0in;margin-left:2.5in;text-align:justify;text-indent:-2.5in'><span
+0in;margin-left:min(2.5in, 35vw);text-align:justify;text-indent:calc(min(0px, 35vw) - min(2.5in, 35vw))'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>“<u>Do</u>
 you believe now?”</i>          That is questionable because you will forsake me
 during the trial.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-9.0pt;margin-bottom:
-0in;margin-left:2.5in;text-align:justify;text-indent:-2.5in'><span
+0in;margin-left:min(2.5in, 35vw);text-align:justify;text-indent:calc(min(0px, 35vw) - min(2.5in, 35vw))'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>“You
 believe now.”</i>                 That is true, but you will nonetheless
 forsake me during the trial. Belief has a functional component within it.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-9.0pt;margin-bottom:
-0in;margin-left:2.5in;text-align:justify;text-indent:-2.5in'><span
+0in;margin-left:min(2.5in, 35vw);text-align:justify;text-indent:calc(min(0px, 35vw) - min(2.5in, 35vw))'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-9.0pt;margin-bottom:
-0in;margin-left:2.5in;text-align:justify;text-indent:-2.5in'><b><span
+0in;margin-left:min(2.5in, 35vw);text-align:justify;text-indent:calc(min(0px, 35vw) - min(2.5in, 35vw))'><b><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>John
 18:36</span></b><span style='font-size:12.0pt;line-height:115%;font-family:
 "Times New Roman",serif'>                                                                                         </span><span
@@ -14155,7 +14156,7 @@ lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",s
 genitive</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-9.0pt;margin-bottom:
-0in;margin-left:2.5in;text-align:justify;text-indent:-2.5in'><b><span
+0in;margin-left:min(2.5in, 35vw);text-align:justify;text-indent:calc(min(0px, 35vw) - min(2.5in, 35vw))'><b><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>ἡ</span><span
 lang=EL style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
@@ -22014,9 +22015,8 @@ under the headship of Christ, whom they are to respect (Ephesians <b>5</b>:21;
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-9.0pt;margin-bottom:
 10.0pt;margin-left:.25in;text-align:justify'><span style='font-size:12.0pt;
-line-height:115%'>   <img width=370 height=114 id="Picture 10"
-src="/images/essays/greek-helps-in-new-testament-interpretation/image001.png"
-alt="A diagram of a diagram of a diagram&#10;&#10;Description automatically generated"></span><span
+line-height:115%'>   <img alt="“Mutual submission” → Philippians 2:3, (2:4) mentality (“mind”); purpose &gt; responsibility &gt; authority (“head”)" width=370 height=114 id="Picture 10"
+src="/images/essays/greek-helps-in-new-testament-interpretation/image001.png"></span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-9.0pt;margin-bottom:
@@ -22782,9 +22782,8 @@ line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-9.0pt'><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>            </span><span
-style='font-size:12.0pt;line-height:115%'><img width=281 height=257
-id="Picture 1" src="/images/essays/greek-helps-in-new-testament-interpretation/image002.png"
-alt="A close-up of a computer screen&#10;&#10;Description automatically generated"></span></p>
+style='font-size:12.0pt;line-height:115%'><img alt="Stacked boxes of aeons with S and M descending from Pure Spirit; “fullness” (pleroma)" width=281 height=257
+id="Picture 1" src="/images/essays/greek-helps-in-new-testament-interpretation/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-9.0pt'><b><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>Colossians 2:12</span></b><span
@@ -23757,9 +23756,8 @@ line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-9.0pt;margin-bottom:
 0in;margin-left:0in;text-align:justify;text-indent:.5in'><span
-style='font-size:12.0pt;line-height:115%'><img width=222 height=239
-id="Picture 4" src="/images/essays/greek-helps-in-new-testament-interpretation/image003.png"
-alt="A diagram of a diagram&#10;&#10;Description automatically generated with medium confidence"></span></p>
+style='font-size:12.0pt;line-height:115%'><img alt="Possible meanings (legal: whether married, a deuterogamist, a scripturally remarried divorcee; moral: whether a polygamist, an adulterer, a flirt) and the intended meaning “blameless”" width=222 height=239
+id="Picture 4" src="/images/essays/greek-helps-in-new-testament-interpretation/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-9.0pt;margin-bottom:
 0in;margin-left:0in;text-align:justify'><span style='font-size:12.0pt;
@@ -23865,9 +23863,8 @@ line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-9.0pt;margin-bottom:
 0in;margin-left:0in;text-align:justify'><span style='font-size:12.0pt;
-line-height:115%'><img width=247 height=95 id="Picture 5"
-src="/images/essays/greek-helps-in-new-testament-interpretation/image004.png"
-alt="A diagram of a diagram of a national brand&#10;&#10;Description automatically generated with medium confidence"></span></p>
+line-height:115%'><img alt="ὁ διάκονος (1 Timothy 3:8-10, 12-13) and ἡ διάκονος (Romans 16:1; 1 Timothy 3:11 γυνή)" width=247 height=95 id="Picture 5"
+src="/images/essays/greek-helps-in-new-testament-interpretation/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-9.0pt;margin-bottom:
 0in;margin-left:0in;text-align:justify'><span style='font-size:12.0pt;
@@ -24397,9 +24394,8 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-9.0pt;margin-bottom:
 0in;margin-left:0in;text-align:justify'><b><span style='font-size:12.0pt;
-line-height:115%'>                      <img width=298 height=50 id="Picture 11"
-src="/images/essays/greek-helps-in-new-testament-interpretation/image005.png"
-alt="A close-up of a paper&#10;&#10;Description automatically generated"></span></b></p>
+line-height:115%'>                      <img alt="All / every scripture (,) [is] Godbreathed (,) [is] and profitable also" width=298 height=50 id="Picture 11"
+src="/images/essays/greek-helps-in-new-testament-interpretation/image005.png"></span></b></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-9.0pt;margin-bottom:
 0in;margin-left:0in;text-align:justify'><span style='font-size:12.0pt;
@@ -24568,8 +24564,7 @@ line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-9.0pt;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>                                            
-<img width=191 height=35 id="Picture 12" src="/images/essays/greek-helps-in-new-testament-interpretation/image006.png"
-alt="A close-up of a diagram&#10;&#10;Description automatically generated"></span></p>
+<img alt="God → prophet → proclamation" width=191 height=35 id="Picture 12" src="/images/essays/greek-helps-in-new-testament-interpretation/image006.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-9.0pt;margin-bottom:
 0in;margin-left:0in;text-align:justify'><span style='font-size:12.0pt;

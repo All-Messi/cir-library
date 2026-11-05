@@ -30,7 +30,9 @@ next: chapter-07
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ahitub Avi-Zadok Avi-</span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Shallum Avi-Hilkiah Avi-</span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Azariah Avi-Seraiah Avi-</span></span>
-<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jehozadak, who went into exile when </span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Yahveh took Judah and Jerusalem away by Nebuchadnezzar.                                                                                                                                               </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 6:1-15</span></b></span></p>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jehozadak, who went into exile when </span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Yahveh took Judah and Jerusalem away by Nebuchadnezzar.                                                                                                                                               </span></span></p>
+
+<p class="section-ref">1 Ch 6:1-15</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of Levi were <u>Gershom</u>, <u>Kohath</u>, and <u>Merari</u>.</span></span></p>
 
@@ -55,7 +57,9 @@ next: chapter-07
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%'>         </span><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%'>The sons of Merari </span><i><span style='font-size:12.0pt;line-height:115%'>were</span></i><span style='font-size:12.0pt;line-height:115%'> Mahli Avi-Libni Avi-Shimei Avi-Uzzah Avi-</span></span>
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%'>Shimea Avi-Haggiah Avi-Asaiah.
-              </span><b><span style='font-size:10.0pt;line-height:115%'>1 Ch 6:16-30</span></b></span></p>
+              </span></span></p>
+
+<p class="section-ref">1 Ch 6:16-30</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%'>         </span><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%'>These are the ones David appointed to sing in </span><span style='font-size:12.0pt;line-height:115%'>Yahveh’s Tabernacle after the Ark rested there. </span></span>
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt; line-height:115%'>They served in song at the Tent of Meeting till Solomon built
@@ -81,7 +85,9 @@ next: chapter-07
 <span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <span style='font-size:10.0pt;line-height:115%'>Ben-Mahli Ben-Mushi Ben-Merari</span><span style='font-size:12.0pt;line-height:115%'>) Ben-Levi.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%'>         </span><span class="verse verse-v48" id="v48"><sup class="verse-num">48</sup> <span style='font-size:12.0pt;line-height:115%'>Their relatives the Levites were appointed for the service of the Tabernacle, God’s house.
-                 </span><b><span style='font-size:10.0pt;line-height:115%'>I Ch 6:31-48</span></b></span></p>
+                 </span></span></p>
+
+<p class="section-ref">I Ch 6:31-48</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%'>         </span><span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <span style='font-size:12.0pt;line-height:115%'>Aaron and his sons offered on the altar of burnt offering and the altar of incense for the work of the Holy of Holies, and atoned for Israel like Moses had commanded. </span></span></p>
 
@@ -97,7 +103,9 @@ next: chapter-07
 <span class="verse verse-v58" id="v58"><sup class="verse-num">58</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hilen with its pastures, Debir with its pastures, </span></span>
 <span class="verse verse-v59" id="v59"><sup class="verse-num">59</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ashan with its pastures, and Beth-shemesh with its pastures. </span></span>
 <span class="verse verse-v60" id="v60"><sup class="verse-num">60</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From
-</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Benjamin they gave Geba with its pastures, Allemeth with its pastures, and Anathoth with its pastures—13 towns.</span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>                                                                                                  1 Ch 6:49-60</span></b></span></p>
+</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Benjamin they gave Geba with its pastures, Allemeth with its pastures, and Anathoth with its pastures—13 towns.</span></span></p>
+
+<p class="section-ref">1 Ch 6:49-60</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span><span class="verse verse-v61" id="v61"><sup class="verse-num">61</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>To the rest of Kohath’s descendants, they gave 10 towns by lot from the Manasseh half-tribe.</span></span></p>
 
@@ -113,7 +121,9 @@ next: chapter-07
 <span class="verse verse-v68" id="v68"><sup class="verse-num">68</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jokmeam, Beth-horon, </span></span>
 <span class="verse verse-v69" id="v69"><sup class="verse-num">69</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Aijalon, and Gath-rimmon. </span></span>
 <span class="verse verse-v70" id="v70"><sup class="verse-num">70</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From the Manasseh </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>half-tribe<i>
-</i><i>they gave</i> towns with their pastures: Aner and Bileam for the rest of the descendants of Kohath.</span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                                                                              1 Ch 6:61-70</span></b></span></p>
+</i><i>they gave</i> towns with their pastures: Aner and Bileam for the rest of the descendants of Kohath.</span></span></p>
+
+<p class="section-ref">1 Ch 6:61-70</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span><span class="verse verse-v71" id="v71"><sup class="verse-num">71</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>To Gershom’s descendants they gave towns with their pastures from the family of the Manasseh<i> </i></span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>half-tribe<span style='color:black'>:</span> Golan in Bashan and Ashtaroth. </span></span>
 <span class="verse verse-v72" id="v72"><sup class="verse-num">72</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From the tribe of Issachar </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>they gave</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> towns with their pastures: Kedesh, Daberath, </span></span>
@@ -129,7 +139,9 @@ next: chapter-07
 <span class="verse verse-v79" id="v79"><sup class="verse-num">79</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Kedemoth, and Mephaath. </span></span>
 <span class="verse verse-v80" id="v80"><sup class="verse-num">80</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From Gad </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>they gave</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> towns with their pastures: Ramoth in Gilead, Mahanaim, </span></span>
 <span class="verse verse-v81" id="v81"><sup class="verse-num">81</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Heshbon, and Jazer.
-             </span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>1 Ch 6:71-81</span></b></span></p>
+             </span></span></p>
+
+<p class="section-ref">1 Ch 6:71-81</p>
 
 
 <style>

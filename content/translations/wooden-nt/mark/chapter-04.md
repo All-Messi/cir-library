@@ -11,7 +11,8 @@ next: chapter-05
 
 ## Mark Chapter 4
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>4<sup>:1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And again he-began to-teach beside the sea. And (a) very-large crowd is-gathering to-him, so-that him having-gotten into (a) boat to-sit-down on the sea, and all the crowd were/was by the sea on the ground. </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he-was-teaching them many-things in parables, and he-was-saying to-them in the teaching of him, </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And again he-began to-teach beside the sea. And (a) very-large crowd is-gathering to-him, so-that him having-gotten into (a) boat to-sit-down on the sea, and all the crowd were/was by the sea on the ground. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he-was-teaching them many-things in parables, and he-was-saying to-them in the teaching of him, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Listen. Behold, the/a sower went-out to-sow, and it-happened in the sowing (that) some (seed) fell beside the road, and the birds came and ate┘it└up. </span></i></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And other (seed) sell on [the] rocky-ground where it-was┘not└having much soil, and immediately it-sprouted on-account-of [the] not to-have/having depth of-soil; </span></i></span>
@@ -25,9 +26,7 @@ next: chapter-05
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>in-order-that
 </span></i></span></p>
 
-
-### ‘Seeing they may see/they-may┘certainly└see and not understand,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><b><i><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Seeing they may see/they-may┘certainly└see</span></i></b><b><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> and not understand,</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and
 </span></i></b><b><i><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>hearing, they-may-hear/they-may┘certainly└hear</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> and not perceive,</span></i></b></p>

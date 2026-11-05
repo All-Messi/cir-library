@@ -1,7 +1,9 @@
 ---
-title: "Straight Thinking 121767 HEADING FOR HEAVEN"
-author: "Virgil Warren, christir.org"
+title: "Heading for Heaven"
+subtitle: "Straight Thinking, December 17, 1967"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-12
 categories:
 - 'Ministry'
 - 'Straight Thinking For Youth'
@@ -26,14 +28,11 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>Straight Thinking</span></b></p>
 
-<p class=MsoNormal align=center style='margin-bottom:.25in;text-align:center'><span
-style='font-size:10.0pt;line-height:115%'>121767</span></p>
 
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%'>HEADING FOR HEAVEN</span></p>
+
+
+
 
 <p class=MsoNormal style='text-align:justify'><i><span style='font-size:12.0pt;
 line-height:115%'>Sunday.</span></i><span style='font-size:12.0pt;line-height:
@@ -100,6 +99,5 @@ heading for heaven. (</span><span style='font-size:10.0pt;line-height:115%'>Read
 Ephesians <b>5</b>:15-17</span><span style='font-size:12.0pt;line-height:115%'>.)</span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
-line-height:115%'>Virgil Warren, <u>Straight</u>, December 17, 1967, p13                                                                            
-christir.org</span></p>
+line-height:115%'>Virgil Warren, <u>Straight</u>, December 17, 1967, p13</span></p>
 </div>

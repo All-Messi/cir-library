@@ -1,0 +1,61 @@
+{{ define "main" }}
+{{- /* 404 page (2026-11-04, site comb NAV-14). GitHub Pages serves /404.html for any missing
+       URL, so every link here is absolute from the site root. seo-head.html marks it noindex
+       and emits no canonical. */ -}}
+<div class="nf-page">
+    <p class="nf-code">404</p>
+    <h1>Page not found</h1>
+    <p class="nf-lead">The page you asked for isn't here. It may have moved when the library was reorganised. Try a search, or start from one of the sections below.</p>
+
+    <form class="nf-search" action="{{ "search/" | relURL }}" method="get" role="search">
+        <label for="nf-q" class="visually-hidden">Search the library</label>
+        <input type="search" id="nf-q" name="q" placeholder="Search essays, Bible text, meditations…" autocomplete="off">
+        <button type="submit">Search</button>
+    </form>
+
+    <ul class="nf-links">
+        <li><a href="{{ "essays/" | relURL }}"><strong>Essays &amp; Studies</strong><span>Theology, interpretation, evidences, ministry</span></a></li>
+        <li><a href="{{ "translations/" | relURL }}"><strong>Bible Translations</strong><span>Conversational NT &amp; OT, Yahveh Version, Wooden NT</span></a></li>
+        <li><a href="{{ "books/" | relURL }}"><strong>Complete Books</strong><span>Getting the Point, Christian Living and more</span></a></li>
+        <li><a href="{{ "translations/harmony/" | relURL }}"><strong>Gospel Harmony</strong><span>The four Gospels in one account</span></a></li>
+        <li><a href="{{ "essays/ministry/communion-meditations/" | relURL }}"><strong>Communion Meditations</strong><span>Sunday reflections on the Lord's Supper</span></a></li>
+        <li><a href="{{ "author/" | relURL }}"><strong>Virgil Warren, PhD</strong><span>About the author</span></a></li>
+    </ul>
+    <p class="nf-home"><a href="{{ "" | relURL }}">← Back to the home page</a></p>
+</div>
+
+<script>
+// Offer the words of the missing address as a starting search ("/essays/old-title/" -> "old title").
+(function() {
+    var input = document.getElementById('nf-q');
+    if (!input) return;
+    var seg = decodeURIComponent(location.pathname).replace(/\/+$/, '').split('/').pop() || '';
+    seg = seg.replace(/\.html?$/i, '').replace(/[-_]+/g, ' ').replace(/\b\d{6}[ab]?\b/g, '').trim();
+    if (seg && seg.length > 2 && seg.length < 80 && !/^404$/.test(seg)) input.value = seg;
+})();
+</script>
+
+<style>
+.nf-page { max-width: 720px; margin: 0 auto; padding: 3rem 1rem 4rem; text-align: center; }
+.nf-code { font-family: 'Source Sans Pro', sans-serif; font-size: 0.8rem; font-weight: 700; letter-spacing: 0.2em; color: #2f4c3a; margin: 0 0 0.5rem; }
+.nf-page h1 { font-family: 'Playfair Display', serif; font-size: 2.25rem; font-weight: 700; color: #000; margin: 0 0 0.75rem; }
+.nf-lead { font-family: 'Source Serif Pro', serif; font-size: 1.05rem; color: #444; line-height: 1.6; margin: 0 auto 2rem; max-width: 560px; }
+.nf-search { display: flex; gap: 0.5rem; max-width: 520px; margin: 0 auto 2.5rem; }
+.nf-search input { flex: 1; min-width: 0; font: inherit; font-family: 'Source Sans Pro', sans-serif; font-size: 1rem; padding: 0.7rem 0.9rem; border: 1px solid #cfcac0; border-radius: 6px; background: #fff; color: #1a1a1a; }
+.nf-search input:focus { outline: 2px solid #2f4c3a; outline-offset: 1px; border-color: #2f4c3a; }
+.nf-search button { font-family: 'Source Sans Pro', sans-serif; font-size: 0.95rem; font-weight: 600; padding: 0.7rem 1.1rem; border: 0; border-radius: 6px; background: #2f4c3a; color: #fff; cursor: pointer; }
+.nf-search button:hover { background: #1f3428; }
+.nf-links { list-style: none; padding: 0; margin: 0 0 2rem; display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; text-align: left; }
+.nf-links a { display: block; height: 100%; box-sizing: border-box; padding: 0.9rem 1rem; border: 1px solid #e3e0d8; border-radius: 6px; background: #f8f6f2; text-decoration: none; transition: border-color .15s; }
+.nf-links a:hover, .nf-links a:focus { border-color: #2f4c3a; }
+.nf-links strong { display: block; font-family: 'Playfair Display', serif; font-size: 1.05rem; color: #2f4c3a; margin-bottom: 0.2rem; }
+.nf-links span { display: block; font-family: 'Source Sans Pro', sans-serif; font-size: 0.85rem; color: #555; }
+.nf-home a { font-family: 'Source Sans Pro', sans-serif; font-size: 0.9rem; color: #2f4c3a; }
+@media (max-width: 560px) {
+    .nf-page { padding-top: 2rem; }
+    .nf-page h1 { font-size: 1.75rem; }
+    .nf-links { grid-template-columns: 1fr; }
+    .nf-search button { padding: 0.7rem 0.9rem; }
+}
+</style>
+{{ end }}

@@ -15,7 +15,7 @@ next: chapter-03
 ### Ezekiel’s Call
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124530275"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Son of man, stand up so I can talk to you!”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Son of man, stand up so I can talk to you!”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the Spirit stood me up, </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>he said, </span></span></p>
 

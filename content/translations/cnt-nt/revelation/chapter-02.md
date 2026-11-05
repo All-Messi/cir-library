@@ -15,7 +15,7 @@ next: chapter-03
 ### The Letter to Ephesus
 
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Write this to the evangelist for the church in Ephesus:</span></i></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Write this to the evangelist for the church in Ephesus:</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            ‘This is what he says who <span style='color:#C00000'>holds the seven stars in his right hand
 </span>and <span style='color:#C00000'>walks among the seven gold lampstands</span>:
@@ -83,6 +83,8 @@ next: chapter-03
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>As I received from my Father, I’ll give them the morning star. </span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#7030A0'>Whoever has an ear, listen to what the Spirit’s telling the churches.”’” </span></i></span></p>
+
+<p class="section-ref">Rev 2:18-29</p>
 
 
 <style>

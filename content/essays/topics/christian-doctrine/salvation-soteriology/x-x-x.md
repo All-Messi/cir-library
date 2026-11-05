@@ -1,7 +1,8 @@
 ---
-title: "x x x,"
-author: "Virgil Warren, christir.org"
+title: "Apologetics, Salvation, and Witnessing"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-03-06
 categories:
 - 'Topics'
 - 'Christian Doctrine'

@@ -75,9 +75,9 @@ next: chapter-32
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:1.25in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>Didn’t the One that made me in the womb make the accuser too?</span></i></span></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>Didn’t the same One make us both?</span></i><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                     </span></b></span></p>
 
-### Didn’t the same One make us both?                     Job 31:13-15
-
+<p class="section-ref">Job 31:13-15</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>“If I’ve withheld from the poor what they needed</span></i></span></p>
 
@@ -149,9 +149,9 @@ next: chapter-32
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>No foreigner has had to lodge outside;</span></i></span></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>I’ve opened my doors to travelers.</span></i><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:gray'>                       </span></b></span></p>
 
-### I’ve opened my doors to travelers.                       Job 31:29-32
-
+<p class="section-ref">Job 31:29-32</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>“Have I covered up my sins like people do</span></i></span></p>
 
@@ -192,6 +192,10 @@ next: chapter-32
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>let briars grow on my land instead of wheat,</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.75in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>stinkweeds in place of barley.”</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.75in;'><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Job’s words end here.<i>                                                     </i></span></b></span></p>
+
+<p class="section-ref">Job 31:38-40</p>
 
 
 <style>

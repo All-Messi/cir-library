@@ -11,7 +11,7 @@ next: chapter-26
 
 ## Acts Chapter 25
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Festus, having-arrived-at the province, after three days went-up to Jerusalem from Caesarea; </span></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Festus, having-arrived-at the province, after three days went-up to Jerusalem from Caesarea; </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and the chief-priests and the first-ones of-the Jews brought-charges against [the] Paul and were-urging him, </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>asking (a) favor against him in-order-that he-might-summon him to Jerusalem, making (an) ambush to-kill him along the road. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then [the] Festus answered to-keep [the] Paul in Caesarea, and himself to-be-going to-leave shortly. </span></span>

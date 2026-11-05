@@ -15,7 +15,7 @@ next: chapter-21
 ### Jesus’ Authority Challenged
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>One day he was teaching the people in the Temple and delivering good news. The chief priests, scribes, and elders confronted him: </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>One day he was teaching the people in the Temple and delivering good news. The chief priests, scribes, and elders confronted him: </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“What right do you have to do this? Who gave you that right?”</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll ask you something too. Tell me, </span></i></span>
@@ -50,9 +50,7 @@ next: chapter-21
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He looked at them and said, <i>“What then does this scripture mean, </i></span></span></p>
 
-
-### ‘The stone the builders rejected
-
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    <b>‘The stone the builders rejected</b></span></i></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                has become the cornerstone’</span></i></b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span><b><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Ps 118:22]</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>?</span></p>
 
@@ -115,9 +113,7 @@ next: chapter-21
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said to them, <i>“How do they say the Messiah is David’s son?</i> </span></span>
 <span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He says himself in the Book of Psalms,</span></i></span></p>
 
-
-### ‘The LORD said to my Lord,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>‘The L</i></b></span><b><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span></i></b><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> said to my Lord,</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    “Sit at my right hand</span></i></b></p>
 

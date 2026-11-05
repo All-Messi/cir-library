@@ -2,6 +2,7 @@
 title: "STUDENT PREACHING MINISTRIES"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-02-04
 categories:
 - 'Ministry'
 - 'Christian Ministry 101'

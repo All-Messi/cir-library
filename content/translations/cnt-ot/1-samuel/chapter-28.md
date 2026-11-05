@@ -50,10 +50,10 @@ next: chapter-29
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“An old man, wearing a robe.”</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Saul knew it was Samuel and bowed to the ground in homage.<b>
+</b></span></p>
 
-### Saul knew it was Samuel and bowed to the ground in homage.
-1 Sam 28:8-14
-
+<p class="section-ref">1 Sam 28:8-14</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Samuel said, <i>“Why have you disturbed me by bringing me up?”</i></span></span></p>
 

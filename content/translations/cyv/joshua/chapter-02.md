@@ -22,8 +22,9 @@ next: chapter-03
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the woman had hidden them, <i>“Men did come, but I didn’t know where they came from. </i></span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They left when the gate closed at dark. I don’t know where they went. Follow them right away so you can catch up with them.”</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But she’d taken them up to the roof and hidden them under stalks of flax. </span></span>
-<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The men pursued them toward the Jordan as far as the fords. As soon as they left, the gate was shut.
-</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Josh 2:1-7</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                                                                                                                                                                                                                                                                                             </span></span></p>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The men pursued them toward the Jordan as far as the fords. As soon as they left, the gate was shut.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Josh 2:1-7</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Before they lay down, she came up to the roof </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and said, </span></span></p>
@@ -48,9 +49,8 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“All right.” </span></i></span></p>
 
-
-### She sent them away and tied the scarlet cord in the window.
-
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She sent them away and tied the scarlet cord in the window.<b>
+</b></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They went into the hills for three days till the ones that were looking for them got back. They’d looked all along the road and didn’t find anything. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then the two men came back down from the hills and crossed over to Joshua. They told him what all had happened, </span></span>

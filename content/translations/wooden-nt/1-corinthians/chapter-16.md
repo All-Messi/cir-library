@@ -10,7 +10,7 @@ prev: chapter-15
 
 ## 1 Corinthians Chapter 16
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now about the collection [the] for the saints. Even-as I-directed the churches of-[the] Galatia, so you-do also. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now about the collection [the] for the saints. Even-as I-directed the churches of-[the] Galatia, so you-do also. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Every first (day) of-(the)-week, let┘each of-you└lay by him storing-up whatever<sup>2</sup> things-go-well, in-order-that when I-come, collections will┘not└take place. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And when I-arrive, whomever<sup>2</sup> you approve—I-will-sent these through letters to-carry the gift of-you to Jerusalem. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And if it-is fitting for-[the] me-also to-go, they-will-go with me.</span></span></p>
@@ -41,13 +41,6 @@ prev: chapter-15
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If anybody does┘not└love the Lord, let-him-be accursed. Lord, come! </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The grace of-the Lord Jesus (be) with you. </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The love of-me with us all in Christ Jesus.</span></span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil Warren, PhD</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>translator</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 
 
 <style>

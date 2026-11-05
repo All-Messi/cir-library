@@ -1,6 +1,6 @@
 ---
-title: "DIFFICULTIES in Evaluation (HS book pt 11)"
-author: "Virgil Warren, christir.org"
+title: "Difficulties in Evaluation"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:
 - 'Topics'
@@ -312,7 +312,7 @@ style='font-size:12.0pt'>                           �
 lame man at Gate Beautiful: Acts<b> 3</b>:1-10</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:2.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-2.25in'><span
+margin-left:min(2.25in, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(0px, 35vw) - min(2.25in, 35vw))'><span
 style='font-size:12.0pt'>                                             (d)    All
 negative judgments: Ananias and Sapphira, Elymas, all cases of exorcism</span></p>
 
@@ -472,7 +472,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                           <img width=360 height=74
+style='font-size:12.0pt'>                           <img alt="Stupendous miracle A proves doctrine A, which tests miracle B, which proves doctrine B" width=360 height=74
 id="Picture 1" src="/images/essays/difficulties-in-evaluation-hs-book-pt-11/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

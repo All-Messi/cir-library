@@ -15,7 +15,7 @@ next: chapter-36
 ### Joy for the Redeemed
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk86930903"></a><a name="_Hlk123306074"><span class="verse verse-v1" id="v1"><sup class="verse-num">1-2</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The desert wilderness will be happy;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1-2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The desert wilderness will be happy;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  the Arabah will blossom profusely with crocuses,</span></p>
 

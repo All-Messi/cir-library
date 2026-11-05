@@ -37,9 +37,9 @@ next: chapter-34
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>I shouldn’t be a threat you;</span></i></span></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>I won’t come down hard on you.</span></i><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                          </span></b></span></p>
 
-### I won’t come down hard on you.                          Job 33:1-7
-
+<p class="section-ref">Job 33:1-7</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>“You’ve spoken where I could hear you;</span></i></span></p>
 

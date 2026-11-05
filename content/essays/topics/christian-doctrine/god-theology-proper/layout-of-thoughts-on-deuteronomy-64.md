@@ -2,6 +2,8 @@
 title: "LAYOUT OF THOUGHTS ON DEUTERONOMY 6:4"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-09-03
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -111,66 +113,66 @@ style='font-size:12.0pt'>being                         *<
 in   Genesis.  Genesis   <b>3</b>:24</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:3.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-3.0in'><span
+margin-left:min(3.5in, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(3.5in, 35vw))'><span
 style='font-size:12.0pt'>                          (Isaiah <b>6</b>:8)                                                       refers
  to   them  later  (note   </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:3.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-3.0in'><span
+margin-left:min(3.5in, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(3.5in, 35vw))'><span
 style='font-size:12.0pt'>                                                                                              
     Job  <b>38</b>:7 and <b>1</b>:6 however). </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:4.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-4.0in'><span
+margin-left:min(4.5in, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(4.5in, 35vw))'><span
 style='font-size:12.0pt'>                                                                              </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:315.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-279.0pt'><span
+margin-left:min(315.0pt, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(315.0pt, 35vw))'><span
 style='font-size:12.0pt'>                                                                                             (2)
 Besides, in the statement of   </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:315.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-279.0pt'><span
+margin-left:min(315.0pt, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(315.0pt, 35vw))'><span
 style='font-size:12.0pt'>                                                                                                   fulfillment 
      after       the </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:315.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-279.0pt'><span
+margin-left:min(315.0pt, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(315.0pt, 35vw))'><span
 style='font-size:12.0pt'>                                                                                                   proposal
  in  Genesis  <b>1</b>:26,  </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:315.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-279.0pt'><span
+margin-left:min(315.0pt, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(315.0pt, 35vw))'><span
 style='font-size:12.0pt'>                                                                                                   the
  text  affirms that it is in </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:315.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-279.0pt'><span
+margin-left:min(315.0pt, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(315.0pt, 35vw))'><span
 style='font-size:12.0pt'>                                                                                             
      the image of <u>God</u>.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:315.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-279.0pt'><span
+margin-left:min(315.0pt, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(315.0pt, 35vw))'><span
 style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:315.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-315.0pt'><span
+margin-left:min(315.0pt, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(0px, 35vw) - min(315.0pt, 35vw))'><span
 style='font-size:12.0pt'>                                                                
                                         (3) It is in  his  image  (<i>i.e</i>.,
  not </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:315.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-279.0pt'><span
+margin-left:min(315.0pt, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(315.0pt, 35vw))'><span
 style='font-size:12.0pt'>                                                                                                  
 plural as one would expect   </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:315.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-279.0pt'><span
+margin-left:min(315.0pt, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(315.0pt, 35vw))'><span
 style='font-size:12.0pt'>                                                                                                  
 if “us” in <b>1</b>:26 meant God + </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:315.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-279.0pt'><span
+margin-left:min(315.0pt, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(315.0pt, 35vw))'><span
 style='font-size:12.0pt'>                                                                                                  
 angels).</span></p>
 

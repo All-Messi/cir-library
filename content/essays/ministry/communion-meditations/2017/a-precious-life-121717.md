@@ -1,7 +1,7 @@
 ---
 title: "A Precious Life"
 date: '2017-12-17'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

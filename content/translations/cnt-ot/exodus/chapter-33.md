@@ -11,7 +11,7 @@ next: chapter-34
 
 ## Exodus Chapter 33
 
-<p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
 </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told Moses, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Leave here and go to the land I swore I’d give the descendants of Abraham, Isaac, and Jacob. </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll send an angel ahead of you to drive out the Canaanite, Amorite, Hittite, Perizzite, Hivite, and Jebusite. </span></i></span>
@@ -56,7 +56,7 @@ next: chapter-34
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:1.0in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Show me your glory.”</span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll make my goodness pass by in front of you, and show you who I am. <a name="_Hlk152677108"><b>I’ll decide who to give grace to and who to show mercy to</b> </a></span></i><b><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>[Rom 9:15]</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll make my goodness pass by in front of you, and show you who I am. <b>I’ll decide who to give grace to and who to show mercy to</b> </span></i><b><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>[Rom 9:15]</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.
 </span></i></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>But you can’t see my face. Nobody can see me and live! </span></i></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Here’s a place beside me; stand on that rock. </span></i></span>

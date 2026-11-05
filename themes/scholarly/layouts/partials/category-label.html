@@ -1,0 +1,12 @@
+{{- /* category-label.html — reader-facing label for a front-matter category name (2026-11-04).
+       Book categories ("Christian Living Book", "Getting The Point Book") are only our way of
+       giving a book its TOC view; readers see the book's own title from its term page plus
+       " (Book)", e.g. "Christian Living (Book)", so it is not confused with the topic category
+       of the same name. Every other category keeps the old `lower | title` label.
+       Usage: {{ partial "category-label.html" "Christian Living Book" }} */ -}}
+{{- $name := . -}}
+{{- $label := $name | lower | title -}}
+{{- with site.GetPage (printf "/categories/%s" (urlize $name)) -}}
+    {{- if eq .Layout "book-toc" }}{{ $label = printf "%s (Book)" (replace .Title " (Book)" "") }}{{ end -}}
+{{- end -}}
+{{- return $label -}}

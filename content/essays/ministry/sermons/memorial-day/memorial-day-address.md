@@ -1,7 +1,8 @@
 ---
 title: "MEMORIAL DAY ADDRESS"
-author: "Virgil Warren"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-12
 categories:
 - 'Ministry'
 - 'Sermons'
@@ -108,5 +109,5 @@ Warren</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>52818                                                                                                                               
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
+</span></p>
 </div>

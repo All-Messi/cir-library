@@ -1,7 +1,7 @@
 ---
 title: "A Lesson from the Cross"
 date: '2024-07-21'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

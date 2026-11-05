@@ -2,6 +2,7 @@
 title: "CRITERIA FOR A BIBLICAL VIEW OF HUMAN ABILITY"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-15
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -220,7 +221,7 @@ of coming to faith interrelates the factors shown in the accompanying sketch.</s
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'><img width=406 height=164
+line-height:18.0pt'><span style='font-size:12.0pt'><img alt="Objective answer (the Christian faith based on its historical evidences) and subjective need: #1 sense of need, #2, #3 sense of fulfillment, use" width=406 height=164
 src="/images/essays/criteria-for-a-biblical-view-of-human-ability/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:

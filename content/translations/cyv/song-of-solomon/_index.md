@@ -4,7 +4,7 @@ chapters: 8
 title: Song of Solomon
 translation: CYV
 type: book
-weight: 61
+weight: 22
 ---
 
 ## Song of Solomon

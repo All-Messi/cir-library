@@ -10,7 +10,7 @@ next: chapter-02
 
 ## Hebrews Chapter 1
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In-many-parts and in-many ways [the] God of-old, having-spoken to-the falters in the prophets
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In-many-parts and in-many ways [the] God of-old, having-spoken to-the falters in the prophets
 </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>at (the) last of-[the] these days he-spoke to-us in (a) Son, whom he-appointed heir of-all-things, through whom also he-made the worlds-ages; </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>who being (the) direct-shining of-the/his glory and (the) exact-image of-the substance/nature of-him, and upholding [the] all-things by-the word of-the power of-him, having-made purification of-[the] sins, sat-down on (the) right-(hand) of-the Majesty in (the) high-things, </span></span>
@@ -68,10 +68,8 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    like (a) robe <b>they-will┘also└be-exchanged.</b></span></i></p>
 
-
-### But
-you are the same,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b>But
+<u>you</u> are the same,</b></span></i></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and the years of-you will-not-end.”</span></i></b></p>
 
@@ -81,9 +79,7 @@ you are the same,
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    until<sup>2</sup> I make the enemies of-you</span></i></b></p>
 
-
-### (a) footstool of-the feet of-you”?
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                (a) footstool of-the feet of-you”?</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Are-they not all ministering spirits sent for ministry on-account-of the-ones going to-inherit salvation?</span></span></p>
 

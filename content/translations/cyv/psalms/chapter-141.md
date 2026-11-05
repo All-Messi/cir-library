@@ -52,7 +52,7 @@ next: chapter-142
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and take refuge in you; don’t leave me with no defense</span><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>.
 </span></b></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <a name="_Hlk121133308"><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>Keep me from the jaws of the trap they’ve set for me</span></a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>Keep me from the jaws of the trap they’ve set for me</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            from sinners’ snares;</span></p>
 

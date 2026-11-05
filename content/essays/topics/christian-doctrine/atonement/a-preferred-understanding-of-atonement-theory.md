@@ -5,8 +5,11 @@ categories:
 - Christian Doctrine
 - Atonement
 date: '2026-02-16'
+printed: 2007-07-09
+lastmod: 2026-07-28
 draft: false
-title: "A PREFERRED UNDERSTANDING OF ATONEMENT THEORY:"
+title: "A Preferred Understanding of Atonement Theory"
+subtitle: "Identification with Christ: Rationale and Responses"
 weight: 1
 ---
 
@@ -44,18 +47,14 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:6.0pt;margin-left:0in;text-align:center'><b><span
-style='font-size:14.0pt'>IDENTIFICATION WITH CHRIST:</span></b></p>
 
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>RATIONALE AND RESPONSES</span></b></p>
+
+
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><b><span
 style='font-size:12.0pt'>&nbsp;</span></b></p>
 
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
+
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>

@@ -10,10 +10,6 @@ next: chapter-02
 
 ## Habakkuk Chapter 1
 
-
-### Conversational Yahveh Covenant
-
-
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-top:0in;margin-right: 0in;margin-bottom:0in;margin-left:.25in;text-align:center;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Oracle That Habakkuk the Prophet Saw</span></span></p>
 
 

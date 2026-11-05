@@ -21,9 +21,7 @@ next: chapter-63
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He alone is my rock, my salvation, my fortress</span></b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>;</span></span></p>
 
-
-### I won’t be shaken.
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <b>I won’t be shaken.</b></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>How long will you<sup>pl</sup> assail me</span></span></p>
 
@@ -35,7 +33,9 @@ next: chapter-63
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      you enjoy lying about me;</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      you bless out loud but curse inside.</span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                  Ps 62:1-4</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>           </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      you bless out loud but curse inside.</span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></p>
+
+<p class="section-ref">Ps 62:1-4</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>My soul, wait in silence for God</span></span></p>
 
@@ -77,7 +77,9 @@ next: chapter-63
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and Yahveh has enduring love;</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      he pays people according to their work.                           <b>Ps </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>62:9-12</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      he pays people according to their work.<b></b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b></p>
+
+<p class="section-ref">Ps 62:9-12</p>
 
 
 <style>

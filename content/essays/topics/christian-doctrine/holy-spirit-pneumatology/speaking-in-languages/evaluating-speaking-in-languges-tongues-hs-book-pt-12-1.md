@@ -1,6 +1,6 @@
 ---
-title: "EVALUATING SPEAKING IN LANGUGES TONGUES (HS book pt 12) #1"
-author: "Virgil Warren, christir.org"
+title: "Evaluating Speaking in Languages (Tongues)"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:
 - 'Topics'

@@ -30,7 +30,9 @@ next: chapter-08
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>300 put their hands to their mouths. The rest got on their knees to drink from the water. </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Gideon, <i>“I’ll deliver the Midianites to you with 300 men. Send the rest home.”</i>
 </span></span>
-<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He took the people’s jars and rams’ horns and sent the rest home. Midian camped below them in the valley.           </span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>Jud 7:1-8</span></b></span></p>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He took the people’s jars and rams’ horns and sent the rest home. Midian camped below them in the valley.           </span></span></p>
+
+<p class="section-ref">Jud 7:1-8</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That night Yahveh told him, </span></span></p>
 
@@ -42,7 +44,9 @@ next: chapter-08
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I dreamed that a loaf of barley bread tumbled into the camp. It knocked a tent over and flattened it.” </span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His friend answered, <i>“That’s the sword of Gideon, a man of Israel. God is going to deliver Midian and the </i>rest of the<i> army to him.”  </i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 7:9-14</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His friend answered, <i>“That’s the sword of Gideon, a man of Israel. God is going to deliver Midian and the </i>rest of the<i> army to him.”  </i></span></span></p>
+
+<p class="section-ref">Jud 7:9-14</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Gideon heard the dream and its interpretation, he bowed in worship and went back to camp. He said, <i>“Get up! Yahveh</i> <i>is going to deliver Midian’s army to you.” </i></span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He divided the 300 men into three companies. He gave them all rams’ horns and empty jars with torches inside. </span></span>
@@ -57,7 +61,9 @@ next: chapter-08
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gideon
 </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>called out Naphtali, Asher, and Manasseh to chase them. </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He sent messengers all over the hill country of Ephraim, <i>“Come down against the Midianites and seize </i>control of <i>the water, as far as Beth-barah and the Jordan.”</i> Ephraim came out and seized it. </span></span>
-<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They captured Oreb and Zeeb, Midian’s two rulers. In the chase they killed Oreb at the Rock of Oreb and Zeeb at the Winepress of Zeeb. They brought their heads to Gideon beyond the Jordan.</span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                                                                                                            Jud 7:15-25</span></b></span></p>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They captured Oreb and Zeeb, Midian’s two rulers. In the chase they killed Oreb at the Rock of Oreb and Zeeb at the Winepress of Zeeb. They brought their heads to Gideon beyond the Jordan.</span></span></p>
+
+<p class="section-ref">Jud 7:15-25</p>
 
 
 <style>

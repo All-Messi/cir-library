@@ -11,10 +11,6 @@ next: chapter-06
 
 ## Ezekiel Chapter 5
 
-
-### Ezek 4:9-17
-
-
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Son of man, take a sharp sword and shave off your hair and beard. Divide up the hair on a scales. </span></i></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Burn a third of it in the center of the city when the siege is over. Strike a third of it with a sword all around the city. Scatter another third of it in the wind, because I’m going to chase my people with a drawn sword. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Attach a few to the hem of your robe. </span></i></span>

@@ -2,6 +2,8 @@
 title: "THE PURPOSE OF ACTS"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2023-07-15
+lastmod: 2025-07-15
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'

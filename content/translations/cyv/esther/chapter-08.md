@@ -34,7 +34,9 @@ next: chapter-09
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told her and Mordecai, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ve given Haman’s house to Esther. They’ve hanged him on the gallows because he reached out against the Jews. </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now write to the Jews as you see fit in my name and seal it with my signet ring; a decree written in the king’s name and sealed with his seal <u>can’t be revoked</u>.”
-</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                  </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esther 8:1-8</span></b></span></p>
+</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                  </span></b></span></span></p>
+
+<p class="section-ref">Esther 8:1-8</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They called in the king’s scribes on the <b>twenty-third day, third month (</b></span><b><span style='font-family:"Times New Roman",serif'>Sivan</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>)</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>. They wrote what Mordecai commanded the Jews, satraps, governors, and rulers of the 127 provinces from India to Nubia. <i>They wrote</i> to every province in its script and every people group in their language as well as to the Jews in their script and language. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mordecai wrote in the name of Ahasuerus, sealed it with his signet ring, and sent letters by couriers on horses sired by the royal stud. </span></span>
@@ -47,7 +49,9 @@ next: chapter-09
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Mordecai went out from the king in blue and white royal robes, a large gold crown, and a purple, fine-linen cloak. </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Jews had light and honor. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In every province and city where the king’s decree went, they had happiness and joy, a festival and holiday. Many people in the empire became Jews because they had come to dread them.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esther 8:9-17</span></b></span></p>
+</b></span></span></p>
+
+<p class="section-ref">Esther 8:9-17</p>
 
 
 <style>

@@ -12,10 +12,6 @@ next: chapter-06
 ## Zechariah Chapter 5
 
 
-### Zech 4:8-14
-
-
-
 ### A Flying Scroll
 
 
@@ -27,7 +23,9 @@ next: chapter-06
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told me, </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122963502"><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“It contains the words of the curse that’s over the whole world. Everyone that steals will be erased from one side. Everyone that swears </span></i></a><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>falsely <i>will be erased from the other. </i></span><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh of Hosts will send the curse out to the thief’s house and to the house of the one that swears falsely by his name. The curse will remain there all night till it consumes its timbers and stones.’”</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>         </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zech 5:1-4</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“It contains the words of the curse that’s over the whole world. Everyone that steals will be erased from one side. Everyone that swears </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>falsely <i>will be erased from the other. </i></span><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh of Hosts will send the curse out to the thief’s house and to the house of the one that swears falsely by his name. The curse will remain there all night till it consumes its timbers and stones.’”</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Zech 5:1-4</p>
 
 
 ### A Woman in a Basket

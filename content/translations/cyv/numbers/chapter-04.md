@@ -15,7 +15,7 @@ next: chapter-05
 ### Duties of the Kohathites
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses and Aaron, </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses and Aaron, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Count the descendants of Kohath by families </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>30-50 years old who serve in the Tent of Meeting. </span></i></span>

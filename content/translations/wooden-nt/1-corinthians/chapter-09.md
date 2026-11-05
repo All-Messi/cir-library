@@ -11,7 +11,7 @@ next: chapter-10
 
 ## 1 Corinthians Chapter 9
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Am-I not free? Am-I not (an) apostle? Have-I┘not└seen Jesus the Lord of-us? Are you not the work of-me in (the) Lord? </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Am-I not free? Am-I not (an) apostle? Have-I┘not└seen Jesus the Lord of-us? Are you not the work of-me in (the) Lord? </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If I-am not (an) apostle to-others, [but] I-am to-you. For you are the seal of-the apostleship of-me in (the) Lord.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>[The] my defense to-the-ones sitting-in-judgment-on me is this. </span></span>

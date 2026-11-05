@@ -15,7 +15,7 @@ next: chapter-14
 ### The Olivet Discourse
 
 
-<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>13</span></b><b><sup><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>:</span></sup></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>As he was leaving the Temple, one disciple said<sup>p</sup>, <i>“Rabbi, look at what wonderful stones and magnificent buildings!”</i></span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>As he was leaving the Temple, one disciple said<sup>p</sup>, <i>“Rabbi, look at what wonderful stones and magnificent buildings!”</i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Jesus said, <i>“You see these large buildings? Not one stone here will be left on top of another.”</i></span></span></p>
 

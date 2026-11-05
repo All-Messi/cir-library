@@ -25,14 +25,14 @@ next: chapter-13
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Yahveh and his anointed are witnesses that you haven’t found anything in my possession.”
 </span></i></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>They said, </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“They’re witnesses.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
+</span></b></span></p>
 
-### They said, “They’re witnesses.”
-1 Sam 12:1-5
-
+<p class="section-ref">1 Sam 12:1-5</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Samuel told the people, </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126922242"><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“Yahveh appointed Moses and Aaron to bring your ancestors up from Egypt. </span></i></a><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now, stand so I can remind you in his presence about the good things he did for you and your ancestors. </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“Yahveh appointed Moses and Aaron to bring your ancestors up from Egypt. </span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now, stand so I can remind you in his presence about the good things he did for you and your ancestors. </span></i></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Jacob went to Egypt and your ancestors appealed to Yahveh, he sent Moses and Aaron to settle them here. </span></i></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But they forgot him. So he sold them to Sisera, commander of Hazor’s army, to the Philistines, to the king of Moab, and they fought them. </span></i></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They appealed to Yahveh, ‘We’ve sinned by leaving you and worshiping the images of Baal and Ashtoreth. But deliver us now from our enemies, and we’ll serve you.’ </span></i></span>
@@ -42,9 +42,9 @@ next: chapter-13
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you’ll respect, serve him, and regard his command, you and the king will be following him. </span></i></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you disregard his command, he’ll oppose you like he did your ancestors. </span></i></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Take your stand right now and see this great thing he’ll do to you. </span></i></span>
-<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Isn’t today wheat harvest? I’ll call out to him to send thunder and rain. You’ll see that he considered asking for a king a bad thing.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-      </span><b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>1 Sam 12:6-17</span></b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>
-</span></span></p>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Isn’t today wheat harvest? I’ll call out to him to send thunder and rain. You’ll see that he considered asking for a king a bad thing.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span><b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">1 Sam 12:6-17</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Samuel called out to Yahveh, and he sent thunder and rain that day. The people feared him and Samuel.</span></span></p>
 

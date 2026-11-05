@@ -15,7 +15,7 @@ next: chapter-06
 ### The Sermon on the Mount**
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he saw the crowd, he went up on a hillside and sat down. His disciples joined him, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he saw the crowd, he went up on a hillside and sat down. His disciples joined him, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>and he started teaching:</span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Poor people are fortunate spiritually; </span></i></span></p>
@@ -104,7 +104,9 @@ next: chapter-06
 <span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>so you can be like your Father in heaven. He raises his sun on the good and the bad, and sends rain on the just and the unjust. </span></i></span>
 <span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you love the people that love you, what’s special about that? Don’t tax collectors do that? </span></i></span>
 <span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you just say ‘Hi’ to your buddies, what’s special about that? Don’t even pagans do that? </span></i></span>
-<span class="verse verse-v48" id="v48"><sup class="verse-num">48</sup> <i><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You</span></u></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> be perfect like </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>your Father<i>.                                                             </i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mt 5:38-47</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>        </span></i></span></p>
+<span class="verse verse-v48" id="v48"><sup class="verse-num">48</sup> <i><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You</span></u></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> be perfect like </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>your Father<i>.</i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Mt 5:38-47</p>
 
 
 <style>

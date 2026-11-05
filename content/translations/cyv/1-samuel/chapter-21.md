@@ -12,11 +12,6 @@ next: chapter-22
 ## 1 Samuel Chapter 21
 
 
-### He got up and left, and Jonathan went into town.
-1 Sam 20:35-42
-
-
-
 ### David and the Bread of the Presence
 
 
@@ -43,9 +38,9 @@ next: chapter-22
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The sword of Goliath that you killed in the Valley of Elah is here wrapped in a cloth behind the ephod. If you want to, take that. It’s the only one here.” </span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David said, <i>“There’s none like that one. Let me have it.”                      </i></span></p>
 
-### David said, “There’s none like that one. Let me have it.”                      1 Sam 21:7-9
-
+<p class="section-ref">1 Sam 21:7-9</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David fled that day from Saul to Achish, king of Gath. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His officers asked him, <i>Isn’t this David, the king of the land? Didn’t they sing about him in dances. </i></span></span></p>

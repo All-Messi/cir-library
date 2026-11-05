@@ -1,7 +1,7 @@
 ---
 title: "His Guarantee"
-date: '2025-08-30'
-author: "Virgil Warren, christir.org"
+date: "2015-08-30"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

@@ -1,7 +1,9 @@
 ---
-title: "PART III: THE SCIENTIFIC METHOD I. Description of General Evolution and Special Creationism A. General evolution"
-author: "Virgil Warren, christir.org"
+title: "Part III: The Scientific Method"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-06-29
+lastmod: 2025-07-17
 categories:
 - 'Evidences'
 - 'Apologetics Book'
@@ -909,7 +911,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                               <img width=246
+style='font-size:12.0pt'>                               <img alt="Dotted V shapes contrasting creation and evolution" width=246
 height=132 id="Picture 1" src="/images/essays/part-iii-the-scientific-method-i-description-of-general-evolution-and-special/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

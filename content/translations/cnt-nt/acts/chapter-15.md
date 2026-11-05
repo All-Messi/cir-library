@@ -46,13 +46,9 @@ next: chapter-16
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and rebuild David’s fallen tabernacle.</span></i></b></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        I’ll rebuild it and set it up.</span></i></b></p>
 
-### I’ll rebuild it and set it up.
-
-
-
-### I’ll do that so
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll do that so</span></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i></b><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the rest of mankind can seek the L</span></i></b><b><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,</span></i></b></span></p>
 

@@ -121,9 +121,9 @@ next: chapter-28
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and put on burlap.</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They weep bitterly for you.</span></i><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                     </span></b></span></p>
 
-### They weep bitterly for you.                                                     Ezek 27:29-31
-
+<p class="section-ref">Ezek 27:29-31</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As they wail, they take up </span></i></span></p>
 

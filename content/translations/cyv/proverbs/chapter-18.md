@@ -11,10 +11,6 @@ next: chapter-19
 
 ## Proverbs Chapter 18
 
-
-### Prov 17:25-28
-
-
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Unfriendly people pursue selfish ends;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and don’t use common sense.</span></p>
@@ -117,7 +113,9 @@ next: chapter-19
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Someone with lots of “friends” may come to ruin,</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            but there’s a friend that sticks closer than a brother.<b>  </b></span><a name="_Hlk117071034"><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>Prov 18:19-24</span></b></a></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            but there’s a friend that sticks closer than a brother.<b>  </b></span></p>
+
+<p class="section-ref">Prov 18:19-24</p>
 
 
 <style>

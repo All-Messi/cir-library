@@ -15,7 +15,7 @@ next: chapter-05
 ### The Temptation of Jesus
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus went away from the Jordan filled with the Holy Spirit. The Spirit was leading him to the desert </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus went away from the Jordan filled with the Holy Spirit. The Spirit was leading him to the desert </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>while the devil tempted him during 40 days. He didn’t eat anything during that time. Afterwards, he was hungry, </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and the devil said, <i>“If you’re God’s Son, tell this stone to become a loaf of bread.”</i></span></span></p>
@@ -30,9 +30,7 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus answered, <i>“Scripture says, </i></span></span></p>
 
-
-### ‘Worship the LORD your God,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b>‘Worship the L</b></span></i><b><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> your God, </span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and
 </span></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>only<b> serve him’”</b></span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Deut 6:13]</span></b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></p>
@@ -45,9 +43,7 @@ next: chapter-05
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i></b><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and<b>
 </b></span></i></span></p>
 
-
-### ‘They’ll catch you
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘They’ll catch you </span></i></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>so you’ll never trip on a rock’</span></i></b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Ps 91:12]</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>.</span></p>
 
@@ -55,8 +51,9 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Don’t tempt the L</span></i></b><b><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> your God’</span></i></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>”</span></i><b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> [</span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>Deut 6:16].</span></b></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the devil finished tempting him, he left till another chance would come.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>  Lk 4:1-13</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>
-                             </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the devil finished tempting him, he left till another chance would come.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Lk 4:1-13</p>
 
 
 ### Introducing the Galilean Ministry
@@ -76,9 +73,7 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The Spirit of the L</span></i></b><b><i><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> is on me.</span></i></b></span></p>
 
-
-### He’s anointed me to deliver good news to the poor;
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    He’s anointed me to deliver good news to the poor;</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    he sent me to announce release to captives,</span></i></b></p>
 

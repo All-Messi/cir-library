@@ -2,6 +2,8 @@
 title: "ATTRIBUTES OF GOD"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-07-24
+lastmod: 2025-07-14
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -215,7 +217,7 @@ employ to bring about his</span></p>
 style='font-size:12.0pt'>                </span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
-style='font-size:12.0pt'>                                                    <img
+style='font-size:12.0pt'>                                                    <img alt="God with arrows to x&#x27;s on a semicircle"
 width=154 height=108 src="/images/essays/attributes-of-god/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span

@@ -10,7 +10,7 @@ prev: chapter-27
 
 ## Matthew Chapter 28
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After the Sabbath[s], at-the dawning toward (day) one of the Sabbath[s]. Mary the Magdalene and the other Mary came to-see the grave. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After the Sabbath[s], at-the dawning toward (day) one of the Sabbath[s]. Mary the Magdalene and the other Mary came to-see the grave. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And behold (a) great earthquake happened, for (an) angel of (the) Lord, having-descended from heaven and having-come-to (it), rolled┘the stone└away and sat-down on it. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the sight of-him was like lightning and the garment of-him (was) white like snow. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And from the fear of-him, the-ones keeping watch shook and became like dead-(men). </span></span>
@@ -37,13 +37,6 @@ prev: chapter-27
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:31.5pt;margin-bottom: 0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“All power/authority was-given to-me in heaven and on [the]<sup>ms</sup> earth. </span></i><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So having-gone, </span></i><i><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>make-disciples-of/disciple</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> all the nations, baptizing them into the name of-the Father and the Son and the Holy Spirit, </span></i></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>teaching them to-keep all-things as-many-as I-commanded you, and behold I-am with you </span></i><i><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>all the days/always<sup>3</sup></span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> unto the end of the age/world.”</span></i></span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil Warren, PhD</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>translator</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 
 
 <style>

@@ -2,6 +2,7 @@
 title: "STUDY GUIDE ON CHRISTIAN FREEDOM"
 author: "Virgil Warren, PhD"
 date: '2026-03-19'
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Living'
@@ -47,7 +48,7 @@ style='font-size:10.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                 <img width=326 height=149
+style='font-size:12.0pt'>                 <img alt="Freedom with respect to jurisdiction of law, penalty of broken law and reality: objectively free and subjectively free" width=326 height=149
 src="/images/essays/study-guide-on-christian-freedom/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -117,5 +118,5 @@ style='font-size:12.0pt'>        7. How is a non-Christian’s freedom li
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>        8. What other questions do the answers above
-raise?                                    </span><span style='font-size:11.0pt'>christir.org</span></p>
+raise?                                    </span></p>
 </div>

@@ -38,7 +38,9 @@ next: chapter-09
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Otherwise, you might say to yourselves that your own power and strength have created this wealth. </span></i></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Remember that he’s giving you the opportunity to create wealth in confirmation of his covenant. </span></i></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you ever forget him and go after other gods, I’m telling you today, you’ll certainly perish </span></i></span>
-<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>like the nations he’ll make perish in front of you.</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  Deut 8:11-20</span></b><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>   </span></sup></b></span></p>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>like the nations he’ll make perish in front of you.</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></sup></b></span></p>
+
+<p class="section-ref">Deut 8:11-20</p>
 
 
 <style>

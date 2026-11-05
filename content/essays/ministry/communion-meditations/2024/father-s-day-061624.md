@@ -1,7 +1,7 @@
 ---
 title: "Father’s Day"
 date: '2024-06-16'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

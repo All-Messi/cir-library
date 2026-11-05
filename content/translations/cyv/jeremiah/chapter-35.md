@@ -32,8 +32,9 @@ next: chapter-36
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We, our wives, sons, and daughters have obeyed him. </span></i></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We don’t build houses or own vineyards, fields, or seed. </span></i></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We live in tents. </span></i></span>
-<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But when Nebuchadnezzar invaded the land, we came to Jerusalem before the Babylonian and Syrian armies got here. So we’ve been living in Jerusalem.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jer 35:1-11</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>    </span></b></span></p>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But when Nebuchadnezzar invaded the land, we came to Jerusalem before the Babylonian and Syrian armies got here. So we’ve been living in Jerusalem.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Jer 35:1-11</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then a message from Yahveh came to Jeremiah,</span></span></p>
 

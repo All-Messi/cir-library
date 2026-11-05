@@ -15,7 +15,7 @@ next: chapter-03
 ### Nebuchadnezzar’s Dream
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124425130"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the <b>second year of Nebuchadnezzar’s reign</b>, haunting dreams kept him awake. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the <b>second year of Nebuchadnezzar’s reign</b>, haunting dreams kept him awake. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He gave orders to call in the magicians, conjurers, sorcerers, and astrologers to tell him what he’d dreamed. When they came in, </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>he told them, <i>“I had a dream, and I’m disturbed about what it means.”</i></span></span></p>
 
@@ -24,9 +24,9 @@ next: chapter-03
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m giving an unalterable command. If you don’t tell me what I dreamed and its meaning, I’ll have you torn limb from limb, and make your houses trash piles. </span></i></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But if you tell me, I’ll reward you with gifts and high honor. So tell me the dream and its interpretation.”</span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><a name="_Hlk146978203"><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell us the dream, and we’ll tell you what it means.”</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell us the dream, and we’ll tell you what it means.”</span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><a name="_Hlk124425236"><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You’re stalling because you can see I’ve given an unalterable command. </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You’re stalling because you can see I’ve given an unalterable command. </span></i></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you don’t tell me the dream, there’s only one decree for you. You’ve conspired to lie and say bogus things till I change my mind. Tell me what I dreamed so I know you can tell me what it means.” </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Nobody can do<sup> </sup>that. No great king or ruler has ever asked such a thing from any magician, conjurer, or astrologer. </span></i></span>
@@ -35,9 +35,7 @@ next: chapter-03
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At this, the king was furious and gave orders to destroy the wise men in Babylon. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The decree went out to execute them, and they started looking for Daniel and his friends to kill them.</span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>       </span></b></span></p>
 
-
-### Dan 2:1-13
-
+<p class="section-ref">Dan 2:1-13</p>
 
 
 ### God Gives Daniel the Dream’s Interpretation
@@ -89,7 +87,7 @@ next: chapter-03
 
 <p class="section-ref">Dan 2:24-26</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124425678"><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Daniel said,  </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Daniel said,  </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      “Wise men, conjurers, magicians, and fortunetellers can’t tell you that. </span></i><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But there’s a God in heaven that reveals secret things, and he’s revealed to you what’s going to happen. That’s what you dreamed in your bed. </span></i></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You were thinking about what will happen in the future, and he that reveals secret things was showing you that. </span></i></span>
@@ -103,9 +101,11 @@ next: chapter-03
 <span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>its legs were iron, and its feet were iron and clay mixed. </span></i></span>
 <span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As you watched, a stone was hewn out without hands and struck the statue’s iron and clay feet and crushed them. </span></i></span>
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It
-<i>crushed the iron, clay, bronze, silver, and gold all at one time. They became like chaff on the summer threshing floors, and the wind carried them away without a trace. But the stone that struck the statue became a huge mountain that covered the whole world.</i><b>           </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Dan 2:31-35</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>   </span></b></span></p>
+<i>crushed the iron, clay, bronze, silver, and gold all at one time. They became like chaff on the summer threshing floors, and the wind carried them away without a trace. But the stone that struck the statue became a huge mountain that covered the whole world.</i><b></b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></b></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><a name="_Hlk124425950"><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“That’s what you dreamed. Now we’ll tell you what it means. </span></i></span>
+<p class="section-ref">Dan 2:31-35</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“That’s what you dreamed. Now we’ll tell you what it means. </span></i></span>
 <span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’re the king of kings that God has given the kingdom, power, strength, and honor. </span></i></span>
 <span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wherever people, animals, or birds live, he’s put them under your control. You’re the gold head. </span></i></span>
 <span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After you, a lesser kingdom will rise up. Then a third, bronze kingdom will rule the world. </span></i></span>
@@ -118,9 +118,7 @@ next: chapter-03
 <span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You saw a stone hewn out of the mountain without hands that crushed the iron, bronze, clay, silver, and gold. The great God has shown you what will happen in the future. The dream is true and its interpretation sure.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span></b></span></p>
 
-
-### Dan 2:36-45
-
+<p class="section-ref">Dan 2:36-45</p>
 
 
 ### Daniel Rewarded

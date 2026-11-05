@@ -11,7 +11,7 @@ next: chapter-10
 
 ## John Chapter 9
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>9</span></b><b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>:</span></sup></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And passing by, he-saw (a) man blind from birth. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And passing by, he-saw (a) man blind from birth. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the disciples of-him asked him, saying, <i>“Rabbi, who-sinned, this-one or the parents of-him, that he was-born blind?”</i> </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus answered<i>, “Neither this-one sinned nor the parents of-him, but that the works of-[the] God might-be-manifested in him. </i></span></span>

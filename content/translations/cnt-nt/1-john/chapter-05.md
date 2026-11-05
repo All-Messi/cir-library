@@ -14,7 +14,7 @@ prev: chapter-04
 ### Victory by Faith
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Everybody that believes Jesus is the Christ<sup>Messiah</sup> has been begotten by God, and everybody that loves the begetter loves the begotten. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Everybody that believes Jesus is the Christ<sup>Messiah</sup> has been begotten by God, and everybody that loves the begetter loves the begotten. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We can tell we love God’s children by whether we love God and do what he says. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Loving God means keeping his commandments without feeling like they’re burdensome. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The ones God begets triumph over the world, and faith makes that triumph possible. </span></span>
@@ -43,10 +43,14 @@ prev: chapter-04
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve written these things to you that believe in God’s Son in order to make you confident that you have eternal life. </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is the confidence we have with him: whatever we ask for according to his will he listens to. </span></span>
-<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If we know he <u>listens to</u> what we ask for, we know he <u>answers</u> what we ask for.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> 1 Jn 5:13-15</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                </span></span></p>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If we know he <u>listens to</u> what we ask for, we know he <u>answers</u> what we ask for.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">1 Jn 5:13-15</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you see a fellow believer doing some sin that doesn’t lead to death, ask God and he’ll give him life. There <u>is</u> a kind of sin that does lead to death; I’m not saying you should ask about that. </span></span>
-<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>All unrighteousness is sin, but there are sins that don’t lead to death.               </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Jn 5:16-17</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                 </span></span></p>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>All unrighteousness is sin, but there are sins that don’t lead to death.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">1 Jn 5:16-17</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>People that God begets don’t practice sinning; they keep themselves <i>from sinning</i>, and the evil one doesn’t touch them. </span></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We belong to God, and the world belongs to the evil one. </span></span>
@@ -54,8 +58,6 @@ prev: chapter-04
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Little children, stay away from idols.             </span></span></p>
 
 <p class="section-ref">1 Jn 5:18-21</p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Translator: Virgil Warren,                                                                                               christir.org</span></p>
 
 
 <style>

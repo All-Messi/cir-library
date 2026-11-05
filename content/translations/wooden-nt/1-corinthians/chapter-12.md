@@ -11,7 +11,7 @@ next: chapter-13
 
 ## 1 Corinthians Chapter 12
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now concerning [the] spiritual gifts, brothers, I-do┘not└want you to-be-unaware. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now concerning [the] spiritual gifts, brothers, I-do┘not└want you to-be-unaware. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You-know that when you-were Gentiles, you-were led-astray to [the] dumb [the] idols. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wherefore I-make-known to-you that nobody speaking by (the) Spirit of-God, says, “Jesus (is) accursed”; and nobody is-able to-say, “Jesus (is) Lord,” except<sup>2</sup> by the Holy Spirit.</span></span></p>
 

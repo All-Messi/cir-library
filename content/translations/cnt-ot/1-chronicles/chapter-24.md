@@ -20,7 +20,9 @@ next: chapter-25
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David—with Zadok from Eleazar’s descendants and Ahimelech from Ithamar’s descendants—divided them by their offices for their service. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Since there were more chief men descended from Eleazar than from Ithamar, they divided them into<i> </i>16 heads descended from Eleazar and 8 from Ithamar. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They divided them alike by lot because they were officers of the sanctuary and officers of God. </span></span>
-<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Shemaiah son of Nethanel the secretary from the Levites, recorded them in the presence of the king, the officials, Zadok the priest, Ahimelech son of Abiathar, and the heads of the families among the priests and Levites—one family taken for Eleazar and one for Ithamar.                                                                                                           </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 24:1-6</span></b></span></p>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Shemaiah son of Nethanel the secretary from the Levites, recorded them in the presence of the king, the officials, Zadok the priest, Ahimelech son of Abiathar, and the heads of the families among the priests and Levites—one family taken for Eleazar and one for Ithamar.                                                                                                           </span></span></p>
+
+<p class="section-ref">1 Ch 24:1-6</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The first lot came out for Jehoiarib,              the second for Jedaiah, </span></span></p>
 
@@ -48,7 +50,9 @@ next: chapter-25
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the twenty-third for Delaiah,                       the twenty-fourth for Maaziah.    </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Those were their officers for ministry when they came to the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s Temple according to the ordinance Aaron their ancestor gave them by the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God’s command.</span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>                                               1 Ch 24:7-19</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Those were their officers for ministry when they came to the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s Temple according to the ordinance Aaron their ancestor gave them by the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God’s command.</span></span></p>
+
+<p class="section-ref">1 Ch 24:7-19</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now about the rest of Levi’s descendants: </span></span></p>
 
@@ -62,7 +66,9 @@ next: chapter-25
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from the descendants of Shelomoth, Jahath. </span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the descendants of Hebron: Jeriah the chief, Amariah second, Jahaziel third, Jekameam fourth.  <b>           </b></span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>1 Ch 24:20-23</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the descendants of Hebron: Jeriah the chief, Amariah second, Jahaziel third, Jekameam fourth.  <b>           </b></span></span></p>
+
+<p class="section-ref">1 Ch 24:20-23</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the descendants of Uzziel, Micah; </span></span></p>
 
@@ -84,7 +90,9 @@ next: chapter-25
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the descendants of Mushi: Mahli, Eder, and Jerimoth.  </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Those were the Levites by families. </span><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They also cast lots—the head of each family and his younger brother alike—like their relatives the descendants of Aaron, in the presence of King David, Zadok, Ahimelech, and the heads of families among the priests and Levites.    </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 24:24-31</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Those were the Levites by families. </span><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They also cast lots—the head of each family and his younger brother alike—like their relatives the descendants of Aaron, in the presence of King David, Zadok, Ahimelech, and the heads of families among the priests and Levites.    </span></span></p>
+
+<p class="section-ref">1 Ch 24:24-31</p>
 
 
 <style>

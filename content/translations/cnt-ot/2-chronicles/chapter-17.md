@@ -25,7 +25,9 @@ next: chapter-18
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In <b>his third<sup>
 </sup>year</b>, he sent his officials Benhail, Obadiah, Zechariah, Nethanel, and Micaiah to teach in the towns in Judah. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He sent with them Shemaiah, Nethaniah, Zebadiah, Asahel, Shemiramoth, Jehonathan, Adonijah, Tobijah, and Tobadonijah, who were Levites, and with them the priests Elishama and Jehoram. </span></span>
-<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They taught the people throughout Judah, having the Book of the Law with them. <b>   </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 17:1-9</span></b></span></p>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They taught the people throughout Judah, having the Book of the Law with them. <b>   </b></span></span></p>
+
+<p class="section-ref">2 Ch 17:1-9</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The kingdoms around Judah dreaded the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>; so they didn’t start any wars with Jehoshaphat. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Some Philistines brought him gifts and silver as tribute. The Arabians brought him 7,700 rams and 7,700 male goats. </span></span>
@@ -45,8 +47,7 @@ next: chapter-18
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Those served the king, not counting the ones he put in the fortified towns all around Judah.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.25in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></sup></b><b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>2 Ch 17:10-19</span></b></p>
+<p class="section-ref">2 Ch 17:10-19</p>
 
 
 <style>

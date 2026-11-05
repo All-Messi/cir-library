@@ -10,7 +10,7 @@ next: chapter-02
 
 ## Exodus Chapter 1
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><a name="_Hlk125538860"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel’s descendants and their households that went to Egypt with Jacob: </span></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel’s descendants and their households that went to Egypt with Jacob: </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Reuben, Simeon, Levi, Judah, </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Issachar, Zebulun, Benjamin, </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Dan, Naphtali, Gad, and Asher: </span></span>
@@ -25,14 +25,16 @@ next: chapter-02
 ### The Israelites Oppressed
 
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span><a name="_Hlk125539525"><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In time, a new king came to power in Egypt who didn’t know Joseph. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In time, a new king came to power in Egypt who didn’t know Joseph. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told his people, <i>“There are too many Israelites, and they’re too strong. </i></span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let’s deal with them wisely so, if there’s war, they won’t join our enemies and leave.” </span></i></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They appointed taskmasters and subjected the <i>Israelites</i> to hard labor. They built storage cities for Pharaoh: Pithom and Raamses. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the more they mistreated them, the more they multiplied and spread. The <i>Egyptians</i> were afraid of them [</span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]
 </span></span>
-<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and made their lives miserable, making bricks and mortar and laboring in the fields.          </span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>Ex</span></b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1:8-14</span></b></span></p>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and made their lives miserable, making bricks and mortar and laboring in the fields.</span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Ex 1:8-14</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king told the Hebrew midwives Shiphrah and Puah, </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When you’re helping the Hebrew women on the birth stool, kill the boys.” </span></i></span>

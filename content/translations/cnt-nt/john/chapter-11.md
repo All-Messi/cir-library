@@ -15,7 +15,7 @@ next: chapter-12
 ### Raising Lazarus
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>11<sup>:</sup></span></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There was a man sick, Lazarus of Bethany, the village where Mary and her sister Martha lived. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There was a man sick, Lazarus of Bethany, the village where Mary and her sister Martha lived. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That was the Mary who anointed the Lord with perfume and wiped his feet with her hair. Lazarus was her brother. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His sisters sent to Jesus, <i>“Lord, the one you love is sick.” </i></span></span></p>
 
@@ -100,7 +100,9 @@ next: chapter-12
 <span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The dead man came out wrapped hand and foot with strips of cloth; his face was wrapped in a facecloth. </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus said</span><sup><span style='font-family:"Times New Roman",serif'>p</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
-<i>“Unwrap him and set him free.”                                                        </i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jn 11:38-44</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>  </span></p>
+<i>“Unwrap him and set him free.”</i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></p>
+
+<p class="section-ref">Jn 11:38-44</p>
 
 
 ### Plots to Kill Jesus

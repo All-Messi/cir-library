@@ -4,6 +4,7 @@ categories:
 - Evidences
 - Contradictions Resolving In Scripture
 date: '2026-02-16'
+lastmod: 2025-07-15
 draft: false
 title: RESOLVING APPARENT CONTRADICTIONS IN SCRIPTURE
 weight: 2

@@ -11,7 +11,7 @@ next: chapter-09
 
 ## Acts Chapter 8
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And Saul was agreeing-with [the] putting┘him└to-death.</span></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And Saul was agreeing-with [the] putting┘him└to-death.</span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                        And (a) great persecution happened at that [the] time against the church [the] in Jerusalem, and all were-scattered according-to the regions of-[the] Judaea and Samaria except the apostles. </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And devout men buried Stephen and made great mourning over him. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Saul was-destroying the church, entering </span><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>every [the] house<sup>2</sup>/according-to the house<sup>2</sup></span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>, and dragging men and women, he-was-putting (them) in prison.</span></span></p>
@@ -80,13 +80,9 @@ next: chapter-09
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span></i></b><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the humiliation of-him the judgment of-him was-taken away.</span></i></b></span></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    Who will report the generation of-him?</span></i></b></p>
 
-### Who will report the generation of-him?
-
-
-
-### Because the life of-him is-being-taken from the earth.”
-
+<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    Because the life of-him is-being-taken from the earth.”</span></i></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            And the eunuch, having-answered [the] Philip, said, <i>“I-ask of-you, concerning whom is┘the prophet└saying this? Concerning himself or concerning somebody other?” </i></span></p>
 

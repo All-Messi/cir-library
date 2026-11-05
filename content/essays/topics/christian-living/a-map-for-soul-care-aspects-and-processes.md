@@ -42,7 +42,7 @@ person’s own spiritual processes and in helping to care for the souls of other
 finds its place in this construct.    </span></p>
 
 <p class=MsoNormal style='text-align:justify'>                                       
-<img width=229 height=208 id="Picture 1" src="/images/essays/a-map-for-soul-care-aspects-and-processes/image001.png"></p>
+<img alt="God, self (inner and outer) and other people: A, B and C" width=229 height=208 id="Picture 1" src="/images/essays/a-map-for-soul-care-aspects-and-processes/image001.png"></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif;
@@ -342,12 +342,9 @@ than where the process began.  </span></p>
 margin-left:.5in;text-align:justify'><span style='font-size:12.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:.5in;text-align:justify'><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                      
-</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><img
+</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><img alt="Spiral between A and B labeled reciprocation"
 width=145 height=183 id="Picture 2" src="/images/essays/a-map-for-soul-care-aspects-and-processes/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
@@ -372,7 +369,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&n
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.5in;text-align:justify'><span style='font-size:12.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>            E. Outward-directedness                                                         
-</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><img
+</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><img alt="Circle with an arrow pointing outward: outward-directedness"
 width=130 height=180 id="Picture 3" src="/images/essays/a-map-for-soul-care-aspects-and-processes/image003.png"></span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>   The
 essence of virtue involves self-giving for the joy of others, that is, love. It

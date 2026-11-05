@@ -2,7 +2,7 @@
 title: "Lifegiving Bread
  (John 6:22-71)"
 date: '2025-03-30'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

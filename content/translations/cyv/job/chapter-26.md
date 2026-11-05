@@ -23,9 +23,9 @@ next: chapter-27
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>Who’ve you been talking to?</span></i></span></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>Whose spirit has been speaking through you?!</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>    </span></b></span></p>
 
-### Whose spirit has been speaking through you?!    Job 26:1-4
-
+<p class="section-ref">Job 26:1-4</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>“The departed spirits tremble</span></i></span></p>
 
@@ -67,6 +67,10 @@ next: chapter-27
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>his faint whisper!</span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>his loud thunder!</span></i></p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.75in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>Who can comprehend his power?”</span></i><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:gray'>          </span></b></span></p>
+
+<p class="section-ref">Job 26:5-14</p>
 
 
 <style>

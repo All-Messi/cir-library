@@ -13,7 +13,7 @@ next: chapter-25
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> A Psalm of David</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123817076"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The earth and everything in it belongs to the L</span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The earth and everything in it belongs to the L</span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
 </span></b></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      the world and those who live here </span></b><b><span style='font-size:8.0pt; line-height:115%;font-family:"Times New Roman",serif'>[1 Cor 10:26]</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></b></p>
@@ -50,9 +50,7 @@ next: chapter-25
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who is the glorious King?</span></b></span></p>
 
-
-### The LORD strong and powerful,
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      The L</span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> strong and powerful,</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> mighty in battle.</span></p>
 
@@ -64,9 +62,7 @@ next: chapter-25
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who is </span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the<b> glorious King?</b></span></span></p>
 
-
-### The LORD of Hosts,
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      The L</span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> of Hosts,</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <u>he</u> is the glorious King.</span></p>
 

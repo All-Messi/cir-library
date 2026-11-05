@@ -16,12 +16,14 @@ prev: chapter-35
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>The people took <b>Joahaz</b> Ben-Josiah and made him king. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He was 23 and ruled for 3 months in Jerusalem. </span></span>
-<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king of Egypt deposed him and imposed on the land a fine of <a name="_Hlk145088615">7550 lbs <sup>100 talents </sup>of silver and 75.5 lbs <sup>a talent</sup> of gold</a>. </span></span>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king of Egypt deposed him and imposed on the land a fine of 7550 lbs <sup>100 talents </sup>of silver and 75.5 lbs <sup>a talent</sup> of gold. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king of Egypt made Eliakim his brother king over Judah and Jerusalem and changed his name to <b>Jehoiakim</b>. But Neco took Joahaz to Egypt. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jehoiakim was 25. He <span style='display:none'>eHeHe</span>ruled for 11 years in Jerusalem and did evil. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nebuchadnezzar came up against him, bound him with bronze </span><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>chains</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, and took him to Babylon. </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He took some articles from </span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>the<sup>Y</sup> Temple to Babylon and put them in his temple. </span></span>
-<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of the acts of Jehoiakim, his disgusting deeds, and the charges against him are recorded in </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>The Book of the Kings of Israel and Judah</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>. His son Jehoiachin became king.                 </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 36:1-8</span></b></span></p>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of the acts of Jehoiakim, his disgusting deeds, and the charges against him are recorded in </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>The Book of the Kings of Israel and Judah</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>. His son Jehoiachin became king.                 </span></span></p>
+
+<p class="section-ref">2 Ch 36:1-8</p>
 
 
 ### Jehoiachin Rules Judah
@@ -40,7 +42,9 @@ prev: chapter-35
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In addition, the officials of the priests and the people were unfaithful and followed the detestable things of the nations. They defiled </span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh’s Temple that he’d sanctified in Jerusalem. </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh God of their ancestors sent word to them repeatedly by his messengers, because he had mercy on them and the place where he lived. </span></span>
-<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But they despised his messages and scoffed at his prophets till his wrath rose up against them without remedy.   </span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>2 Ch 36:9-16</span></b></span></p>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But they despised his messages and scoffed at his prophets till his wrath rose up against them without remedy.   </span></span></p>
+
+<p class="section-ref">2 Ch 36:9-16</p>
 
 
 ### The Fall of Jerusalem
@@ -51,7 +55,9 @@ prev: chapter-35
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They burned God’s Temple, tore down the wall around Jerusalem, burned its fortified buildings, and destroyed its valuable articles. </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The ones that escaped the sword he took as servants to himself and his sons till the kingdom of Persia. </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That
-</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>fulfilled Jeremiah’s message that the land would keep sabbath for 70 years, the days of its desolation.         </span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>2 Ch 36:17-21</span></b></span></p>
+</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>fulfilled Jeremiah’s message that the land would keep sabbath for 70 years, the days of its desolation.         </span></span></p>
+
+<p class="section-ref">2 Ch 36:17-21</p>
 
 
 ### Cyrus Lets the Exiles Return
@@ -59,9 +65,9 @@ prev: chapter-35
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the first year of Cyrus, king of Persia, in fulfillment of </span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh’s message through Jeremiah, Yahveh stirred up Cyrus. He sent a written proclamation everywhere in his kingdom: </span></b></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Cyrus, king of Persia, says,</span></i></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Yahveh God of heaven has given me the kingdoms of the world, and has appointed me to build him a temple in Jerusalem, in Judah. Whoever there is among you from his people, Yahveh your God be with you! Go up!’”</span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 36:22-23</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Cyrus, king of Persia, says,</span></i></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Yahveh God of heaven has given me the kingdoms of the world, and has appointed me to build him a temple in Jerusalem, in Judah. Whoever there is among you from his people, Yahveh your God be with you! Go up!’”</span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                </span></b></span></span></p>
 
-<p class="MsoListBulletCxSpLast" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
+<p class="section-ref">2 Ch 36:22-23</p>
 
 
 <style>

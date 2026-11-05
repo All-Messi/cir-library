@@ -2,6 +2,7 @@
 title: "SYSTEMATIC INTERPRETATION"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-11
 categories:
 - 'Interpretation'
 draft: false

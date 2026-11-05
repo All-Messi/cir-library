@@ -1,7 +1,7 @@
 ---
 title: "Counted Righteous"
 date: '2024-05-05'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

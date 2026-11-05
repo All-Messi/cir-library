@@ -15,7 +15,7 @@ next: chapter-16
 ### Bearing with the Weak
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We that are strong need to bear with people’s weaknesses, instead of pleasing ourselves. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We that are strong need to bear with people’s weaknesses, instead of pleasing ourselves. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let’s make every effort to be pleasing to our neighbors for </span><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>their</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> good, so we can build them up. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Christ didn’t please himself; like the scripture says,</span></span></p>
 
@@ -52,9 +52,7 @@ next: chapter-16
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                        </span><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“A root will come out of Jesse,</span></i></b></p>
 
-
-### One who rises up to govern the Gentiles.
-
+<p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                                    One who rises up to govern the Gentiles.</span></i></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:0in; '><b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                        They’ll put their hope in him”</span></i></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></b><b><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Is 11:10]</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i></b></p>
 

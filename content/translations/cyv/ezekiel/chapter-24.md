@@ -12,10 +12,6 @@ next: chapter-25
 ## Ezekiel Chapter 24
 
 
-### That way you’ll know I’m the Lord Yahveh.’”           Ezek 23:43-49
-
-
-
 ### The Cooking Pot
 
 
@@ -146,6 +142,8 @@ next: chapter-25
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Son of man, won’t that be when I take their fortresses away from them, their pride and joy, the delight of their eyes, their heart’s desire, their children—</span></i></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>when somebody escapes and comes to you with the news? </span></i></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then you can speak to the one that escaped. You’ll be a sign to them. <u>They’ll know I’m Yahveh</u>.”</span></i><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                  </span></b></span></p>
+
+<p class="section-ref">Ezek 24:25-27</p>
 
 
 <style>

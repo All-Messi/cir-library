@@ -49,25 +49,19 @@ next: chapter-25
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who is the glorious King?</span></b></span></p>
 
-
-### Yahveh strong and powerful,
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Yahveh</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> strong and powerful,</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Yahveh mighty in battle.</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ope up, gates;</span></b></span></p>
 
-
-### Open up, everlasting doors,
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Open up, everlasting doors,</span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      so the glorious King can enter!</span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who is </span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the<b> glorious King?</b></span></span></p>
 
-
-### Yahveh of Hosts,
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Yahveh</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> of Hosts,</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <u>he</u> is the glorious King.                                                     </span></p>
 

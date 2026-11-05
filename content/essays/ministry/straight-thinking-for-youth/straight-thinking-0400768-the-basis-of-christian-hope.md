@@ -1,7 +1,9 @@
 ---
-title: "Straight Thinking 0400768 THE BASIS OF CHRISTIAN HOPE"
-author: "Virgil Warren, christir.org"
+title: "The Basis of Christian Hope"
+subtitle: "Straight Thinking, April 7, 1968"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-12
 categories:
 - 'Ministry'
 - 'Straight Thinking For Youth'
@@ -26,14 +28,11 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>Straight Thinking</span></b></p>
 
-<p class=MsoNormal align=center style='margin-bottom:.25in;text-align:center'><span
-style='font-size:10.0pt;line-height:115%'>0400768</span></p>
 
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%'>THE BASIS OF CHRISTIAN HOPE</span></p>
+
+
+
 
 <p class=MsoNormal style='text-align:justify'><i><span style='font-size:12.0pt;
 line-height:115%'>Sunday.</span></i><span style='font-size:12.0pt;line-height:
@@ -105,6 +104,5 @@ style='font-size:10.0pt;line-height:115%'>Read Proverbs <b>29</b>:18</span><span
 style='font-size:12.0pt;line-height:115%'>.)</span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
-line-height:115%'>Virgil Warren, <u>Straight</u>, April 7, 1968, p13                                                                                   
-christir.org</span></p>
+line-height:115%'>Virgil Warren, <u>Straight</u>, April 7, 1968, p13</span></p>
 </div>

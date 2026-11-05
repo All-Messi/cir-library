@@ -11,10 +11,6 @@ prev: chapter-02
 ## Nahum Chapter 3
 
 
-### Nah 2:11-1
-
-
-
 ### Woe to Nineveh
 
 
@@ -67,9 +63,9 @@ prev: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Who’s going to grieve over her?’</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Where will her comforters come from?”                          </span></i></span></p>
 
-### Where will her comforters come from?”                          Nah 3:1-7
-
+<p class="section-ref">Nah 3:1-7</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Are you any better than Thebes</span></span></p>
 
@@ -169,11 +165,9 @@ prev: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      claps their hands.</span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who hasn’t come under your endless cruelty?                       </span></p>
 
-### Who hasn’t come under your endless cruelty?                       Nah 3:15b-19
-
-
-<p class="MsoListBulletCxSpLast" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
+<p class="section-ref">Nah 3:15b-19</p>
 
 
 <style>

@@ -2,6 +2,7 @@
 title: "THE IMAGE AND THE BODY"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-12
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -312,7 +313,7 @@ within the other. Therefore, our body is part of the image of God.</span></p>
 .5in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'><img width=222 height=157
+line-height:18.0pt'><span style='font-size:12.0pt'><img alt="Interpersonal capacity with physicality and sexuality" width=222 height=157
 src="/images/essays/the-image-and-the-body/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:

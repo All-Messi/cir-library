@@ -15,7 +15,7 @@ next: chapter-18
 ### Prohibition Against Eating Blood
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.25in;'><a name="_Hlk125976600"></a><a name="_Hlk126820762"><span class="verse verse-v1" id="v1"><sup class="verse-num">1-2</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.25in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1-2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
 </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told Moses to tell Aaron, his sons, and all Israel, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The
@@ -39,7 +39,7 @@ next: chapter-18
 
 <p class="section-ref">Lev 17:8-13</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><a name="_Hlk126820823"><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“In all kinds of flesh, blood is identified with its life; so I told the Israelites not to eat blood. If any of you eat it, you’ll be excluded </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from the community<i>. </i></span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“In all kinds of flesh, blood is identified with its life; so I told the Israelites not to eat blood. If any of you eat it, you’ll be excluded </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from the community<i>. </i></span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Whether native or foreign, if you eat an animal that has died or wild animals have torn to pieces, wash your clothes, take a bath, and remain ceremonially unclean till evening. </span></i></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you don’t do that, you’re considered guilty.”                                                                                                                     </span></i></span></span></p>
 

@@ -15,11 +15,11 @@ next: chapter-03
 ### Israel’s Unfaithfulness Punished
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk147973177"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In that day, <i>you will call your brothers</i> <i>‘Ammi’</i></span><i><span style='font-family:"Times New Roman",serif'> </span></i><span style='font-family: "Times New Roman",serif'>[my people]</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In that day, <i>you will call your brothers</i> <i>‘Ammi’</i></span><i><span style='font-family:"Times New Roman",serif'> </span></i><span style='font-family: "Times New Roman",serif'>[my people]</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and your sisters</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> <i>‘Ruhamah’ </i></span><span style='font-family:"Times New Roman",serif'>[the ones loved</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>].’</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122882126"><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But for now, <i>bring charges against</i> <i>your mother </i>Israel</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But for now, <i>bring charges against</i> <i>your mother </i>Israel</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      because she’s not my wife </span></i></p>
 
@@ -43,7 +43,7 @@ next: chapter-03
 
 <p class="section-ref">Hos 2:1-4</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122882191"><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Their mother was a prostitute;</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Their mother was a prostitute;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      it was a shame the way she acted.</span></i></p>
 
@@ -77,7 +77,7 @@ next: chapter-03
 
 <p class="section-ref">Hos 2:5-8</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122882246"><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I’ll take back my grain at harvest time</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I’ll take back my grain at harvest time</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and my new wine when it’s due.</span></i></p>
 
@@ -107,7 +107,7 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            where only wild animals can eat.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126146534"><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll punish her for the times when she was </span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll punish her for the times when she was </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      offering sacrifices to the images of Baal,</span></i></p>
 
@@ -123,7 +123,7 @@ next: chapter-03
 ### The LORD’s Mercy on Israel
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122882372"><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“So I’ll win her back,  </span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“So I’ll win her back,  </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      bring her into the desert,</span></i></p>
 
@@ -159,7 +159,7 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Then she’ll know the </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk94783620"><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, I’ll answer the sky </span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, I’ll answer the sky </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      that pleads for rain</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>,<i> </i></span></p>
 
@@ -173,14 +173,10 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and have mercy on her that hadn’t received mercy.</span></i></b></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll say to those who weren’t my people, </span></i></b></p>
 
-### I’ll say to those who weren’t my people,
-
-
-
-### ‘You’re
-my people [Ammi]!’
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      ‘</span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’re
+<i>my people </i></span></b><b><i><span style='font-family:"Times New Roman",serif'>[</span></i></b><b><span style='font-family:"Times New Roman",serif'>Ammi<i>]!</i></span></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’</span></i></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and they’ll say, ‘</span></i></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>You’re <i>my God </i></span></b><b><i><span style='font-family:"Times New Roman",serif'>[</span></i></b><b><span style='font-family:"Times New Roman",serif'>Elohai<i>]</i></span></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>!’”
 </span></i></b><b><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>[Hos 2:23 +1:10]</span></b><b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                    </span></b></span></p>

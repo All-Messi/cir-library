@@ -10,7 +10,7 @@ next: chapter-02
 
 ## Habakkuk Chapter 1
 
-<p class="MsoListBulletCxSpFirst" style='margin-top:0in; margin-bottom:0in;margin-left:1.5in'><b><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>     1<sup>:1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Oracle That Habakkuk the Prophet Saw</span></p>
+<p class="MsoListBulletCxSpFirst" style='margin-top:0in; margin-bottom:0in;margin-left:1.5in'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Oracle That Habakkuk the Prophet Saw</span></span></p>
 
 
 ### Habakkuk’s Complaint
@@ -53,9 +53,7 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and be astounded.</span></i></b></p>
 
-
-### I’m doing something in your own day
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I’m doing something in your own day </span></i></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>you wouldn’t believe if somebody told you</span></i></b><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Acts 13:41; see LXX]</span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>.</span></i></p>
 
@@ -129,7 +127,7 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        like creatures with no rulers.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122951811"><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sinful people fish us out with hooks</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sinful people fish us out with hooks</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and scoop us up with nets.</span></p>
 

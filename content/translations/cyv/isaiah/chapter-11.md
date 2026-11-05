@@ -15,7 +15,7 @@ next: chapter-12
 ### A Branch from Jesse
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  11<sup>:1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A sapling will grow out of Jesse’s stump;</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A sapling will grow out of Jesse’s stump;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              a branch from his roots will bear fruit.</span></p>
 
@@ -73,13 +73,15 @@ next: chapter-12
 
 <p class="section-ref">Is 11:6-9</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk86923238"><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, Jesse’s heir will serve as a banner for the Gentiles. They’ll rally to him, and his resting place will be glorious. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, Jesse’s heir will serve as a banner for the Gentiles. They’ll rally to him, and his resting place will be glorious. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For a second time he’ll recover the remnant of his people that are left in Assyria, Egypt, Pathros, Nubia, Elam, Shinar, Hamath, and islands in the sea. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’ll hoist a flag for the nations and repatriate the exiles of Israel and Judah from every direction. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ephraim and Judah won’t resent each other or harass one another. </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll swoop down on the Philistines in the west and together plunder the nations to the east. They’ll control Edom and Moab, and subjugate the Ammonites. </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh will dry up the <i>Red </i>Sea by Egypt and blow his scorching wind on the Euphrates <i>River</i>. He’ll separate it into seven channels so people can wade across in sandals. </span></span>
-<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There’ll be a highway from Assyria for the remnant to return on, like there was for Israel when he brought them out of Egypt.<b>                                                                                  </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Is 11:10-16</span></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>            </span></b></span></p>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There’ll be a highway from Assyria for the remnant to return on, like there was for Israel when he brought them out of Egypt.<b></b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Is 11:10-16</p>
 
 
 <style>

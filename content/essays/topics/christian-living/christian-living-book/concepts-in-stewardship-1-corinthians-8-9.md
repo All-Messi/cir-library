@@ -2,10 +2,12 @@
 title: "CONCEPTS IN STEWARDSHIP: 1 CORINTHIANS 8-9"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Living'
 - 'Christian Living Book'
+weight: 41
 draft: false
 ---
 
@@ -64,7 +66,7 @@ margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>  II. Purpose and Use of Giving</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:148.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-112.5pt'><span
+margin-left:min(148.5pt, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(148.5pt, 35vw))'><span
 style='font-size:12.0pt'>         A. Benevolence: <u>2 Corinthians <b>8-9</b></u>;
 Acts <b>6</b>:1-6; <b>11</b>:29-30; Romans <b>15</b>:25-28; 1 Corinthians <b>16</b>:1-4;
 Galatians<b> 2</b>:10; 1 Timothy <b>5</b>:1-16</span></p>

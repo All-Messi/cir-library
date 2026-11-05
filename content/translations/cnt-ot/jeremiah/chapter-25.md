@@ -16,22 +16,22 @@ next: chapter-26
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-top:0in;margin-right: 0in;margin-bottom:0in;margin-left:.5in;text-align:center'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>in the <b>Fourth Year of Jehoiakim Son of Josiah, King of Judah</b></span></p>
 
 
-### (the First Year of Nebuchadnezzar
-King of Babylon)
+### (the First Year of Nebuchadnezzar King of Babylon)
 
 
 
 ### Seventy Years of Captivity
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123652493"><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jeremiah told the people in Judah and Jerusalem: </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jeremiah told the people in Judah and Jerusalem: </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<b>From the thirteenth year of Josiah son of Amon, king of Judah, till now (23 years</b>), the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>’s message has been coming to me. I’ve spoken to you again and again, but you’ve ignored me. </span></i></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He has sent you his prophets over and over, </span></i></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Turn from your sinful ways and deeds, and live on the land I’ve given you and your ancestors forever. </span></i></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t worship and serve other gods. Don’t make me angry with what you’ve made with your hands, and I won’t hurt you.’ </span></i></span>
-<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But you ignored me and made me angry with what you’ve made with your hands to your own hurt.</span></i><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>                         Jer 25:1-7
-</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>        </span></b></span></p>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But you ignored me and made me angry with what you’ve made with your hands to your own hurt.</span></i><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Jer 25:1-7</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“‘So, because you haven’t obeyed me, </span></i></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m going to send for the armies in the north and for Nebuchadnezzar, king of Babylon, my servant, and bring them against this land and surrounding nations. I’ll destroy them, make them something to abhor, to gasp at, a permanent wasteland. </span></i></span>
@@ -49,7 +49,7 @@ King of Babylon)
 ### The Cup of God’s Anger
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><a name="_Hlk123652661"><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God of Israel told me,<i> “Take this cup of the wine of </i>my <i>anger and make the nations drink it. </i></span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God of Israel told me,<i> “Take this cup of the wine of </i>my <i>anger and make the nations drink it. </i></span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll stagger and go crazy because of the sword that’s coming among them.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>     </span></b></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> handed me the cup, and I made the nations drink <i>it</i>: </span></span>
@@ -67,9 +67,11 @@ King of Babylon)
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell them the L</span></i><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> of Hosts, the God of Israel, says, ‘Drink </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>it<i>, get drunk, vomit, fall down, and not get up; I’m sending a sword among you.’ </i></span></span>
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If they try to refuse, tell them the L</span></i><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> of Hosts says, ‘You <u>will</u> drink it! </span></i></span>
-<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m about to bring a catastrophe on this city I’ve identified with, and you think you’ll avoid getting punished?! I’m calling for a sword against everybody on the earth.”</span></i><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>                                                            Jer 25:27-29</span></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></b></span></p>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m about to bring a catastrophe on this city I’ve identified with, and you think you’ll avoid getting punished?! I’m calling for a sword against everybody on the earth.”</span></i><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></b></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123652772"><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Prophesy these things against them:</span></i></span></p>
+<p class="section-ref">Jer 25:27-29</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Prophesy these things against them:</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘The L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> will roar from on high</span></i></p>
 
@@ -115,7 +117,7 @@ King of Babylon)
 
 <p class="section-ref">Jer 25:32-34</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123653213"><span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The shepherds won’t be able to get away;</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The shepherds won’t be able to get away;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      the flock leaders can’t escape.</span></i></p>
 

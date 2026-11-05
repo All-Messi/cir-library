@@ -6,6 +6,7 @@ categories:
 - Mankind Anthropology
 - Depravity
 date: '2026-02-16'
+lastmod: 2025-07-15
 draft: false
 title: THE IMAGE OF GOD AS THE INTERPERSONAL CAPACITY
 weight: 4

@@ -255,7 +255,7 @@ style='font-size:12.0pt'>                           �
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                                <img
+style='font-size:12.0pt'>                                                <img alt="Answer, need and use connected by arrows"
 width=126 height=87 src="/images/essays/growth-processes/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -341,7 +341,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                           <img
+style='font-size:12.0pt'>                                           <img alt="Outer and inner: a zigzag line crossing a dashed boundary"
 width=164 height=83 src="/images/essays/growth-processes/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -436,7 +436,7 @@ style='font-size:12.0pt'>                  2.   Interaction of
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                      <img width=316 height=79
+style='font-size:12.0pt'>                      <img alt="a. Inner leads to outer: Proverbs 4:23; Matthew 12:34. b. Outer leads to inner: Matthew 6:21; Ephesians 4:28. c. Inner leads to outer leads to inner: Colossians 1:9b-10; 2 Peter 1:5-9" width=316 height=79
 src="/images/essays/growth-processes/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -468,7 +468,7 @@ style='font-size:12.0pt'>            B.  Diagram #2</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                                     <img
+style='font-size:12.0pt'>                                                     <img alt="Know, feel and do across the outer/inner line"
 width=166 height=83 src="/images/essays/growth-processes/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -548,7 +548,7 @@ style='font-size:12.0pt'>                           �
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                               <img
+style='font-size:12.0pt'>                                               <img alt="Two boxed rectangles with arrows between them"
 width=196 height=56 src="/images/essays/growth-processes/image005.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

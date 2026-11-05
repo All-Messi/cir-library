@@ -15,7 +15,7 @@ next: chapter-09
 ### The Seven Lamps
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to have Aaron put up the 7 lamps to shine in front of the lampstand. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Aaron did that. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The lampstand was hammered gold from its base to its flowers in the pattern Yahveh showed Moses.

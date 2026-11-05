@@ -1,7 +1,8 @@
 ---
 title: "I. The Article"
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-02-04
 categories:
 - 'Topics'
 - 'Greek Features'
@@ -204,7 +205,7 @@ style='font-size:12.0pt'>, </span><span lang=EL style='font-size:12.0pt'>μηδ�
 style='font-size:12.0pt'>, </span><span lang=EL style='font-size:12.0pt'>μηδεμία</span><span
 style='font-size:12.0pt'>, </span><span lang=EL style='font-size:12.0pt'>μηδέν</span><span
 style='font-size:12.0pt'>, </span><span lang=EL style='font-size:12.0pt'>μήτι</span><span
-lang=EL style='font-size:12.0pt'> </span><span style='font-size:12.0pt'>
+lang=EL style='font-size:12.0pt'> </span><span style='font-size:12.0pt'>] +
 infinitive</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -260,7 +261,7 @@ style='font-size:12.0pt'>, </span><span lang=EL style='font-size:12.0pt'>μηδ�
 style='font-size:12.0pt'>,</span><span lang=EL style='font-size:12.0pt'>μηδέν</span><span
 style='font-size:12.0pt'>, </span><span lang=EL style='font-size:12.0pt'>μήπω</span><span
 style='font-size:12.0pt'>, </span><span lang=EL style='font-size:12.0pt'>μηδέπω</span><span
-style='font-size:12.0pt'>, mhqeiv&quot;, mhqevn, mhvti   +  infinitive</span></p>
+style='font-size:12.0pt'>, μηθείς, μηθέν, μήτι ]  +  infinitive</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:9.0pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>               dative-article
@@ -282,7 +283,7 @@ style='font-size:12.0pt'>, </span><span lang=EL style='font-size:12.0pt'>μηδ�
 style='font-size:12.0pt'>, </span><span lang=EL style='font-size:12.0pt'>μηδείς</span><span
 style='font-size:12.0pt'>, </span><span lang=EL style='font-size:12.0pt'>μηδέν</span><span
 style='font-size:12.0pt'>, </span><span lang=EL style='font-size:12.0pt'>μήτι</span><span
-style='font-size:12.0pt'>  + infinitive  (none)</span></p>
+style='font-size:12.0pt'> ] + infinitive  (none)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:9.0pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>               </span><span
@@ -306,8 +307,8 @@ lang=FR style='font-size:12.0pt'>, </span><span lang=EL style='font-size:12.0pt'
 lang=FR style='font-size:12.0pt'>, </span><span lang=EL style='font-size:12.0pt'>μήπω</span><span
 lang=FR style='font-size:12.0pt'>, </span><span lang=EL style='font-size:12.0pt'>μηδέπω</span><span
 lang=FR style='font-size:12.0pt'>, </span><span lang=EL style='font-size:12.0pt'>μηδέν</span><span
-lang=FR style='font-size:12.0pt'> mhqevn, mhvti</span><span style='font-size:
-12.0pt'></span><span lang=FR style='font-size:12.0pt'> +  infinitive</span></p>
+lang=FR style='font-size:12.0pt'> μηθέν, μήτι</span><span style='font-size:
+12.0pt'>]</span><span lang=FR style='font-size:12.0pt'> +  infinitive</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>               </span><span
@@ -316,17 +317,17 @@ data also for &quot;result constructions&quot;)</b></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:9.0pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>               accusative-article
-+ [mhv, mhkevti, mhvpote, mhvde, mhvte, mhdevpote, mhdeiv&quot;, mhdemiva,
-mhdevn, mhvpw, mhdevpw, mhqeiv&quot;, mhqevn, mhvti + infinitive  </span></p>
++ [μή, μηκέτι, μήποτε, μήδε, μήτε, μηδέποτε, μηδείς, μηδεμία,
+μηδέν, μήπω, μηδέπω, μηθείς, μηθέν, μήτι] + infinitive  </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:9.0pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>               preposition
 + accusative-article + . . . infinitive                                       preposition
-+ accusative-article + [mhv, mhkevti, mhvpote, mhvde, mhvte, mhdevpote,
-mhdeiv&quot;, mhdemiva, mhdevn, mhvpw, </span><span lang=EL style='font-size:
++ accusative-article + [μή, μηκέτι, μήποτε, μήδε, μήτε, μηδέποτε,
+μηδείς, μηδεμία, μηδέν, μήπω, </span><span lang=EL style='font-size:
 12.0pt'>μηδέπω</span><span style='font-size:12.0pt'>, </span><span lang=EL
-style='font-size:12.0pt'>μηδείς</span><span style='font-size:12.0pt'> mhqevn,
-mhvti + infinitive                     article + . . . ouj + . . . infinitive
+style='font-size:12.0pt'>μηδείς</span><span style='font-size:12.0pt'> μηθέν,
+μήτι] + infinitive                     article + . . . οὐ + . . . infinitive
 (none?)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -816,25 +817,25 @@ margin-left:22.5pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'
 style='font-size:12.0pt'> + noun [same n/g/c]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:22.5pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                aujtov&quot;</span><span
-style='font-size:12.0pt'></span><span lang=FR style='font-size:12.0pt'>
+margin-left:22.5pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                αὐτός</span><span
+style='font-size:12.0pt'>  +</span><span lang=FR style='font-size:12.0pt'>
 proper-noun [same n/g/c]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:22.5pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                </span><span
-style='font-size:12.0pt'>proper-noun + aujtov&quot;[same n/g/c]</span></p>
+style='font-size:12.0pt'>proper-noun + αὐτός  [same n/g/c]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:22.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                aujtov&quot;
+margin-left:22.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                αὐτός  +
 article + proper-noun [same n/g/c]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:22.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                article
-+ proper-noun + aujtov&quot;[same n/g/c]</span></p>
++ proper-noun + αὐτός  [same n/g/c]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:22.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                article
-+ aujtov&quot; + proper-noun [same n/g/c]</span></p>
++ αὐτός  + proper-noun [same n/g/c]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:22.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                </span></p>
@@ -917,28 +918,28 @@ margin-left:22.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>   �
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:22.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                </span><span
-lang=FR style='font-size:12.0pt'>masculine-relative-pronoun + eijmiv +
+lang=FR style='font-size:12.0pt'>masculine-relative-pronoun + εἰμί +
 feminine-nominative-noun</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:22.5pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                masculine-relative-pronoun
-+ eijmiv + neuter-nominative-noun</span></p>
++ εἰμί + neuter-nominative-noun</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:22.5pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                feminine-relative-pronoun
-+ eijmiv + masculine-nominative-noun</span></p>
++ εἰμί + masculine-nominative-noun</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:22.5pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                feminine-relative-pronoun
-+ eijmiv + neuter-nominative-noun</span></p>
++ εἰμί + neuter-nominative-noun</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:22.5pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                neuter-relative-pronoun
-+ eijmiv + masculine-nominative-noun</span></p>
++ εἰμί + masculine-nominative-noun</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:22.5pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                neuter-relative-pronoun
-+ eijmiv + feminine-nominative-noun</span></p>
++ εἰμί + feminine-nominative-noun</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:22.5pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>&nbsp;</span></p>
@@ -957,15 +958,15 @@ margin-left:22.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;<
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:22.5pt;margin-bottom:.0001pt'><b><span style='font-size:12.0pt'>    </span></b><span
 style='font-size:12.0pt'>            </span><span lang=FR style='font-size:
-12.0pt'>masculine-relative-pronoun + eijmiv + masculine-nominative-noun</span></p>
+12.0pt'>masculine-relative-pronoun + εἰμί + masculine-nominative-noun</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:22.5pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                feminine-relative-pronoun
-+ eijmiv + feminine-nominative-noun</span></p>
++ εἰμί + feminine-nominative-noun</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:22.5pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                </span><span
-style='font-size:12.0pt'>neuter-relative-pronoun + eijmiv +
+style='font-size:12.0pt'>neuter-relative-pronoun + εἰμί +
 neuter-nominative-noun</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -1099,27 +1100,27 @@ margin-left:22.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>   �
 numbers</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:22.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                eij&quot;+
+margin-left:22.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                εἰς +
 number</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:22.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                wJ&quot;+
+margin-left:22.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                ὡς  +
 number</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:22.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                wJ&quot;
-ajpov+ number</span></p>
+margin-left:22.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                ὡς
+ἀπό  + number</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:22.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                wJseiv+
+margin-left:22.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                ὡσεί  +
 number</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:22.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                ejn+
+margin-left:22.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                ἐν +
 number</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:22.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                ejpavnw+
+margin-left:22.5pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                ἐπάνω +
 number</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -1127,5 +1128,5 @@ margin-left:22.5pt;margin-bottom:.0001pt'><b><span style='font-size:12.0pt'>&nbs
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:22.5pt;margin-bottom:.0001pt'><b><span style='font-size:12.0pt'>                </span></b><span
-style='font-size:12.0pt'>e{w&quot; + number</span></p>
+style='font-size:12.0pt'>ἕως + number</span></p>
 </div>

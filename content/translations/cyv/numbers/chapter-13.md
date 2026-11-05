@@ -15,8 +15,7 @@ next: chapter-14
 ### Spies Sent into Canaan
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-        </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses, </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Send one leader from each tribe to spy out Canaan that I’m giving to Israel.”</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>             </span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses sent out these leaders from Paran: </span></span></p>

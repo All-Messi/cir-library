@@ -25,9 +25,7 @@ next: chapter-19
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#7030A0'>                        Are we supposed to leave the world for fear of you?</span></i></p>
 
-
-### Should ledge rocks quake out of place?
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#7030A0'>                        Should ledge rocks quake out of place?</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#7030A0'>               </span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#7030A0'>                  </span></i><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#7030A0'>“The light of the wicked goes out;</span></i></span></p>
 

@@ -2,10 +2,13 @@
 title: "RANDOM THOUGHTS ON ANGER Ephesians 4:26 < Psalm 4:4"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2020-07-06
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Living'
 - 'Christian Living Book'
+weight: 5
 draft: false
 ---
 

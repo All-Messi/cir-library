@@ -1,6 +1,6 @@
 ---
-title: "RECEIVING the Spirit, Time of"
-author: "Virgil Warren, christir.org"
+title: "The Time of Receiving the Spirit"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:
 - 'Topics'

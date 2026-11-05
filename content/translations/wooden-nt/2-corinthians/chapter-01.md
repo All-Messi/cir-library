@@ -10,7 +10,7 @@ next: chapter-02
 
 ## 2 Corinthians Chapter 1
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Paul, apostle of-Christ Jesus by (the) will of-God, and Timothy the brother, to-the church of-[the]-God [the] being in Corinth with all the saints [the] being in all Achaia. </span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Paul, apostle of-Christ Jesus by (the) will of-God, and Timothy the brother, to-the church of-[the]-God [the] being in Corinth with all the saints [the] being in all Achaia. </span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> Grace to-you and peace from God (the) Father of-us and (the) Lord Jesus Christ.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> Blessed (be) the God and Father of-the Lord of-us Jesus Christ, the Father of-[the] mercies and God of-all comfort, </span>

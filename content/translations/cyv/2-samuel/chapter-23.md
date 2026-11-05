@@ -61,9 +61,9 @@ next: chapter-24
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  you have to arm yourself with iron and the shaft of a spear.</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            They’ll be completely burned up where they are.”</span></i><b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>    </span></b></span></p>
 
-### They’ll be completely burned up where they are.”    2 Sam 23:5-7
-
+<p class="section-ref">2 Sam 23:5-7</p>
 
 
 ### David’s Greatest Warriors
@@ -76,7 +76,7 @@ next: chapter-24
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After him was <b>Eleazar</b> son of Dodo, a descendant of Ahoah, another of The Three elite soldiers. He and David defied the Philistines that gathered for battle and Israel’s army retreated. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He arose and struck the Philistines till his hand was worn out and cramped onto the sword. The LORD brought about a great victory that day. The rest of the army only returned to strip <i>the slain</i>.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk144973614"><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After him was <b>Shammah</b> Ben-Agee, from Harar. The Philistines had gathered into a troop on a plot of ground full of lentils, and the rest of Israel’s army had fled. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After him was <b>Shammah</b> Ben-Agee, from Harar. The Philistines had gathered into a troop on a plot of ground full of lentils, and the rest of Israel’s army had fled. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>But he took his stand in the middle of the plot, defended it, and struck the Philistines. </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh brought about a great victory.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then The Three among The Thirty chief men went down to David at harvest time to the cave near Adullam, while a troop of Philistines was camping in the Valley of Rephaim. </span></span>
@@ -97,7 +97,7 @@ next: chapter-24
 
 <p class="section-ref">2 Sam 23:18-23</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk144976768"><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> </a><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Asahel,</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Joab’s brother, was among the 30 <i>as well as</i> </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Asahel,</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Joab’s brother, was among the 30 <i>as well as</i> </span></span></p>
 
 
 ### Elhanan Ben-Dodo from Bethlehem;
@@ -107,69 +107,49 @@ next: chapter-24
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Helez</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> from Pelon, </span></span></p>
 
-
-### Ira Ben-Ikkesh from Tekoa,
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ira</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Ben-Ikkesh from Tekoa,     </span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Abiezer</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> from Anathoth, </span></span></p>
 
-
-### Mebunnai from Hushah,
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mebunnai</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> from Hushah,</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zalmon</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> from Ahoah, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Maharai</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> and </span><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Heleb</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Ben-Baanah from Netophah, </span></span></p>
 
-
-### Ittai Ben-Ribai from Gibeah in Benjamin,
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ittai</span></b><span lang=DE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Ben-Ribai from Gibeah in Benjamin, </span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Benaiah</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> from Pirathon, </span></span></p>
 
-
-### Hiddai from Nahale-gaash,
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hiddai</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> from Nahale-gaash,        </span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Abialbon/<i>Abiel<sup>?</sup></i></span></b><b><i><sup><span style='font-family:"Times New Roman",serif'>LXX</span></sup></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from Arabah, </span></span></p>
 
-
-### Azmaveth from Bahurim,
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Azmaveth</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> from Bahurim,</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Eliahba</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> from Shaalbon, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the sons of Jashen</span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>, </span></p>
 
-
-### Jonathan 33Ben-Shagee
-and
-Ahiam Ben-Sharar from Harar [1 Ch 11:34],
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jonathan</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ben-Shagee
+</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and
+<b>Ahiam</b> Ben-Sharar <i>from Harar </i></span><i><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'>[1 Ch 11:34],</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <b><span lang=DA style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Eliphelet</span></b><span lang=DA style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Ben-Ahasbai from Maacah,</span></span></p>
 
-
-### Eliam Ben-Ahithophel from Giloh,
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Eliam</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Ben-Ahithophel from Giloh,</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hezro</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> from Carmel, </span></span></p>
 
-
-### Paarai from Arba,
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Paarai</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> from Arba, </span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Igal</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Ben-Nathan from Zobah,</span></span></p>
 
-
-### Bani from Gad,
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <b>Bani</b> from Gad, </span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zelek</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> from Ammon, </span></span></p>
 
-
-### Naharai from Beeroth, armor bearer for Joab Ben-Zeruiah;
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Naharai</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> from Beeroth, armor bearer for Joab Ben-Zeruiah; </span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ira</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> and <b>Gareb</b> the Jattir,        </span></span></p>
 

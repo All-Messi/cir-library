@@ -2,6 +2,8 @@
 title: "CRITICAL INTRODUCTION TO 1 JOHN"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2023-07-13
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'

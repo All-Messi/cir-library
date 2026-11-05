@@ -1,7 +1,7 @@
 ---
 title: "So Little Time"
 date: '2015-02-13'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

@@ -13,7 +13,6 @@ next: chapter-08
 
 
 ### Solomon Builds His Palace
-1 Kg 6:23-38
 
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%'>It took 13 years to build Solomon’s palace. </span></span></p>
@@ -29,7 +28,9 @@ next: chapter-08
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height: 115%'>The palace where he’d live and the other court inward from the hall had the same workmanship. </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height: 115%'>He made similar quarters for Pharaoh’s daughter that he’d married. </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%'>These were made out of expensive stones, cut to size with saws, inside and out, from the foundation to the eaves, and so on the outside to the great court.<b>          </b></span><b><span style='font-size:10.0pt;line-height:115%'>1 Kg 7:1-9</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height: 115%'>He made similar quarters for Pharaoh’s daughter that he’d married. </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%'>These were made out of expensive stones, cut to size with saws, inside and out, from the foundation to the eaves, and so on the outside to the great court.<b>          </b></span></span></p>
+
+<p class="section-ref">1 Kg 7:1-9</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height: 115%'>The foundation consisted of huge, expensive stones, <i>some </i>12ft and 15ft long. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%'>Above were expensive stones cut to size—and cedar. </span></span>
@@ -49,25 +50,31 @@ next: chapter-08
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%'>and each had a lily design 6ft tall. </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%'>The capitals were close to the rounded projection that was beside the latticework. </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%'>So he set up the pillars at the porch of the nave. The left pillar he named Boaz, and the right one, Jachin. </span></span>
-<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%'>The capitals on the pillars there were shaped like water lilies. That finished the work on the pillars.</span><b><span style='font-size:10.0pt;line-height:115%'>                      1 Kg 7:10-22</span></b></span></p>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%'>The capitals on the pillars there were shaped like water lilies. That finished the work on the pillars.</span></span></p>
+
+<p class="section-ref">1 Kg 7:10-22</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height: 115%'>Hiram/<i>Huram</i> made the sea out of cast metal 15ft from brim to brim. It was 7½ft tall and 45ft in circumference. </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%'>Under its brim, gourds went all the way around it, 10 to each 1½ft. The gourds were in 2 rows, cast with the rest. </span></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%'>The sea</span></i><span style='font-size:12.0pt;line-height:115%'> rested on 12 oxen, 3 each facing north, west, south, and east, and their hind quarters aimed inward. </span></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%'>It was a handbreadth thick with a brim like the brim of a cup, like a lily blossom. It could hold 18,000 gallons.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%'>1 Kg 7:23-26</span></b></span></p>
+</b></span></span></p>
+
+<p class="section-ref">1 Kg 7:23-26</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height: 115%'>Then Hiram/<i>Huram</i> made 10 bronze stands, each 6 x 6</span><span style='font-size:12.0pt;line-height:115%;font-family:"Comic Sans MS"'> </span><span style='font-size:12.0pt;line-height:115%'>x 4½ft high. </span></span>
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%'>They had braces between the frames </span></span>
-<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%'>decorated with lions, oxen, and cherubs. On the frames there was a pedestal above with lions and oxen, and wreaths of hanging work below. </span><a name="_Hlk146175194"></span>
-<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> </a><span style='font-size:12.0pt;line-height:115%'>Each stand had 4 bronze wheels with bronze axles. There were 4 supports under the basins with wreath decorations on each side. </span></span>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%'>decorated with lions, oxen, and cherubs. On the frames there was a pedestal above with lions and oxen, and wreaths of hanging work below. </span></span>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%'>Each stand had 4 bronze wheels with bronze axles. There were 4 supports under the basins with wreath decorations on each side. </span></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%'>Its opening was within a crown that stuck up 18ins</span><span style='font-size:14.0pt;line-height:115%;font-family: "Comic Sans MS"'>.</span><span style='font-size:12.0pt;line-height:115%'> At its opening there were carvings, and its panels were square, not round. </span></span>
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%'>The 4 wheels were under the panels, and their axels of one piece with the stands. The wheels were 27ins tall</span><span style='font-size:14.0pt;line-height:115%'>,</span><span style='font-size:12.0pt; line-height:115%'> </span></span>
 <span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%'>made like chariot wheels with their axels, rims, spokes, and hubs cast <i>in one piece </i>from molten bronze. </span></span>
 <span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height: 115%'>There were 4 supports at the 4 corners of each stand made of one piece with the stands. </span></span>
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%'>On top of the stand was a round band 18ins high with stays and borders of one piece with it. </span></span>
 <span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%'>On the surfaces of its stays and borders, he carved cherubs, lions, and palm trees according to the space of each, with wreaths all around. </span></span>
-<span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height: 115%'>He made 10 such stands, cast alike, the same size and shape.  </span><b><span style='font-size:10.0pt;line-height:115%'>1 Kg 7:27-37</span></b></span></p>
+<span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height: 115%'>He made 10 such stands, cast alike, the same size and shape.  </span></span></p>
+
+<p class="section-ref">1 Kg 7:27-37</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height: 115%'>He made 10 bronze basins, 1 for each stand. Each basin held 360 gallons and measured 6ft across. </span></span>
 <span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size:12.0pt;line-height: 115%'>He set the stands 5 on the south side of the Temple and 5 on the north side, and set the sea at the southeast corner of the Temple.</span></span></p>
@@ -76,7 +83,9 @@ next: chapter-08
 <span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size:12.0pt;line-height:115%'>the 2 pillars, 2 bowls for the capitals on top of the pillars, 2 networks to cover the 2 bowls—</span></span>
 <span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size:12.0pt;line-height:115%'>400 pomegranates for the 2 networks in 2 rows per network; </span></span>
 <span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size:12.0pt;line-height:115%'>10 stands and the 10 lavers on them, </span></span>
-<span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <span style='font-size:12.0pt;line-height: 115%'>the sea and the 12 oxen under it.<b>                                        </b></span><b><span style='font-size:10.0pt;line-height:115%'>1 Kg 7:38-44</span></b></span></p>
+<span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <span style='font-size:12.0pt;line-height: 115%'>the sea and the 12 oxen under it.<b>                                        </b></span></span></p>
+
+<p class="section-ref">1 Kg 7:38-44</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <span style='font-size:12.0pt;line-height: 115%'>He made the pots, shovels, and basins out of burnished bronze. </span></span>
 <span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size:12.0pt;line-height:115%'>The king cast them in the plain of the Jordan, in the clay ground between Succoth and Zarethan. </span></span>
@@ -86,7 +95,9 @@ next: chapter-08
 <span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <span style='font-size:12.0pt; line-height:115%'>lampstands of pure gold—5 on the south side and 5 on the north in front of the inner sanctuary. <i>He made </i>the flowers, lamps, and tongs out of gold; </span></span>
 <span class="verse verse-v50" id="v50"><sup class="verse-num">50</sup> <span style='font-size:12.0pt;line-height:115%'>the cups, snuffers, basins, dishes for incense, and firepans out of pure gold; and the sockets for the doors of the Holy of Holies and for the nave of the Temple out of gold.</span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v51" id="v51"><sup class="verse-num">51</sup> <span style='font-size:12.0pt;line-height: 115%'>Solomon finished the work on Yahveh’s Temple. He brought in the silver, gold, and articles David had dedicated, and stored them in the<sup>Y</sup> Temple treasuries.                              </span><b><span style='font-size:10.0pt;line-height:115%'>1 Kg 7:45-51</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v51" id="v51"><sup class="verse-num">51</sup> <span style='font-size:12.0pt;line-height: 115%'>Solomon finished the work on Yahveh’s Temple. He brought in the silver, gold, and articles David had dedicated, and stored them in the<sup>Y</sup> Temple treasuries.                              </span></span></p>
+
+<p class="section-ref">1 Kg 7:45-51</p>
 
 
 <style>

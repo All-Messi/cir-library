@@ -1,7 +1,9 @@
 ---
-title: "Straight Thinking 012868 A CLEAN MIND"
-author: "Virgil Warren, christir.org"
+title: "A Clean Mind"
+subtitle: "Straight Thinking, January 28, 1968"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-12
 categories:
 - 'Ministry'
 - 'Straight Thinking For Youth'
@@ -26,14 +28,11 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>Straight Thinking</span></b></p>
 
-<p class=MsoNormal align=center style='margin-bottom:.25in;text-align:center'><span
-style='font-size:10.0pt;line-height:115%'>012868</span></p>
 
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%'>A CLEAN MIND</span></p>
+
+
+
 
 <p class=MsoNormal style='text-align:justify'><i><span style='font-size:12.0pt;
 line-height:115%'>Sunday.</span></i><span style='font-size:12.0pt;line-height:
@@ -104,6 +103,5 @@ before God (</span><span style='font-size:10.0pt;line-height:115%'>Read Jude
 23-24</span><span style='font-size:12.0pt;line-height:115%'>.)</span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
-line-height:115%'>Virgil Warren, <u>Straight</u>, January 28, 1968, p13                                                                              
-christir.org</span></p>
+line-height:115%'>Virgil Warren, <u>Straight</u>, January 28, 1968, p13</span></p>
 </div>

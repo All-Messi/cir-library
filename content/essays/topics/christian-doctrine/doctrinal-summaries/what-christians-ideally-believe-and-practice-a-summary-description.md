@@ -2,6 +2,8 @@
 title: "WHAT CHRISTIANS IDEALLY BELIEVE AND PRACTICE: A SUMMARY DESCRIPTION"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-11-28
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Doctrine'

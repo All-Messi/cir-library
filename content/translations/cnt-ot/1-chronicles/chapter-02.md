@@ -29,7 +29,9 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        (</span><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-family:"Times New Roman",serif'>The son of Carmi </span><i><span style='font-family:"Times New Roman",serif'>was</span></i><span style='font-family:"Times New Roman",serif'> Achar, the troubler of Israel, who violated the ban.</span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>)</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                      </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The son of <u>Ethan</u> </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>was</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> Azariah.<b>                                                     </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 2:1-8</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                      </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The son of <u>Ethan</u> </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>was</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> Azariah.<b>                                                     </b></span></span></p>
+
+<p class="section-ref">1 Ch 2:1-8</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                      </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of <b><u>Hezron</u></b> were <u>Jerahmeel</u>, <u>Ram</u>, Chelubai, </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Caleb</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></span></p>
 
@@ -74,13 +76,11 @@ next: chapter-03
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-family: "Times New Roman",serif'> Gilead</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>).
 </span></p>
 
-
-### He married her when he was 60 and she bore Segub.
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> He married her when he was 60 and she bore <u>Segub</u>.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                              </span><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Segub</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> was father of Jair, who governed 23 towns in </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                        Gilead.<a name="_Hlk146174106"> </a></span><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Geshur and Aram captured the towns </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                        Gilead. </span><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Geshur and Aram captured the towns </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                        of Jair from them along with Kenath and its 60 </span></p>
 
@@ -90,7 +90,9 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                  </span><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After the death of <b>Hezron</b> in Caleb-ephrathah, Abijah his wife </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                              bore him Ashhur father of Tekoa.</span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                         1 Ch 2:9-24</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                              bore him Ashhur father of Tekoa.</span></p>
+
+<p class="section-ref">1 Ch 2:9-24</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                </span><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of <u>Jerahmeel</u> the firstborn of Hezron </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>were</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <u>Ram</u>, then </span></span></p>
 
@@ -125,9 +127,9 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                    </span><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of Jonathan: Peleth and Zaza.</span></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                              <u>Those were the descendants of Jarahmeel.</u></span><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></p>
 
-### Those were the descendants of Jarahmeel.         1 Ch 2:25-33
-
+<p class="section-ref">1 Ch 2:25-33</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                        </span><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sheshan</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> had only daughters. He had an Egyptian servant named Jarha. </span></span>
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He gave his daughter to Jarha in marriage, and she bore </span></span>
@@ -136,7 +138,9 @@ next: chapter-03
 <span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Obed father of Jehu father of </span></span>
 <span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Azariah father of Helez father of </span></span>
 <span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Eleasah father of Sismai father of </span></span>
-<span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Shallum father of Jekamiah father of Elishama.<b>                                                                                      </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 2:34-41</span></b></span></p>
+<span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Shallum father of Jekamiah father of Elishama.<b>                                                                                      </b></span></span></p>
+
+<p class="section-ref">1 Ch 2:34-41</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                  </span><span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of Caleb, brother of Jerahmeel, </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>were </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mesha, his </span></span></p>
 
@@ -150,7 +154,9 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                        Rekem was father of <u>Shammai</u> </span><span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>father of Maon </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                    father of Beth-zur.<b>                        </b></span><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 2:42-45</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                    father of Beth-zur.<b>                        </b></span></p>
+
+<p class="section-ref">1 Ch 2:42-45</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                  </span><span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Caleb’s concubine Ephah bore <u>Haran</u>, Moza, and Gazez.                                                                         Haran was father of Gazez. </span></span>
 <span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of Jahdai </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>were</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
@@ -178,7 +184,9 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                    </span><span class="verse verse-v54" id="v54"><sup class="verse-num">54</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of Salma were Bethlehem and the Netophathites, Atroth-beth-joab, and half of the Manahathites, the Zorites.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                              </span><span class="verse verse-v55" id="v55"><sup class="verse-num">55</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The families of scribes that lived at Jabez </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>were</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> the Tirathites, Shimeathites, and Sucathites. <u>Those are the Kenites that came from Hammath, father of the House of Rechab</u>.<b>                                                                                                               </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 2:46-55</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                              </span><span class="verse verse-v55" id="v55"><sup class="verse-num">55</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The families of scribes that lived at Jabez </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>were</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> the Tirathites, Shimeathites, and Sucathites. <u>Those are the Kenites that came from Hammath, father of the House of Rechab</u>.<b>                                                                                                               </b></span></span></p>
+
+<p class="section-ref">1 Ch 2:46-55</p>
 
 
 <style>

@@ -4,6 +4,7 @@ categories:
 - Evidences
 - Know How We Epistemology
 date: '2026-02-16'
+lastmod: 2025-07-15
 draft: false
 title: KNOWING BY FAITH
 weight: 2

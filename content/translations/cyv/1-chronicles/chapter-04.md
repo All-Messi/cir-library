@@ -26,7 +26,9 @@ next: chapter-05
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%'>         </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%'>and Koz, ancestor of Anub and Zobebah and the families of Aharhel Ben-Harum.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%'>         </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%'>A man named </span></i><span style='font-size:12.0pt;line-height:115%'>Jabez had more honor than his brothers, and his mother named him Jabez because she bore him “in pain.” </span></span>
-<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%'>Jabez called on the God of Israel, <i>“Oh that you’d bless me and make my territory bigger, be with me, and keep me from harm so I won’t suffer!”</i> God gave him what he asked.                                                                                    </span><b><span style='font-size:10.0pt;line-height:115%'>1 Ch 4:1-10</span></b></span></p>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%'>Jabez called on the God of Israel, <i>“Oh that you’d bless me and make my territory bigger, be with me, and keep me from harm so I won’t suffer!”</i> God gave him what he asked.                                                                                    </span></span></p>
+
+<p class="section-ref">1 Ch 4:1-10</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in'><span style='font-size:12.0pt;line-height:115%'>         </span><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%'>Chelub brother of Shuhah was father of Mehir Avi-<u>Eshton</u>.</span></span></p>
 
@@ -51,7 +53,9 @@ next: chapter-05
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%'>         </span><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%'>The sons of Ezrah <i>were </i>Jether,
 <u>Mered</u>, Epher, and Jalon. These are the sons of Bithia </span>Pharaoh’s daughter that Mered married<span style='font-size:12.0pt;line-height:115%'>. She <i>bore </i>Miriam, Shammai, and Ishbah Avi-Eshtemoa. </span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%'>His Jewish wife bore Jered Avi-Gedor, Heber Avi-Soco, and Jekuthiel Avi-Zanoah. </span></span>
-<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%'>The sons of the wife of Hodiah sister of Naham were the fathers of Keilah the Garmite and Eshtemoa the Maacathite.                                                                                                     </span><b><span style='font-size:10.0pt;line-height:115%'>1 Ch 4:11-19</span></b></span></p>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%'>The sons of the wife of Hodiah sister of Naham were the fathers of Keilah the Garmite and Eshtemoa the Maacathite.                                                                                                     </span></span></p>
+
+<p class="section-ref">1 Ch 4:11-19</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%'>         </span><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height: 115%'>The sons of Shimon <i>were</i> Amnon and Rinnah, Benhanan and Tilon. </span></span></p>
 
@@ -59,7 +63,9 @@ next: chapter-05
 
 <p class="MsoListBulletCxSpFirst" style='margin-bottom:0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of Shelah Ben-Judah <i>were</i> Er Avi-Lecah, Laadah Avi-Mareshah, the families of the linen workers at Beth-ashbea, </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jokim the men of Cozeba, Joash Saraph, who ruled in Moab; </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and Jashubi-lehem. The records are ancient. </span></span>
-<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>These were the potters and people of Netaim and Gederah. They lived there with the king for his work.</span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>                                                     1 Ch 4:20-23</span></b></span></p>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>These were the potters and people of Netaim and Gederah. They lived there with the king for his work.</span></span></p>
+
+<p class="section-ref">1 Ch 4:20-23</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of <b>SIMEON</b>: Nemuel, Jamin, Jarib, Zerah, <u>Shaul</u></span></span></p>
 
@@ -86,7 +92,9 @@ next: chapter-05
 <span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They found good pasture, and the land was large and quiet and peaceful; the previous residents were Hamites. </span></span>
 <span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>These, according to the records, came at the time of Hezekiah, king of Judah, and attacked their tents as well as the Meunites that were there, and destroyed them till today, and lived in place of them, because there was pasture for their flocks. </span></span>
 <span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From them—from the descendants of Simeon—500 men went to Mount Seir with Pelatiah, Neariah, Rephaiah, and Uzziel, sons of Ishi as their leaders. </span></span>
-<span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They destroyed the remnant of the Amalekites that escaped and have lived there ever since.   </span><b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>1 Ch 4:24-43</span></b></span></p>
+<span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They destroyed the remnant of the Amalekites that escaped and have lived there ever since.   </span></span></p>
+
+<p class="section-ref">1 Ch 4:24-43</p>
 
 
 <style>

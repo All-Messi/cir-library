@@ -11,7 +11,7 @@ next: chapter-04
 
 ## 1 Peter Chapter 3
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Likewise, [the] wives, submit to-[the] your husbands, in-order-that even if some are-disobedient to-the word, they-will-be-won aside-from (the) word by the behavior of-the/their wives, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Likewise, [the] wives, submit to-[the] your husbands, in-order-that even if some are-disobedient to-the word, they-will-be-won aside-from (the) word by the behavior of-the/their wives, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>having-watched the chaste behavior of-you with respect, </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>of-whom [the] adornment let┘not└be the external elaborate-braiding of-hair[s] and wearing of-gold-things or (the) putting-on of-clothes, </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but the hidden person of-the heart in the imperishableness of-(a)-gentle and quiet spirit, which is before [the] God very-precious.  </span></span>
@@ -28,17 +28,13 @@ next: chapter-04
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and to-see good days—</span></b></p>
 
-
-### Let-him-stop the/his tongue from evil,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Let-him-stop the/his tongue from evil,</span></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and let</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>┘<b> (his) lips not [the] not</b>└<b>speak deceit.</b></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></b><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let-him-turn from evil and do good.</span></b></span></p>
 
-
-### Let-him-seek peace and pursue it;
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    Let-him-seek peace and pursue it;</span></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></b><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>because (the) eyes of-(the)-Lord (are) upon the righteous,</span></b></span></p>
 

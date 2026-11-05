@@ -2,6 +2,7 @@
 title: "NOTATIONS ON THE DOCUMENTARY THEORY FOR ORIGINS OF THE PENTATEUCH"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Critical Intro Ot'
@@ -63,7 +64,7 @@ of Isaac                                  Genes
 (J); <b>21</b>:6 </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
-margin-left:3.5in;text-align:justify;text-indent:.5in;line-height:normal'><span
+margin-left:min(3.5in, 35vw);text-align:justify;text-indent:.5in;line-height:normal'><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif'>   (E)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
@@ -78,12 +79,12 @@ as Abraham’s Sister                  Genesis <b>12</b>:10-20 
 (E) </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
-margin-left:4.0in;text-align:justify;text-indent:15.0pt;line-height:normal'><span
+margin-left:min(4.0in, 35vw);text-align:justify;text-indent:15.0pt;line-height:normal'><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif'>[cp. <b>26</b>:6-11
 (J) for Isaac and  </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
-margin-left:4.0in;text-align:justify;text-indent:15.0pt;line-height:normal'><span
+margin-left:min(4.0in, 35vw);text-align:justify;text-indent:15.0pt;line-height:normal'><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif'>Rebekah]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
@@ -349,7 +350,7 @@ diagram as follows:</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
 margin-left:.25in;text-align:justify;text-indent:.5in;line-height:normal'><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif'><img width=372
+style='font-size:12.0pt;font-family:"Times New Roman",serif'><img alt="Boxes 1:1 and 1:2-31 with braces" width=372
 height=68 id="Picture 4" src="/images/essays/notations-on-the-documentary-theory-for-origins-of-the-pentateuch/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
@@ -374,7 +375,7 @@ elaboration for Genesis <b>1-2</b> takes this shape:</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
 margin-left:.25in;text-align:justify;text-indent:.5in;line-height:normal'><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif'>       </span><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif'><img width=282
+style='font-size:12.0pt;font-family:"Times New Roman",serif'><img alt="Omniscient, geocentric and anthropocentric viewpoints: 1:1, 1:2-2:3 and 2:4-25" width=282
 height=143 id="Picture 3" src="/images/essays/notations-on-the-documentary-theory-for-origins-of-the-pentateuch/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;

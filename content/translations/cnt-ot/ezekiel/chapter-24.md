@@ -12,14 +12,10 @@ next: chapter-25
 ## Ezekiel Chapter 24
 
 
-### That way you’ll know I’m the Lord GOD.’”                     Ezek 23:43-49
-
-
-
 ### The Cooking Pot
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         <a name="_Hlk200623407">24<sup>:1</sup></a></span></b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>The <b>tenth day, tenth month, ninth year</b>, a message from the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> came to me:</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>The <b>tenth day, tenth month, ninth year</b>, a message from the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> came to me:</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Son of man, write down the date. Today the king of Babylon laid siege to Jerusalem.
 </span></i></span>
@@ -145,6 +141,8 @@ next: chapter-25
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>when somebody escapes and comes to you with the news? </span></i></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then you can speak to the one that escaped. You’ll be a sign to them. <u>They’ll know I’m the </u></span></i><i><u><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>L</span></u></i><i><u><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></u></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>
          </span></b></span></p>
+
+<p class="section-ref">Ezek 24:25-27</p>
 
 
 <style>

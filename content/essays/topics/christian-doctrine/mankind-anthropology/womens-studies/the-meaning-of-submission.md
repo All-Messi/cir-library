@@ -2,6 +2,7 @@
 title: "THE MEANING OF 'SUBMISSION'"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-14
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -33,7 +34,7 @@ rigidness creates an extreme opposite and equal reaction. After a while,</span><
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=281 height=73
+style='font-size:12.0pt'><img alt="Extreme #2, truth and extreme #1" width=281 height=73
 src="/images/essays/the-meaning-of-submission/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -146,7 +147,7 @@ contradict the personal context</u>. </span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                   <img width=243
+style='font-size:12.0pt'>                                   <img alt="Nested ellipses: interpersonalism, responsibility, authority" width=243
 height=101 src="/images/essays/the-meaning-of-submission/image006.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

@@ -48,13 +48,15 @@ next: chapter-22
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God heard the boy crying, and his angel called to Hagar from the sky, <i>“What’s wrong, Hagar? Don’t be afraid. God has heard the boy. </i></span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Go get him up and hold him by the hand; I’ll make a big nation out of him.” </span></i></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God caused her to notice a well. She went and filled the skin with water and gave him a drink. </span></span>
-<span class="verse verse-v20" id="v20"><sup class="verse-num">20-21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God was with him. He grew up and lived in the Wilderness of Paran and became an archer. His mother took a wife for him out of Egypt.                                                       </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gen 21:8-21</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>      </span></span></p>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20-21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God was with him. He grew up and lived in the Wilderness of Paran and became an archer. His mother took a wife for him out of Egypt.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Gen 21:8-21</p>
 
 
 ### Treaty with Abimelech
 
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:4.5pt;'><a name="_Hlk125453364"><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, Abimelech and Phicol, commander of his army, said to Abraham, </span></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:4.5pt;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, Abimelech and Phicol, commander of his army, said to Abraham, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“God’s with you whatever you do. </span></i><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So swear by him here that you won’t deal falsely with me or my descendants. The kindness I’ve shown you please show me and the land where you’ve lived.”</span></i></span></p>
 

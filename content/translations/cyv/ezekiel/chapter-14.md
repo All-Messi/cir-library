@@ -30,9 +30,11 @@ next: chapter-15
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>I’ll oppose you and make an example out of you and a proverb. I’ll cut you off from my people. So <u>you’ll know I’m Yahveh</u>. </span></i></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But if the prophet is tempted to speak a message, I’m the one that tempted him, and I’ll destroy him from my people. </span></i></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The inquirer and the prophet will get the same punishment for their iniquity. </span></i></span>
-<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s so Israel won’t stray from me anymore and defile themselves with their sins.’” </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ezek 14:6-11</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>         </span></i></span></p>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s so Israel won’t stray from me anymore and defile themselves with their sins.’”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:4.5in;'><a name="_Hlk200621219"><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Jerusalem Not Spared</span></b></a><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>
+<p class="section-ref">Ezek 14:6-11</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:4.5in;'><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Jerusalem Not Spared</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span></sup></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A message from Yahveh came to me:  </span></span></p>
@@ -46,9 +48,7 @@ next: chapter-15
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If I send a <u>disease</u> on it and pour out my anger on it to slay people and animals, </span></i></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>even though Noah, Daniel, and Job were in it, they couldn’t deliver their own sons or daughters. They would only deliver themselves by their goodness.</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>    </span></b></span></p>
 
-
-### Ezek 14:12-20
-
+<p class="section-ref">Ezek 14:12-20</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“How much more, then, when I send my four severe judgments against Jerusalem: sword, famine, wild animals, and disease to slay people and animals in it! </span></i></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But some children will survive and come out to you to comfort you from the catastrophe I’ve brought on Jerusalem. </span></i></span>

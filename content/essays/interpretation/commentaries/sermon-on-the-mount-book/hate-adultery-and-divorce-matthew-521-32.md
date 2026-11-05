@@ -2,6 +2,8 @@
 title: "HATE, ADULTERY, AND DIVORCE: Matthew 5:21-32"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 1997-05-14
+lastmod: 2025-07-11
 categories:
 - 'Interpretation'
 - 'Commentaries'

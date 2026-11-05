@@ -15,7 +15,7 @@ next: chapter-06
 ### Nehemiah Stops the Oppression of the Poor
 
 
-<p class="MsoListBulletCxSpFirst" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There was a loud outcry by husbands and wives against their fellow Jews. </span></span>
+<p class="MsoListBulletCxSpFirst" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There was a loud outcry by husbands and wives against their fellow Jews. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Some were saying, <i>“There are a lot of us along with our sons and daughters. We need more food to survive.” </i></span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Others said, <i>“We’re mortgaging our fields, vineyards, and houses for grain because of the famine.”</i> </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yet
@@ -43,10 +43,10 @@ next: chapter-06
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            The assembly said, <i>“Amen!”</i> and praised the L</span><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.
 </span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            The offenders did what they vowed.<b>
+</b></span></p>
 
-### The offenders did what they vowed.
-Neh 5:9-13
-
+<p class="section-ref">Neh 5:9-13</p>
 
 
 ### Nehemiah’s Generosity

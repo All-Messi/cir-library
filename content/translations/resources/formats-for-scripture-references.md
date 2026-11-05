@@ -1,10 +1,10 @@
 ---
-author: Virgil Warren, Ph.D.
+author: Virgil Warren, PhD
 categories:
 - Bible Resources
 date: '2026-02-16'
 draft: false
-title: FORMATS FOR SCRIPTURE REFERENCES
+title: "Formats for Scripture References"
 weight: 1
 ---
 
@@ -291,7 +291,3 @@ The Book of Jeremiah in the Septuagint is significantly different from the Hebre
 
 
 6.	1 John<strong> 5</strong>:7 is now generally set aside as not being part of the original letter of 1 John. In subsequent translations verse 6 is divided in half to make the same number of verses in the chapter. As a result, if you cite 1 John <strong><sup>5</sup></strong>:7 from the King James Version, you need to indicate that the quotation is from the King James; otherwise, the reader will be confused if he reads the verse from a twentieth-century translation.
-
-
-christir.org
-

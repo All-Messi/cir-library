@@ -5,6 +5,8 @@ categories:
 - Sermons
 - Memorial Day
 date: '2026-02-16'
+printed: 2007-05-30
+lastmod: 2025-07-12
 draft: false
 title: Memorial Day Meditation
 weight: 3

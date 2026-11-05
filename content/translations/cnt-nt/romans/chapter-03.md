@@ -15,7 +15,7 @@ next: chapter-04
 ### The Advantage Jews Had
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So, what advantage does a Jew have? What’s the benefit of circumcision? </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So, what advantage does a Jew have? What’s the benefit of circumcision? </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A lot, in a lot of ways. <i>The </i>first <i>advantage is</i> that God entrusted <i>the Jews</i> with his messages. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So what if some <i>Jews</i> were unfaithful? Their <u>un</u>faithfulness doesn’t do away with <u>God’s</u> faithfulness, does it? </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Goodness, no! Let God be true and everyone else a liar, like the scripture says, </span></span></p>
@@ -53,9 +53,7 @@ next: chapter-04
 
 <p class="MsoNormal" style='margin-bottom:0in'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    as a group they’ve become depraved.</span></i></b></p>
 
-
-### None of them are kind,
-
+<p class="MsoNormal" style='margin-bottom:0in'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        None of them are kind, </span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    not even one does good </span></i></b><b><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>[Ps 14:1-3; 53:1-3]<i>.</i></span></b></p>
 
@@ -102,7 +100,9 @@ next: chapter-04
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We reason that trust justifies us apart from what we do under law. </span></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Or is God the God over Jews only? Isn’t he God over Gentiles too? Yes. </span></span>
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Since there’s one God, he’s the One that justifies the Circumcision <u>and</u> the Uncircumcision <i>and does it the same way—</i>by trust. </span></span>
-<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <a name="_Hlk136618979"><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>So are we contradicting law by <i>advocating</i> trust? Goodness, no! We’re establishing <i>the purpose of </i>law <i>another way</i>.                                                                                              </span></a><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Rom 3:27-31</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>      </span></span></p>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>So are we contradicting law by <i>advocating</i> trust? Goodness, no! We’re establishing <i>the purpose of </i>law <i>another way</i>.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Rom 3:27-31</p>
 
 
 <style>

@@ -12,11 +12,6 @@ next: chapter-07
 ## Judges Chapter 6
 
 
-### The land had peace for 40 years.
-Jud 5:28-31
-
-
-
 ### Gideon Judges Israel
 
 
@@ -26,7 +21,9 @@ Jud 5:28-31
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’d camp against them and destroy their crops as far as the territory around Gaza. They wouldn’t leave any sustenance in Israel—sheep, oxen, or donkeys. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’d come up with their livestock, camels, and tents like locusts in number. They trashed the land </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and brought Israel low. The people appealed to the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
-<b>                                                                                </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 6:1-6</span></b></span></p>
+<b>                                                                                </b></span></span></p>
+
+<p class="section-ref">Jud 6:1-6</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>[</span></b><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]
 </span></span>
@@ -38,7 +35,9 @@ Jud 5:28-31
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now the angel of the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> came and sat under the terebinth tree at Ophrah, which belonged to Joash the Abiezrite. His son <b>Gideon</b> was beating out wheat in a winepress to hide it from the Midianites. </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The angel appeared to him, <i>“The </i><i>L</i></span><i><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> is with you, brave soldier!”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                  </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 6:7-12</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The angel appeared to him, <i>“The </i><i>L</i></span><i><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> is with you, brave soldier!”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                  </span></span></p>
+
+<p class="section-ref">Jud 6:7-12</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gideon said, </span></span></p>
 
@@ -54,7 +53,9 @@ Jud 5:28-31
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t leave till I come back with your present.”</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“I’ll wait.”</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>
-</span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 6:13-18</span></b></p>
+</span></b></span></p>
+
+<p class="section-ref">Jud 6:13-18</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gideon went into the house and fixed a kid and cakes without yeast from 1.1 bushels           <sup>1
 </sup></span><sup><span style='font-size:14.0pt;line-height:115%;font-family: "Times New Roman",serif'>ephah</span></sup><sup><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>of flour. He put the meat in a basket and the broth in a pot, and took them to him under the terebinth tree. </span></span>
@@ -70,14 +71,18 @@ Jud 5:28-31
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Take your father’s bull and a second bull seven years old, and pull down your father’s altar to Baal. Cut down the Asherah pole beside it. </span></i><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Build an altar to the </span></i><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> your God on top of the fortress here, with stones laid in order. Offer the second bull as a burnt offering with the wood from the Asherah pole you cut down.” </span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gideon took ten servants and did that. He was too afraid of family and townspeople to do it in the daytime, so he did it at night.<b>          </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 6:19-27</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gideon took ten servants and did that. He was too afraid of family and townspeople to do it in the daytime, so he did it at night.<b>          </b></span></span></p>
+
+<p class="section-ref">Jud 6:19-27</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When people in town got up early, Baal’s altar was pulled down, the Asherah pole was cut down, and the second bull was offered on the altar <i>Gideon</i> built. </span></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They asked one another who<i> </i>did it<i>.</i> After they asked around, <i>people</i> said, <i>“Gideon son of Joash.”</i> </span></span>
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They told Joash, <i>“Bring your son out to die. He pulled down Baal’s altar and cut down the Asherah pole.”</i> </span></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joash said to everybody lined up against him, </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Will you defend Baal or his cause? Whoever fights for him will be put to death by morning. If he’s a god, he can defend himself. It’s his altar that </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gideon<i> tore down!” </i><b>                                        </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 6:28-31</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Will you defend Baal or his cause? Whoever fights for him will be put to death by morning. If he’s a god, he can defend himself. It’s his altar that </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gideon<i> tore down!” </i><b>                                        </b></span></p>
+
+<p class="section-ref">Jud 6:28-31</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That day he called him Jerubbaal (“</span><span style='font-family:"Times New Roman",serif'>Let Baal Fight Him”</span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>) because he tore down his altar.</span></span></p>
 
@@ -94,7 +99,9 @@ Jud 5:28-31
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t be angry with me. Let me test </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>you<i> one </i>more <i>time with the fleece. Let it be dry and the ground around it have dew on it.” </i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s what God did that night. It was dry just on the fleece; the ground was wet.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>       Jud 6:32-40</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s what God did that night. It was dry just on the fleece; the ground was wet.</span></span></p>
+
+<p class="section-ref">Jud 6:32-40</p>
 
 
 <style>

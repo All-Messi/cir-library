@@ -2,10 +2,13 @@
 title: "QUESTIONS ABOUT PRAYER"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2023-07-19
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Living'
 - 'Christian Living Book'
+weight: 34
 draft: false
 ---
 
@@ -247,7 +250,7 @@ style='font-size:6.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                      <img width=343 height=136
+style='font-size:12.0pt'>                      <img alt="Number of “yes” answers from none (2 Corinthians 12:9) to all (Matthew 21:22); prayer" width=343 height=136
 id="Picture 1" src="/images/essays/questions-about-prayer/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

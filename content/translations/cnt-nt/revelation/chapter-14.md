@@ -12,10 +12,6 @@ next: chapter-15
 ## Revelation Chapter 14
 
 
-### Rev 13:11-18
-
-
-
 ### The Lamb on Mt. Zion
 
 

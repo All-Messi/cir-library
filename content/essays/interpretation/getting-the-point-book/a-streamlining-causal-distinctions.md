@@ -2,10 +2,11 @@
 title: "Streamlining Causal Distinctions"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-11
 categories:
 - 'Interpretation'
 - 'Getting The Point Book'
-weight: 10
+weight: 8
 draft: false
 aliases:
 - /essays/interpretation/getting-the-point-book/ii-selected-linguistic-phenomena-note-dr-warrens-phd-dissertation-the-implication-of-divine-self-consistency-for-the-doctrine-of-natural-depravity-pp-152-70/
@@ -1436,7 +1437,7 @@ manner—“so”?).</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt;color:#7030A0'>         <img width=326 height=102
+style='font-size:12.0pt;color:#7030A0'>         <img alt="Format A and format B: death, Adam&#x27;s sin and all men" width=326 height=102
 id="Picture 1" src="/images/essays/a-streamlining-causal-distinctions/image001.png"> </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

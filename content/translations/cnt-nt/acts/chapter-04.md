@@ -32,9 +32,7 @@ next: chapter-05
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>know this, you and all the people of Israel: he stands here cured by Jesus the Messiah, the Nazarene you crucified and God resurrected. </span></i></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is</span></i></span></p>
 
-
-### ‘the stone you builders rejected
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    <b>‘the stone </b>you<b> builders rejected </b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                that’s become the cornerstone’</span></i></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Ps 118:22]</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>.</span></p>
 
@@ -68,9 +66,7 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Master, who made earth, sky, and sea, and everything in them, </span></i><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>you spoke by the Holy Spirit through our ancestor David your servant,</span></i></span></p>
 
-
-### ‘Why did the Gentiles rage,
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    <b>‘Why did the Gentiles rage,</b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> and the peoples plot pointless threats?</span></i></b></p>
 

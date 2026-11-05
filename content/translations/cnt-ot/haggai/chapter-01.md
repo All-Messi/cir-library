@@ -15,7 +15,7 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>A Message from the L</span><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> by the Prophet Haggai</span></p>
 
-<p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><a name="_Hlk121862822"><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>for Zerubbabel Son of Shealtiel, Governor of Judah, </span></a></p>
+<p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>for Zerubbabel Son of Shealtiel, Governor of Judah, </span></p>
 
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>and for Joshua Son of Jehozadak, the High Priest,</span></p>
 
@@ -60,6 +60,8 @@ next: chapter-02
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> stirred up Zerubbabel, Joshua, and the remnant to begin work on the Temple </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the
 <b>twenty-fourth day, sixth month, second year of Darius</b>.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>     </span></b></span></p>
+
+<p class="section-ref">Hag 1:7-15</p>
 
 
 <style>

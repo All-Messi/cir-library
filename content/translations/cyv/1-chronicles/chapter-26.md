@@ -32,7 +32,7 @@ next: chapter-27
 </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%'>Hilkiah second, Tebaliah third, and Zechariah fourth. Hosah had 13 sons and relatives.</span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height: 115%'>                                                                                                                              </span><b><span style='font-size:10.0pt;line-height:115%'>1 Ch 26:1-11</span></b></p>
+<p class="section-ref">1 Ch 26:1-11</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height: 115%'>To these divisions of the gatekeepers, the chief men <i>were</i> given duties like their relatives to serve in Yahveh’s Temple. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%'>According to their families, they cast lots, without regard for age, for each gate. </span></span>
@@ -41,7 +41,9 @@ next: chapter-27
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt; line-height:115%'>For Shuppim and Hosah <i>the lot fell </i>for the west <i>gate</i>, by Shallecheth’s gate on the ascending highway. Guard corresponded to guard. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%'>There were six Levites on the east, four on the north and south each day, and at the storehouse two and two. </span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%'>At the Parbar on the west <i>there were</i> four at the highway and two at the Parbar. </span></span>
-<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%'>Those are the divisions of the gatekeepers from the sons of Korah and Merari.  </span><b><span style='font-size:10.0pt;line-height:115%'> 1 Ch 26:12-19</span></b></span></p>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%'>Those are the divisions of the gatekeepers from the sons of Korah and Merari.  </span></span></p>
+
+<p class="section-ref">1 Ch 26:12-19</p>
 
 
 ### Duties of Gatekeepers
@@ -58,7 +60,9 @@ next: chapter-27
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%'>Shelomoth and his relatives were responsible for everything Samuel the seer, Saul Ben-Kish, Abner Ben- Ner, Joab Ben-Zeruiah, and everybody had donated. </span></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt; line-height:115%'>The Izharites, Chenaniah and his sons, were assigned to duties away from <i>the</i> <i>LORD’s house</i> as officers and judges. </span></span>
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%'>The Hebronites, Hashabiah and his relatives—1,700 capable men, oversaw Israel west of the Jordan, for the work of Yahveh and the service of the king. </span></span>
-<span class="verse verse-v31" id="v31"><sup class="verse-num">31-32</sup> <span style='font-size:12.0pt; line-height:115%'>The Hebronites, Jerijah the chief and his relatives, capable men, <i>were</i> 2,700, heads of families. King David had them oversee Reuben, Gad, and the Manasseh half-tribe<i> </i>for the affairs of God and the king. (</span>These Hebronites were investigated according to their genealogies and families in the fortieth year of David’s reign. Men with outstanding capability were found among them at Jazer in Gilead.<span style='font-size:12.0pt;line-height:115%'>)                                                        </span><b><span style='font-size:10.0pt;line-height:115%'>1 Ch 26:20-32</span></b></span></p>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31-32</sup> <span style='font-size:12.0pt; line-height:115%'>The Hebronites, Jerijah the chief and his relatives, capable men, <i>were</i> 2,700, heads of families. King David had them oversee Reuben, Gad, and the Manasseh half-tribe<i> </i>for the affairs of God and the king. (</span>These Hebronites were investigated according to their genealogies and families in the fortieth year of David’s reign. Men with outstanding capability were found among them at Jazer in Gilead.<span style='font-size:12.0pt;line-height:115%'>)                                                        </span></span></p>
+
+<p class="section-ref">1 Ch 26:20-32</p>
 
 
 <style>

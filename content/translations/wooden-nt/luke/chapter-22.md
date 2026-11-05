@@ -11,7 +11,7 @@ next: chapter-23
 
 ## Luke Chapter 22
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the feast of-[the] Unleavened (Loaves/Bread) [the] called Passover was-drawing-near. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the feast of-[the] Unleavened (Loaves/Bread) [the] called Passover was-drawing-near. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the chief-priests and the scribes were-trying [the] how they-might destroy him, for they-were-afraid-of the people. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And Satan entered into Judas [the] called Iscariot, being of the number of-the twelve. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And having-gone-away, he-talked to-the chief-priests and temple-guard how he-might-deliver/betray him to-them. </span></span>

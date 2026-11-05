@@ -12,11 +12,6 @@ next: chapter-28
 ## 1 Samuel Chapter 27
 
 
-### David went on his way, and Saul went home.
-1 Sam 26:17-25
-
-
-
 ### David Flees to the Philistines
 
 
@@ -35,8 +30,9 @@ next: chapter-28
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He attacked the land and didn’t leave a man or woman alive. He brought back to Achish the sheep, cattle, donkeys, camels, and clothing. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Achish asked, <i>“Where did you raid today?”</i> David said, <i>“In the Negev of Judah, the Jerahmeelites, and the Kenites.” </i></span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David didn’t leave anyone alive to bring to Gath and said, <i>“So they won’t say about us, ‘That’s been David’s practice ever since he lived among the Philistines.’”</i> </span></span>
-<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Achish believed David, <i>“He has surely made himself repulsive to his people; he’ll serve me from now on.”</i></span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>  1 Sam 27:8-12</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></b></span></p>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Achish believed David, <i>“He has surely made himself repulsive to his people; he’ll serve me from now on.”</i></span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">1 Sam 27:8-12</p>
 
 
 <style>

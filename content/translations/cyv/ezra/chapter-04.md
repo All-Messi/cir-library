@@ -30,9 +30,7 @@ next: chapter-05
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and the rest of the nations that the great and honorable Osnappar/<i>Ashurbanipal</i> deported and settled in the city of Samaria and in the rest of the province Beyond the River [<i>Avar-naharah</i>, Aramaic]. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Here’s a copy of the letter:                   </span></span></p>
 
-
-### Ezra 4:6-11a
-
+<p class="section-ref">Ezra 4:6-11a</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:1.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“To King Artaxerxes </span></i></p>
 

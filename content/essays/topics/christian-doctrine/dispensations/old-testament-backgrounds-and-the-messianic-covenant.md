@@ -2,6 +2,8 @@
 title: "OLD TESTAMENT BACKGROUNDS AND THE MESSIANIC COVENANT"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2016-09-30
+lastmod: 2025-07-15
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -285,7 +287,7 @@ refined, and re-enacted—in that order.</span></p>
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'><img width=360 height=228
+line-height:18.0pt'><span style='font-size:12.0pt'><img alt="God&#x27;s eternal purposes for mankind: Mosaic and Messianic covenants with civil, ceremonial, moral, historical and ontological strands" width=360 height=228
 id="Picture 1" src="/images/essays/old-testament-backgrounds-and-the-messianic-covenant/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:

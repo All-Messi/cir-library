@@ -37,9 +37,7 @@ next: chapter-12
 <u>did</u> you go out to see? A prophet? Oh yes, and more than a prophet. </span></i></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’s the one scripture refers to, </span></i></span></p>
 
-
-### ‘I’ll send my messenger ahead of you
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        <b>‘I’ll send my messenger ahead of you </b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    to get the road ready for you’ </span></i></b><b><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>[Ex 23:20; Mal 3:1]</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></p>
 

@@ -60,9 +60,9 @@ prev: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            along with everything else I’d appointed for them.’</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But they were eager to corrupt everything they did.              </span></i></span></p>
 
-### But they were eager to corrupt everything they did.              Zeph 3:6-7
-
+<p class="section-ref">Zeph 3:6-7</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“So wait for me to attack my prey,” </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Yahveh says<i>.</i></span></span></p>
 
@@ -164,11 +164,9 @@ prev: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            when I restore your fortunes before your very eyes,”</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                            </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh says<i>.</i><b>               </b></span></p>
 
-### Yahveh says.               Zeph 3:16-20
-
-
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
+<p class="section-ref">Zeph 3:16-20</p>
 
 
 <style>

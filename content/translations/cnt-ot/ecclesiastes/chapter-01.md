@@ -56,9 +56,9 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            later, they won’t remember the future either.</span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      The ones that come after you won’t remember you.<b>        </b></span></p>
 
-### The ones that come after you won’t remember you.        Eccl 1:7-11
-
+<p class="section-ref">Eccl 1:7-11</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I, the Preacher, have been king over Israel in Jerusalem. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I decided to examine with wisdom everything people do under the sky. It’s a grievous job God has stricken them with. </span></span>
@@ -66,9 +66,9 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What’s crooked you can’t straighten; </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk146972433"><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>what’s missing you can’t get back.</span></a></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>what’s missing you can’t get back.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122423938"><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I said to myself, </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I said to myself, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  <i>“I’m wiser than anybody that’s ruled Jerusalem before; </i></span></p>
 
@@ -76,7 +76,7 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I determined to experience everything from wisdom to madness and pointless behavior. I came to realize that it’s all like chasing the wind. </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span><a name="_Hlk122423994"><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There’s much grief in much wisdom; </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There’s much grief in much wisdom; </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  increasing knowledge increases pain.<b>
 </b></span></p>

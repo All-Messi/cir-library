@@ -15,7 +15,7 @@ next: chapter-40
 ### Envoys from Babylon
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk123330445"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Soon after this, Merodach-baladan son of Baladan, king of Babylon, sent letters and a present to Hezekiah because he’d heard he’d been sick and had recovered. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Soon after this, Merodach-baladan son of Baladan, king of Babylon, sent letters and a present to Hezekiah because he’d heard he’d been sick and had recovered. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That pleased Hezekiah, and he showed the <i>ambassadors</i> everything in his treasure house, the silver and gold, the spices and precious oil, his whole armory, and everything in his royal treasuries. There wasn’t anything in his palace or kingdom that he didn’t show them.<b>                                  </b></span></span></p>
 
 <p class="section-ref">Is 39:1-2</p>

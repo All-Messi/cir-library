@@ -15,7 +15,7 @@ next: chapter-21
 ### Parable About Workers in a Vineyard
 
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The kingdom of heaven is like a landowner that went out early to hire workers. </span></i></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The kingdom of heaven is like a landowner that went out early to hire workers. </span></i></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He agreed to pay them a denarius for the day and sent them to his vineyard. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>About 9 o’clock he went out and saw some other men standing idle in the marketplace,</span></i><b><i><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i></b></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘<u>You</u> go to my vineyard too, and I’ll pay you what’s right.’ </span></i></span>

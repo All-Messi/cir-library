@@ -28,9 +28,7 @@ next: chapter-24
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I gave her to her lovers, the Assyrians. </span></i></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They uncovered her nakedness; they took her children but killed her with a sword. So she became a byword among women, and they carried out judgments on her.</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b></span></p>
 
-
-### Ezek 23:1-1011
-
+<p class="section-ref">Ezek 23:1-1011</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Her sister Oholibah saw that and became even more corrupt in doting on her lovers. Her prostitution was worse than her sister’s. </span></i><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She doted on the Assyrians, nearby governors and officials, magnificently attired, horsemen riding horses, all desirable young men. </span></i></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I saw that she’d defiled herself; they both had followed the same path. </span></i></span>
@@ -58,8 +56,9 @@ next: chapter-24
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll turn you over to the ones you despise, people you’re alienated from. </span></i></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll deal with you in hate, take your property, and leave you naked. </span></i></span>
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your lewdness and prostitution will be exposed. </span></i></span>
-<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ve followed your sister’s ways; so I’ll give you her cup </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to drink<i>.’               </i></span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>Ezek 23:22-31</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-                                                                                                                                                            </span></i></span></p>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ve followed your sister’s ways; so I’ll give you her cup </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to drink<i>.’</i></span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Ezek 23:22-31</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The Lord Yahveh says, </span></i></span></p>
 
@@ -172,6 +171,10 @@ next: chapter-24
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Your lewdness will come back on you</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> as the penalty for worshiping idols. </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:13.5pt; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <u>That way you’ll know I’m the Lord Yahveh</u>.’”</span></i><b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>           </span></b></span></p>
+
+<p class="section-ref">Ezek 23:43-49</p>
 
 
 <style>

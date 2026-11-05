@@ -1,7 +1,7 @@
 ---
 title: "The Real Thing"
 date: '2022-03-06'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

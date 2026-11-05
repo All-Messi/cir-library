@@ -10,10 +10,6 @@ next: chapter-02
 
 ## Ecclesiastes Chapter 1
 
-
-### Conversational Yahveh Covenant
-
-
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-top:0in;margin-bottom:0in;margin-left:0in;text-align:center'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Words of the Preacher, Ben-David, King in Jerusalem</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Completely pointless,” </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>the Preacher says;</span></span></p>
@@ -60,9 +56,9 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            later, they won’t remember the future either.</span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      The ones that come after you won’t remember you.</span></p>
 
-### The ones that come after you won’t remember you.        Eccl 1:7-11
-
+<p class="section-ref">Eccl 1:7-11</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I, the Preacher, have been king over Israel in Jerusalem. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I decided to examine with wisdom everything people do under the sky. It’s a grievous job God has stricken them with. </span></span>

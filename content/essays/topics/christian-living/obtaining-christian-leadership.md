@@ -161,7 +161,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                       <img width=157 height=31
+style='font-size:12.0pt'>                       <img alt="Earned → given" width=157 height=31
 src="/images/essays/obtaining-christian-leadership/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -793,7 +793,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                        <img width=263 height=116
+style='font-size:12.0pt'>                        <img alt="Personal life quality containing natural leadership containing formal leadership; character containing charisma containing authority" width=263 height=116
 src="/images/essays/obtaining-christian-leadership/image002.png"> </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -864,7 +864,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>          <img width=370 height=158
+style='font-size:12.0pt'>          <img alt="Ladder of leadership: start where you are; be willing to start small; “let them first be proved” (1 Timothy 3:10); do not refuse smaller tasks; do not try to enter at the top" width=370 height=158
 src="/images/essays/obtaining-christian-leadership/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

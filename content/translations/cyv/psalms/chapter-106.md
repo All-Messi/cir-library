@@ -13,9 +13,7 @@ next: chapter-107
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hallelujah!</span></b></span></p>
 
-
-### Be grateful to Yahveh because he’s good;
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Be grateful to Yahveh because he’s good;</span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      his enduring love lasts forever.</span></b></p>
 

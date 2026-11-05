@@ -49,7 +49,9 @@ next: chapter-108
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He satisfies the thirsty </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and fills the hungry with good things.<b>                              Ps </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>107:4-9</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and fills the hungry with good things.<b></b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b></p>
+
+<p class="section-ref">Ps 107:4-9</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Some sat in darkness and death’s shadow,</span></span></p>
 
@@ -81,7 +83,7 @@ next: chapter-108
 
 <p class="section-ref">Ps 107:10-16</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><a name="_Hlk124244947"><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> </a><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Some
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Some
 </span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>were fools </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and suffered because they rebelled and sinned.</span></p>
@@ -173,7 +175,7 @@ next: chapter-108
 
 <p class="section-ref">Ps 107:33-37</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><a name="_Hlk124245203"><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He blesses them and they multiply;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He blesses them and they multiply;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      he keeps the
 <i>number of</i> their livestock from decreasing.</span></p>

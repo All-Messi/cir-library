@@ -45,7 +45,7 @@ next: chapter-15
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%'>“Go ahead.”</span></i></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <a name="_Hlk126065361"><i><span style='font-size:12.0pt;line-height:115%'>“Why plan such a thing then against God’s people? </span></i></a><i><span style='font-size:12.0pt;line-height:115%'>In saying this, you’ve<sup> </sup>convicted yourself for not bringing back the one you’ve banished. </span></i></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%'>“Why plan such a thing then against God’s people? </span></i><i><span style='font-size:12.0pt;line-height:115%'>In saying this, you’ve<sup> </sup>convicted yourself for not bringing back the one you’ve banished. </span></i></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%'>We’ll die like water spilled on the ground that can’t be retrieved. Yet God doesn’t take away life but plans ways to bring back the one he banishes. </span></i></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt; line-height:115%'>I’ve come to you because the people have made me afraid. I thought, ‘I’ll speak to the king. Maybe he’ll do what I ask. </span></i></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%'>He’ll deliver me from the man that would destroy me and my son from God’s inheritance.’ </span></i></span>
@@ -66,7 +66,7 @@ next: chapter-15
 <p class="section-ref">2 Sam 14:12-24</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height: 115%'>In all Israel there wasn’t anybody as handsome as Absalom—so highly praised. There wasn’t a flaw in him from the crown of his head to the sole of his foot. </span></span>
-<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%'>When he cut his hair (</span>at the end of every year because it was so thick<span style='font-size:12.0pt; line-height:115%'>), he weighed it at <a name="_Hlk145154996">5 lbs <sup>200 shekels, royal standard</sup></a>. </span></span>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%'>When he cut his hair (</span>at the end of every year because it was so thick<span style='font-size:12.0pt; line-height:115%'>), he weighed it at 5 lbs <sup>200 shekels, royal standard</sup>. </span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height: 115%'>He had three sons and one daughter, Tamar, a beautiful woman.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height: 115%'>Absalom lived in Jerusalem for two years without seeing the king. </span></span>

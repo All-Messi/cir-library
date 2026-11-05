@@ -11,7 +11,7 @@ next: chapter-12
 
 ## 2 Corinthians Chapter 11
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Oh-that you-would-bear-with me with-respect-to-some little foolishness; and indeed, do-bear-with me. </span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Oh-that you-would-bear-with me with-respect-to-some little foolishness; and indeed, do-bear-with me. </span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> For I-am-jealous-for you with-(a)-jealousy of-God, for I-joined<b>┘</b>you└in-marriage to-one husband to-present (you as a) pure virgin. </span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> But I-am-afraid lest somehow, as the snake deceived Eve with the treachery/craftiness of-him, the minds of-you should-be-led-astray from the simplicity [and </span><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'>[the]</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> purity]<sup>ms</sup> [the] unto [the] Christ. </span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> For if the-one coming preaches another Jesus whom we-did<b>┘</b>not└preach, or you-receive (a) different spirit that you-did<b>┘</b>not└receive, or (a) different gospel that you-did<b>┘</b>not└receive, you-give-patient-attention-to (him). </span>

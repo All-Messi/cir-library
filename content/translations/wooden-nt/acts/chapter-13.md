@@ -11,7 +11,7 @@ next: chapter-14
 
 ## Acts Chapter 13
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And in Antioch according-to the being church were prophets and teachers both[the] Barnabas; and Symeon, the-one called Niger; and Lucius, the Cyrenian; Manean, the foster-brother of-Herod the tetrarch; and Saul.  </span></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And in Antioch according-to the being church were prophets and teachers both[the] Barnabas; and Symeon, the-one called Niger; and Lucius, the Cyrenian; Manean, the foster-brother of-Herod the tetrarch; and Saul.  </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And they serving the Lord and fasting, the Holy [the] Spirit said, <i>“Now separate for-me [the] Barnabas and Saul to the work that I-have-called┘them└to.”</i> </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then having-fasted and having-prayed and having-laid┘[the] hands└on them, they-sent┘them└off.</span></span></p>
 
@@ -56,23 +56,17 @@ next: chapter-14
 </span></i></span>
 <span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>that [the] God has-fulfilled this to-the sons [of-them]<sup>ms</sup> to-us, having-resurrected Jesus as also in the second [the] Psalm it-has-been-written,</span></i></span></p>
 
-
-### ‘You are (the) Son of-me;
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            ‘<b>You are (the) Son of-me;</b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        today I have begotten you’;</span></i></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and that he-resurrected him from (the) dead no-longer to-be-going to-return to corruption, thus he-has-said [that], </span></i></span></p>
 
-
-### ‘I-will-give you the holy, the sure-things of-David.’
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            ‘I-will-give<b> you the holy, the sure-things of-David.’</b></span></i></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wherefore also he-says in another (psalm),</span></i></span></p>
 
-
-### ‘You-will┘not└give the Holy-One of-you to-see corruption.’
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>‘You-will┘not└give the Holy-One of-you to-see corruption.’</b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <i>“</i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For David, having-served for-his-own generation the plan of-[the] God, slept and was-laid to the fathers of-him and he-saw corruption; </span></i></span>
 <span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but whom [the] God raised did┘not└see corruption. </span></i></span>
@@ -87,9 +81,7 @@ next: chapter-14
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            because I will-work (a) work in the days of-you, </span></i></b></p>
 
-
-### (a) work that you-will┘surely not└believe
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(a) work<b> that you-will┘surely not└believe </b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>even if somebody fully-related (it) to-you.’”</span></i></b></p>
 
@@ -102,9 +94,7 @@ next: chapter-14
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“It-was necessary (that) the word/message of-[the] God be-spoken to-you first. Since you-are-pushing┘it└away and judge yourselves not worthy of-[the] eternal life, behold, we-are-turning to the ‘Gentiles’; </span></i><span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>for so the Lord has-commanded us,</span></i></span></p>
 
-
-### ‘I-have-put you for (a) light to-(the)-nations/Gentiles,
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>‘I-have-put you for (a) light to-(the)-nations/Gentiles,</b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        [the] you to-be for salvation unto (the) last of-the earth.’”</span></i></b></p>
 

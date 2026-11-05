@@ -11,7 +11,7 @@ next: chapter-04
 
 ## 1 Chronicles Chapter 3
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         3<sup>:1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>These were David’s six sons born in Hebron:</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>These were David’s six sons born in Hebron:</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        the firstborn </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>was </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Ammon by Ahinoam the Jezreelitess;</span></p>
 
@@ -31,7 +31,9 @@ next: chapter-04
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and Ibhar, Elishama, Eliphelet, </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nogah, Nepheg, and Japhia, </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Elishama, Eliada, and Eliphelet—nine. </span></span>
-<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>All</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> those</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> were sons of David besides the sons of concubines. Tamar </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>was </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>their sister.<b>                                                           </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 3:1-9</span></b></span></p>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>All</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> those</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> were sons of David besides the sons of concubines. Tamar </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>was </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>their sister.<b>                                                           </b></span></span></p>
+
+<p class="section-ref">1 Ch 3:1-9</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Solomon’s son was Rehoboam father of Abijah father of Asa father of Jehoshaphat father of </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joram father of Ahaziah father of Joash father of </span></span>
@@ -55,9 +57,9 @@ next: chapter-04
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                              Shelomith
 <i>was </i>their sister; </span><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hashubah, Ohel, Berechiah, </span></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                              Hasadiah, and Jushab-hesed—5.                        </span></p>
 
-### Hasadiah, and Jushab-hesed—5.                        1 Ch 3:10-20
-
+<p class="section-ref">1 Ch 3:10-20</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                              </span><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of Hananiah <i>were</i> Pelatiah and Jeshaiah, the </span></span></p>
 
@@ -83,7 +85,7 @@ next: chapter-04
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                Johanan, Delaiah, and Anani—7.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                          </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 3:21-24</span></b></p>
+<p class="section-ref">1 Ch 3:21-24</p>
 
 
 <style>

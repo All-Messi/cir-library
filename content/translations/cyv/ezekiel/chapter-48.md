@@ -30,12 +30,10 @@ prev: chapter-47
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9-10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The allotment set aside to Yahveh will be 8.2 x 3¼ miles <sup>25,000 x 10,000 cubits</sup>, running east and west. The allotment will be for the priests </span></i></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that are sanctified from the descendants of Zadok, who kept my charge and didn’t go astray when Israel went astray—like the Levites did. </span></i></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It will be an allotment to them from the land, a most holy place beside the Levites’ portion. </span></i></span>
-<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Alongside the boundary of the priests, the Levites will have a portion 8.2 x 3¼ miles <sup>25,000 x 10,000 cubits</sup>. </span></i><a name="_Hlk125803022"></span>
-<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They won’t sell or </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>temporarily <i>exchange any of it or pass the first part of its harvest </i>to anyone else<i>, because it’s holy to Yahveh.  </i></span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>   </span></i></span></p>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Alongside the boundary of the priests, the Levites will have a portion 8.2 x 3¼ miles <sup>25,000 x 10,000 cubits</sup>. </span></i></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They won’t sell or </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>temporarily <i>exchange any of it or pass the first part of its harvest </i>to anyone else<i>, because it’s holy to Yahveh.  </i></span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>   </span></i></span></p>
 
-
-### Ezek 48:8-14
-
+<p class="section-ref">Ezek 48:8-14</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The remainder, 1.63 x 8.2 miles <sup>5,000 x 25,000 cubits</sup>, will be for common use by the city, for houses and open spaces. The city will lie in the middle of it. </span></i></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It will be square, measuring 1.47 miles on a side. </span></i></span>
@@ -81,8 +79,6 @@ prev: chapter-47
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The city will be 5.9 miles </span></i><i><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>18,000 cubits </span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>around and named Yahveh Is There [Yahveh Shammah].”              </span></i></span></span></p>
 
 <p class="section-ref">Ezek 48:30-35</p>
-
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:49.5pt; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
 
 
 <style>

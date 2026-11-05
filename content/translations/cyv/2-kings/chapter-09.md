@@ -25,7 +25,9 @@ next: chapter-10
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>Jehu said, <i>“Which one?”</i> </span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%'>“You, Sir.”</span></i><span style='font-size:12.0pt;line-height:115%'> <b>                                                                                                              </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 9:1-5</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%'>“You, Sir.”</span></i><span style='font-size:12.0pt;line-height:115%'> <b>                                                                                                              </b></span></p>
+
+<p class="section-ref">2 Kg 9:1-5</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%'>He got up and went into the house. The young man poured the oil on his head, </span></span></p>
 
@@ -44,7 +46,9 @@ next: chapter-10
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>He said, <i>“He said such and such, ‘Yahveh says, “I’ve anointed you king of Israel.”’”</i></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height: 115%'>Each man hurried and put his cloak under Jehu on the bare steps, blew the bugle, and said, <i>“<u>Jehu</u> is king!”</i><b>       </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 9:6-13</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height: 115%'>Each man hurried and put his cloak under Jehu on the bare steps, blew the bugle, and said, <i>“<u>Jehu</u> is king!”</i><b>       </b></span></span></p>
+
+<p class="section-ref">2 Kg 9:6-13</p>
 
 
 ### Jehu Kills Joram and Ahaziah
@@ -69,7 +73,9 @@ next: chapter-10
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height: 115%'>Jehu answered, <i>“What do you have to do with peace? Defect and follow me.” </i></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height: 115%'>The watchman reported, <i>“He went to them, but didn’t come back. His driving is furious like Jehu’s.”</i><b>    </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 9:14-20</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height: 115%'>The watchman reported, <i>“He went to them, but didn’t come back. His driving is furious like Jehu’s.”</i><b>    </b></span></span></p>
+
+<p class="section-ref">2 Kg 9:14-20</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height: 115%'>Joram said, <i>“Get my chariot ready.”</i> They got it ready. <u>Joram</u> and <b>Ahaziah</b> went out in their chariots to meet Jehu and found him on Naboth’s property. </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%'>When Joram saw Jehu, he said, <i>“Are you coming in peace, Jehu?”</i> </span></span></p>
@@ -85,7 +91,9 @@ next: chapter-10
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height: 115%'>When Ahaziah saw that, he fled past the garden house. Jehu chased him and said, <i>“Shoot him, too, in the chariot.”</i> They shot him at the ascent of Gur, at Ibleam. He fled as far as Megiddo and died. </span></span>
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%'>His servants hauled him to Jerusalem in a chariot and buried him in his own grave with his ancestors in The City of David. </span></span>
-<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%'>Ahaziah had become king in Judah in <b>the eleventh year of Joram</b>.<b>     </b></span><b><span style='font-size:10.0pt; line-height:115%'>2 Kg 9:21-29</span></b></span></p>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%'>Ahaziah had become king in Judah in <b>the eleventh year of Joram</b>.<b>     </b></span></span></p>
+
+<p class="section-ref">2 Kg 9:21-29</p>
 
 
 ### Jezebel Killed
@@ -106,7 +114,9 @@ next: chapter-10
 <span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%'>They came back and told him. He said,
 </span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%'>“Yahveh said by Elijah, ‘Dogs will eat her body on her property. </span></i><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <i><span style='font-size:12.0pt; line-height:115%'>Her corpse will be like manure on her field; people won’t be able to tell if it’s Jezebel.’”</span></i><span style='font-size:12.0pt; line-height:115%'> <b>                                                                </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 9:30-37</span></b></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%'>“Yahveh said by Elijah, ‘Dogs will eat her body on her property. </span></i><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <i><span style='font-size:12.0pt; line-height:115%'>Her corpse will be like manure on her field; people won’t be able to tell if it’s Jezebel.’”</span></i><span style='font-size:12.0pt; line-height:115%'> <b>                                                                </b></span></span></p>
+
+<p class="section-ref">2 Kg 9:30-37</p>
 
 
 <style>

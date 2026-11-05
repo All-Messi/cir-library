@@ -27,9 +27,7 @@ next: chapter-141
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh, protect me from sinful people;</span></b></span></p>
 
-
-### Protect me from those who are violent,
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Protect me from those who are violent,</span></b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            that try to trip me.</span></p>
 
@@ -37,7 +35,9 @@ next: chapter-141
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      with cords they spread a net beside the road</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and set snares for me.<b>                                                       </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ps 140:1-5</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>         </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and set snares for me.<b></b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></p>
+
+<p class="section-ref">Ps 140:1-5</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I said to Yahveh, <i>“You’re my God;</i></span></span></p>
 

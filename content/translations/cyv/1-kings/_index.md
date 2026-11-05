@@ -4,7 +4,7 @@ chapters: 22
 title: 1 Kings
 translation: CYV
 type: book
-weight: 50
+weight: 11
 ---
 
 ## 1 Kings

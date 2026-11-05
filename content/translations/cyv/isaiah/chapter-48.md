@@ -15,7 +15,7 @@ next: chapter-49
 ### Stubborn Israel
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  48<sup>:1</sup></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Listen to this, Jacob called ‘Israel,’</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Listen to this, Jacob called ‘Israel,’</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    that came from Judah’s family,</span></i></p>
 
@@ -113,9 +113,7 @@ next: chapter-49
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    about what would happen.”</span></i><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                           </span></b></p>
 
-
-### Already the Lord Yahveh and his Spirit have sent me with that message.
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Already the Lord Yahveh and his Spirit have sent me with that message.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>    </span></b></p>
 
 <p class="section-ref">Is 48:12-16</p>
 
@@ -139,9 +137,7 @@ next: chapter-49
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          like grains of sand by the seashore;</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                     </span></b></p>
 
-
-### I wouldn’t have needed to cut them off
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I wouldn’t have needed to cut them off</span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          or destroy them out of my presence.”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                   </span></p>
 

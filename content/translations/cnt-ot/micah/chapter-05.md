@@ -15,7 +15,7 @@ next: chapter-06
 ### A Promised Ruler from Bethlehem
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><a name="_Hlk122904273"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Muster your troops, </span></i></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Jerusalem<i>; </i></span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Muster your troops, </span></i></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Jerusalem<i>; </i></span></b></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      your enemies are laying siege against you;</span></i></b></p>
 
@@ -50,7 +50,7 @@ next: chapter-06
 
 <p class="section-ref">Mic 5:1-5a</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><a name="_Hlk122904344"><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>When the Assyrians invade our land</span></a></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>When the Assyrians invade our land</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and overrun fortresses,</span></p>
 
@@ -100,7 +100,7 @@ next: chapter-06
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and wipe them out.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><a name="_Hlk122904405"><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“At that time,”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“At that time,”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>“I’ll get rid of your horses </i></span></p>
 

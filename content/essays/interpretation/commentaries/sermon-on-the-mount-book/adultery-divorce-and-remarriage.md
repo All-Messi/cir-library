@@ -2,6 +2,8 @@
 title: "ADULTERY, DIVORCE, AND REMARRIAGE"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-06-01
+lastmod: 2025-07-11
 categories:
 - 'Interpretation'
 - 'Commentaries'

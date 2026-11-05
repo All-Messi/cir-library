@@ -2,6 +2,8 @@
 title: "A RATIONALE FOR THE STRUCTURE OF GENESIS 1:1-2:3"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2023-05-25
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Critical Intro Ot'
@@ -1048,5 +1050,5 @@ provides: a topical presentation without exact concern for sequence, duration,
 parallelism, or completeness. The presentation intends to claim that Yahveh
 created the universe we see; it was not like the way Egyptian cosmology
 conceived of it.                                                                                              
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
+</span></p>
 </div>

@@ -21,7 +21,7 @@ next: chapter-17
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height: 115%'>That day David first assigned Asaph and his relatives to give thanks to Yahveh.</span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%'>                                                                                                                                            </span><b><span style='font-size:10.0pt;line-height:115%'>1 Ch 16:1-7</span></b></p>
+<p class="section-ref">1 Ch 16:1-7</p>
 
 
 ### David’s Song of Thanks
@@ -49,7 +49,9 @@ next: chapter-17
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%'>descendants of Israel his servant,</span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>      sons of Jacob his chosen ones.</span><b><span style='font-size:10.0pt;line-height:115%'>                                         1 Ch 16:8-13</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>      sons of Jacob his chosen ones.</span></p>
+
+<p class="section-ref">1 Ch 16:8-13</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%'>He’s Yahveh our God; </span></span></p>
 
@@ -75,7 +77,9 @@ next: chapter-17
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%'>they wandered about from nation to nation,</span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>            from one kingdom to another.                                    </span><b><span style='font-size: 10.0pt;line-height:115%'>1 Ch 16:14-20</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>            from one kingdom to another.                                    </span></p>
+
+<p class="section-ref">1 Ch 16:14-20</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%'>He didn’t let anybody oppress them;</span></span></p>
 
@@ -104,7 +108,9 @@ next: chapter-17
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%'>Honor and majesty are with him; </span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>      strength and joy belong to him.                                        </span><b><span style='font-size:10.0pt;line-height:115%'>1 Ch 16:21-27</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>      strength and joy belong to him.                                        </span></p>
+
+<p class="section-ref">1 Ch 16:21-27</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%'>Attribute to Yahveh, families of the nations,</span></span></p>
 
@@ -127,7 +133,9 @@ next: chapter-17
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%'>Let the sea roar and everything that fills it;</span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>      let the field celebrate and everything in it.                       </span><b><span style='font-size:10.0pt; line-height:115%'>1 Ch 16:28-32</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>      let the field celebrate and everything in it.                       </span></p>
+
+<p class="section-ref">1 Ch 16:28-32</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%'>Then the trees in the forest will sing for joy,</span></span></p>
 
@@ -149,7 +157,9 @@ next: chapter-17
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>      from everlasting to everlasting.</span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%'>Then the people said <i>“Amen” </i>and praised Yahveh.                                                       </span><b><span style='font-size:10.0pt;line-height:115%'>1 Ch 16:33-36</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%'>Then the people said <i>“Amen” </i>and praised Yahveh.                                                       </span></p>
+
+<p class="section-ref">1 Ch 16:33-36</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height: 115%'>He left Asaph and his relatives at the Ark to serve continually as each day’s work required. </span></span>
 <span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <i><span style='font-size:12.0pt;line-height:115%'>He left</span></i><span style='font-size:12.0pt;line-height:115%'> Obed-edom with his 68 relatives and Hosah with the son of Jeduthun as gatekeepers. </span></span>
@@ -157,7 +167,9 @@ next: chapter-17
 <span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height:115%'>to offer burnt offerings every morning and evening, according to the law Yahveh commanded Israel. </span></span>
 <span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size:12.0pt;line-height:115%'>With them were Heman and Jeduthun and the rest that were designated by name to give thanks to Yahveh because his love endures forever. </span></span>
 <span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size:12.0pt;line-height:115%'>With them were Heman and Jeduthun with trumpets and cymbals for the ones that sounded out loud with instruments for the songs of God and the sons of Jeduthun for the gate. </span></span>
-<span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size:12.0pt;line-height:115%'>Then the people left for home, and David went back to bless his household.</span><b><span style='font-size:10.0pt; line-height:115%'>                                                      1 Ch 16:37-43</span></b></span></p>
+<span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size:12.0pt;line-height:115%'>Then the people left for home, and David went back to bless his household.</span></span></p>
+
+<p class="section-ref">1 Ch 16:37-43</p>
 
 
 <style>

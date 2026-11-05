@@ -11,7 +11,7 @@ next: chapter-52
 
 ## Jeremiah Chapter 51
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123757299"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      “I’m going to stir up the spirit of the destroyer</span></i></p>
 
@@ -57,7 +57,7 @@ next: chapter-52
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            he’s going to render retribution to it.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123757448"><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Babylon has been a gold cup in the L</span><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s hand,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Babylon has been a gold cup in the L</span><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s hand,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            intoxicating the whole region.</span></p>
 
@@ -87,23 +87,19 @@ next: chapter-52
 
 <p class="section-ref">Jer 51:8-10</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123757667"><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sharpen the arrows, fill the quills!</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sharpen the arrows, fill the quills!</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> has stirred up the kings of the Medes</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  to destroy Babylon.</span></p>
 
-
-### It’s the LORD’s revenge for his Temple.
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>It’s the L</b></span><b><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>’s</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> revenge for his Temple.</span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Raise up a standard against the walls of Babylon;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            post a strong guard, station sentries, set men in ambush!</span></p>
 
-
-### It’s the LORD’s revenge for his Temple.
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>It’s the L</b></span><b><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>’s</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> revenge for his Temple.</span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You that live by lots of water, abundant in treasures,</span></span></p>
 
@@ -135,7 +131,7 @@ next: chapter-52
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and brings wind out of his storehouses.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk92540486"><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Every mortal is stupid and ignorant;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Every mortal is stupid and ignorant;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            goldsmiths are disgraced by their idols</span></p>
 
@@ -143,7 +139,7 @@ next: chapter-52
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            they can’t even breathe.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123757827"><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’re worthless objects to ridicule;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’re worthless objects to ridicule;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            when they’re punished, they perish.</span></p>
 
@@ -161,7 +157,7 @@ next: chapter-52
 ### Babylon’s Destruction
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123758181"><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You’re my battle-ax and weapon;</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You’re my battle-ax and weapon;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I’ll shatter nations with you;</span></i></p>
 
@@ -181,7 +177,7 @@ next: chapter-52
 
 <p class="section-ref">Jer 51:20-23</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123757977"><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll repay Babylon and the Babylonians </span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll repay Babylon and the Babylonians </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>for the devastation they’ve brought on Zion </span></i></p>
 
@@ -205,7 +201,7 @@ next: chapter-52
 
 <p class="section-ref">Jer 51:24-26</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123758308"><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Set up a standard in the land;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Set up a standard in the land;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            blow the bugle among the nations.</span></p>
 
@@ -233,7 +229,7 @@ next: chapter-52
 
 <p class="section-ref">Jer 51:27-29</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123758423"><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The mighty men of Babylon have stopped fighting;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The mighty men of Babylon have stopped fighting;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            they’re staying in the barracks.</span></p>
 
@@ -261,7 +257,7 @@ next: chapter-52
 
 <p class="section-ref">Jer 51:30-32</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123758640"><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> of Hosts, the God of Israel, says,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> of Hosts, the God of Israel, says,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            “Babylon is like a threshing floor tamped firm;</span></i></p>
 
@@ -303,7 +299,7 @@ next: chapter-52
 
 <p class="section-ref">Jer 51:34-36</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123758833"><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Babylon will be a pile of rubble, a den for jackals, </span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Babylon will be a pile of rubble, a den for jackals, </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            something to abhor and gasp at; </span></i></p>
 
@@ -327,7 +323,7 @@ next: chapter-52
 
 <p class="section-ref">Jer 51:37-40</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123759021"><span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“How Sheshak has been captured!</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“How Sheshak has been captured!</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            What the whole world praised has been seized!</span></i></p>
 
@@ -371,7 +367,7 @@ next: chapter-52
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        with ruler against ruler.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123759354"><span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So the time’s coming</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So the time’s coming</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            when I’ll punish the idols in Babylon.</span></i></p>
 
@@ -389,7 +385,7 @@ next: chapter-52
 
 <p class="section-ref">Jer 51:45-48</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123759424"><span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Babylon will fall <i>in payment for</i> the slain in Israel</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Babylon will fall <i>in payment for</i> the slain in Israel</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and the whole region.</span></p>
 
@@ -411,7 +407,7 @@ next: chapter-52
 
 <p class="section-ref">Jer 51:49-51</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123759608"><span class="verse verse-v52" id="v52"><sup class="verse-num">52</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“So the time’s coming </span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v52" id="v52"><sup class="verse-num">52</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“So the time’s coming </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            when I’ll punish its idols,</span></i></p>
 
@@ -455,11 +451,11 @@ next: chapter-52
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <u>the King says, whose name is Yahveh of Hosts</u>.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123759696"><span class="verse verse-v58" id="v58"><sup class="verse-num">58</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Babylon’s thick walls will be completely torn down,</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v58" id="v58"><sup class="verse-num">58</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Babylon’s thick walls will be completely torn down,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            its massive gates set on fire;</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <a name="_Hlk120864028">so the nations will have worked for nothing;</a></span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            so the nations will have worked for nothing;</span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>the builders will have worn themselves out</b> </span></i></p>
 
@@ -475,14 +471,14 @@ next: chapter-52
 
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>(</span><span style='font-family:"Times New Roman",serif'>Seraiah Was Quartermaster</span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>.)</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123759848"><span class="verse verse-v60" id="v60"><sup class="verse-num">60</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jeremiah wrote in one scroll the catastrophe to come on Babylon. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v60" id="v60"><sup class="verse-num">60</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jeremiah wrote in one scroll the catastrophe to come on Babylon. </span></span>
 <span class="verse verse-v61" id="v61"><sup class="verse-num">61</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told Seraiah, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“As soon as you get to Babylon, read this message out loud:</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><span class="verse verse-v62" id="v62"><sup class="verse-num">62</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, you’ve promised to cut this place off so nothing will live in it, people or animals, </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>so <i>it’ll be a permanent desolation.’ </i></span></span>
 <span class="verse verse-v63" id="v63"><sup class="verse-num">63</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As soon as you finish reading this scroll, tie a stone to it and throw it into the Euphrates </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>River<i>. </i></span></span>
 <span class="verse verse-v64" id="v64"><sup class="verse-num">64</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Say, ‘I</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>n the same way, Babylon will sink and not float back up because of the catastrophe I’m going to bring on it. <b>The workers will have worn themselves out</b> for nothing.’”</span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jeremiah’s message ends here</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jeremiah’s message ends here</span><b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>.</span></b></p>
 
 <p class="section-ref">Jer 51:59-64</p>
 

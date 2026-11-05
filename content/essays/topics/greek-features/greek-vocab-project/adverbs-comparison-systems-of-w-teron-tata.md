@@ -1,7 +1,8 @@
 ---
-title: "ADVERBS Comparison, systems of -w\" -teron -tata"
-author: "Virgil Warren, christir.org"
+title: "Adverbs: Systems of Comparison"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-02-04
 categories:
 - 'Topics'
 - 'Greek Features'
@@ -46,16 +47,16 @@ style='font-size:12.0pt'>Comparison, systems of</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>             -w&quot;  -teron  -tata</span></p>
+style='font-size:12.0pt'>             -ως  -τερον  -τατα</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>             -#  -(i)wn  -isto&quot;</span></p>
+style='font-size:12.0pt'>             -#  -(i)wn  -ιστος</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -#   ma'llon/mavla + positive    
-pavnu/mavlista/sfovdra/livan + positive</span></p>
+style='font-size:12.0pt'>            -#   μᾶλλον/μάλα + positive    
+πάνυ/μάλιστα/σφόδρα/λίαν + positive</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -157,7 +158,7 @@ style='font-size:12.0pt'>            a-collective or intensive</span>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            </span><span lang=FR style='font-size:
-12.0pt'>ajrci-, dus-, euj-, hJmi-, nh-,</span></p>
+12.0pt'>ἀρχι-, dus-, εὐ-, ἡμι-, nh-,</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
@@ -167,8 +168,8 @@ which                is then dropped]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -dovn  or -dav  or -hdovn  or -dhn  or
--avdhn:  manner</span></p>
+style='font-size:12.0pt'>            -δόν  or -δά  or -ηδόν  or -dhn  or
+-άδην:  manner</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -197,7 +198,7 @@ style='font-size:12.0pt'>            -i/si added to place/time name m
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -(ak)i&quot; or ki&quot;:  frequency</span></p>
+style='font-size:12.0pt'>            -(ακ)ις or κις:  frequency</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -249,7 +250,7 @@ style='font-size:12.0pt'>            -terw:  manner, comparative deg
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -tiv:  manner</span></p>
+style='font-size:12.0pt'>            -τί:  manner</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -265,7 +266,7 @@ style='font-size:12.0pt'>            -w:  location</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -w&quot; [equal neut G pl with n&quot;]: 
+style='font-size:12.0pt'>            -ως [equal neut G pl with n∅&quot;]: 
 manner, positive degree</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -307,8 +308,8 @@ style='font-size:12.0pt'>                    a-privative:  n
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -w&quot; [equal neut G pl with
-n&quot;]:  manner, positive degree</span></p>
+style='font-size:12.0pt'>                    -ως [equal neut G pl with
+n∅&quot;]:  manner, positive degree</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -332,12 +333,12 @@ adj]:  manner, superlative degree</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -don  or -dav  or hdovn  or -dhn 
-or -avdhn</span></p>
+style='font-size:12.0pt'>                    -don  or -δά  or ηδόν  or -dhn 
+or -άδην</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -tiv</span></p>
+style='font-size:12.0pt'>                    -τί</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -389,11 +390,11 @@ style='font-size:12.0pt'>            nh-</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            ouj, and cognates</span></p>
+style='font-size:12.0pt'>            οὐ, and cognates</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            mhv, and cognates</span></p>
+style='font-size:12.0pt'>            μή, and cognates</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span

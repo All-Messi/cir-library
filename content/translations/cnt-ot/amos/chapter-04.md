@@ -32,9 +32,9 @@ next: chapter-05
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            each one straight ahead.</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            You’ll be thrown out into Harmon/</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>Mt. Hermon<i>.”</i><b>     </b></span></p>
 
-### You’ll be thrown out into Harmon/Mt. Hermon.”     Amos 4:1-3
-
+<p class="section-ref">Amos 4:1-3</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go
 </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>sacrifice at<i> Bethel and sin;</i></span></span></p>

@@ -14,9 +14,11 @@ next: chapter-02
 ### Salutation
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>1</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:</span></sup></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Paul,</span><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>apostle of Christ<sup>Messiah</sup> Jesus by God’s will, and Sosthenes our brother, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Paul,</span><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>apostle of Christ<sup>Messiah</sup> Jesus by God’s will, and Sosthenes our brother, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to God’s church in Corinth, made holy in Christ and called <i>to be</i> saints with everyone everywhere that calls on our Lord. </span></span>
-<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Grace and peace from God our Father and the Lord Jesus Christ.<b>            1</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> Cor 1:1-3</span></b></span></p>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Grace and peace from God our Father and the Lord Jesus Christ.<b></b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">1 Cor 1:1-3</p>
 
 
 ### Thanksgiving

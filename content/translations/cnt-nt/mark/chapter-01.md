@@ -30,9 +30,7 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                        </span></i></b><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>one shouting in the desert,</span></i></b></span></p>
 
-
-### ‘Get the road ready for the LORD!
-
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                    ‘Get the road ready for the L</span></i></b><b><i><span style='font-size:9.0pt; font-family:"Times New Roman",serif'>ORD</span></i></b><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>!</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                        Make it straight</span></i></b><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>!’”</span></i></b><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'> [</span></b><b><span style='font-size:9.0pt;font-family:"Times New Roman",serif'>Is 40:3</span></b><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>]</span></b></p>
 

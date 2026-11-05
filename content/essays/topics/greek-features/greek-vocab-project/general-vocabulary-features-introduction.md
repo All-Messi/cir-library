@@ -1,7 +1,8 @@
 ---
-title: "GENERAL VOCABULARY FEATURES Introduction"
-author: "Virgil Warren, christir.org"
+title: "General Vocabulary Features: Introduction"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-10
 categories:
 - 'Topics'
 - 'Greek Features'
@@ -158,7 +159,7 @@ style='font-size:12.0pt'>            accenting patterns</span></p>
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                    recessive [-</span><span lang=EL
 style='font-size:12.0pt'>μα</span><span style='font-size:12.0pt'> nouns; nouns
-from verbs in teira, twr, tria; </span><span lang=EL style='font-size:12.0pt'>α</span><span
+from verbs in teira, τωρ, τρια; </span><span lang=EL style='font-size:12.0pt'>α</span><span
 style='font-size:12.0pt'>-privative adj.,                                           finite
 verbs]</span></p>
 
@@ -245,8 +246,8 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>Crasis  [kajgwv (kai; ejgwv), kajkei' (kai; ejkei'),
-toujnantivon (to; ejnantivon), tou[noma (to; o[noma]  [See Trenchard's <u>Voc
+style='font-size:12.0pt'>Crasis  [κἀγώ (καὶ ἐγώ), κἀκεῖ (καὶ ἐκεῖ),
+τοὐναντίον (to; ἐναντίον), tou[noma (to; ὄνομα]  [See Trenchard's <u>Voc
 Guide</u>, 288]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -271,8 +272,8 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>Diersis words  [eJbrai&gt;kov&quot;, ÔEbrai?&quot;,
-ÔEbrai&gt;stiv, quvi&gt;no&quot;, for example] </span></p>
+style='font-size:12.0pt'>Diersis words  [ἑβραι&gt;κός, ÔEbrai?&quot;,
+ÔEbrai&gt;stiv, θύι&gt;νος, for example] </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -306,7 +307,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>I-diminutives [usually neuter even if referring to
-male or female, except -isko&quot;/-iskh]</span></p>
+male or female, except -ισκος/-ισκη]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -331,8 +332,8 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>Irregular words  [nouns (3rd decl. pou'&quot;,
-ou\&quot;, u{dwr), adjectives, verbs]</span></p>
+style='font-size:12.0pt'>Irregular words  [nouns (3rd decl. ποῦς,
+οὖς, ὕδωρ), adjectives, verbs]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -476,8 +477,8 @@ of speech, words capable of serving more than one</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                    </span><span lang=DA
-style='font-size:12.0pt'>[aujtov&quot; (adj., intensive pr., personal pr.)] </span><span
-style='font-size:12.0pt'>[pa'&quot;, adj. pronoun] [i[dio&quot;]</span></p>
+style='font-size:12.0pt'>[αὐτός (adj., intensive pr., personal pr.)] </span><span
+style='font-size:12.0pt'>[pa'&quot;, adj. pronoun] [ἴδιος]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -528,7 +529,7 @@ style='font-size:12.0pt'>            a-collective or intensive</span>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            </span><span lang=FR style='font-size:
-12.0pt'>ajrci-, dus-, euj-, hJmi-, nh-,</span></p>
+12.0pt'>ἀρχι-, dus-, εὐ-, ἡμι-, nh-,</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR

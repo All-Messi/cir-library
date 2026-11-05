@@ -1,0 +1,31 @@
+{{- /* seo-title.html — the page's <title> text without the site suffix (2026-11-04).
+       Used by baseof <title>, og:title and twitter:title. Disambiguates pages that used to
+       share a title: Bible chapters/books carry their translation ("Genesis 1 — Conversational
+       Old Testament"), communion meditations their date, year sections their parent,
+       category pages a "Category:" prefix. ALL-CAPS titles are title-cased. */ -}}
+{{- $p := . -}}
+{{- $t := partial "display-title.html" $p.Title -}}
+{{- if $p.IsHome -}}
+    {{- $t = printf "%s: Theological Library of Virgil Warren, PhD" site.Title -}}
+{{- else if eq $p.Type "chapter" -}}
+    {{- with $p.Parent }}{{ with .Parent }}{{ $t = printf "%s — %s" $p.Title .Title }}{{ end }}{{ end -}}
+{{- else if eq $p.Type "book" -}}
+    {{- with $p.Parent }}{{ $t = printf "%s — %s" ($p.Params.book | default $p.Title) .Title }}{{ end -}}
+{{- else if eq $p.Type "harmony-section" -}}
+    {{- $t = printf "%s — Gospel Harmony, Section %v" $p.Title $p.Params.section -}}
+{{- else if and $p.IsPage (strings.Contains $p.RelPermalink "/communion-meditations/") -}}
+    {{- if not $p.Date.IsZero -}}
+        {{- $t = printf "%s — Communion Meditation, %s" $t ($p.Date.Format "January 2, 2006") -}}
+    {{- else -}}
+        {{- $t = printf "%s — Communion Meditation, %s" $t (path.Base $p.Parent.RelPermalink) -}}
+    {{- end -}}
+{{- else if eq $p.Kind "term" -}}
+    {{- if eq $p.Layout "book-toc" -}}
+        {{- $t = printf "%s, a Book by Virgil Warren, PhD" (replace $t " (Book)" "") -}}
+    {{- else -}}
+        {{- $t = printf "Category: %s" $t -}}
+    {{- end -}}
+{{- else if and (eq $p.Kind "section") (findRE `^\d{4}$` $p.Title 1) -}}
+    {{- with $p.Parent }}{{ $t = printf "%s %s" .Title $p.Title }}{{ end -}}
+{{- end -}}
+{{- return $t -}}

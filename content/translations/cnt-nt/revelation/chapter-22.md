@@ -31,9 +31,7 @@ prev: chapter-21
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“What you’ve seen and heard is true and trustworthy. The L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God of the spirits of the prophets sent his angel to show his servants what needs to happen soon. </span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘I’m coming soon. Blessed are those who keep the prophecy that’s in this book.’”
 </span></i></span></p>
 
-
-### Rev 22:6-7
-
+<p class="section-ref">Rev 22:6-7</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I, John, heard and saw those things. When I heard and saw them, I fell down to worship the angel that was showing them to me. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But he said, </span></span></p>
@@ -79,9 +77,9 @@ prev: chapter-21
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Come, Lord Jesus.</span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The grace of the Lord Jesus <i>be</i> with <i>you</i> all.                                                    </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Rev. 22:18-21</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The grace of the Lord Jesus <i>be</i> with <i>you</i> all.                                                    </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Translator: Virgil Warren</span><span style='font-family:"Times New Roman",serif'>,                                                                                                 christir.org</span></p>
+<p class="section-ref">Rev. 22:18-21</p>
 
 
 <style>

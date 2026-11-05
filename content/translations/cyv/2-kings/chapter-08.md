@@ -20,7 +20,9 @@ next: chapter-09
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%'>Seven years later, she came back and appealed to the king for her house and farm. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%'>He was talking to Gehazi, the man of God’s servant, <i>“Tell me the great things Elisha has done.”</i> </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%'>As he was telling him how he’d restored life to <i>a boy</i>, she appealed to the king for her house and farm. Gehazi said, <i>“My lord the king, that’s the woman, and that’s her son!” </i></span></span>
-<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%'>When the king asked her, she told him about it. He appointed an officer to give her back everything, including the crops since she left.<b>        </b></span><b><span style='font-size:10.0pt; line-height:115%'>2 Kg 8:1-6</span></b></span></p>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%'>When the king asked her, she told him about it. He appointed an officer to give her back everything, including the crops since she left.<b>        </b></span></span></p>
+
+<p class="section-ref">2 Kg 8:1-6</p>
 
 
 ### Hazael Murders Ben-Hadad
@@ -46,7 +48,9 @@ next: chapter-09
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt; line-height:115%'>“He said you’d recover.”</span></i></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height: 115%'>The next day <i>Hazael</i> dipped a blanket in water and pressed it over Benhadad’s face, to kill him. Hazael became king.<b>  </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 8:7-15</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height: 115%'>The next day <i>Hazael</i> dipped a blanket in water and pressed it over Benhadad’s face, to kill him. Hazael became king.<b>  </b></span></span></p>
+
+<p class="section-ref">2 Kg 8:7-15</p>
 
 
 ### Jehoram Rules in Judah
@@ -61,7 +65,9 @@ next: chapter-09
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%'>Joram and his chariots crossed over to Zair. He got up at night and struck at the Edomites that had surrounded him and the captains of the chariots, but his army fled to their tents. </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%'>Edom has been in revolt against Judah ever since. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%'>The rest of the acts of Joram/<i>Jehoram</i> are recorded in <i>The Chronicles of the Kings of Judah</i>. </span></span>
-<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%'>He died and they buried him in The City of David. His son Ahaziah became king. <b>                                                         </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 8:16-24</span></b></span></p>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%'>He died and they buried him in The City of David. His son Ahaziah became king. <b>                                                         </b></span></span></p>
+
+<p class="section-ref">2 Kg 8:16-24</p>
 
 
 ### Ahaziah Rules in Judah
@@ -71,7 +77,9 @@ next: chapter-09
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%'>He was 22 and ruled for 1 year in Jerusalem. His mother was Athaliah, granddaughter of Omri, king of Israel. </span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%'>He did evil like Ahab’s family <i>had done</i> because he was Ahab’s son-in-law. </span></span>
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%'>He went to war along with Joram against Hazael, king of Aram in Ramoth-gilead, and the Arameans wounded him. </span></span>
-<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%'>King Joram came back to Jezreel to heal up. Then Ahaziah went down to see Joram because he’d been wounded.<b>  </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 8:25-29</span></b></span></p>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%'>King Joram came back to Jezreel to heal up. Then Ahaziah went down to see Joram because he’d been wounded.<b>  </b></span></span></p>
+
+<p class="section-ref">2 Kg 8:25-29</p>
 
 
 <style>

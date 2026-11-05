@@ -2,6 +2,8 @@
 title: "CRITICAL INTRODUCTION TO 2 JOHN"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-07-07
+lastmod: 2025-07-15
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'

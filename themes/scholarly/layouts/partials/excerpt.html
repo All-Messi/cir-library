@@ -1,0 +1,31 @@
+{{- /* excerpt.html — first ~155 characters of a page's real body text (2026-11-04), for the
+       meta description. Skips Word boilerplate that the converters leave at the top of a
+       body: the title (and subtitle) repeated, the byline, "christir.org", date codes and
+       ALL-CAPS headings. Returns "" when nothing usable is found.
+       Usage: {{ $d := partial "excerpt.html" . }} */ -}}
+{{- $p := . -}}
+{{- $title := $p.Title | lower | replaceRE `[^\p{L}\p{N}]+` "" -}}
+{{- $sub := $p.Params.subtitle | default "" | lower | replaceRE `[^\p{L}\p{N}]+` "" -}}
+{{- $kept := slice -}}
+{{- $len := 0 -}}
+{{- range findRE `(?s)<(?:p|h[1-6]|li|blockquote)\b[^>]*>.*?</(?:p|h[1-6]|li|blockquote)>` $p.Content 40 -}}
+    {{- if lt $len 160 -}}
+        {{- $t := . | plainify | htmlUnescape | replaceRE `[\s\x{00a0}\x{200b}]+` " " | strings.TrimSpace -}}
+        {{- $key := $t | lower | replaceRE `[^\p{L}\p{N}]+` "" -}}
+        {{- $skip := false -}}
+        {{- if lt (len $key) 3 }}{{ $skip = true }}{{ end -}}
+        {{- if or (eq $key $title) (and $sub (eq $key $sub)) }}{{ $skip = true }}{{ end -}}
+        {{- if and $title (strings.HasPrefix $key $title) (lt (len $t) (add (len $p.Title) 25)) }}{{ $skip = true }}{{ end -}}
+        {{- if and (findRE `(?i)^(by\s+)?(dr\.?\s+)?virgil\s+war+en\b` $t 1) (lt (len $t) 90) }}{{ $skip = true }}{{ end -}}
+        {{- if and (strings.Contains (lower $t) "christir.org") (lt (len $t) 70) }}{{ $skip = true }}{{ end -}}
+        {{- if findRE `^[0-9O]{5,8}[a-z]?\.?$` $t 1 }}{{ $skip = true }}{{ end -}}
+        {{- if not (findRE `\p{Ll}` $t 1) }}{{ $skip = true }}{{ end -}}
+        {{- if not $skip -}}
+            {{- $kept = $kept | append $t -}}
+            {{- $len = add $len (len $t) 1 -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+{{- $out := "" -}}
+{{- with $kept }}{{ $out = delimit . " " | truncate 155 }}{{ end -}}
+{{- return $out -}}

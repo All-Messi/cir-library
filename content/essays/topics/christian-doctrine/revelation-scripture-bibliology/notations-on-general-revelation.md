@@ -2,6 +2,7 @@
 title: "NOTATIONS ON GENERAL REVELATION"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-12
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -59,7 +60,7 @@ special people at special times and places.</span></p>
 style='font-size:12.0pt'>                                  </span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=162 height=98 id="Picture 2"
+style='font-size:12.0pt'><img alt="Intervention containing special revelation containing the Bible" width=162 height=98 id="Picture 2"
 src="/images/essays/notations-on-general-revelation/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -164,7 +165,7 @@ answers God gives </span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=214 height=140 id="Picture 1"
+style='font-size:12.0pt'><img alt="Objective answer ((a) events, (b) meaning) and subjective need and use" width=214 height=140 id="Picture 1"
 src="/images/essays/notations-on-general-revelation/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

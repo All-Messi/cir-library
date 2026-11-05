@@ -9,7 +9,8 @@ weight: 1
 
 ## Jude Chapter 1
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <sup>1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jude, servant of-Jesus Christ and brother of-James, to-the-ones having-been-beloved by God (the) Father and having-been-kept by-Jesus Christ, elect.  </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mercy to-you and peace and love be-multiplied.</span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jude, servant of-Jesus Christ and brother of-James, to-the-ones having-been-beloved by God (the) Father and having-been-kept by-Jesus Christ, elect.  </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mercy to-you and peace and love be-multiplied.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Beloved, making all diligence to-write to-you about the shared salvation of-us, I-had necessity to-write to-you, urging (you) to-keep-contending-strongly for-the faith once-and-for-all delivered to-the saints.  </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For some men sneaked-in-under-false-pretenses, the-ones long-ago having-been-written-beforehand to this [the] condemnation, ungodly, having-perverted the grace of-[the] our God into sensuality, and denying the only Master and Lord of-us Jesus Christ.</span></span></p>
@@ -39,13 +40,6 @@ weight: 1
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now to-the-One able to-keep┘you└from stumbling and to-stand (you) blameless before the glory of-him with great-joy, </span></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to-the only God (the) Savior of-us through Jesus Christ the Lord of-us (be) glory, majesty, might, and authority before all the age/world/time both now and forever<sup>4</sup>.  Amen.  </span></span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil Warren, PhD</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>translator</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 
 
 <style>

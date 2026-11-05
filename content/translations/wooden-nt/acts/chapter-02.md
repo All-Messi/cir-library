@@ -11,7 +11,7 @@ next: chapter-03
 
 ## Acts Chapter 2
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And in the day of-[the] Pentecost [the] being-fulfilled, they-were all together in the same (place). </span></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And in the day of-[the] Pentecost [the] being-fulfilled, they-were all together in the same (place). </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And suddenly out-of [the] heaven came (a) roar like (a) rushing strong wind, and it-filled the whole house where they-were sitting. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And tongues appeared like fire distributed to-them, and it-sat on each one of-them;
 </span></span>
@@ -37,9 +37,7 @@ next: chapter-03
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘And it-will-be in the last days, says [the] God,</span></i></b></span></p>
 
-
-### I-will-pour-out [from] the Spirit of-me on all flesh;
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                I-will-pour-out [from] the Spirit of-me on all flesh;</span></i></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:3.0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>and the sons of-you and the daughters of-you will-prophesy, </span></i></b></p>
 
@@ -51,9 +49,7 @@ next: chapter-03
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:2.0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>servants of-me</span></i></b></p>
 
-
-### I-will-pour-out in [the] those days [from] the Spirit
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                I-will-pour-out in [the] those days [from] the Spirit </span></i></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:2.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>of-me,</span></i></b></p>
 
@@ -80,9 +76,7 @@ next: chapter-03
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>whom [the] God raised-up, having-loosed the pains of-[the] death because his being-held by it was not possible. </span></i></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For David says in-regard-to him,</span></i></span></p>
 
-
-### I┘through all/always2└saw before me,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    <b><i>I┘</i></b></span><b><i><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>through all/always<sup>2</sup></span></i></b><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>└saw before me,</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                because he-is on (the) right (hand) of-me</span></i></b></p>
 
@@ -116,17 +110,13 @@ next: chapter-03
 <span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So having-been-exalted to-the right (hand) of-[the] God and having-received from the Father the promise of-the Holy [the] Spirit, he-poured-out this that we [both]<sup>ms</sup> see and hear. </span></i></span>
 <span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For David did┘not└ascend into [the] heaven, but he-says himself,</span></i></span></p>
 
-
-### ‘[The]ms Lord said to-the Lord of-me,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    <b><i>‘[The]<sup>ms</sup> Lord said to-the Lord of-me,</i></b></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                “Sit on (the) right (of-me)</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                </span></i></b><span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>until<sup>2</sup> I-put the enemies of-you </span></i></b></span></p>
 
-
-### (as) a footstool of-the feet of-you.”’
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:2.0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(as) a footstool of-the feet of-you.”’</span></i></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So let┘all (the) house of-Israel└know assuredly that [the] God made him both Lord and Christ—this [the] Jesus whom you crucified.” </span></i></span></p>
 

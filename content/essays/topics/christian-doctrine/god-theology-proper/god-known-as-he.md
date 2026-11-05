@@ -2,6 +2,8 @@
 title: "GOD KNOWN AS 'HE'"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2020-01-21
+lastmod: 2025-07-15
 categories:
 - 'Topics'
 - 'Christian Doctrine'

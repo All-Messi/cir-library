@@ -15,7 +15,7 @@ next: chapter-17
 ### The Birth of Ishmael
 
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sarai, Abram’s wife, hadn’t had any children. She had an Egyptian maid named Hagar. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sarai, Abram’s wife, hadn’t had any children. She had an Egyptian maid named Hagar. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sarai told Abram, “<i>Yahveh has kept me from having children.</i> <i>Sleep with my maid. Maybe I can have children through her.”</i> Abram took her advice. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That happened after Abram had lived in Canaan for 10 years. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He slept with Hagar, and she became pregnant. When she saw she was pregnant, she started disrespecting her mistress. </span></span>

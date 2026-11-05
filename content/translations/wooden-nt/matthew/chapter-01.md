@@ -163,13 +163,9 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Behold, the/a virgin will-have-in (the) womb/will-be pregnant,</span></i></b></span></p>
 
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        And she-will-bear (a) son,</span></i></b></p>
 
-### And she-will-bear (a) son,
-
-
-
-### And they-will-call the name of-him ‘Emmanuel,’”
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        And they-will-call the name of-him ‘Emmanuel,’”</span></i></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that is, translated, <b><i>‘[The] God (is) with us.’</i></b></span></p>
 

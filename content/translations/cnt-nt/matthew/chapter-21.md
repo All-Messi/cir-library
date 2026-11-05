@@ -15,16 +15,14 @@ next: chapter-22
 ### The Triumphal Entry
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they got close to Jerusalem, to Bethany on the Mount of Olives, Jesus sent two disciples, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they got close to Jerusalem, to Bethany on the Mount of Olives, Jesus sent two disciples, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go in the village across from you. Close by you’ll find a donkey tied and a colt with her. Untie them and bring them to me. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If anybody says anything, say the Lord needs them; they’ll send them right away.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That fulfilled what the prophet said,</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell the people of Zion</span></i></b><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> [</span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>Is 62:11</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>]<i>,</i></span></b></span></p>
 
-
-### ‘Your king’s coming to you,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    ‘Your king’s coming to you,</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    humble and riding on a donkey—</span></i></b></p>
 
@@ -39,10 +37,8 @@ next: chapter-22
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b>Blessed be the One that’s coming in the name of the L</b></span></i><b><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Ps 118:25-26]</span></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>!</span></b></p>
 
-
-### Hosanna
-in the highest!”
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Hosanna
+</span></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>in the highest!”</span></i></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he went into Jerusalem, it stirred up the whole city, <i>“Who is this?” </i></span></span></p>
 
@@ -145,15 +141,11 @@ in the highest!”
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus said<sup>p</sup>, <i>“You’ve read in the scriptures, haven’t you,</i></span></span></p>
 
-
-### ‘The stone the builders rejected
-
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>‘The stone the builders rejected</i></b></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    has become the cornerstone.</span></i></b></p>
 
-
-### That has come from the LORD;
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        That has come from the L</span></i></b><b><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>;</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    it’s amazing to us’</span></i></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>?</span></i><b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Ps 118:22-23]</span></b></p>
 
@@ -161,7 +153,9 @@ in the highest!”
 <span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Whoever falls on that stone will get bruised, and whoever it falls on will get crushed.]]<sup>ms</sup>”</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The chief priests and the Pharisees knew he’d told his stories about them. </span></span>
-<span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They were trying to find a way to arrest him, but they were afraid to; the people considered him a prophet.</span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                               Mt 21:33-46</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>             </span></span></p>
+<span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They were trying to find a way to arrest him, but they were afraid to; the people considered him a prophet.</span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Mt 21:33-46</p>
 
 
 <style>

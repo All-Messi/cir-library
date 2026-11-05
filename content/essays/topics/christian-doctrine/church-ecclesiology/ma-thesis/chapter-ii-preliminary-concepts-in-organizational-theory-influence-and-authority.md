@@ -1,7 +1,8 @@
 ---
 title: "CHAPTER II PRELIMINARY CONCEPTS IN ORGANIZATIONAL THEORY Influence and Authority"
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-02-04
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -166,7 +167,7 @@ style='font-size:12.0pt'>Fig. 9. Natural and Formal Leadership</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=154 height=161 id="Picture 2"
+style='font-size:12.0pt'><img alt="Circle: personal (above, below) and authoritative" width=154 height=161 id="Picture 2"
 src="/images/essays/chapter-ii-preliminary-concepts-in-organizational-theory-influence-and-authority/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -331,7 +332,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=145 height=99 id="Picture 1"
+style='font-size:12.0pt'><img alt="Tree diagram of O and F nodes" width=145 height=99 id="Picture 1"
 src="/images/essays/chapter-ii-preliminary-concepts-in-organizational-theory-influence-and-authority/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

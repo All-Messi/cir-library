@@ -18,7 +18,9 @@ next: chapter-21
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>After that, the Moabites, Ammonites, and some Meunites came to attack Jehoshaphat. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Some people brought him a report, <i>“A large army is coming out of Edom from the other side of the sea. They’re in Hazazon-tamar (</i></span><i><span style='font-family:"Times New Roman",serif'>En-gedi</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>).”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He was afraid, set himself to look to Yahveh, and declared a fast throughout Judah. </span></span>
-<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Judah gathered from all the towns to look to Yahveh for help. </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 20:1-4</span></b></span></p>
+<span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Judah gathered from all the towns to look to Yahveh for help. </span></span></p>
+
+<p class="section-ref">2 Ch 20:1-4</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jehoshaphat stood in the assembly of Judah and Jerusalem, in Yahveh’s Temple in front of the new court, </span></span></p>
 
@@ -29,7 +31,9 @@ next: chapter-21
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You didn’t let Israel invade the Ammonites, Moabites, or Mount Seir when they came out of Egypt.</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> <i>(</i></span><i><span style='font-family: "Times New Roman",serif'>They turned aside and didn’t destroy them.</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>)
 </span></i></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Now they’re rewarding us by coming to drive us out of the possession you gave us. </span></i></span>
-<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Our God, won’t you judge them? We’re powerless in the face of such a big army. We don’t know what to do but look to you</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> for help.<i>”                                                                                                                    </i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 20:5-12</span></b></span></p>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Our God, won’t you judge them? We’re powerless in the face of such a big army. We don’t know what to do but look to you</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> for help.<i>”                                                                                                                    </i></span></span></p>
+
+<p class="section-ref">2 Ch 20:5-12</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>All Judah was standing before Yahveh with their infants, wives, and children.</span></span></p>
 
@@ -40,7 +44,9 @@ next: chapter-21
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You won’t </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>need<i> to fight in this </i>battle<i>. Take your positions. Stand and watch my<sup>Y</sup> salvation for you.’ Don’t be afraid or intimidated. Go out to face them tomorrow; Yahveh’s with you.”</i></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jehoshaphat bowed to the ground, and Judah and the people in Jerusalem fell down in worship to Yahveh. </span></span>
-<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Levites from the Kohathites and Korahites stood up to give loud praise to<sup>Y</sup> God of Israel.                                              </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 20:13-19</span></b></span></p>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Levites from the Kohathites and Korahites stood up to give loud praise to<sup>Y</sup> God of Israel.                                              </span></span></p>
+
+<p class="section-ref">2 Ch 20:13-19</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They got up early the next morning and went out to the Wilderness of Tekoa. As they went, Jehoshaphat stood and said, <i>“Judah and Jerusalem, trust Yahveh and you’ll be safe. Trust his prophets and you’ll succeed.”</i> </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he’d advised the people, he appointed the ones that sang and praised Yahveh in holy attire to go out ahead of the army, <i>“Thank Yahveh because his love endures forever.” </i></span></span>
@@ -55,7 +61,7 @@ next: chapter-21
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>All the kingdoms dreaded God when they heard that he</span><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>Y</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> had fought Israel’s enemies. </span></span>
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jehoshaphat’s kingdom had peace because his God gave him rest in every direction.       </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:5.0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>    </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 20:20-30</span></b></p>
+<p class="section-ref">2 Ch 20:20-30</p>
 
 
 ### Summary of Jehoshaphat’s Reign
@@ -68,7 +74,9 @@ next: chapter-21
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After that, Jehoshaphat allied himself with Ahaziah, king of Israel. That was a bad decision. </span></span>
 <span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He did it to build ships in Ezion-geber for going to Tarshish. </span></span>
-<span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Eliezer Ben-Dodavahu from Mareshah prophesied against him, <i>“Because you’ve allied yourself with Ahaziah, Yahveh has destroyed what you’ve built.”                                                                                         </i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 20:31-37</span></b></span></p>
+<span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Eliezer Ben-Dodavahu from Mareshah prophesied against him, <i>“Because you’ve allied yourself with Ahaziah, Yahveh has destroyed what you’ve built.”                                                                                         </i></span></span></p>
+
+<p class="section-ref">2 Ch 20:31-37</p>
 
 
 <style>

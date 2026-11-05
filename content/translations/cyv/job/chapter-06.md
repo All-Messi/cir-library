@@ -65,9 +65,9 @@ next: chapter-07
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                  </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>I can’t get any help from inside me;</span></i></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                        I can’t deliver myself.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>       </span></b><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                    </span></b></span></p>
 
-### I can’t deliver myself.                                           Job 6:8-13
-
+<p class="section-ref">Job 6:8-13</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></i><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:gray'>“Friends should be kind to people in despair; </span></i></span></p>
 
@@ -132,6 +132,10 @@ next: chapter-07
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                        my good reputation is at stake here.</span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                  </span></i><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>Has there been anything false about what I’ve said?</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                        Can’t I distinguish guilt from disaster?</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>               </span></b></span></p>
+
+<p class="section-ref">Job 6:24-30</p>
 
 
 <style>

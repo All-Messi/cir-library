@@ -48,9 +48,7 @@ next: chapter-37
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“So, tell Israel, ‘It’s not </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>so much<i> for your sake that I’m about to act; it’s in regard to my holy name that you’ve profaned where you’ve gone. </i></span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll vindicate the holiness of my great name. <u>Then the nations will know I’m Yahveh</u>.”       </span></i></span></p>
 
-
-### Ezek 36:16-23
-
+<p class="section-ref">Ezek 36:16-23</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll bring you back from the nations, </span></i></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>sprinkle clean water on you to cleanse you from your filthiness and idols, </span></i></span>
@@ -74,7 +72,7 @@ next: chapter-37
 
 <p class="section-ref">Ezek 36:33-38</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><a name="_Hlk200627982"><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>A Valley of Dry Bones</span></b></a><i><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>A Valley of Dry Bones</span></b><i><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span></i></p>
 
 

@@ -1,7 +1,7 @@
 ---
 title: "The Line"
 date: '2014-06-08'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

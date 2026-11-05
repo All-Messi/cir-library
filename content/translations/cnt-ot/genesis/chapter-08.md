@@ -11,7 +11,7 @@ next: chapter-09
 
 ## Genesis Chapter 8
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God remembered Noah and the animals in the ark. He made wind blow over the whole world, and the water started to recede. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God remembered Noah and the animals in the ark. He made wind blow over the whole world, and the water started to recede. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The fountains in the deep and the floodgates in the sky closed, and the rain stopped. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The water receded steadily for <b>150 days</b>. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On
@@ -36,7 +36,9 @@ next: chapter-09
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to leave<sup>pl</sup> the ark </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and take the animals out so they could reproduce and multiply<i>.</i> </span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Noah’s family went out, </span></span>
-<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and the animals left the ark after their kind.</span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                         Gen 8:6-19</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>    </span></span></p>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and the animals left the ark after their kind.</span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Gen 8:6-19</p>
 
 
 ### Life After the Flood

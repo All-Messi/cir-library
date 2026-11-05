@@ -12,14 +12,10 @@ next: chapter-04
 ## Ephesians Chapter 3
 
 
-### Eph 2:14-22
-
-
-
 ### Paul’s Ministry for Gentiles
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>3</span></b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>:</span></sup><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s why I’m Christ’s prisoner for you Gentiles. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s why I’m Christ’s prisoner for you Gentiles. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ve heard about the stewardship of grace God gave me for you. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He revealed to me his previously unrevealed message, like I noted briefly before. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When you read it, you can understand my insight into that message about Christ. </span></span>

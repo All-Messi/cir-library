@@ -11,7 +11,7 @@ next: chapter-07
 
 ## 1 Corinthians Chapter 6
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Does┘anybody of-you having (a) matter against the other└dare to-go-to-law before the unrighteous and not before the saints? </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Does┘anybody of-you having (a) matter against the other└dare to-go-to-law before the unrighteous and not before the saints? </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Or do-you┘not└know that the saints will-judge the world? And if the world is-judged by you, are-you unable (to be judges) of-(the)-least (matters)? </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Do-you┘not└know that we-will-judge angels, much-less matters-of-everyday-life? </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So if you-have matters-of-this life, do-you-appoint these (as judges) the-ones to (your shame: </span>

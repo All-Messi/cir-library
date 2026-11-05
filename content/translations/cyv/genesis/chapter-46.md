@@ -90,7 +90,9 @@ next: chapter-47
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll go tell Pharaoh you’ve arrived from Canaan </span></i><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>with your herdsmen, flocks and herds, and everything you have. </span></i></span>
 <span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he calls you and asks what your occupation is, </span></i></span>
-<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>tell him you and your ancestors have always been herdsmen. </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Say that<i> so you can live in Goshen; shepherds have low status in Egypt.”                                                     </i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gen 46:28-34</span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>     </span></i></span></p>
+<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>tell him you and your ancestors have always been herdsmen. </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Say that<i> so you can live in Goshen; shepherds have low status in Egypt.”</i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Gen 46:28-34</p>
 
 
 <style>

@@ -15,7 +15,7 @@ next: chapter-27
 ### The Second Registration of Israel’s Troops
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          </span></i><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After the plague Yahveh told Moses and Eleazar, </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After the plague Yahveh told Moses and Eleazar, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Count by families the men 20 years old and up that can go to war.” </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses and Eleazar told them in the plains of Moab by the Jordan across from Jericho, </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Count the men 20 years old and up.” </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>The Israelites that came out of Egypt </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>were as follows</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>:</span></span></p>

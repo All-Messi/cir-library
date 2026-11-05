@@ -2,6 +2,7 @@
 title: "THE VALUE OF THE GOLDEN RULE"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-11
 categories:
 - 'Interpretation'
 - 'Commentaries'
@@ -213,7 +214,7 @@ particularly good or particularly bad—just maintaining the relationship. </spa
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 4.5pt;line-height:18.0pt'><span style='font-size:12.0pt'>                                          
-<img width=219 height=263 id="Picture 1" src="/images/essays/the-value-of-the-golden-rule/image001.png"></span></p>
+<img alt="Spiral between A and B labeled reciprocation" width=219 height=263 id="Picture 1" src="/images/essays/the-value-of-the-golden-rule/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 4.5pt;line-height:18.0pt'><span style='font-size:12.0pt'>                In

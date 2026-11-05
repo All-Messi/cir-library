@@ -87,9 +87,9 @@ prev: chapter-39
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses couldn’t go into the Tent of Meeting because the cloud had settled on it, and Yahveh’s glory of Yahveh filled it. </span></span>
 <span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>During their travels, whenever the cloud rose up from the Tabernacle, the Israelites would move out. </span></span>
 <span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If it didn’t rise up, they’d stay till it did. </span></span>
-<span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The cloud was on the Tabernacle during the day; fire was in it at night where Israel could see it.                                                                                                                                  </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ex 40:28-38</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>    </span></span></p>
+<span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The cloud was on the Tabernacle during the day; fire was in it at night where Israel could see it.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in'><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
+<p class="section-ref">Ex 40:28-38</p>
 
 
 <style>

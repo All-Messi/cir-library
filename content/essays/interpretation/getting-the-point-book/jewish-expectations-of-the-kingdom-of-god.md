@@ -4,9 +4,11 @@ categories:
 - Interpretation
 - Getting The Point Book
 date: '2026-02-16'
+printed: 2015-03-03
+lastmod: 2025-07-11
 draft: false
 title: "Appendix: Jewish Expectations of the Kingdom of God"
-weight: 101
+weight: 26
 subtitle: "AND SOME IMPLICATIONS FOR NEW TESTAMENT INTERPRETATION"
 ---
 

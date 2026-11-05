@@ -22,26 +22,28 @@ next: chapter-11
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the food on his table, the seating of his officials, the attendance of his waiters and their attire, his cupbearers, and his stairway up to Yahveh’s Temple. It took her breath away.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“What I heard in my country about your words and wisdom was true. </span></i></span>
-<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But I didn’t believe it till I saw it. I hadn’t heard half of it. You exceed the report I heard about your prosperity. </span></i><a name="_Hlk146223354"></span>
-<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>How fortunate your officials are, being around you continually and listening to your wisdom! </span></i></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But I didn’t believe it till I saw it. I hadn’t heard half of it. You exceed the report I heard about your prosperity. </span></i></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>How fortunate your officials are, being around you continually and listening to your wisdom! </span></i></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bless Yahveh your God who delighted to set you on Israel’s throne. Because he loved Israel forever, he made you king to do justice and goodness.”  </span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She gave him <a name="_Hlk145078025">4½ tons <sup>120 talents </sup></a>of gold and large amounts of spices and precious stones. Never again did such an abundance of spices come in as she brought him.</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She gave him 4½ tons <sup>120 talents </sup>of gold and large amounts of spices and precious stones. Never again did such an abundance of spices come in as she brought him.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hiram’s ships that brought gold from Ophir also brought large quantities of almug wood and precious stones. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From the almug wood, the king made railings for Yahveh’s Temple and his own palace, as well as lyres and harps for the singers. Such almug wood hasn’t come in again or been seen since.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King Solomon gave the queen of Sheba everything she asked for besides what he gave her on his own. Then she and her attendants went back to her country.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 10:1-13</span></b></span></p>
+</b></span></span></p>
+
+<p class="section-ref">1 Kg 10:1-13</p>
 
 
 ### Solomon’s Wealth and Splendor
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Each year, <a name="_Hlk145078170">25¼ tons <sup>666 talents</sup> </a>of gold came in to Solomon </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Each year, 25¼ tons <sup>666 talents</sup> of gold came in to Solomon </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>besides what came in from traders, merchants’ wares, the kings of Arabia, and governors of the country. </span></span>
-<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He made 200 large shields of beaten gold, using <a name="_Hlk145078507">15 lbs <sup>600 shekels</sup> of gold on each one</a>. </span></span>
-<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He made 300 shields of beaten gold, using <a name="_Hlk145157671">3¾ lbs <sup>3 minas</sup> of gold </a>on each one. He put them in the Palace of the Forest of Lebanon. </span></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He made 200 large shields of beaten gold, using 15 lbs <sup>600 shekels</sup> of gold on each one. </span></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He made 300 shields of beaten gold, using 3¾ lbs <sup>3 minas</sup> of gold on each one. He put them in the Palace of the Forest of Lebanon. </span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In addition, he made a large throne out of ivory, overlaid with refined gold. </span></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There were 6 steps up to it, a round top on the back of it, arms on each side of the seat, and 2 lions standing beside them. </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>12 lions stood on the 2 sides of the 6 steps. Nothing like it was ever made for any other kingdom. </span></span>
@@ -50,13 +52,17 @@ next: chapter-11
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King Solomon became wealthier and wiser than all the <i>other</i> kings in the world. </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The whole world wanted to be around him to hear the wisdom God had put in him. </span></span>
-<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Everybody brought a gift, silver and gold articles, clothes, weapons, spices, horses, and mules, so much each year. <b>                                                                                                                                        </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 10:14-25</span></b></span></p>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Everybody brought a gift, silver and gold articles, clothes, weapons, spices, horses, and mules, so much each year. <b>                                                                                                                                        </b></span></span></p>
+
+<p class="section-ref">1 Kg 10:14-25</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Solomon gathered 1,400 chariots and 12,000 calvary and stationed them in chariot cities and in Jerusalem. </span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He made silver as common as stone in Jerusalem, and cedars as plentiful as sycamores in the lower western hills. </span></span>
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His merchants obtained horses from Egypt and Kue for a price. </span></span>
-<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He imported Egyptian chariots for <a name="_Hlk145157849">15 lbs <sup>600 shekels</sup> of silver </a>each and horses for <a name="_Hlk145158009">3¾ lbs <sup>150 <i>shekels</i>
-</sup><i>of silver </i></a>apiece. Then he exported them to the kings of the Hittites and of Aram.<b>                                                                                            </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 10:26-29</span></b></span></p>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He imported Egyptian chariots for 15 lbs <sup>600 shekels</sup> of silver each and horses for 3¾ lbs <sup>150 <i>shekels</i>
+</sup><i>of silver </i>apiece. Then he exported them to the kings of the Hittites and of Aram.<b>                                                                                            </b></span></span></p>
+
+<p class="section-ref">1 Kg 10:26-29</p>
 
 
 <style>

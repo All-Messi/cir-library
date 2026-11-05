@@ -20,12 +20,14 @@ next: chapter-21
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He brought the people out, and cut them with saws, sharp instruments, and axes. He did that to all the Ammonite towns. Then he and the people came back to Jerusalem. </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>About this time, war broke out with the Philistines at Gezer. Sibbecai the Hushathite killed <u>Sippai</u>, a descendant of the giants, and they were subdued. </span></span>
-<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There was war with the Philistines again, and Elhanan son of Jair killed <u>Lahmi</u> brother of Goliath the Gittite, the shaft of whose spear was like a weaver’s beam. </span><a name="_Hlk145343781"></span>
-<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Another time there was war at Gath, where there was a <u>huge man with six digits</u> on each hand and foot. </span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>He had descended from the giants too. </span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There was war with the Philistines again, and Elhanan son of Jair killed <u>Lahmi</u> brother of Goliath the Gittite, the shaft of whose spear was like a weaver’s beam. </span></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Another time there was war at Gath, where there was a <u>huge man with six digits</u> on each hand and foot. </span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>He had descended from the giants too. </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he taunted Israel, Jonathan, son of David’s brother Shimea, killed him. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Those
 <i>three </i>descended from the giants in Gath that David and his warriors killed.
-<b>                                                                                    </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 20:1-8</span></b></span></p>
+<b>                                                                                    </b></span></span></p>
+
+<p class="section-ref">1 Ch 20:1-8</p>
 
 
 <style>

@@ -2,6 +2,7 @@
 title: "APOLOGETICS AS INTERPERSONAL (Promoting and Defending the Faith)"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-11
 categories:
 - 'Topics'
 - 'Interpersonalism'

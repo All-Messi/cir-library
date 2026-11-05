@@ -5,6 +5,8 @@ categories:
 - Christian Doctrine
 - Creation
 date: '2026-02-16'
+printed: 2017-03-22
+lastmod: 2025-07-10
 draft: false
 title: THE MOSES-TIME VIEWPOINT OF GENESIS-DEUTERONOMY
 weight: 3

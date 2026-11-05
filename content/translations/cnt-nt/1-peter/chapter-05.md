@@ -50,8 +50,6 @@ prev: chapter-04
 
 <p class="section-ref">1 Pet 5:12-14</p>
 
-<p class="MsoNormal"><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>Translator: Virgil Warren                                                                                                 </span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

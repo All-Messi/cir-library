@@ -1,7 +1,7 @@
 ---
 title: "In the Extreme"
 date: '2024-10-20'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

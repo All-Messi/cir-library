@@ -15,7 +15,7 @@ next: chapter-03
 ### Provisions for Going Forward
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>2</span></b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>:</span></sup><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So, my son, <u>you</u> be strong in the grace that Christ Jesus <i>gives</i>. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So, my son, <u>you</u> be strong in the grace that Christ Jesus <i>gives</i>. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What you’ve heard from me among many witnesses entrust to faithful men that can teach others. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Endure hardship with <i>me</i> like a good soldier of Christ Jesus. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A soldier doesn’t get mixed up in the affairs of daily life while he’s a soldier. That way he can please his recruiter. </span></span>

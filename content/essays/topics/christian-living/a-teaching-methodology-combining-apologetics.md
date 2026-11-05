@@ -58,7 +58,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'><img width=414 height=239
+style='font-size:12.0pt'><img alt="Diagram: objective principles (Bible: historical basis, doctrinal) and subjective principles (World: sense of need; Church: sense of fulfillment)" width=414 height=239
 src="/images/essays/a-teaching-methodology-combining-apologetics/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

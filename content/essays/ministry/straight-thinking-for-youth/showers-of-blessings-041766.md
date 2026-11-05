@@ -1,7 +1,8 @@
 ---
-title: "Showers of Blessings 041766"
-author: "Virgil Warren, Straight, April 17, 1966, p6"
+title: "Showers of Blessings (April 17, 1966)"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-12
 categories:
 - 'Ministry'
 - 'Straight Thinking For Youth'

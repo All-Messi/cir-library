@@ -1,7 +1,7 @@
 ---
 title: "See God and Live"
 date: '2024-11-03'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

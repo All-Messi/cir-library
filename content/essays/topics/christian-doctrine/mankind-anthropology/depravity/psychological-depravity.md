@@ -2,6 +2,7 @@
 title: "PSYCHOLOGICAL DEPRAVITY"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-15
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -250,7 +251,7 @@ The possibility of a Gentile’s being saved through Christ without hearing of
 him seems as realistic as a Jew’s being saved through Christ before he came.</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'><img width=314 height=118
+line-height:18.0pt'><span style='font-size:12.0pt'><img alt="Revelation and conscience: judgment (Rom. 3:25) and judgment (Rom. 2:14-16)" width=314 height=118
 src="/images/essays/psychological-depravity/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
@@ -335,7 +336,7 @@ represent indirect operation, and the dashed line represents direct operation.</
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'><img width=301 height=118
+line-height:18.0pt'><span style='font-size:12.0pt'><img alt="Holy Spirit, Christian message, circumstance, Christians and me" width=301 height=118
 src="/images/essays/psychological-depravity/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
@@ -534,35 +535,35 @@ Understandings of Depravity</span></p>
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'><img width=399 height=170
+line-height:18.0pt'><span style='font-size:12.0pt'><img alt="Augustine-Calvin-Luther-Arminius: Adam&#x27;s fall and miraculous regeneration of each individual" width=399 height=170
 src="/images/essays/psychological-depravity/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'><img width=399 height=177
+line-height:18.0pt'><span style='font-size:12.0pt'><img alt="Wesley: Adam&#x27;s fall, miraculous regeneration of each individual, second definite work of grace" width=399 height=177
 src="/images/essays/psychological-depravity/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'><img width=399 height=170
+18.0pt'><span style='font-size:12.0pt'><img alt="Cottrell: Adam&#x27;s fall, miraculous regeneration of each individual, second definite work of grace" width=399 height=170
 src="/images/essays/psychological-depravity/image005.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'><img width=399 height=170
+line-height:18.0pt'><span style='font-size:12.0pt'><img alt="Warren: Adam&#x27;s fall, miraculous regeneration of each individual, second definite work of grace" width=399 height=170
 src="/images/essays/psychological-depravity/image006.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'><img width=393 height=157
+line-height:18.0pt'><span style='font-size:12.0pt'><img alt="Adam&#x27;s fall and miraculous regeneration of each individual, steps 1 to 4" width=393 height=157
 src="/images/essays/psychological-depravity/image007.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
@@ -697,7 +698,7 @@ the three middle steps:</span></p>
 depravity</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'><img width=249 height=59
+line-height:18.0pt'><span style='font-size:12.0pt'><img alt="Unconditional election, limited atonement, irresistible grace: baptistic theology" width=249 height=59
 src="/images/essays/psychological-depravity/image008.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
@@ -720,7 +721,7 @@ was omitted along with steps 2-4:</span></p>
 depravity</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'><img width=255 height=65
+line-height:18.0pt'><span style='font-size:12.0pt'><img alt="Unconditional election, limited atonement, irresistible grace, perseverance of the saints: Wesleyan theology" width=255 height=65
 src="/images/essays/psychological-depravity/image009.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
@@ -735,7 +736,7 @@ depravity with all the adjustments that entails:</span></p>
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'><img width=255 height=79
+line-height:18.0pt'><span style='font-size:12.0pt'><img alt="Total depravity, unconditional election, limited atonement, irresistible grace, perseverance of the saints: interpersonalism" width=255 height=79
 src="/images/essays/psychological-depravity/image010.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:

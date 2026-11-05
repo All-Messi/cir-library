@@ -11,7 +11,7 @@ next: chapter-05
 
 ## 2 Corinthians Chapter 4
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On-account-of this, having this [the] ministry even-as we-received-mercy, we-do<b>┘ </b>not└become-discouraged;
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On-account-of this, having this [the] ministry even-as we-received-mercy, we-do<b>┘ </b>not└become-discouraged;
 </span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> but we-have-renounced the hidden-things of-[the] shame, not walking in trickery or perverting the word of-[the] God, but by-the manifestation of-the truth commending ourselves to every conscience of-men before [the] God. </span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> And even if the gospel of-us is veiled, it-is veiled in the-ones perishing, </span>

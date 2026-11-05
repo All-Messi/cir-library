@@ -5,6 +5,7 @@ categories:
 - Christian Doctrine
 - Doctrinal Summaries
 date: '2026-02-16'
+lastmod: 2025-07-09
 draft: false
 title: THE BIG PICTURE
 weight: 3

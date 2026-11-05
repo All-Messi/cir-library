@@ -10,7 +10,7 @@ prev: chapter-04
 
 ## 1 Peter Chapter 5
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(The) elders [the] among you I-exhort, (being) the/a fellow-elder and witness of-the sufferings of-Christ, the/a sharer also of-the future glory to-be-revealed.  </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(The) elders [the] among you I-exhort, (being) the/a fellow-elder and witness of-the sufferings of-Christ, the/a sharer also of-the future glory to-be-revealed.  </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Shepherd the flock of-[the] God among you, exercising-(the)-oversight; not under-compulsion, but willingly according-to God; not for-shameful-gain, but eagerly; </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>neither as lording-(it)-over the/your charges, but by-being (an) example of-the flock; </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and the chief-Shepherd having-appeared, you-will-receive the unfading crown of-[the] glory.</span></span></p>
@@ -32,13 +32,6 @@ prev: chapter-04
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>By Silvanus the faithful brother, as-I-consider (him), I-wrote to-you through few (words), exhorting and testifying this to-be the true grace of-[the] God—in which stand-fast<sup>imper</sup>.  </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The fellow-elect (church)<sup>ms</sup> in Babylon greets you, and (so does) Mark, the son of-me.  </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Greet one-another with (a) loving kiss.  Peace to-you all the-ones in Christ. </span></span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil Warren, PhD</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>translator</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 
 
 <style>

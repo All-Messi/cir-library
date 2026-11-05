@@ -2,6 +2,8 @@
 title: "A Map of Atonement Through Christ"
 author: "Virgil Warren, PhD"
 date: '2026-11-04'
+printed: 2026-10-15
+lastmod: 2026-10-15
 categories:
 - 'Topics'
 - 'Christian Doctrine'

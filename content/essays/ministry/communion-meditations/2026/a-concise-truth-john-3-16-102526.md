@@ -1,7 +1,7 @@
 ---
 title: "A Concise Truth: John 3:16"
 date: '2026-10-25'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

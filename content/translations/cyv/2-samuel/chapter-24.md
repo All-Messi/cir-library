@@ -16,8 +16,8 @@ prev: chapter-23
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Joab said, <i>“May Yahveh your God multiply the people 100 times while you can still see it, but why delight in this?”</i> </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the king’s word prevailed over Joab and his commanders; so they spread out to register the people. </span><a name="_Hlk127198088"></span>
-<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They crossed the Jordan and camped south of Aroer in the middle of the Valley of Gad and then went on toward Jazer. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the king’s word prevailed over Joab and his commanders; so they spread out to register the people. </span></span>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They crossed the Jordan and camped south of Aroer in the middle of the Valley of Gad and then went on toward Jazer. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They went to Gilead and the area around Tahtim-hodshi, to Dan-jaan and on around to Sidon, </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to the fortress of Tyre and the towns of the Hivites and Canaanites; and to the south of Judah to Beersheba. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they’d cycled through the country, they came to Jerusalem after 9 months and 20 days, </span></span>
@@ -68,12 +68,10 @@ prev: chapter-23
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“No, I’ll buy it from you. I won’t offer burnt offerings that don’t cost me anything.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            He bought the threshing floor and oxen for <a name="_Hlk145156407">20 oz <sup>50 shekels</sup> of silver</a>. </span><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He built an altar and offered burnt offerings and peace offerings. Yahveh was moved by <i>David’s</i> petition for the country and held back the plague.
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            He bought the threshing floor and oxen for 20 oz <sup>50 shekels</sup> of silver. </span><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He built an altar and offered burnt offerings and peace offerings. Yahveh was moved by <i>David’s</i> petition for the country and held back the plague.
 </span></span></p>
 
 <p class="section-ref">2 Sam 24:18-25</p>
-
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
 
 
 <style>

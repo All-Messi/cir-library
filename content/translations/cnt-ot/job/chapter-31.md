@@ -11,7 +11,7 @@ next: chapter-32
 
 ## Job Chapter 31
 
-<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>“I’ve made a covenant with my eyes       </span></i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:gray'>“I’ve made a covenant with my eyes       </span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                  not to look with lust at a young woman?</span></i></p>
 
@@ -75,9 +75,9 @@ next: chapter-32
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>            </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>Didn’t the One that made me in the womb make the accuser too?</span></i></span></p>
 
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                  Didn’t the same One make us both?</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                     </span></b></span></p>
 
-### Didn’t the same One make us both?                     Job 31:13-15
-
+<p class="section-ref">Job 31:13-15</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:gray'>“If I’ve withheld from the poor what they needed</span></i></span></p>
 
@@ -103,7 +103,7 @@ next: chapter-32
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                                    because I knew the courts would support me—</span></i></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                              </span></i><a name="_Hlk125058066"><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> </a><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:gray'>pull my shoulder out of its socket</span></i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                              </span></i><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:gray'>pull my shoulder out of its socket</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                                    and break off my arm at the elbow,</span></i></p>
 
@@ -149,11 +149,11 @@ next: chapter-32
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                        </span></i><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>No foreigner has had to lodge outside;</span></i></span></p>
 
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                              I’ve opened my doors to travelers.</span></i></span></p>
 
-### I’ve opened my doors to travelers.                       Job 31:29-32
+<p class="section-ref">Job 31:29-32</p>
 
-
-<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><a name="_Hlk125058162"><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>“Have I covered up my sins like people do</span></i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>“Have I covered up my sins like people do</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                                    by hiding my iniquity in my heart,</span></i></p>
 
@@ -181,7 +181,7 @@ next: chapter-32
 
 <p class="section-ref">Job 31:33-37</p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><a name="_Hlk125058279"><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>“If my land cries out against me</span></i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>“If my land cries out against me</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                                    and my furrows are all wet with tears,</span></i></p>
 
@@ -192,6 +192,10 @@ next: chapter-32
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                              </span></i><span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:gray'>let briars grow on my land instead of wheat,</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:gray'>                                    stinkweeds in place of barley.”</span></i></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Job’s words end here</span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>.<b><i>                                                           </i></b></span></p>
+
+<p class="section-ref">Job 31:38-40</p>
 
 
 <style>

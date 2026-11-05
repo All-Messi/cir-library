@@ -4,7 +4,7 @@ chapters: 34
 title: Deuteronomy
 translation: CYV
 type: book
-weight: 44
+weight: 5
 ---
 
 ## Deuteronomy

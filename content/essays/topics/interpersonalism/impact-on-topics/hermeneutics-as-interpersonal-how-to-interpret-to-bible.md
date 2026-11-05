@@ -2,6 +2,7 @@
 title: "HERMENEUTICS AS INTERPERSONAL (How to Interpret to Bible)"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-16
 categories:
 - 'Topics'
 - 'Interpersonalism'

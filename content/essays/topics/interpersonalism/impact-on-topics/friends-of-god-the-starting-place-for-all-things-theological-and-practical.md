@@ -2,6 +2,8 @@
 title: "'FRIENDS OF GOD': THE STARTING PLACE FOR ALL THINGS THEOLOGICAL AND PRACTICAL"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-04-27
+lastmod: 2025-07-16
 categories:
 - 'Topics'
 - 'Interpersonalism'

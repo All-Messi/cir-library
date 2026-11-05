@@ -15,7 +15,7 @@ next: chapter-29
 ### Jacob Sent to Laban
 
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Isaac called Jacob, blessed him, and charged him, </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Isaac called Jacob, blessed him, and charged him, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t marry a Canaanite. </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Go to Paddan-aram, to Bethuel your mother’s father, and choose a wife from Laban your uncle. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>May God Almighty </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>[El-Shaddai]</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> bless you and make you numerous so you’ll become a group of nations. </span></i></span>

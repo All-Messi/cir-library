@@ -32,9 +32,7 @@ next: chapter-22
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]
 </span></span></p>
 
-
-### Josh 21:1-8
-
+<p class="section-ref">Josh 21:1-8</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From <u>Judah</u> and <u>Simeon</u> they gave the following towns. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They went to Aaron’s descendants, one clan of <b>Kohathites</b> among the Levites, since the lot fell to them first. </span>

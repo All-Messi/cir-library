@@ -51,8 +51,9 @@ next: chapter-23
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I slap my hand at your bloodshed and crooked gain. </span></i></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Will you have the courage and strength to deal with me when I do what I’ve said? </span></i></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll scatter you across the nations and burn off your uncleanness. </span></i></span>
-<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ll profane yourself in the sight of the nations. <u>You’ll know I’m Yahveh</u>.”’”
-                                                   </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ezek 22:6-16</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                </span></i></span></p>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ll profane yourself in the sight of the nations. <u>You’ll know I’m Yahveh</u>.”’”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Ezek 22:6-16</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:49.5pt; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A message from Yahveh came to me:</span></span></p>
 

@@ -15,7 +15,7 @@ next: chapter-11
 ### The Conversion of Cornelius
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A centurion in Caesarea named Cornelius, from the Italian cohort, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A centurion in Caesarea named Cornelius, from the Italian cohort, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>was a devout God-fearer along with his household. He gave considerable charitable gifts to the people and prayed to God constantly. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In a vision about 3 o’clock, he saw an angel of God coming in and saying,<i> “Cornelius.”</i>   </span></span></p>
 

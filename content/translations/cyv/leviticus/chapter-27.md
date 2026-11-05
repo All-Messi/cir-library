@@ -14,9 +14,9 @@ prev: chapter-26
 ### Laws About Vows
 
 
-<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v1" id="v1"><sup class="verse-num">1-2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Again Yahveh told Moses, </span></span></p>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v1" id="v1"><sup class="verse-num">1-2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Again Yahveh told Moses, </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><a name="_Hlk125813962"><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“When people make difficult vows, appraise them before Yahveh. </span></i></a><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Appraise a male that’s 20 to 60 years old at <a name="_Hlk145105144">20 oz of silver <sup>50 shekels of the sanctuary</sup> </a></span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“When people make difficult vows, appraise them before Yahveh. </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Appraise a male that’s 20 to 60 years old at 20 oz of silver <sup>50 shekels of the sanctuary</sup> </span></i></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and a female at 12 oz <sup>30</sup> <sup>shekels </sup>of silver. </span></i></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Appraise a male that’s 5 to 20 years old at 8 oz <sup>20 shekels</sup> and a female at 4 oz <sup>10 shekels</sup>. </span></i></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Appraise a male that’s a month to 5 years old at 2 oz <sup>5 shekels</sup> of silver and a female at 1⅕ oz <sup>3</sup> <sup>shekels</sup>. </span></i></span>
@@ -27,7 +27,7 @@ prev: chapter-26
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You won’t exchange it good for bad or vice versa. If you do exchange it, both it and the substitute become holy. </span></i></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11-12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But if it’s a ceremonially unclean animal, which people don’t offer to Yahveh, the priest will appraise it. His appraisal is final. </span></i></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But if you ever want to buy it back, add a fifth to </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the
-<i>appraisal</i></span></span></p>
+<i>appraisal</i></span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>.</span></b></span></p>
 
 <p class="section-ref">Lev 27:1-13</p>
 
@@ -36,7 +36,7 @@ prev: chapter-26
 
 <p class="section-ref">Lev 27:14-15</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><a name="_Hlk125814095"><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If you consecrate part of your field to Yahveh, the priest’s appraisal will be in proportion to the seed for sowing it: 11 bushels </span></i><i><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 homer</span></sup></i><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> of barley at <a name="_Hlk145105507">20 oz <sup>50 shekels </sup>of silver</a>. </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If you consecrate part of your field to Yahveh, the priest’s appraisal will be in proportion to the seed for sowing it: 11 bushels </span></i><i><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 homer</span></sup></i><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> of barley at 20 oz <sup>50 shekels </sup>of silver. </span></i></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you consecrate your field in relation to the Year of Jubilee, it will stand according to the priest’s appraisal. </span></i></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you consecrate your field after the Year of Jubilee, the priest will calculate the price in proportion to the years till the </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>next<i> Year of Jubilee and deduct it from its appraisal. </i></span></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you ever want to buy it back, add a fifth to the appraisal. </span></i></span>
@@ -62,7 +62,7 @@ prev: chapter-26
 ### Laws About Tithes
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><a name="_Hlk125814185"><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Set apart to Yahveh a tenth of the land, produce of the ground and fruit of the trees. </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Set apart to Yahveh a tenth of the land, produce of the ground and fruit of the trees. </span></i></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you want to buy back part of that tenth, add a fifth to it. </span></i></span>
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Set apart to Yahveh every tenth member of a herd and flock. </span></i></span>
 <span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Whether it’s good or bad, you don’t need to substitute for it. If you do, both it and the substitute become holy, and you can’t buy them back.” </span></i></span></p>
@@ -70,8 +70,6 @@ prev: chapter-26
 <p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Those are commandments Yahveh gave Moses for Israel at Mount Sinai.                  </span></span></p>
 
 <p class="section-ref">Lev 27:30-34</p>
-
-<p class="MsoListBulletCxSpLast" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
 
 
 <style>

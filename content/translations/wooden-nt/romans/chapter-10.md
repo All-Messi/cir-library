@@ -11,7 +11,7 @@ next: chapter-11
 
 ## Romans Chapter 10
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Brothers, the desire of-[the] my heart and the prayer to [the] God (is) for them for salvation. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Brothers, the desire of-[the] my heart and the prayer to [the] God (is) for them for salvation. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For I-testify in-regard-to-them that they-have (a) zeal of-God, but not according-to knowledge. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For not-knowing the righteousness of-[the] God and seeking to-establish [the] their-own [righteousness]<sup>ms</sup>, they-did┘not└submit themselves to-the righteousness of-[the] God. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For Christ (is the) end of-(the)-Law unto righteousness to-everybody the-one believing/trusting.</span></span></p>
@@ -22,9 +22,7 @@ next: chapter-11
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Do┘not└say in the heart of-you<sup>sg</sup>,                        </span></b></p>
 
-
-### ‘Who-will-go-up into [the] heaven’
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            ‘Who-will-go-up into [the] heaven’</span></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        [that is, to-bring┘Christ└down]?</span></p>
 
@@ -70,9 +68,7 @@ next: chapter-11
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b>“I-was-found by the-ones not seeking me;</b></span></p>
 
-
-### I-became manifest to-the-ones not asking-for/about me.”
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    I-became manifest to-the-ones not asking-for/about me.”</span></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And to [the] Israel he-says, <b>“All the day-long I-stretched-out the hands of-me</b>
 <b>to (a) disobeying and contradicting people.”</b></span></span></p>

@@ -2,6 +2,8 @@
 title: "MANAGING EMOTIONS (IP)"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-01-20
+lastmod: 2025-07-11
 categories:
 - 'Topics'
 - 'Interpersonalism'
@@ -46,5 +48,5 @@ more objective, more manageable, and clearer. We get them “off our chest.”</
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 18.0pt'><span style='font-size:12.0pt'>                                                                                                                                        
-</span><span style='font-size:11.0pt'>christsir.org</span></p>
+</span><span style='font-size:11.0pt'></span></p>
 </div>

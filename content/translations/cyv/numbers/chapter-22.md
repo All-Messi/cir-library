@@ -15,7 +15,7 @@ next: chapter-23
 ### Balak Summons Balaam
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel traveled and camped in the plains of Moab across the Jordan from Jericho. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel traveled and camped in the plains of Moab across the Jordan from Jericho. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balak Ben-Zippor saw what Israel did to the Amorites. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people of Moab were afraid of them because there were so many of them. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king of Moab told the elders in Midian, </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“This horde will eat up everything around us like an ox eats up grass in a pasture.” </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balak, king of Moab at the time, </span></span>
@@ -90,7 +90,7 @@ next: chapter-23
 
 <p class="section-ref">Num 22:28-35</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt; '><a name="_Hlk126703699"><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Balak heard Balaam was coming, he went out to meet him at the city of Moab on the Arnon border. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt; '><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Balak heard Balaam was coming, he went out to meet him at the city of Moab on the Arnon border. </span></span>
 <span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“Didn’t I urgently call you? Why didn’t you come? Am I really not able to honor you</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>?” </span></span>
 <span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balaam said, </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“I’m here! Can I say </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>just
 </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>anything? I’ll say what God tells me.” </span></i></span>

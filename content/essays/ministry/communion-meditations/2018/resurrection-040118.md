@@ -1,7 +1,7 @@
 ---
 title: "Resurrection"
 date: '2018-04-01'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

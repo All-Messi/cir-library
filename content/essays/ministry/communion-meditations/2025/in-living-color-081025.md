@@ -1,7 +1,7 @@
 ---
 title: "In Living Color"
 date: '2025-08-10'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

@@ -34,7 +34,9 @@ next: chapter-04
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      overlaid the
 <u>upper rooms</u> with gold.<b>                                                                 
-</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 3:1-9</span></b></p>
+</b></span></p>
+
+<p class="section-ref">2 Ch 3:1-9</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He made 2 <u>sculpted cherubs</u> in the Holy of Holies and overlaid them with gold. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The combined wingspan of the cherubs was 30ft. The wing of one (</span><span style='font-family:"Times New Roman",serif'>7<b>½</b>ft</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>) touched the wall of the Temple. The other wing (</span><span style='font-family: "Times New Roman",serif'>7<b>½</b>ft</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>) touched the wing of the second cherub. </span></span>
@@ -51,7 +53,7 @@ next: chapter-04
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He set up the pillars on the right and left that he named Jachin and Boaz respectively.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                          2 Ch 3:10-17</span></b></p>
+<p class="section-ref">2 Ch 3:10-17</p>
 
 
 <style>

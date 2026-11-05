@@ -1,12 +1,12 @@
 ---
-title: "GIDANCE by the Spirit (book pt 5)"
-author: "Virgil Warren, christir.org"
+title: "Guidance by the Spirit"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:
 - 'Topics'
 - 'Christian Doctrine'
 - 'Holy Spirit Pneumatology'
-weight: 4
+weight: 5
 draft: false
 ---
 
@@ -294,7 +294,7 @@ margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>                          <img width=354 height=88
+style='font-size:12.0pt'>                          <img alt="General will with x&#x27;s; specific will" width=354 height=88
 id="Picture 2" src="/images/essays/gidance-by-the-spirit-book-pt-5/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -726,12 +726,12 @@ style='font-size:12.0pt'>                            
 the behavior of waiting</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:2.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-2.0in'><span
+margin-left:min(2.25in, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(24px, 35vw) - min(2.25in, 35vw))'><span
 style='font-size:12.0pt'>                                     *(b)    Encourages
 reading events as signs to be followed rather than as data to be considered</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:2.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-2.0in'><span
+margin-left:min(2.25in, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(24px, 35vw) - min(2.25in, 35vw))'><span
 style='font-size:12.0pt'>                                       (c)     Encourages
 self-justification; so we may not be sufficiently receptive to advice from
 other Christians</span></p>
@@ -759,13 +759,13 @@ style='font-size:12.0pt'>                            
 toward tempting God</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:2.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-2.0in'><span
+margin-left:min(2.25in, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(24px, 35vw) - min(2.25in, 35vw))'><span
 style='font-size:12.0pt'>                                       (e)     Requires
 secondary explanations when things do not work out as planned, guilt often
 being attached to the lack of success</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:2.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-2.0in'><span
+margin-left:min(2.25in, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(24px, 35vw) - min(2.25in, 35vw))'><span
 style='font-size:12.0pt'>                                       (f)     The
 specific “will of God” is not always kept within the general will of God as it
 should be.</span></p>
@@ -838,7 +838,7 @@ style='font-size:12.0pt'>                           �
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>               <img width=303 height=124 id="Picture 1"
+style='font-size:12.0pt'>               <img alt="Triangle: Holy Spirit, Scripture and me, with circumstance and church" width=303 height=124 id="Picture 1"
 src="/images/essays/gidance-by-the-spirit-book-pt-5/image002.png">      </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

@@ -6,10 +6,13 @@ googleAnalytics = 'G-65KM86FCYC'
 
 [params]
   author = "Virgil Warren, PhD"
-  description = "Christian Internet Resources (CIR) presents essays with interpersonalism (IP) in mind"
+  description = "The theological library of Virgil Warren, PhD: essays, Bible translations, books and communion meditations, written with interpersonalism (IP) in mind."
   siteName = "CIR"
   fullName = "Christian Internet Resources"
   mainSections = ["essays", "translations"]
+  # SEO (2026-11-04): canonical/OG/JSON-LD always point here, even on the staging mirror
+  canonicalBase = "https://christir.org"
+  ogImage = "images/og-default.png"
 
 [menu]
   [[menu.main]]
@@ -25,18 +28,22 @@ googleAnalytics = 'G-65KM86FCYC'
     url = "/translations/"
     weight = 3
   [[menu.main]]
+    name = "Glossary"
+    identifier = "glossary"
+    url = "/essays/language/glossary-of-communication-related-terms/"
+    weight = 4
+  [[menu.main]]
     name = "Author"
     url = "/author/"
-    weight = 4
+    weight = 5
   [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 5
+    weight = 6
 
+# tags/topics were never used (empty /tags/ and /topics/ pages in the sitemap): dropped 2026-11-04
 [taxonomies]
   category = "categories"
-  tag = "tags"
-  topic = "topics"
 
 [outputs]
   home = ["HTML", "JSON"]

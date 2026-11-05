@@ -11,15 +11,6 @@ next: chapter-08
 
 ## 2 Corinthians Chapter 7
 
-
-### And
-you will-be to me [for] sons and daughters,’
-
-
-
-### Says (the) Lord Almighty.”
-
-
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So having these [the] promises, beloved, let-us-cleanse ourselves from all defilement of-flesh and spirit, perfecting holiness in (the) fear of-God.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> Make-room-for us; we-wronged nobody; we-corrupted nobody; we-took-advantage-of nobody. </span>

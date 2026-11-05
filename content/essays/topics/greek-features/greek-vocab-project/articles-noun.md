@@ -1,6 +1,6 @@
 ---
-title: "ARTicles-NOUN"
-author: "Virgil Warren, christir.org"
+title: "Articles and Nouns"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:
 - 'Topics'
@@ -47,7 +47,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>Article, variants to the standard [toiv, taiv, etc.]</span></p>
+style='font-size:12.0pt'>Article, variants to the standard [τοί, ταί, etc.]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -144,7 +144,7 @@ style='font-size:12.0pt'>            First Declension</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -h, -h&quot; [f]</span></p>
+style='font-size:12.0pt'>                    -h, -ης [f]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -152,7 +152,7 @@ style='font-size:12.0pt'>                    -a–, -a–&quo
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -a±, -h&quot; [f]</span></p>
+style='font-size:12.0pt'>                    -a±, -ης [f]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -160,7 +160,7 @@ style='font-size:12.0pt'>                    -a±, -a–&quot
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -h&quot;, -ou [m]</span></p>
+style='font-size:12.0pt'>                    -ης, -ου [m]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -215,17 +215,17 @@ dat pl are written as double consonants.]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                           p      (y, -po&quot;) [m or
+style='font-size:12.0pt'>                           p      (y, -πος) [m or
 f]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                           b      (y, -bo&quot;) [m or
+style='font-size:12.0pt'>                           b      (y, -βος) [m or
 f]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                           f      (y, -fo&quot;) [m or
+style='font-size:12.0pt'>                           f      (y, -φος) [m or
 f]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -259,29 +259,29 @@ style='font-size:12.0pt'>                           t 
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                   (th&quot;,
--thto&quot; [f]</span></p>
+style='font-size:12.0pt'>                                   (της,
+-τητος [f]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                   (&quot;, -to&quot;
-[n]  [fw't#fw'&quot;, fwtov&quot;] [note:  since Greek words can end only with
+[n]  [φῶτ#∅φῶς, φωτός] [note:  since Greek words can end only with
 vowels, diphthongs, n, r, and &quot;, the zero ending of the nom/acc sg in the
 third declension occasions problems for words whose roots end with an
-unacceptable letter.  Words like fw'&quot; and tevra&quot; replace the t with a
+unacceptable letter.  Words like φῶς and τέρας replace the t with a
 &quot; in those forms.  With -ma nouns, the terminal t is simply dropped.]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                   (a&quot;,
--ato&quot; [n] [tevrat#tevra&quot;, tevrata&quot;]</span></p>
+-ατος [n] [τέρατ#∅τέρας, τέρατας]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                   </span><span
-lang=ES style='font-size:12.0pt'>(ma, -mato&quot; [n] [mat#</span><span
-style='font-size:12.0pt'></span><span lang=ES style='font-size:12.0pt'>ma,
-mato&quot;]</span></p>
+lang=ES style='font-size:12.0pt'>(ma, -ματος [n] [mat#</span><span
+style='font-size:12.0pt'>∅</span><span lang=ES style='font-size:12.0pt'>ma,
+ματος]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=ES
@@ -290,7 +290,7 @@ style='font-size:12.0pt'>d      (&quot;, -do&quot;)  [m or f]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                           q      (&quot;, -qo&quot;) 
+style='font-size:12.0pt'>                           q      (&quot;, -θος) 
 [m or f][note: since dentals cannot stand before s, something has to happen in
 the nom sg and dat pl of dental stems of the 3rd declension.  The uniform solution
 is to drop the dental in those places.]</span></p>
@@ -298,7 +298,7 @@ is to drop the dental in those places.]</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                           </span><span lang=FR
-style='font-size:12.0pt'>irregulars [pouv&quot;, ou\&quot;, govnu, u{dwr]</span></p>
+style='font-size:12.0pt'>irregulars [πούς, οὖς, γόνυ, ὕδωρ]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
@@ -312,12 +312,12 @@ consonants.]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                           k      (x, -ko&quot;)  [m
+style='font-size:12.0pt'>                           k      (x, -κος)  [m
 or f]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                   (x, -kto&quot;) [m
+style='font-size:12.0pt'>                                   (x, -κτος) [m
 or f]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -327,7 +327,7 @@ or f]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                           c      (x, -co&quot;)  [m
+style='font-size:12.0pt'>                           c      (x, -χος)  [m
 or f]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -344,7 +344,7 @@ style='font-size:12.0pt'>                           n 
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    vv   nt     (n, -nto&quot;)</span></p>
+style='font-size:12.0pt'>                    vv   nt     (n, -ντος)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -362,12 +362,12 @@ style='font-size:12.0pt'>liquid stems</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=ES
-style='font-size:12.0pt'>                           l       (;l&quot;,
--lo&quot;)</span></p>
+style='font-size:12.0pt'>                           l       (;λς,
+-λος)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=ES
-style='font-size:12.0pt'>                           r      (r, -ro&quot;)</span></p>
+style='font-size:12.0pt'>                           r      (r, -ρος)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=ES
@@ -390,25 +390,25 @@ vowel before the n if it is short.]</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                    </span><span lang=ES
-style='font-size:12.0pt'>u-stems   (u&quot;, -uo&quot; [m or f]</span></p>
+style='font-size:12.0pt'>u-stems   (υς, -υος [m or f]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=ES
 style='font-size:12.0pt'>                    </span><span style='font-size:
-12.0pt'>i-stems    (i&quot;, -ew&quot; [m or f]</span></p>
+12.0pt'>i-stems    (i&quot;, -εως [m or f]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                    </span><span lang=FR
-style='font-size:12.0pt'>eu-stems (eu&quot;, -ew&quot; [m]</span></p>
+style='font-size:12.0pt'>eu-stems (ευς, -εως [m]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
-style='font-size:12.0pt'>                    s-stems   (h&quot;, -ou&quot; [m]</span></p>
+style='font-size:12.0pt'>                    s-stems   (ης, -ους [m]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
-style='font-size:12.0pt'>                                   (o&quot;, -ou&quot;
+style='font-size:12.0pt'>                                   (o&quot;, -ους
 [n]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -474,7 +474,7 @@ Trenchard's <u>Voc Guide</u>, 295-96; Metzger, 91]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            masculine -h&quot;, -ou nouns of the first
+style='font-size:12.0pt'>            masculine -ης, -ου nouns of the first
 declension  [See Trenchard's <u>Voc Guide</u>, 293]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -520,26 +520,26 @@ style='font-size:12.0pt'>            abstract nouns</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            agent nouns:  -eu&quot;, -ew&quot;, m; 
--ti&quot;, -tido&quot;, f; -thr, -thro&quot;, m; -th&quot;, -tou, m;                  -triv&quot;,
-trivdo&quot;, f;  -twr, -toro&quot;, m; -eia, -eia&quot;, f</span></p>
+style='font-size:12.0pt'>            agent nouns:  -ευς, -εως, m; 
+-τις, -τιδος, f; -thr, -thro&quot;, m; -της, -tou, m;                  -τρίς,
+τρίδος, f;  -twr, -toro&quot;, m; -εια, -ειας, f</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            diminutive:  i-diminutives; -adion, adiou,
 n; -aridion, -aridiou, n; -idion,                 -idiou, n; -ion, -iou, n;
--i&quot;, -ew&quot;, f; -ivskh, ivskh&quot;, f; -ivsko&quot;, -ivskou, m;     [most
-diminutives are neuter, except -isko&quot;  &amp; -iskh]</span></p>
+-i&quot;, -εως, f; -ίσκη, ίσκης, f; -ίσκος, -ίσκου, m;     [most
+diminutives are neuter, except -ισκος  &amp; -iskh]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            </span><span lang=FR style='font-size:
-12.0pt'>Gentiles:  -euv&quot;, -evw&quot;, m; -Vth&quot;, -Vtou, m; -iv&quot;,
--ivdo&quot;, f</span></p>
+12.0pt'>Gentiles:  -εύς, -έως, m; -Vth&quot;, -Vtou, m; -ίς,
+-ίδος, f</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
-style='font-size:12.0pt'>            intensifier:  aj-</span></p>
+style='font-size:12.0pt'>            intensifier:  ἀ-</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
@@ -560,13 +560,13 @@ style='font-size:12.0pt'>            monadic nouns</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
 style='font-size:12.0pt'>            patronymics:  -Vdh&quot;, -Vdou, m
-(-ivdh&quot;, -ivdou after consonants); -V&quot;, -Vdo&quot;, f (-iv&quot;,                    ivdo&quot;
-after consonants); -ivwn, -ivono&quot;, m;</span></p>
+(-ίδης, -ίδου after consonants); -Vς, -Vdo&quot;, f (-ίς,                    ίδος
+after consonants); -ίων, -ίονος, m;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
-style='font-size:12.0pt'>            place:  -ion, -iou, n; -ei'on, -eivou, n;
--wvn, -w'no&quot;, m;</span></p>
+style='font-size:12.0pt'>            place:  -ion, -iou, n; -εῖον, -είου, n;
+-ών, -ῶνος, m;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
@@ -574,11 +574,11 @@ style='font-size:12.0pt'>            proper nouns vs. common nouns</s
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
-style='font-size:12.0pt'>                    -iva, -iva&quot;; f</span></p>
+style='font-size:12.0pt'>                    -ία, -ίας; f</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
-style='font-size:12.0pt'>                    -ikov&quot;, -ikou'; m</span></p>
+style='font-size:12.0pt'>                    -ικός, -ικοῦ; m</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
@@ -586,16 +586,16 @@ style='font-size:12.0pt'>            qualitative nouns</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
-style='font-size:12.0pt'>                    -eia, -eia&quot;; f </span></p>
+style='font-size:12.0pt'>                    -εια, -ειας; f </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
-style='font-size:12.0pt'>                    -iva, -iva&quot;; f</span></p>
+style='font-size:12.0pt'>                    -ία, -ίας; f</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
 style='font-size:12.0pt'>                    </span><span style='font-size:
-12.0pt'>-th&quot;, -thto&quot;; f</span></p>
+12.0pt'>-της, -τητος; f</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -631,11 +631,11 @@ style='font-size:12.0pt'>                    dus-, mis-, bad<
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    euj-, well, good</span></p>
+style='font-size:12.0pt'>                    εὐ-, well, good</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    hJmi-, half</span></p>
+style='font-size:12.0pt'>                    ἡμι-, half</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -643,7 +643,7 @@ style='font-size:12.0pt'>                    nh-, negative in
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    ajrci-, ruling</span></p>
+style='font-size:12.0pt'>                    ἀρχι-, ruling</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -652,7 +652,7 @@ style='font-size:12.0pt'>            </span><span lang=FR style='font
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
-style='font-size:12.0pt'>                    -adion,- adiou; n:  (diminutive)</span></p>
+style='font-size:12.0pt'>                    -adion,- αδιου; n:  (diminutive)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
@@ -661,50 +661,50 @@ style='font-size:12.0pt'>                    -aridion, -aridi
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
-style='font-size:12.0pt'>                    -avrion, -arivou; n (diminutive)</span></p>
+style='font-size:12.0pt'>                    -άριον, -αρίου; n (diminutive)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
-style='font-size:12.0pt'>                    -Vdh&quot;, -Vdou; m [-ivdh&quot;,
--ivdou after consonants] (patronymics)</span></p>
+style='font-size:12.0pt'>                    -Vdh&quot;, -Vdou; m [-ίδης,
+-ίδου after consonants] (patronymics)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
-style='font-size:12.0pt'>                    -eia, -eia&quot;; f (quality or
+style='font-size:12.0pt'>                    -εια, -ειας; f (quality or
 feminine agent)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
-style='font-size:12.0pt'>                    -ei'on, -eivou; n (place)</span></p>
+style='font-size:12.0pt'>                    -εῖον, -είου; n (place)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
-style='font-size:12.0pt'>                    -euv&quot;, -evw&quot;; m (agent
+style='font-size:12.0pt'>                    -εύς, -έως; m (agent
 or patronymic or Gentile)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
 style='font-size:12.0pt'>                    </span><span style='font-size:
-12.0pt'>-h, -h&quot;; f (product of verb action) [from verbs]</span></p>
+12.0pt'>-h, -ης; f (product of verb action) [from verbs]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -h&quot;, -ou; m (agent)</span></p>
+style='font-size:12.0pt'>                    -ης, -ου; m (agent)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -iva, -iva&quot;; f (quality or
+style='font-size:12.0pt'>                    -ία, -ίας; f (quality or
 proper name)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -ia, -ia&quot;; f (product of
+style='font-size:12.0pt'>                    -ια, -ιας; f (product of
 action)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                    </span><span lang=FR
-style='font-size:12.0pt'>-ivdion, -idivou; m (diminutive)</span></p>
+style='font-size:12.0pt'>-ίδιον, -ιδίου; m (diminutive)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
@@ -714,55 +714,55 @@ place)</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
 style='font-size:12.0pt'>                    </span><span style='font-size:
-12.0pt'>-io&quot;, -iou; m (related to)</span></p>
+12.0pt'>-ιος, -ιου; m (related to)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -iv&quot;, -ivdo&quot;; f
+style='font-size:12.0pt'>                    -ίς, -ίδος; f
 (Gentile)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -ivskh, -ivskh&quot;; f
+style='font-size:12.0pt'>                    -ίσκη, -ίσκης; f
 (diminutive)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -ivsko&quot;, -ivskou; m
+style='font-size:12.0pt'>                    -ίσκος, -ίσκου; m
 (diminutive)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -issa, -ivssh&quot;; f (feminine
+style='font-size:12.0pt'>                    -ισσα, -ίσσης; f (feminine
 indicator)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -ivwn, -ivono&quot;; m
+style='font-size:12.0pt'>                    -ίων, -ίονος; m
 (patronymic)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -lo&quot;, -lou; m (characterized
+style='font-size:12.0pt'>                    -λος, -lou; m (characterized
 by)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -ma, -mato&quot;; n (result of
+style='font-size:12.0pt'>                    -ma, -ματος; n (result of
 action)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -mh, -mh&quot;; f (action)</span></p>
+style='font-size:12.0pt'>                    -μη, -μης; f (action)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -monh, -monh&quot;; f (action,
+style='font-size:12.0pt'>                    -μονη, -μονης; f (action,
 state)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -mo&quot;, -mou; m (action,
+style='font-size:12.0pt'>                    -μος, -mou; m (action,
 process, state)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -771,12 +771,12 @@ style='font-size:12.0pt'>                    -on, -ou; n (obj
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -onh, -onh&quot;; f</span></p>
+style='font-size:12.0pt'>                    -ονη, -ονης; f</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                    </span><span lang=FR
-style='font-size:12.0pt'>-ono&quot;, -onou; m </span></p>
+style='font-size:12.0pt'>-ονος, -ονου; m </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
@@ -785,30 +785,30 @@ style='font-size:12.0pt'>                    -o&quot;, -ou; m
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
 style='font-size:12.0pt'>                    </span><span style='font-size:
-12.0pt'>-o&quot;, -ou&quot;; n (result of action)</span></p>
+12.0pt'>-o&quot;, -ους; n (result of action)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -o&quot;, -ou&quot;; n (quality)</span></p>
+style='font-size:12.0pt'>                    -o&quot;, -ους; n (quality)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -V&quot;, -Vdo&quot;, f
-(-iv&quot;, ivdo&quot; after consonants)(patronymic)</span></p>
+style='font-size:12.0pt'>                    -Vς, -Vdo&quot;, f
+(-ίς, ίδος after consonants)(patronymic)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -siva, -sia&quot;; f (denotes
+style='font-size:12.0pt'>                    -siva, -σιας; f (denotes
 action)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -si&quot;, -sew&quot;; f (denotes
+style='font-size:12.0pt'>                    -σις, -σεως; f (denotes
 action)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -(o)suvnh, -(o)suvnh&quot;; f
+style='font-size:12.0pt'>                    -(ο)σύνη, -(ο)σύνης; f
 (quality)[from adjectives]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -817,17 +817,17 @@ style='font-size:12.0pt'>                    -Vth&quot;, -Vto
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -teira, -teira&quot;; f (recessive
+style='font-size:12.0pt'>                    -τειρα, -τειρας; f (recessive
 accent)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -ti&quot;, tew&quot;; f (denotes
+style='font-size:12.0pt'>                    -τις, τεως; f (denotes
 action)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -ti&quot;, -tido&quot;; f (agent
+style='font-size:12.0pt'>                    -τις, -τιδος; f (agent
 or person concerned with)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -848,20 +848,20 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -thvr, -th'ro&quot;; m (agent)</span></p>
+style='font-size:12.0pt'>                    -τήρ, -th'ro&quot;; m (agent)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -thvrion, -thrivou; n (place)</span></p>
+style='font-size:12.0pt'>                    -τήριον, -τηρίου; n (place)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -(o)th&quot;, -thto&quot;; f
+style='font-size:12.0pt'>                    -(ο)της, -τητος; f
 (quality)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -th&quot;, -tou; m (agent,
+style='font-size:12.0pt'>                    -της, -tou; m (agent,
 instrument)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -871,17 +871,17 @@ style='font-size:12.0pt'>-ton, -tou; n</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
-style='font-size:12.0pt'>                    -Vtria, -triva&quot;; f (feminine
+style='font-size:12.0pt'>                    -Vtria, -τρίας; f (feminine
 indicator)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
-style='font-size:12.0pt'>                    -triv&quot;, trivdo&quot;; f
+style='font-size:12.0pt'>                    -τρίς, τρίδος; f
 (agent)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
-style='font-size:12.0pt'>                    -tra, -tra&quot;; f (instrument or
+style='font-size:12.0pt'>                    -tra, -τρας; f (instrument or
 place)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -890,21 +890,21 @@ style='font-size:12.0pt'>                    -tron, -trou; n 
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
-style='font-size:12.0pt'>                    -twr, -twro&quot;, (agent)
+style='font-size:12.0pt'>                    -τωρ, -τωρος, (agent)
 (recessive accent)[from verbs]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
-style='font-size:12.0pt'>                    -uvdrion, udrivou; n (diminutive)</span></p>
+style='font-size:12.0pt'>                    -ύδριον, υδρίου; n (diminutive)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
-style='font-size:12.0pt'>                    -uvllion, ullivou; n (diminutive)</span></p>
+style='font-size:12.0pt'>                    -ύλλιον, υλλίου; n (diminutive)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
 style='font-size:12.0pt'>                    </span><span style='font-size:
-12.0pt'>-wvn, -w'no&quot;; m/f (object indicator or place)</span></p>
+12.0pt'>-ών, -ῶνος; m/f (object indicator or place)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span

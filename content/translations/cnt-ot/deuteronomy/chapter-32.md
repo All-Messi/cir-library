@@ -11,7 +11,7 @@ next: chapter-33
 
 ## Deuteronomy Chapter 32
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Listen, sky; let me speak; </span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Listen, sky; let me speak; </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      earth, hear what I say.  </span></i></p>
 
@@ -28,7 +28,7 @@ next: chapter-33
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Credit greatness to our God, the Rock!                      </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Deut 31:30-32:1-3</span></b></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126657992"><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His work is perfect;</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His work is perfect;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      his ways are just,</span></i></p>
 
@@ -54,7 +54,7 @@ next: chapter-33
 
 <p class="section-ref">Deut 32:4-6</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126658147"><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Remember the old days;</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Remember the old days;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              consider the years of past history.</span></i></p>
 
@@ -84,7 +84,7 @@ next: chapter-33
 
 <p class="section-ref">Deut 32:7-10</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126658280"><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Like an eagle that stirs up its nest,</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Like an eagle that stirs up its nest,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            that hovers over its young,</span></i></p>
 
@@ -117,7 +117,7 @@ next: chapter-33
 
 <p class="section-ref">Deut 32:11-14</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126658446"><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“But Jeshurun soon got fat and rebelled;</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“But Jeshurun soon got fat and rebelled;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they grew fat, thick, and sleek. </span></i></p>
 
@@ -145,7 +145,7 @@ next: chapter-33
 
 <p class="section-ref">Deut 32:15-18</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126658688"><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The
 </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> saw </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that<i> and spurned them</i></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      because his sons and daughters provoked </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>him<i>.</i></span></p>
@@ -160,13 +160,9 @@ next: chapter-33
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they provoked me with their idols.</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I’ll make them jealous with </span></i></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>those who<i> aren’t a people;</i></span></b></p>
 
-### So I’ll make them jealous with those who aren’t a people;
-
-
-
-### I’ll provoke them with a foolish nation [Rom 10::19].
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I’ll provoke them with a foolish nation</span></i></b><b><i><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Rom 10::19]<i>.</i></span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A fire has kindled my anger,</span></i></span></p>
 
@@ -178,7 +174,7 @@ next: chapter-33
 
 <p class="section-ref">Deut 32:19-22</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126658931"><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll pile misfortunes on them</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll pile misfortunes on them</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and shoot my arrows at them.</span></i></p>
 
@@ -210,7 +206,7 @@ next: chapter-33
 
 <p class="section-ref">Deut 32:23-27</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><a name="_Hlk126659051"><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“They’re a nation without counsel,</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“They’re a nation without counsel,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      bereft of understanding.</span></i></p>
 
@@ -244,7 +240,7 @@ next: chapter-33
 
 <p class="section-ref">Deut 32:28-33</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><a name="_Hlk126659246"><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says, ‘Isn’t that stored up with me</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says, ‘Isn’t that stored up with me</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and sealed in my treasuries?</span></i></p>
 
@@ -278,7 +274,7 @@ next: chapter-33
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      let them be their hiding place!</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><a name="_Hlk126659485"><span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>See now that I’m the One;</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>See now that I’m the One;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.75in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      there’s no god but me.</span></i></p>
 
@@ -324,7 +320,7 @@ next: chapter-33
 ### Moses to Die on Mount Nebo
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126659697"><span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Moses came with Joshua and presented the song to the people. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Moses came with Joshua and presented the song to the people. </span></span>
 <span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he’d finished, </span></span>
 <span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>he told them,</span></span></p>
 

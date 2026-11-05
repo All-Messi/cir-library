@@ -15,7 +15,7 @@ next: chapter-31
 ### No Help from Egypt
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size: 14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         <a name="_Hlk86929592"></a><a name="_Hlk123155453">30<sup>:1</sup></a></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,</span><b><sup><span style='font-size:14.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></sup></b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“Misfortune awaits rebellious children</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,</span><b><sup><span style='font-size:14.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></sup></b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“Misfortune awaits rebellious children</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        that carry out plans, but not mine,</span></i></p>
 
@@ -47,7 +47,7 @@ next: chapter-31
 
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-top:0in;margin-bottom:0in;margin-left:.25in;text-align:center;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Oracle About Animals in the Negev</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123155849"><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Through a land of distress and anguish—</span></a></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Through a land of distress and anguish—</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            where lions and lionesses, </span></p>
 
@@ -91,7 +91,7 @@ next: chapter-31
 
 <p class="section-ref">Is 30:8-11</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk123156272"><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is what the Holy One of Israel says,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is what the Holy One of Israel says,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Since you’ve rejected that message</span></i></p>
 
@@ -115,7 +115,7 @@ next: chapter-31
 ### Blessings for the LORD’s People
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk123156878"><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is what the Lord G</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>OD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>, the Holy One of Israel, says,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is what the Lord G</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>OD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>, the Holy One of Israel, says,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  <i>“Only in repenting and resting in me will you be saved;</i></span></p>
 
@@ -141,7 +141,7 @@ next: chapter-31
 
 <p class="section-ref">Is 30:15-17</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123157079"><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></a><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> wants to be gracious to you;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> wants to be gracious to you;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                           </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>he waits on high to show you mercy</span></p>
 
@@ -159,7 +159,9 @@ next: chapter-31
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he’ll give you rain for the seed you sow and bread from the yield. It’ll be rich and abundant. Your livestock will have plenty of pasture. </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your oxen and donkeys that work the ground will eat salted fodder winnowed with fork and shovel. </span></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After the great slaughter <i>of your enemies </i>when the towers fall, on every tall mountain and tall hill, there’ll be streams of water running down. </span></span>
-<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moonlight will be like sunlight, and sunlight will be seven times brighter—a week’s worth a day—when the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> sets his people’s fractures and heals the bruises he’s inflicted on them.                                                                                                                                                 </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Is 30:19-26</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span></span></p>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moonlight will be like sunlight, and sunlight will be seven times brighter—a week’s worth a day—when the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> sets his people’s fractures and heals the bruises he’s inflicted on them.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Is 30:19-26</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> will come from a remote place</span></span></p>
 

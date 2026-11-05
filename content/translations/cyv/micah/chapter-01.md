@@ -10,10 +10,6 @@ next: chapter-02
 
 ## Micah Chapter 1
 
-
-### Conversational Yahveh Version
-
-
 <p class="MsoListBulletCxSpMiddle" align=center style='margin:0in;text-align: center;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A Message from Yahveh to Micah from Moresheth</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" align=center style='margin:0in;text-align: center;'><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>at <b>the Time of Jotham, Ahaz, <i>and</i> Hezekiah, Kings of Judah.</b></span></p>

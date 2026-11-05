@@ -11,7 +11,7 @@ next: chapter-21
 
 ## Revelation Chapter 20
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And I-saw (an) angel descending out-of [the] heaven/the sky, having the key of-the abyss and (a) big chain on the hand of-him.  </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And I-saw (an) angel descending out-of [the] heaven/the sky, having the key of-the abyss and (a) big chain on the hand of-him.  </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he-seized the dragon, the old [the] snake, who is (the) devil and [the] Satan, and bound him for-(a)-thousand years, </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and threw him into the abyss and locked (it) and sealed (it) over him, in-order-that he-might┘not└deceive the nations anymore till the thousand years would-be-finished.  After these-things it-is-necessary for-him to-be-loosed for-(a)-little time.</span></span></p>
 

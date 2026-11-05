@@ -44,9 +44,7 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>“Celebrate, barren-one the-one not bearing (children).</b></span></p>
 
-
-### Cry-out and scream, the-one not being-in-labor,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Cry-out and scream, the-one not being-in-labor,</span></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            because many more (are) the children of-the desolate</span></b></p>
 

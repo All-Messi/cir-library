@@ -37,7 +37,7 @@ next: chapter-04
 
 <p class="section-ref">Ezra 3:8-13</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><a name="_Hlk200381675"><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Enemies Oppose the Rebuilding</span></b></a><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                            </span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Enemies Oppose the Rebuilding</span></b><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                            </span></b></p>
 
 
 <style>

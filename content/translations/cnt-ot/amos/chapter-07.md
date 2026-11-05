@@ -12,25 +12,17 @@ next: chapter-08
 ## Amos Chapter 7
 
 
-### Amos 6:11-14
-
-
-
 ### A Vision of Locusts
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk122900868"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Lord G</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>OD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> showed me a vision. He formed a locust swarm after the spring crop sprouted and the king had mowed his share. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Lord G</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>OD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> showed me a vision. He formed a locust swarm after the spring crop sprouted and the king had mowed his share. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The swarm had finished eating the vegetation, and I said, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <b>“Lord G</b></span></i><b><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>OD</span></i></b><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>, please pardon! </span></i></b></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      How will Joseph make it?</span></i></b></p>
 
-### How will Joseph make it?
-
-
-
-### He’s too small!”
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            He’s too small!”</span></i></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> changed his mind.</span></b></span></p>
 
@@ -47,13 +39,9 @@ next: chapter-08
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <b> <i>“Lord G</i></b></span><b><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>OD</span></i></b><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>, please stop!</span></i></b></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      How can Joseph make it? </span></i></b></p>
 
-### How can Joseph make it?
-
-
-
-### He’s too small!”
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            He’s too small!”</span></i></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> changed his mind.</span></b></span></p>
 
@@ -65,7 +53,7 @@ next: chapter-08
 ### A Vision of a Plumb Line
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122901017"><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He showed me that he was standing by a wall with a plumb line in his hand. </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He showed me that he was standing by a wall with a plumb line in his hand. </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, <i>“What do you see, Amos?”</i></span></span></p>
 
@@ -79,9 +67,9 @@ next: chapter-08
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            the sanctuaries of Israel will be laid waste;</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I’ll attack Jeroboam’s dynasty with a sword.”</span></i></span></p>
 
-### I’ll attack Jeroboam’s dynasty with a sword.”                Amos 7:7-9
-
+<p class="section-ref">Amos 7:7-9</p>
 
 
 ### Amaziah Accuses Amos of Conspiracy
@@ -103,13 +91,17 @@ next: chapter-08
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Listen to what he says. You tell me not to prophesy against Israel or preach against Isaac. </span></i></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> says, </span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><a name="_Hlk122901121"><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Your wife will be a prostitute in the city, </span></i></a></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Your wife will be a prostitute in the city, </span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>your children will fall by the sword, </span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>your property will be parceled up, </span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and you’ll die in an unclean land. </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Israel will go into exile.’”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>  </span></p>
+
+<p class="section-ref">Amos 7:10-17</p>
 
 
 <style>

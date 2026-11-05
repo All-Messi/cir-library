@@ -33,9 +33,7 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      it speeds toward the goal and won’t fail.</span></i></p>
 
-
-### Though it seems slow, wait for it;
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Though it seems slow, wait for it;</span></i></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      it will certainly come in due time</span></i></b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></i><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Heb 10:37]</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>.</span></i></span></p>
 

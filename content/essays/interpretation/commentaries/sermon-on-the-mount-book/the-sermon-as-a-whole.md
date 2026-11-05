@@ -2,6 +2,7 @@
 title: "THE SERMON AS A WHOLE"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-11
 categories:
 - 'Interpretation'
 - 'Commentaries'
@@ -60,7 +61,7 @@ the presentation. </span></p>
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>                                     <img
+18.0pt'><span style='font-size:12.0pt'>                                     <img alt="Outline (I, A, B; II, A, B) with a vertical arrow through it"
 width=212 height=163 id="Picture 2" src="/images/essays/the-sermon-as-a-whole/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
@@ -87,7 +88,7 @@ flexibility to the manner of </span></p>
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>                                    <img
+18.0pt'><span style='font-size:12.0pt'>                                    <img alt="Flower diagram: theme at the center with surrounding petals"
 width=226 height=215 id="Picture 1" src="/images/essays/the-sermon-as-a-whole/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:

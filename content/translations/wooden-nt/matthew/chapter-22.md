@@ -11,7 +11,7 @@ next: chapter-23
 
 ## Matthew Chapter 22
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And having-responded, [the] Jesus spoke again in parables to-them, saying, </span></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And having-responded, [the] Jesus spoke again in parables to-them, saying, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:31.5pt;margin-bottom: 0in;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i>“</i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>[The kingdom of-[the] heaven[s] was/is like (a) king man who made(a) marriage-feast for-the son of-him. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he-sent the servants of-him to-call the-ones invited to the wedding-feast[s], and they-did┘not└want to-come. </span></i></span>

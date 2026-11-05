@@ -11,7 +11,7 @@ next: chapter-18
 
 ## Matthew Chapter 17
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And after six days [the] Jesus talks┘[the] Peter and James and John the brother of-him└aside, and takes┘them└up into (a) high mountain privately<sup>2</sup>. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And after six days [the] Jesus talks┘[the] Peter and James and John the brother of-him└aside, and takes┘them└up into (a) high mountain privately<sup>2</sup>. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he-was-transfigured in-front-of them; and the face of-him shined like the sun, and the clothes of-him became white like [the] light. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And behold Moses and Elijah appeared to-them talking-with them. </span></span></p>
 

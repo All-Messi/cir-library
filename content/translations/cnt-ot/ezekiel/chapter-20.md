@@ -12,10 +12,6 @@ next: chapter-21
 ## Ezekiel Chapter 20
 
 
-### A Dirge                                                                          Ezek 19:13-14
-
-
-
 ### Israel’s Rebellion
 
 
@@ -28,7 +24,9 @@ next: chapter-21
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Tell them that when I chose Israel, swore to Jacob’s descendants, and made myself known to them in Egypt, </span></i></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I swore I’d take them out of Egypt to a land I’d chosen, </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>a land<i> flowing with milk and honey, the most beautiful of all the lands. </i></span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I told them to throw away the detestable things their eyes feasted on and not defile themselves with Egypt’s idols. <u>I’m the </u></span></i><i><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></u></i><i><u><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></u></i><i><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> their God</span></u></i><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>. </span></i></span>
-<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But they wouldn’t discard them.</span></i><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>       Ezek 20:1-8a</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>     </span></b></span></p>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But they wouldn’t discard them.</span></i><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Ezek 20:1-8a</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“So I resolved to pour out my anger on them <u>in Egypt</u>. </span></i><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I did it to keep my name from being profaned in the nations that I revealed myself to by bringing </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Israel<i> out of Egypt. </i></span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I took them into the desert, </span></i></span>
@@ -103,6 +101,8 @@ next: chapter-21
 <span class="verse verse-v48" id="v48"><sup class="verse-num">48</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Everybody will see that I lit it.”’”</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then I said, <i>“Lord G</i></span><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>OD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, they’re saying I’m just telling stories.”</span></i></span></p>
+
+<p class="section-ref">Ezek 20:45-49</p>
 
 
 <style>

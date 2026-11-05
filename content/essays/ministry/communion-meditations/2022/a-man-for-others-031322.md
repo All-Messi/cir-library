@@ -1,7 +1,7 @@
 ---
 title: "A Man for Others"
 date: '2022-03-13'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

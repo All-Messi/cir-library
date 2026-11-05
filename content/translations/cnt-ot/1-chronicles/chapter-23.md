@@ -20,7 +20,9 @@ next: chapter-24
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Levites 30 years old and up numbered 38,000. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Of these, 24,000 oversaw the work, 6,000 were officers and judges, </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>4,000 were gatekeepers, and 4,000 praised the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> with instruments David made for that purpose. </span></span>
-<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He divided them according to the sons of Levi: Gershon, Kohath, and Merari. <b>    </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 23:1-6</span></b></span></p>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He divided them according to the sons of Levi: Gershon, Kohath, and Merari. <b>    </b></span></span></p>
+
+<p class="section-ref">1 Ch 23:1-6</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of <u>Gershon</u> were Ladan and Shimei. </span></span></p>
 
@@ -31,7 +33,9 @@ next: chapter-24
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            These were the heads of families in Ladan/<i>Libni</i>.
 </span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10-11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The other sons of Shimei were Jahath, first; Zina/<i>Zizah</i>, second. Jeush and Beriah didn’t have very many sons, so they were all counted as one family.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> 1 Ch 23:7-11</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10-11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The other sons of Shimei were Jahath, first; Zina/<i>Zizah</i>, second. Jeush and Beriah didn’t have very many sons, so they were all counted as one family.</span></span></p>
+
+<p class="section-ref">1 Ch 23:7-11</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of <u>Kohath</u> were Amram, Izhar, Hebron, and Uzziel.</span></span></p>
 
@@ -65,7 +69,9 @@ next: chapter-24
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Eleazar died and had only daughters, so their cousins, Kish’s sons, married them.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of Mushi were Mahli, Eder, and Jeremoth.<b>                                </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 23:12-23</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of Mushi were Mahli, Eder, and Jeremoth.<b>                                </b></span></span></p>
+
+<p class="section-ref">1 Ch 23:12-23</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Those were Levi’s descendants by heads of families as counted in their census. They served in the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s Temple from 20 years old and up. </span></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David said, <i>“The </i><i>L</i></span><i><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God of Israel has given his people rest, and he lives in Jerusalem permanently.
@@ -79,7 +85,7 @@ next: chapter-24
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They offered burnt offerings on Sabbaths, new moons, and scheduled festivals in the number set by the Law. </span></span>
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They maintained the Tent of Meeting and the Holy Place and helped Aaron’s descendants with the service in the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s house.</span><b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>                                                                                                         </span></b></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>                                                                                                                            1 Ch 23:24-32</span></b></p>
+<p class="section-ref">1 Ch 23:24-32</p>
 
 
 <style>

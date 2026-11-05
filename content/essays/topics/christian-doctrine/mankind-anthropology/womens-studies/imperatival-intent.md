@@ -2,6 +2,8 @@
 title: "IMPERATIVAL INTENT"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2025-01-12
+lastmod: 2025-07-14
 categories:
 - 'Topics'
 - 'Christian Doctrine'

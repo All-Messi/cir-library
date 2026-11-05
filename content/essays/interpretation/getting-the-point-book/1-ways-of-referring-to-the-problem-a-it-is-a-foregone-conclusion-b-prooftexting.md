@@ -2,10 +2,12 @@
 title: "Pitfall: Setting the Conclusion and Working Toward It"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2023-07-11
+lastmod: 2025-07-11
 categories:
 - 'Interpretation'
 - 'Getting The Point Book'
-weight: 40
+weight: 20
 draft: false
 ---
 
@@ -38,7 +40,7 @@ ul
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            I. Setting the conclusion and then working
-toward it                    Virgil Warren, PhD</span></p>
+toward it</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -87,7 +89,7 @@ it has apparent validity)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>        <img width=367 height=87 id="Picture 1"
+style='font-size:12.0pt'>        <img alt="Line dipping down and rising to x" width=367 height=87 id="Picture 1"
 src="/images/essays/1-ways-of-referring-to-the-problem-a-it-is-a-foregone-conclusion-b-prooftexting/image001.png">        </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

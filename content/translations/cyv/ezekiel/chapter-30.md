@@ -71,9 +71,9 @@ next: chapter-31
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            “By Nebuchadnezzar, king of Babylon,</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I’ll put an end to Egypt’s wealth.                                           </span></i></span></p>
 
-### I’ll put an end to Egypt’s wealth.                                           Ezek 30:6-10
-
+<p class="section-ref">Ezek 30:6-10</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Him and his people, the most ruthless of the nations,</span></i></span></p>
 
@@ -91,9 +91,9 @@ next: chapter-31
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and everything that’s in it, </span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I Yahveh have said it.”                                                           </span></i></span></p>
 
-### I Yahveh have said it.”                                                           Ezek 30:11-12
-
+<p class="section-ref">Ezek 30:11-12</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘The Lord Yahveh says,</span></i></span></p>
 
@@ -121,9 +121,9 @@ next: chapter-31
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Thebes will be breached;</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Memphis will endure daily distress.                                       </span></i></span></p>
 
-### Memphis will endure daily distress.                                       Ezek 30:13-16
-
+<p class="section-ref">Ezek 30:13-16</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The young men of On and Pi-beseth</span></i></span></p>
 

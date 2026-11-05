@@ -2,11 +2,14 @@
 title: "'KINGDOM OF HEAVEN'/'KINGDOM OF GOD'/'CHURCH' IN THE GOSPELS"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-16
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'
 - 'Matthew'
 draft: false
+aliases:
+- /essays/evidences/critical-intro-nt/matthew/kingdom-of-heavenkingdom-of-godchurch/
 ---
 
 <style>

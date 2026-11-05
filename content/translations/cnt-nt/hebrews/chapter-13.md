@@ -14,7 +14,7 @@ prev: chapter-12
 ### Service to All People
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Love the believers. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Love the believers. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Be hospitable to strangers. (</span><span style='font-family:"Times New Roman",serif'>Some have entertained angels without knowing it.</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>)  </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Remember prisoners as if you’re in prison with them, and those abused as if you’re in </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>their</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> bodies. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>With everybody, keep marriage honorable and the bed undefiled; God will judge fornicators and adulterers. </span></span>
@@ -26,9 +26,7 @@ prev: chapter-12
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The L</span></i></b><b><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span></i></b><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>’s my helper;</span></i></b></p>
 
-
-### I won’t be afraid.
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    I won’t be afraid.</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        What are people going to do to me?”</span></i></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Ps 118:6]</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>.</span></p>
 
@@ -50,9 +48,7 @@ prev: chapter-12
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Through him let’s offer up to God a sacrifice of continuous praise, that is, what we say in acknowledging him. </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t neglect doing good and sharing; God delights in sacrifices like that. </span></span></p>
 
-
-### Heb 13:9-16
-
+<p class="section-ref">Heb 13:9-16</p>
 
 
 ### Assisting the Leaders
@@ -82,8 +78,6 @@ prev: chapter-12
 <i>be</i> with you all.                                                                                       </span></span></p>
 
 <p class="section-ref">Heb 13:17-25</p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Translator: Virgil Warren</span><span style='font-family:"Times New Roman",serif'> christir.org</span></p>
 
 
 <style>

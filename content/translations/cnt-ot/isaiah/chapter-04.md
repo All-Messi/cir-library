@@ -15,7 +15,7 @@ next: chapter-05
 ### The LORD’s Branch
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk86918942"></a><a name="_Hlk123290177"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, seven widows will grab hold of one man and say, <i>“We’ll provide our own food and clothes. Just let us take your name so we won’t be old maids!”</i></span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, seven widows will grab hold of one man and say, <i>“We’ll provide our own food and clothes. Just let us take your name so we won’t be old maids!”</i></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But
 </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>at that time, the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>’s branch will be beautiful and glorious. What the ground produces will be the pride and joy of Israel’s survivors. </span></span>

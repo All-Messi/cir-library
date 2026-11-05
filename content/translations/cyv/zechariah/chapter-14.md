@@ -36,15 +36,13 @@ prev: chapter-13
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Judah will fight at Jerusalem and gather wealth from surrounding nations—lots of gold, silver, and clothing. </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There’ll also be a plague on the horses, mules, camels, donkeys, and cattle in those <i>enemies’ </i>camps.<b>                                   </b></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124420668"><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Any nation that attacked Jerusalem and survived the plague, will go up every year to worship the King, the LORD of Hosts, and celebrate the Festival of Booths. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Any nation that attacked Jerusalem and survived the plague, will go up every year to worship the King, the LORD of Hosts, and celebrate the Festival of Booths. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17-18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It won’t rain for any family in Egypt or elsewhere who won’t go up to that celebration. [</span></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>] </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Even the bells on their horses will bear the inscription “Holy to the LORD.” Cooking pots in his Temple will be as sacred as bowls beside the altar. </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Every cooking pot in Jerusalem and Judah will be sacred to him, so everybody that sacrifices can boil meat in them from the sacrifices. There won’t be any Canaanites anymore in the Temple of the LORD of Hosts.</span></span></p>
 
 <p class="section-ref">Zech 14:12-21</p>
-
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
 
 
 <style>

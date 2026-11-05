@@ -4,7 +4,7 @@ chapters: 5
 title: Lamentations
 translation: CYV
 type: book
-weight: 64
+weight: 25
 ---
 
 ## Lamentations

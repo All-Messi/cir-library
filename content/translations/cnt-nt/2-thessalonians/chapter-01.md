@@ -14,10 +14,10 @@ next: chapter-02
 ### Salutation
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Paul, Silvanus, and Timothy to the church of the Thessalonians in God our Father and the Lord Jesus Christ<sup>Messiah</sup>. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Paul, Silvanus, and Timothy to the church of the Thessalonians in God our Father and the Lord Jesus Christ<sup>Messiah</sup>. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Grace and peace from God [our]<sup>ms</sup> Father and the Lord Jesus Christ.                                                                 </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                 </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Th 1:1-2</span></b></p>
+<p class="section-ref">2 Th 1:1-2</p>
 
 
 ### Gratitude for the Thessalonians
@@ -35,8 +35,7 @@ next: chapter-02
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So we always pray for you, too, that our God will count you worthy of <i>his</i> calling and powerfully fulfill every good intention and faithful work. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That way you’ll praise the Lord Jesus, and he’ll praise you in proportion to the grace of our God and Lord Jesus Christ.</span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-                                                                                                                                  </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Th 1:3-12</span></b></p>
+<p class="section-ref">2 Th 1:3-12</p>
 
 
 <style>

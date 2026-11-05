@@ -31,7 +31,9 @@ next: chapter-13
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Johanan, Elzabad, </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jeremiah, and Machbannai. </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They were commanders in the army. The least was worth 100; the best was worth 1,000. </span></span>
-<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They crossed the Jordan in the first month when it was flooding and put to flight everybody in the valleys to the east and the west.<b>                                                                                                        </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 12:1-15</span></b></span></p>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They crossed the Jordan in the first month when it was flooding and put to flight everybody in the valleys to the east and the west.<b>                                                                                                        </b></span></span></p>
+
+<p class="section-ref">1 Ch 12:1-15</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then some men from Benjamin and Judah came to David’s stronghold. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He went out to meet them, </span></span></p>
@@ -50,7 +52,9 @@ next: chapter-13
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  Indeed, your God helps you!”</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David accepted them and made them captains of the band.<b>                                           </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 12:16-18</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David accepted them and made them captains of the band.<b>                                           </b></span></p>
+
+<p class="section-ref">1 Ch 12:16-18</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From Manasseh also some came over to David when he was going with the Philistines to fight Saul. (</span><span style='font-family:"Times New Roman",serif'>But he didn’t end up helping them, because the lords of the Philistines conferred and sent him away, <i>“He might desert to his Saul and turn on us.”</i>) </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As he was going to Ziklag, these came over to him from Manasseh: Adnah, Jozabad, Jediael, Michael, Jozabad, Elihu, and Zillethai, commanders of thousands in Manasseh. </span></span>
@@ -85,11 +89,15 @@ next: chapter-13
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from Asher: 40,000 seasoned troops ready for battle; </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from beyond the Jordan—Reuben, Gad, and the Manasseh<i> </i>half-tribe:  120,000 armed with all kinds of weapons.<b>          </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 12:19-37</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from beyond the Jordan—Reuben, Gad, and the Manasseh<i> </i>half-tribe:  120,000 armed with all kinds of weapons.<b>          </b></span></span></p>
+
+<p class="section-ref">1 Ch 12:19-37</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>These battle-ready men came to Hebron fully intending to make <b>David</b> king over all Israel. The rest in Israel were also intent on making him king<i>.</i> </span></span>
 <span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They were there with him three days, eating and drinking, because their relatives had made preparations for them. </span></span>
-<span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>People nearby and as far away as Issachar, Zebulun, and Naphtali brought food on donkeys, camels, mules, and oxen—great amounts of cakes, fig cakes and bunches of raisins, wine, olive oil, oxen, and sheep. There was happiness in Israel.<b>                  </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 12:38-40</span></b></span></p>
+<span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>People nearby and as far away as Issachar, Zebulun, and Naphtali brought food on donkeys, camels, mules, and oxen—great amounts of cakes, fig cakes and bunches of raisins, wine, olive oil, oxen, and sheep. There was happiness in Israel.<b>                  </b></span></span></p>
+
+<p class="section-ref">1 Ch 12:38-40</p>
 
 
 <style>

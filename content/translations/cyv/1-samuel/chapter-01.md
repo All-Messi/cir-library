@@ -11,10 +11,6 @@ next: chapter-02
 ## 1 Samuel Chapter 1
 
 
-### Conversational Yahveh Covenant
-
-
-
 ### The Birth of Samuel
 
 

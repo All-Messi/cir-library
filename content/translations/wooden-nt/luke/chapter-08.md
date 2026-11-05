@@ -30,9 +30,7 @@ next: chapter-09
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“To-you it-has-been-given to-know the mysteries of-the kingdom of-[the] God, but to-the rest (it comes) in parables in-order-that,</span></i></p>
 
-
-### ‘Seeing, they-may┘not└see;
-
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b>‘Seeing, they-may┘not└see;</b></span></i></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and hearing, they-may┘not└hear.’</span></i></b></p>
 

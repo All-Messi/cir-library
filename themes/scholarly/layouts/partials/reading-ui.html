@@ -161,7 +161,7 @@ body.overlay-open {
 .rs-backdrop {
     position: fixed;
     inset: 0;
-    z-index: 149;
+    z-index: 1050;   /* above the sticky reading toolbar (999) and site header (1000) */
 }
 
 .reader-settings {
@@ -173,7 +173,7 @@ body.overlay-open {
     border: 1px solid var(--color-border, #e5e5e5);
     border-radius: 14px;
     box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
-    z-index: 150;
+    z-index: 1100;   /* was 150: the toolbar (999) covered the size buttons (2026-11-04) */
     overflow: hidden;
 }
 
@@ -1128,6 +1128,23 @@ body.overlay-open {
 .sp-ref-open:focus { outline: none; }
 .sp-ref-open:focus-visible { outline: 2px solid var(--color-accent, #9c7c38); outline-offset: 2px; }
 
+.sp-note,
+.sp-ref-note {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.85rem;
+    color: var(--color-text-muted, #888);
+}
+.sp-note { margin-top: 0.4rem; font-style: italic; }
+.sp-ref-na { font-style: italic; }
+.scripture-modal:focus { outline: none; }
+.sm-note {
+    font-family: var(--font-ui, 'Source Sans Pro', sans-serif);
+    font-size: 0.9rem;
+    font-style: italic;
+    color: var(--color-text-muted, #888);
+    margin-bottom: 1rem;
+}
+
 @media (max-width: 640px) {
     .scripture-popup {
         width: calc(100vw - 24px);
@@ -1170,6 +1187,7 @@ body.scripture-modal-open {
     max-width: 760px;
     height: 100%;
     max-height: 90vh;
+    max-height: 90dvh;
     display: flex;
     flex-direction: column;
     box-shadow: 0 24px 60px rgba(0, 0, 0, 0.3);
@@ -1272,6 +1290,7 @@ body.scripture-modal-open {
         max-width: none;
         max-height: none;
         height: 100vh;
+        height: 100dvh;   /* iOS Safari: 100vh runs under the bottom toolbar */
         border-radius: 0;
     }
     .scripture-modal-header {
@@ -1297,15 +1316,21 @@ body.scripture-modal-open {
 <script>
 /* ---- Overlay helpers ---- */
 function openOverlay(id) {
-    document.getElementById(id).style.display = 'flex';
+    var el = document.getElementById(id);
+    if (!el) return;
+    el.style.display = 'flex';
     document.body.classList.add('overlay-open');
 }
 function closeOverlay(id) {
-    document.getElementById(id).style.display = 'none';
+    // Harmony pages have no book/chapter/translation overlays: Escape used to throw here.
+    var el = document.getElementById(id);
+    if (!el) return;
+    el.style.display = 'none';
     document.body.classList.remove('overlay-open');
 }
 function toggleOverlay(id) {
     var el = document.getElementById(id);
+    if (!el) return;
     if (el.style.display === 'none') openOverlay(id);
     else closeOverlay(id);
 }
@@ -1341,7 +1366,12 @@ function toggleTransOverlay() {
 function toggleReaderSettings() {
     var rs = document.getElementById('reader-settings');
     var bd = document.getElementById('reader-settings-backdrop');
+    if (!rs || !bd) return;
     if (rs.style.display === 'none') {
+        // Open just below the Aa button, wherever the sticky toolbar currently is.
+        var btn = document.querySelector('.reading-toolbar [onclick*="toggleReaderSettings"]');
+        var r = btn ? btn.getBoundingClientRect() : null;
+        rs.style.top = (r && r.bottom > 0 ? Math.round(r.bottom + 8) : 60) + 'px';
         rs.style.display = 'block';
         bd.style.display = 'block';
     } else {
@@ -1616,7 +1646,7 @@ document.addEventListener('keydown', function(e) {
         closeOverlay('chapter-overlay');
         closeOverlay('trans-overlay');
         var rs = document.getElementById('reader-settings');
-        if (rs.style.display !== 'none') toggleReaderSettings();
+        if (rs && rs.style.display !== 'none') toggleReaderSettings();
         return;
     }
 
@@ -1630,4 +1660,4 @@ document.addEventListener('keydown', function(e) {
 </script>
 
 <!-- Scripture reference popups -->
-<script src="{{ "js/scripture-popups.js" | relURL }}?v=7"></script>
+<script src="{{ "js/scripture-popups.js" | relURL }}?v=8"></script>

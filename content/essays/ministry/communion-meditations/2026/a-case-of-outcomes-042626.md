@@ -1,7 +1,7 @@
 ---
 title: "A Case of Outcomes"
 date: '2026-04-26'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

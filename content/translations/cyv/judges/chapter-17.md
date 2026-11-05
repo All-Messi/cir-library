@@ -22,9 +22,7 @@ next: chapter-18
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He had a shrine and appointed one of his sons as his priest. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In those days, there wasn’t any king in Israel. Everyone did what seemed right to them.                                                                   </span></span></p>
 
-
-### Jud 17:1-6
-
+<p class="section-ref">Jud 17:1-6</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A young Levite from the family of Judah was living temporarily in Bethlehem in Judah. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He left to find a place to live. As he traveled, he came to Micah’s house in the hill country of Ephraim. </span></span>
@@ -36,7 +34,9 @@ next: chapter-18
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Levite was content to live with him and became like one of his sons. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Micah installed the Levite as his priest in his house. </span></span>
-<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he said, <i>“Now I know Yahveh</i> <i>will prosper me; I have a Levite as a priest.”                                </i></span><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 17:7-13</span></b></span></p>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he said, <i>“Now I know Yahveh</i> <i>will prosper me; I have a Levite as a priest.”                                </i></span></span></p>
+
+<p class="section-ref">Jud 17:7-13</p>
 
 
 <style>

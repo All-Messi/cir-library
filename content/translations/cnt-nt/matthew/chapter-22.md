@@ -15,7 +15,7 @@ next: chapter-23
 ### A Story About a Wedding Garment
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus told them another story. </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus told them another story. </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The kingdom of heaven is like a king that prepared a wedding banquet for his son. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He sent servants to call the people that he’d invited, but they didn’t want to come. </span></i></span>
@@ -33,7 +33,9 @@ next: chapter-23
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The king went in to inspect the guests and saw a man that wasn’t dressed for a wedding. </span></i></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, ‘How’d you get in here without being dressed for a wedding?’ He was speechless. </span></i></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king told the attendants, ‘Tie him up hand and foot, and throw him out in the dark. There’ll be crying and chattering of teeth out there. </span></i></span>
-<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Many are called, but few are chosen.’”                   </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mt 22:7-14</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                                                                                                                                   </span></i></span></p>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Many are called, but few are chosen.’”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Mt 22:7-14</p>
 
 
 ### Question About Tribute to Caesar

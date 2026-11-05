@@ -1,7 +1,7 @@
 ---
 title: "Beyond Emptying the Cross"
 date: '2014-09-21'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

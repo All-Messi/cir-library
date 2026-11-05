@@ -11,10 +11,6 @@ prev: chapter-03
 ## Malachi Chapter 4
 
 
-### Mal 3:13-18
-
-
-
 ### The Day of the LORD
 
 
@@ -27,8 +23,6 @@ prev: chapter-03
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’ll turn fathers’ hearts back to their children and children’s hearts back to their fathers, so I won’t put a curse the land.”</span></i></span></span></p>
 
 <p class="section-ref">Mal 4:1-6</p>
-
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
 
 
 <style>

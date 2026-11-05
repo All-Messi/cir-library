@@ -1,7 +1,8 @@
 ---
-title: "PARTICLES"
-author: "Virgil Warren, christir.org"
+title: "Particles"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-02-04
 categories:
 - 'Topics'
 - 'Greek Features'
@@ -39,7 +40,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-63.0pt;margin-bottom:
 0in;margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>Enclitics  [gev, a[n, mevn, pevr, rJav]</span></p>
+style='font-size:12.0pt'>Enclitics  [γέ, ἄν, μέν, πέρ, ῥά]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-63.0pt;margin-bottom:
 0in;margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -47,7 +48,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-63.0pt;margin-bottom:
 0in;margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>Postpositive  [dhv, gev, mevn, pevr, toiv]</span></p>
+style='font-size:12.0pt'>Postpositive  [δή, γέ, μέν, πέρ, τοί]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-63.0pt;margin-bottom:
 0in;margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -55,8 +56,8 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-63.0pt;margin-bottom:
 0in;margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>Non-enclitic particles  [[a[ra, toigavr (toiv + ge +
-a[ra) toinu'n, nhv, naiv, ei| mhvn, ouj, mhv, mh; ouj]</span></p>
+style='font-size:12.0pt'>Non-enclitic particles  [[ἄρα, τοιγάρ (τοί + ge +
+ἄρα) τοινῦν, νή, ναί, εἷ μήν, οὐ, μή, μὴ οὐ]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-63.0pt;margin-bottom:
 0in;margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span

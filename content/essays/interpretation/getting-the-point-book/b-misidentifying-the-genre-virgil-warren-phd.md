@@ -4,9 +4,11 @@ categories:
 - Interpretation
 - Getting The Point Book
 date: '2026-02-16'
+printed: 2015-03-03
+lastmod: 2025-07-11
 draft: false
 title: "Pitfall: Misidentifying the Genre"
-weight: 17
+weight: 13
 ---
 
 <style>
@@ -40,8 +42,7 @@ ul
 <div class="word-content">
 <p class=MsoNormal style='margin-top:0in;margin-right:-40.5pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            B. Misidentifying the genre                                                         
-     Virgil Warren, PhD</span></p>
+style='font-size:12.0pt'>            B. Misidentifying the genre</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-40.5pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

@@ -2,10 +2,12 @@
 title: "Appendix: Biblical Figures of Speech"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-03-05
+lastmod: 2025-07-11
 categories:
 - 'Interpretation'
 - 'Getting The Point Book'
-weight: 110
+weight: 31
 draft: false
 ---
 

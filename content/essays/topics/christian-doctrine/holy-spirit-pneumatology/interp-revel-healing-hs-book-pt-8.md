@@ -1,12 +1,12 @@
 ---
-title: "INTERP REVEL HEALING (HS book pt 8)"
-author: "Virgil Warren, christir.org"
+title: "Interpretation, Revelation, and Healing"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:
 - 'Topics'
 - 'Christian Doctrine'
 - 'Holy Spirit Pneumatology'
-weight: 7
+weight: 8
 draft: false
 ---
 

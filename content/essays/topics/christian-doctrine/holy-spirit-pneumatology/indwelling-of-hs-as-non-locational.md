@@ -1,6 +1,7 @@
 ---
-title: "INDWELLING of HS as Non-Locational"
-author: "Virgil Warren, christir.org"
+title: "The “Indwelling of the Holy Spirit”"
+subtitle: "A Non-Locational Understanding"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:
 - 'Topics'
@@ -25,25 +26,19 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>THE “INDWELLING OF THE HOLY SPIRIT”:</span></b></p>
+
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
 style='font-size:4.0pt'>&nbsp;</span></b></p>
 
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>A NON-LOCATIONAL UNDERSTANDING </span></b></p>
+
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
 style='font-size:12.0pt'>&nbsp;</span></b></p>
 
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
+
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
@@ -228,7 +223,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>     <img width=339 height=109 id="Picture 2"
+style='font-size:12.0pt'>     <img alt="Christ, Spirit, Word, Man: Ephesians 3:17; John 14:16-18" width=339 height=109 id="Picture 2"
 src="/images/essays/indwelling-of-hs-as-non-locational/image001.png"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
@@ -276,7 +271,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                      <img width=305 height=154
+style='font-size:12.0pt'>                      <img alt="F in Son, S in M, F in M: John 10:38; 14:10-11; John 15:4-5; Colossians 1:27-28; 1 John 4:15-16; John 14:20; 1 John 2:24-28" width=305 height=154
 id="Picture 1" src="/images/essays/indwelling-of-hs-as-non-locational/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

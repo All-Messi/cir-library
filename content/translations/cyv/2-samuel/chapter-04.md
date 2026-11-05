@@ -15,7 +15,7 @@ next: chapter-05
 ### Ish-Bosheth Murdered
 
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%'>When Ish-bosheth heard that Abner had died in Hebron, his courage failed, and Israel lost courage too. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%'>When Ish-bosheth heard that Abner had died in Hebron, his courage failed, and Israel lost courage too. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%'>Saul’s son had two men that were commanding raiding bands: Baanah and Rechab, sons of Rimmon, a Benjamite from Beeroth (</span>considered part of Benjamin). </span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt; line-height:115%'>The people of Beeroth fled to Gittaim and still live there as foreigners. </span></span></p>
 

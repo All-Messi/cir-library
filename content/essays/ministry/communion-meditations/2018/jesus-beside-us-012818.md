@@ -1,7 +1,7 @@
 ---
 title: "Jesus Beside Us"
 date: '2018-01-28'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

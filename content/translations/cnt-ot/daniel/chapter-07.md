@@ -15,7 +15,7 @@ next: chapter-08
 ### Daniel’s Vision of the Four Beasts
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124457833"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Previously</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, in the <b>first year of Belshazzar, king of Babylon</b>, Daniel had a dream while he was in bed. He wrote down this summary of it: </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Previously</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, in the <b>first year of Belshazzar, king of Babylon</b>, Daniel had a dream while he was in bed. He wrote down this summary of it: </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“During the night I had a vision. Four winds were churning up the Mediterranean Sea, </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and four different beasts emerged from it. </span></i></span></p>
@@ -34,7 +34,7 @@ next: chapter-08
 ### The Ancient of Days Reigns
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><a name="_Hlk124457933"><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“While I was thinking about its horns, a little horn grew up among them, and three of the first horns were pulled out by the roots in its presence. This horn had eyes like a human and a mouth that bragged.</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“While I was thinking about its horns, a little horn grew up among them, and three of the first horns were pulled out by the roots in its presence. This horn had eyes like a human and a mouth that bragged.</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I kept watching and thrones were set,</span></i></span></p>
 
@@ -65,14 +65,12 @@ next: chapter-08
 ### The Son of Man Receives Dominion
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><a name="_Hlk124458147"><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I kept watching because the horn kept bragging. The beast was killed, and its body thrown into the blazing fire and destroyed. </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I kept watching because the horn kept bragging. The beast was killed, and its body thrown into the blazing fire and destroyed. </span></i></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The other beasts had their authority revoked, but they were allowed to live for a season and a time longer.</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I kept watching the vision.</span></i></span></p>
 
-
-### One like a son of man was coming
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  <b>One like a son of man was coming         </b></span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        with the clouds in the sky</span></i></b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></i><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Mt 26:64Lk 21:27]</span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>.</span></i></p>
 
@@ -106,7 +104,7 @@ next: chapter-08
 
 <p class="section-ref">Dan 7:15-22</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><a name="_Hlk124458280"><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“He said, ‘The fourth beast will be a kingdom that’s different from the others. It will devastate the whole world, tramp it down, and crush it. </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“He said, ‘The fourth beast will be a kingdom that’s different from the others. It will devastate the whole world, tramp it down, and crush it. </span></i></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The ten horns in that kingdom are ten kings. Another, different kind of king will rise up after them and overthrow them. </span></i></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’ll defy the Most High and oppress his holy people. He’ll try to change their festival cycle and their laws, and they’ll be delivered to him for a time, times, and half a time. </span></i></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the court will sit in judgment and take away, annihilate, and destroy his power permanently. </span></i></span>

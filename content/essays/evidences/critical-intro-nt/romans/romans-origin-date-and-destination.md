@@ -2,6 +2,8 @@
 title: "ROMANS: ORIGIN, DATE, AND DESTINATION"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2023-07-14
+lastmod: 2025-07-15
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'

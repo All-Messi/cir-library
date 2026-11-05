@@ -15,7 +15,7 @@ next: chapter-33
 ### Jacob Travels to Meet Esau
 
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><a name="_Hlk125375074"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As Jacob was going along, angels from God met him. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As Jacob was going along, angels from God met him. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he saw them, he said, <i>“This is God’s ‘camp’”</i>; so he named the place Mahanaim.
 </span></span></p>
 
@@ -30,13 +30,13 @@ next: chapter-33
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, </span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><a name="_Hlk125375143"><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“God of my grandfather Abraham and my father Isaac, the </span></i></a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> who told me to go back to my country and my relatives, and you’d make me prosper, </span></i><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I don’t deserve the kindness and faithfulness you’ve shown me. I crossed this Jordan with just a staff. Now I’ve become two companies. </span></i></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“God of my grandfather Abraham and my father Isaac, the </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> who told me to go back to my country and my relatives, and you’d make me prosper, </span></i><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I don’t deserve the kindness and faithfulness you’ve shown me. I crossed this Jordan with just a staff. Now I’ve become two companies. </span></i></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Protect me from Esau. I’m afraid he might attack me and the mothers of my offspring. </span></i></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You did say, ‘I’ll make you prosper and make your descendants like sand on the shore that can’t be counted.’”            </span></i></span></span></p>
 
 <p class="section-ref">Gen 32:1-12</p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><a name="_Hlk125375327"><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He spent the night there. Then he chose from what he had with him a gift for Esau:
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He spent the night there. Then he chose from what he had with him a gift for Esau:
 </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>200 female goats, 20 male goats, 200 ewes, 20 rams, </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>30 milking camels and their colts, 40 cows and 10 bulls, 20 female donkeys and 10 male donkeys. </span></span>
@@ -46,7 +46,9 @@ next: chapter-33
 </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>is behind us.’” </span></i></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told the second and third drove, and everybody that followed the droves,<i> </i></span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell Esau when you meet him, ‘Your servant Jacob is behind us too.’” </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, <i>“I’ll appease him with the gift first. Then when I see him, maybe he’ll accept me.” </i></span></span>
-<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His gift passed on ahead while he spent that night in the camp.                         </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gen 32:13-21</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span></p>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His gift passed on ahead while he spent that night in the camp.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Gen 32:13-21</p>
 
 
 ### Jacob Wrestles with a Man
@@ -68,7 +70,7 @@ next: chapter-33
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“It won’t be </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>Jacob<i> anymore. It’ll be </i>Israel<i>; you’ve ‘wrestled with God’ and men and prevailed.”</i></span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><a name="_Hlk125375396"><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell me <u>your</u> name.”</span></i></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell me <u>your</u> name.”</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Why are you asking?”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> That’s where he blessed him.</span></p>
 

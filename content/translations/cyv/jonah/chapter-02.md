@@ -31,7 +31,9 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I said, ‘I’ve been driven away from you,</span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            but I’ll still look toward your holy Temple.’</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>   </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jon 2:1-4</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            but I’ll still look toward your holy Temple.’</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>   </span></p>
+
+<p class="section-ref">Jon 2:1-4</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Water closed in over me; </span></i></span></p>
 
@@ -64,7 +66,9 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              salvation comes from you</span></i><i><sup><span style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'>Y</span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.”</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Yahveh had the fish cough Jonah up onto the shore.                                              </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jon 2:5-10</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Yahveh had the fish cough Jonah up onto the shore.                                              </span></span></p>
+
+<p class="section-ref">Jon 2:5-10</p>
 
 
 <style>

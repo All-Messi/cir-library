@@ -16,7 +16,7 @@ next: chapter-09
 
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Yahveh told me, <i>“Take a large tablet and etch on it in standard letters ‘Maher</i>-<i>shalal</i>-<i>hash</i>-<i>baz’</i>
-<a name="_Hlk79754909">[quick to the plunder, swift to the spoil]</a>.<i>” </i></span></span>
+[quick to the plunder, swift to the spoil].<i>” </i></span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I got reputable men to witness it: Uriah the priest and Zechariah Ben-Jeberechiah. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I had relations with <i>my wife </i>the prophetess, and she had a son. Yahveh told me, </span></span></p>
 

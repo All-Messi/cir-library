@@ -2,6 +2,8 @@
 title: "RECIPROCAL CAUSATIONʹ, THE BIOSPHERE, AND THEISTIC PROOF"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2024-04-22
+lastmod: 2025-07-16
 categories:
 - 'Evidences'
 - 'Creation And Evolution'

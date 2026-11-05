@@ -31,9 +31,7 @@ next: chapter-07
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he shouted to me, <i>“Look, the ones going north have appeased my anger there.”      </i></span></span></p>
 
-
-### Zech 6:1-8
-
+<p class="section-ref">Zech 6:1-8</p>
 
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-top:0in;margin-bottom:0in;margin-left:0in;text-align:center;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A Message from the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> to Me</span></span></p>
 
@@ -49,6 +47,8 @@ next: chapter-07
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>People from a long way off will come to rebuild the Temple.” </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:31.5pt; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When these things come about, they’ll </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>assure you that the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> of Hosts has sent me. They will all happen if you faithfully obey him.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                         </span></b></p>
+
+<p class="section-ref">Zech 6:9-15</p>
 
 
 <style>

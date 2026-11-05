@@ -15,7 +15,7 @@ next: chapter-03
 ### David’s Instructions to Solomon
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk126067870"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As David’s time to die came closer, he charged Solomon, </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As David’s time to die came closer, he charged Solomon, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m going the way of all the earth. So be strong, show yourself to be a man. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Keep the charge of Yahveh your God, follow him, keep his statutes, commandments, ordinances, and testimonies written in the Law of Moses. Then you can succeed at everything you do. </span></i></span>
@@ -35,7 +35,7 @@ next: chapter-03
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’d ruled Israel for 40 years, 7 in Hebron and 33 in Jerusalem. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Solomon sat on his throne, and his kingdom became secure.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                                                                                                                                </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 2:1-12</span></b></p>
+<p class="section-ref">1 Kg 2:1-12</p>
 
 
 ### Solomon’s Throne Established
@@ -58,7 +58,9 @@ next: chapter-03
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Please speak to Solomon about giving me Abishag as a wife. He won’t refuse you.”</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll speak to him.”</span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>
-</span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 2:13-18</span></b></span></p>
+</span></b></span></span></p>
+
+<p class="section-ref">1 Kg 2:13-18</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bathsheba went to King Solomon, and the king rose to meet her, bowed to her, and sat down on his throne. Then he had a throne set for the queen mother on his right. </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She said, <i>“I’m making one small request. Don’t refuse me.”</i></span></span></p>
@@ -78,7 +80,9 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:40.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go to your farm in Anathoth. You should die, but I won’t do it now; you’ve carried the Ark of the Lord Yahveh in my father’s presence and suffered everything he did.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Solomon dismissed Abiathar from being priest in fulfillment of Yahveh’s word about the descendants of Eli in Shiloh.<b>            </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 2:19-27</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Solomon dismissed Abiathar from being priest in fulfillment of Yahveh’s word about the descendants of Eli in Shiloh.<b>            </b></span></span></p>
+
+<p class="section-ref">1 Kg 2:19-27</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The news came to Joab because Joab had followed Adonijah—though he hadn’t followed Absalom. Joab fled to Yahveh’s tent and held onto the horns of the altar. </span></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King Solomon learned that he was beside the altar and sent Benaiah to execute him.<i>
@@ -90,7 +94,9 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Do like he said and bury him so you can remove from me and my father’s family the blood he shed for no reason. </span></i></span>
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh will be bringing his blood back on his own head. He fell on two men more upright than he was and killed them with the sword unbeknownst to my father: Abner, commander of Israel’s army, and Amasa, commander of Judah’s army. </span></i></span>
-<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Their blood will come back on the head of Joab and his descendants permanently. But may David, his descendants, his dynasty, and throne have lasting peace from Yahveh.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>              </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 2:28-33</span></b></span></p>
+<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Their blood will come back on the head of Joab and his descendants permanently. But may David, his descendants, his dynasty, and throne have lasting peace from Yahveh.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>              </span></b></span></span></p>
+
+<p class="section-ref">1 Kg 2:28-33</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Benaiah went up and fell on him, and they buried him at his house in the country. </span></span>
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king appointed Benaiah over the army and Zadok as priest to replace Abiathar.</span></span></p>
@@ -99,7 +105,9 @@ next: chapter-03
 <span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you cross the Kidron, you’ll be responsible for your own death.” </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“All right.” </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>He lived in Jerusalem a good while.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 2:34-38</span></b></span></p>
+</b></span></span></p>
+
+<p class="section-ref">1 Kg 2:34-38</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But three years later, two of his servants ran away to Achish Ben-Maacah, king of Gath. People told him his servants were in Gath<i>. </i></span></span>
 <span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He saddled his donkey, went to Achish in Gath to look for them, and brought them back. </span></span>
@@ -112,7 +120,7 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king told Benaiah to execute him. That’s how the kingdom became secure for Solomon.<b>     </b></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                          </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 2:39-46</span></b></p>
+<p class="section-ref">1 Kg 2:39-46</p>
 
 
 <style>

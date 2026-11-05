@@ -1,7 +1,9 @@
 ---
 title: "Authentic Cosmopolitanism by R. J. Snell & Steven D. Cone (Stone-Campbell Conference; April 2017)"
-author: "Virgil Warren on 'Disorder and Revolt' in"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2017-04-03
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Book Reviews'

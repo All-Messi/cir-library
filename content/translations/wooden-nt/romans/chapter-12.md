@@ -11,7 +11,7 @@ next: chapter-13
 
 ## Romans Chapter 12
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I-urge you, brothers, by the mercies of-[the] God to-present the bodies of-you (as a) living sacrifice, holy well-pleasing to-[the] God, [the] your spiritual service. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I-urge you, brothers, by the mercies of-[the] God to-present the bodies of-you (as a) living sacrifice, holy well-pleasing to-[the] God, [the] your spiritual service. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Do┘not└conform-yourselves to-[the] this world/age, but transform-yourselves by-[the] renewing the mind unto your discerning what the will of-[the] God (is), the good and pleasing and perfect.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For I-say, by the grace [the] given to-me to-everybody [the] being among you not to-think-of-himself above what it-is-appropriate to-think, but to-think unto [the] good-judgment, as [the] God measured-out to-each (a) measure of-faith. </span></span>
@@ -38,9 +38,7 @@ next: chapter-13
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But
 <b>if the enemy of-you is-hungry, feed him.</b></span></span></p>
 
-
-### If he-is-thirsty, give┘him└ (a)-drink;
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        If he-is-thirsty, give┘him└ (a)-drink;</span></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        for doing this, you-will-pour</span></b></p>
 

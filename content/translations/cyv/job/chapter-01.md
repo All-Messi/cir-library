@@ -10,10 +10,6 @@ next: chapter-02
 
 ## Job Chapter 1
 
-
-### Conversational Yahveh Covenant
-
-
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Job lived in the land of Uz, <b>a blameless, godly man that respected God and shunned evil</b>. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He had seven sons and three daughters; </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and owned 7,000 sheep, 3,000 camels, 500 yoke of oxen, 500 female donkeys; and many servants. </span></span>
@@ -36,10 +32,10 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Everything he has is under your authority. Just don’t do anything to <u>him</u>.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>So Satan left.<b>
+</b></span></p>
 
-### So Satan left.
-Job 1:1-12
-
+<p class="section-ref">Job 1:1-12</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>One day when his sons and daughters were drinking wine and eating in their oldest brother’s house, </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>a messenger came to Job, <i>“The oxen were plowing, the donkeys were feeding alongside them, </i></span></span>

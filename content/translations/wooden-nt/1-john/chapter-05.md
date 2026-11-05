@@ -10,7 +10,7 @@ prev: chapter-04
 
 ## 1 John Chapter 5
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Every the-one believing that Jesus is the Christ has-been-begotten by [the] God, and every the-one loving the-One having-begotten loves also the-One having-been-begotten by him.  </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Every the-one believing that Jesus is the Christ has-been-begotten by [the] God, and every the-one loving the-One having-begotten loves also the-One having-been-begotten by him.  </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>By this we-know that we-love the children of-[the] God:  when we-love [the] God and do the commandments of-him.  </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For this is the love of-[the] God:  [in-order]-that we-keep the commandments of-him, and the commandments of-him are not heavy/hard.  </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Because every the-one having-been-begotten by [the] God overcomes the world, and this is the victory [the] having-overcome the world:  the faith of-us. </span></span>
@@ -35,9 +35,6 @@ prev: chapter-04
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We-know that we-are of/from [the] God, and the whole world lies in the evil-one.  </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But we-know that the Son of-[the] God has-come, and he-has-given us understanding, in-order-that we-may-know the true-One, and we-are in the true-(One).  In the Son of-him Jesus Christ—this is the true God and eternal life.  </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Little-children, guard/keep yourselves from [the] idols.</span></span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil Warren, PhD, translator
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 
 
 <style>

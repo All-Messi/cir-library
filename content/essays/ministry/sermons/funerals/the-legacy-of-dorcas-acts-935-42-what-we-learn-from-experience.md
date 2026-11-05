@@ -1,7 +1,9 @@
 ---
 title: "THE LEGACY OF DORCAS Acts 9:35-42 What We Learn from Experience"
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 1998-02-13
+lastmod: 2025-02-04
 categories:
 - 'Ministry'
 - 'Sermons'

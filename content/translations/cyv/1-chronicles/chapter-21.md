@@ -25,7 +25,9 @@ next: chapter-22
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height: 115%'>But the king’s word prevailed. So Joab went all over Israel and came back to Jerusalem. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%'>He gave David the census number: 1,100,000 swordsmen in Israel and 470,000 in Judah. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%'>He didn’t count Levi and Benjamin because he abhorred the king’s command. </span></span>
-<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt; line-height:115%'>God was displeased with this thing, so he struck Israel.                                                                                             </span><b><span style='font-size:10.0pt;line-height:115%'>1 Ch 21:1-7</span></b></span></p>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt; line-height:115%'>God was displeased with this thing, so he struck Israel.                                                                                             </span></span></p>
+
+<p class="section-ref">1 Ch 21:1-7</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height: 115%'>David said to God, <i>“I’ve committed an awful sin. Please take it away. I’ve done something really foolish.”</i></span></span></p>
 
@@ -33,13 +35,17 @@ next: chapter-22
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt; line-height:115%'>“Tell David,</span></i><span style='font-size:12.0pt; line-height:115%'> </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:40.5pt;'><i><span style='font-size:12.0pt;line-height:115%'>‘Yahveh says </span></i><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%'>to take </span></i></span>
-<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%'>either three years of famine, three months of being swept away by your enemies’ sword, or three days of the sword of Yahveh when his angel destroys throughout Israel.’ What should I report to the One that sent me?”          </span></i><b><span style='font-size:10.0pt; line-height:115%'>1 Ch 21:8-12</span></b></span></p>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%'>either three years of famine, three months of being swept away by your enemies’ sword, or three days of the sword of Yahveh when his angel destroys throughout Israel.’ What should I report to the One that sent me?”          </span></i></span></span></p>
+
+<p class="section-ref">1 Ch 21:8-12</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height: 115%'>David told Gad, <i>“I’m in great distress. I’ll cast myself on Yahveh’s mercy because it’s so great. Don’t let me fall into human hands.”</i> </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%'>Yahveh sent a plague on Israel; 70,000 people died. </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%'>He sent an angel to destroy Jerusalem; but as he was about to do it, he looked and was sad over the catastrophe. He told the destroying angel, <i>“That’s enough; relax your hand.”</i> The angel was standing by the threshing floor of <i>Ornan</i>/Araunah the Jebusite. </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%'>David looked up and saw him standing between earth and sky with his sword held out over Jerusalem. David and the elders, covered with burlap, fell on their faces. </span></span>
-<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%'>He told God, <i>“I’m the one that sinned. What have these sheep done? Yahveh my God, please plague me and my father’s house, not your people.</i></span><i><span style='font-size:14.0pt; line-height:115%'>”</span></i><b><sup><span style='font-size:14.0pt;line-height: 115%'>                                                                                                 </span></sup></b><b><span style='font-size:10.0pt;line-height:115%'>1 Ch 21:13-17</span></b></span></p>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%'>He told God, <i>“I’m the one that sinned. What have these sheep done? Yahveh my God, please plague me and my father’s house, not your people.</i></span><i><span style='font-size:14.0pt; line-height:115%'>”</span></i><b><sup><span style='font-size:14.0pt;line-height: 115%'>                                                                                                 </span></sup></b></span></span></p>
+
+<p class="section-ref">1 Ch 21:13-17</p>
 
 
 ### David Builds an Altar
@@ -56,7 +62,7 @@ next: chapter-22
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%'>“Take it and do what seems good. I’ll give the oxen for burnt offerings, the threshing sledges for wood, the wheat for the grain offering—all of it.”</span></i><span style='font-size:12.0pt; line-height:115%'> </span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height: 115%'>But King David said, <i>“I won’t take what’s yours for Yahveh or offer a burnt offering that doesn’t cost me anything.” </i></span></span>
-<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%'>He paid him <a name="_Hlk145161237">15 lbs <sup>600 shekels </sup>of gold for the site. </a></span></span>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%'>He paid him 15 lbs <sup>600 shekels </sup>of gold for the site. </span></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%'>He built an altar there and offered burnt offerings and peace offerings. He called to Yahveh, and he answered him with fire from the sky on the altar. </span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt; line-height:115%'>Yahveh told the angel to sheath his sword.</span></span></p>
 

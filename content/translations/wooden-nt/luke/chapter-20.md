@@ -11,7 +11,7 @@ next: chapter-21
 
 ## Luke Chapter 20
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And it-happened on one of-the days, he teaching the people in the temple and preaching (that) the chief-priests and the scribes with the elders confronted (him), </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And it-happened on one of-the days, he teaching the people in the temple and preaching (that) the chief-priests and the scribes with the elders confronted (him), </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and they-said, saying to him, </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell us, by what authority you-are-doing these-things, or who is the-one having-given you [the] this authority?” </span></i></p>
@@ -40,9 +40,7 @@ next: chapter-21
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:4.5pt;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the/he, having-heard, said to-them, <i>“What then is [the] this-thing written,</i></span></span></p>
 
-
-### ‘(The) stone that the-ones building rejected—
-
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    <b><i>‘(The) stone that the-ones building rejected—</i></b></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                this-one became [for] (the) head of-(the)-corner?”</span></i></b></p>
 
@@ -69,9 +67,7 @@ next: chapter-21
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Teacher, Moses wrote to-us,</span></i></p>
 
-
-### ‘If (a) brother of-somebody having (a) wife,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    <b><i>‘If (a) brother of-somebody</i></b> <i>having (a) wife,</i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                <b><i>and this-one is childless,</i></b></span></p>
 
@@ -93,9 +89,7 @@ next: chapter-21
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But that the dead rise, Moses also showed at the bush (passage) when he-says,</span></i></span></p>
 
-
-### ‘ . . . Lord the God of-Abraham,
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>‘ . . . Lord the God of-Abraham,</b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and (the) God of-Isaac,</span></i></b></p>
 
@@ -110,9 +104,7 @@ next: chapter-21
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“How do-they-say the Messiah to-be/is (the) son of-David?” </span></i><span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For David himself says in (the) Book of-Psalms,</span></i></span></p>
 
-
-### ‘(The) Lord said to-the Lord of-me,
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        <b>‘(The) Lord said to-the Lord of-me,</b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    “Sit on (the) right[s] of-me,</span></i></b></p>
 

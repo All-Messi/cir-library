@@ -98,8 +98,6 @@ prev: chapter-51
 
 <p class="section-ref">Jer 52:31-34</p>
 
-<p class="MsoNormal"><span style='font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

@@ -19,7 +19,7 @@ next: chapter-07
 ### Breaking Sabbath
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus was passing along between grain fields on a Sabbath, and <a name="_Hlk198327960">his disciples were picking off heads, rubbing them in their hands, and eating the seeds.</a></span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus was passing along between grain fields on a Sabbath, and his disciples were picking off heads, rubbing them in their hands, and eating the seeds.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Some Pharisees said, <i>“Why are you doing what’s against the Law on Sabbath?”</i></span></span></p>
 
@@ -27,8 +27,9 @@ next: chapter-07
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You’ve read, haven’t you, what David and the ones with him did when they were famished?
 </span></i><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>He went into God’s house and took the consecrated loaves, ate them, and gave them to the ones that were with him. They’re against the Law for anybody but priests to eat. </span></i></span>
-<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Person takes precedence over Sabbath.”    </span></i><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>Lk 6:1-5</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></i></span></p>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Person takes precedence over Sabbath.”</span></i><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Lk 6:1-5</p>
 
 
 ### Healing a Man with a Paralyzed Hand

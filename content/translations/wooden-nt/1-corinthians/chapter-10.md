@@ -11,7 +11,7 @@ next: chapter-11
 
 ## 1 Corinthians Chapter 10
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I-do┘not└want you to-be-unaware, brothers, that the fathers of-us were all under the cloud and passed–through the sea, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I-do┘not└want you to-be-unaware, brothers, that the fathers of-us were all under the cloud and passed–through the sea, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and all were-baptized to [the] Moses in the cloud and in the sea, </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and all ate the same spiritual food, </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and all drank the same spiritual drink; for they drank from (a) spiritual rock following (them), and the rock was [the] Messiah. </span></span>

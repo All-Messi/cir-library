@@ -12,10 +12,6 @@ next: chapter-20
 ## Judges Chapter 19
 
 
-### Jud 18:27-31
-
-
-
 ### A Levite and His Concubine
 
 
@@ -27,7 +23,9 @@ next: chapter-20
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The two men sat and ate and drank together. The girl’s father told him, <i>“Spend the night and enjoy yourself.” </i></span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he got up to go, his father-in-law urged him till he stayed there again. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On the fifth day, he got up early to leave, and the girl’s father said, <i>“Strengthen yourself and wait till this afternoon.”</i> So they ate together again. </span></span>
-<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the man, his concubine, and his servant got up to leave, his father in-law said, <i>“It’s getting toward evening; stay here tonight and relax. You can get up early tomorrow for your trip home.”</i><b>                    </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 19:1-9</span></b></span></p>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the man, his concubine, and his servant got up to leave, his father in-law said, <i>“It’s getting toward evening; stay here tonight and relax. You can get up early tomorrow for your trip home.”</i><b>                    </b></span></span></p>
+
+<p class="section-ref">Jud 19:1-9</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But he wouldn’t. He left and headed toward Jebus (</span><span style='font-family: "Times New Roman",serif'>Jerusalem</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>) with two saddled donkeys and his concubine. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they got close to Jebus, it was late in the day, and the servant said, <i>“Let’s stop at this city of the Jebusites and spend the night.”  </i></span></span></p>
@@ -37,7 +35,9 @@ next: chapter-20
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“We won’t turn aside to a city that doesn’t belong to Israel. We’ll go on toward Gibeah.</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let’s get close to a place there and spend the night at Gibeah or Ramah.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So they went on past <i>Jebus</i>. The sun went down on them near Gibeah, in Benjamin. </span></span>
-<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They stopped there to go in and spend the night. He sat down in the open square of the town because nobody had taken them home.<b>                          </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 19:10-15</span></b></span></p>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They stopped there to go in and spend the night. He sat down in the open square of the town because nobody had taken them home.<b>                          </b></span></span></p>
+
+<p class="section-ref">Jud 19:10-15</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At evening an old man came in from working in the field. He was from the hill country of Ephraim and living in Gibeah. The men there were Benjamites. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He saw the traveler in the open square and said, <i>“Where are you from, and where are you going?”</i> </span></span></p>
@@ -49,9 +49,7 @@ next: chapter-20
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></i><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He took him into his house and gave the donkeys hay. They washed their feet and ate.<b>  </b></span></span></p>
 
-
-### Jud 19:16-21
-
+<p class="section-ref">Jud 19:16-21</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As they were relaxing, some riffraff from the town surrounded the house, beating on the door and saying to the old man that owned the house, <i>“Bring the man out that came to your house so we can rape him.”</i> </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The man went out and said, </span></span></p>
@@ -64,7 +62,9 @@ next: chapter-20
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Her husband got up in the morning; and when he opened the doors to leave, his concubine was lying there with her hands on the threshold. </span></span>
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said to her, <i>“Get up; let’s go on.” </i>But she didn’t answer. He put her on the donkey and went on to his home. </span></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he got there, he took a knife and divided her limb by limb into 12 pieces and sent them all over Israel. </span></span>
-<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Everybody that saw it said, <i>“Such an awful thing has never happened since Israel came up from Egypt. Consider it, take counsel, and speak.”</i><b>                                                                                                     </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 19:22-30</span></b></span></p>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Everybody that saw it said, <i>“Such an awful thing has never happened since Israel came up from Egypt. Consider it, take counsel, and speak.”</i><b>                                                                                                     </b></span></span></p>
+
+<p class="section-ref">Jud 19:22-30</p>
 
 
 <style>

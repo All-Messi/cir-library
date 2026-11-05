@@ -23,8 +23,9 @@ next: chapter-05
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Then she summoned Hathach from the king’s eunuchs, whom the king had appointed to attend her, and told him to go to Mordecai and find out why he was in mourning. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He went out to Mordecai in the city square in front of the king’s gate. </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mordecai told him what had happened, and the amount of money Haman promised to pay the king’s treasuries for destroying the Jews. </span></span>
-<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He gave Hathach a copy of the edict issued in Susa for their destruction. That way he could show Esther and have her go in to the king and implore his help and plead with him for her people.</span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'> Esther 4:1-8</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></b></span></p>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He gave Hathach a copy of the edict issued in Susa for their destruction. That way he could show Esther and have her go in to the king and implore his help and plead with him for her people.</span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Esther 4:1-8</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hathach came back with Mordecai’s message. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She told him to answer Mordecai. </span></span></p>
@@ -41,7 +42,9 @@ next: chapter-05
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Get the Jews together that are in Susa and fast for me. Don’t eat or drink for three days, night or day. I and my maids will do the same. I’ll go in to the king, which is against the law. If I die, I die.” </span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mordecai did what she said.<b>                                                                                         </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esther 4:9-17</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mordecai did what she said.<b>                                                                                         </b></span></span></p>
+
+<p class="section-ref">Esther 4:9-17</p>
 
 
 <style>

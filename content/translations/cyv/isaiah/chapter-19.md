@@ -37,7 +37,9 @@ next: chapter-20
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    a powerful king will rule them,”</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                        the Lord Yahveh of Hosts says.</span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'> Is 19:1-4</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                        the Lord Yahveh of Hosts says.</span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></p>
+
+<p class="section-ref">Is 19:1-4</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Nile will dry up;</span></span></p>
 

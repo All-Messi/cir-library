@@ -2,10 +2,11 @@
 title: "Hermeneutics: Getting the Point — Outline"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-11
 categories:
 - 'Interpretation'
 - 'Getting The Point Book'
-weight: 0
+weight: 1
 draft: false
 subtitle: "AN OUTLINE"
 ---

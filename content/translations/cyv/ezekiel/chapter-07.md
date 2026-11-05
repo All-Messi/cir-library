@@ -40,7 +40,7 @@ next: chapter-08
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hands will hang limp; knees will be like water. </span></i></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll put on burlap and shudder. Their faces will blush; their heads will be bald. </span></i></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll toss their silver into the streets and abhor their gold. Their silver and gold won’t be able to deliver them from Yahveh’s anger. They won’t satisfy their hunger with it because that’s what made them stumble. </span></i></span>
-<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The beautiful jewels they were so proud of, they used for making detestable idols; so I’ll <a name="_Hlk147246733">turn their wealth into something detestable to them. </a></span></i></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The beautiful jewels they were so proud of, they used for making detestable idols; so I’ll turn their wealth into something detestable to them. </span></i></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll give them to foreigners as plunder, to the sinful as spoil; and they’ll defile them.
 </span></i></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>I’ll look the other way while invaders profane my precious land. </span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Robbers will go in and defile it </span></i></span>
@@ -52,6 +52,8 @@ next: chapter-08
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When anguish comes, they’ll look for peace, but there won’t be any, </span></i></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>just disaster on top of disaster, rumor on top of rumor. They’ll find no vision from a prophet; the law will be lost from the priest and counsel from the elders. </span></i></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king will mourn; the prince will put on rags; the people’s hands will tremble. I’ll deal with them by the way they’ve acted, judge them by their own judgments. <u>They’ll know I’m</u></span></i><u><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> <i>Yahveh’</i></span></u><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>”</span></i></span></p>
+
+<p class="section-ref">Ezek 7:23b-27</p>
 
 
 <style>

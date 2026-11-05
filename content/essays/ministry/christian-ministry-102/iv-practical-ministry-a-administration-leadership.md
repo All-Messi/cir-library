@@ -1,7 +1,8 @@
 ---
 title: "IV. PRACTICAL MINISTRY A. Administration Leadership"
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-02-04
 categories:
 - 'Ministry'
 - 'Christian Ministry 102'
@@ -322,7 +323,7 @@ margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                     Types of services</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:189.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-153.0pt'><span
+margin-left:min(189.0pt, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(189.0pt, 35vw))'><span
 style='font-size:12.0pt'>                     Special services:  Christmas Eve
 services, Maunday Thursday, Good Friday services, sunrise service, </span></p>
 

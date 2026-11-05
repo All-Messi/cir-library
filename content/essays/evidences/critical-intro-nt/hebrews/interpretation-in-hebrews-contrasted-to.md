@@ -5,10 +5,10 @@ categories:
 - Critical Intro Nt
 - Hebrews
 date: '2026-02-16'
+lastmod: 2025-07-15
 draft: false
-title: INTERPRETATION IN HEBREWS CONTRASTED TO
+title: "Interpretation in Hebrews Contrasted to the Allegorical Method of Philo"
 weight: 3
-subtitle: "THE ALLEGORICAL METHOD OF PHILO"
 ---
 
 <style>

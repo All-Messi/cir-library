@@ -28,7 +28,7 @@ next: chapter-05
 <p class="section-ref">Ezek 4:1-8</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Take wheat, barley, beans, lentils, millet, and spelt; put them in one container and bake bread. Eat it for the 390 days you’re lying on your side. </span></i></span>
-<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Once a day eat <a name="_Hlk145163063">8 oz <sup>20 shekels</sup> </a>of food </span></i></span>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Once a day eat 8 oz <sup>20 shekels</sup> of food </span></i></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and drink a quart </span></i><i><sup><span style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'>⅙ hin</span></sup></i><i><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>of water. </span></i></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Eat it like a barley cake after you’ve baked it in front of them over human feces. </span></i></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s how the Israelites will eat their bread unclean among the nations where I’ll banish them.”</span></i></span></p>
@@ -38,6 +38,8 @@ next: chapter-05
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, <i>“I’ll give you cow manure instead of human feces to bake your bread. </i></span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m going to break the staff of bread in Jerusalem. They’ll ration bread by weight with fear and water by measure in alarm. </span></i></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bread and water will be scarce; people will look at one another in dismay and waste away in their sin.”                                         </span></i></span></p>
+
+<p class="section-ref">Ezek 4:9-17</p>
 
 
 <style>

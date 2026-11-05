@@ -1,7 +1,7 @@
 ---
 title: "The Only One Qualified"
 date: '2015-09-27'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

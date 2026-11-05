@@ -5,11 +5,14 @@ categories:
 - Interpersonalism
 - Impact On Topics
 date: '2026-02-16'
+lastmod: 2023-06-30
 draft: false
 title: "INTERPERSONALISM: THE INTEGRATING REALITY"
 weight: 3
 content_kind: title-page
 subtitle: "FOR CHRISTIAN TRUTH"
+aliases:
+- /essays/topics/interpersonalism/impact-on-topics/interpersonalism-the-integrating-reality-for-christian-truth/
 ---
 
 <style>

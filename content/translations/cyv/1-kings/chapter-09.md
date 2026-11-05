@@ -26,7 +26,9 @@ next: chapter-10
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll remove Israel from the land I’ve given them, and throw away the Temple I’ve consecrated. Israel will become a proverb, a byword among the nations. </span></i></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This Temple will become a pile of ruins. Everybody that goes by will be amazed and gasp, ‘Why has Yahveh done this to this land and this Temple?’ </span></i></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>People will say, ‘Because they forsook Yahveh their God, who brought their ancestors out of Egypt. They adopted other gods and worshiped and served them.’”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-                                                             </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 9:1-9</span></b></span></p>
+                                                             </span></b></span></span></p>
+
+<p class="section-ref">1 Kg 9:1-9</p>
 
 
 ### Solomon’s Agreement with Hiram
@@ -49,7 +51,9 @@ next: chapter-10
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>his storage cities, cities for his chariots and cavalry, and everything he wanted to build in Jerusalem, Lebanon, and the land he ruled. </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>To this day Solomon has conscripted laborers from the Amorites, Hittites, Perizzites, Hivites, and Jebusites </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that Israel couldn’t destroy. </span></span>
-<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But he didn’t conscript Israelites for forced labor. They were soldiers, officials, officers, captains, chariot commanders, and cavalry.          </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 9:10-22</span></b></span></p>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But he didn’t conscript Israelites for forced labor. They were soldiers, officials, officers, captains, chariot commanders, and cavalry.          </span></span></p>
+
+<p class="section-ref">1 Kg 9:10-22</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>550 chief officers oversaw Solomon’s work.                                        </span></span></p>
 
@@ -59,9 +63,11 @@ next: chapter-10
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>And so he finished the Temple.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126243673"><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He also built a fleet of ships in Ezion-geber, near Eloth on the shore of the Red Sea in Edom. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He also built a fleet of ships in Ezion-geber, near Eloth on the shore of the Red Sea in Edom. </span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hiram sent experienced seamen with the fleet along with Solomon’s men. </span></span>
-<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They went to Ophir and brought back <a name="_Hlk145077622">15¾ tons <sup>420 talents</sup> of gold to Solomon</a>.              </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 9:23-28</span></b></span></p>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They went to Ophir and brought back 15¾ tons <sup>420 talents</sup> of gold to Solomon.              </span></span></p>
+
+<p class="section-ref">1 Kg 9:23-28</p>
 
 
 <style>

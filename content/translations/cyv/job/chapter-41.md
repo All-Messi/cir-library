@@ -11,11 +11,7 @@ next: chapter-42
 
 ## Job Chapter 41
 
-
-### Can anybody trap it and put a ring in its nose?   Job 40:19-24
-
-
-<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.75in;'><b><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>         41<sup>:1</sup></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Can you pull Leviathan in on a fishhook</span></i></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.75in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Can you pull Leviathan in on a fishhook</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>or muzzle it with a noose?</span></i></p>
 
@@ -60,9 +56,9 @@ next: chapter-42
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who has given to me that I should repay?</span></i></span></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Whatever’s under the sky is </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>already<i> mine.</i><b>           </b></span></p>
 
-### Whatever’s under the sky is already mine.           Job 41:8-11
-
+<p class="section-ref">Job 41:8-11</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I won’t fail to mention its limbs,</span></i></span></p>
 

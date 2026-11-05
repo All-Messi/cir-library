@@ -4,7 +4,7 @@ chapters: 36
 title: 2 Chronicles
 translation: COT
 type: book
-weight: 53
+weight: 14
 ---
 
 ## 2 Chronicles

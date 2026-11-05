@@ -1,6 +1,6 @@
 ---
 title: "COMMUNION ELEMENTS"
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:
 - 'Topics'

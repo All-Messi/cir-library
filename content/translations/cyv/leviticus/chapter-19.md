@@ -11,7 +11,7 @@ next: chapter-20
 
 ## Leviticus Chapter 19
 
-<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v1" id="v1"><sup class="verse-num">1-2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses to tell the whole community of Israel, </span></span></p>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v1" id="v1"><sup class="verse-num">1-2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses to tell the whole community of Israel, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:.5in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“Be holy because I’m holy. </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Respect your parents and keep my Sabbaths. </span></i></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t turn to idols or make molten gods. <u>I’m Yahveh your God</u>.</span></i></span></p>
@@ -52,7 +52,7 @@ next: chapter-20
 
 <p class="section-ref">Lev 19:19-22</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:.5in; '><a name="_Hlk125978622"><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When you go into the land and plant fruit trees, consider their fruit forbidden for three years. </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:.5in; '><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When you go into the land and plant fruit trees, consider their fruit forbidden for three years. </span></i></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the fourth year, their fruit will be holy, a praise offering to Yahveh. </span></i></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The fifth year, you can eat it so it’ll increase for you. <u>I’m Yahveh your God</u>.
 </span></i></span></p>
@@ -65,7 +65,7 @@ next: chapter-20
 
 <p class="section-ref">Lev 19:23-28</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:.5in; '><a name="_Hlk125978705"><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t profane your daughter by making her a prostitute, so your country won’t fall into prostitution and fill up with lewdness. </span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:.5in; '><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t profane your daughter by making her a prostitute, so your country won’t fall into prostitution and fill up with lewdness. </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:.5in; '><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Keep my Sabbaths and respect my sanctuary. </span></i></span></p>
 

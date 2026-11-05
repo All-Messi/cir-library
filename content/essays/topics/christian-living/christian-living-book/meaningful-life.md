@@ -2,10 +2,12 @@
 title: "MEANINGFUL LIFE"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Living'
 - 'Christian Living Book'
+weight: 30
 draft: false
 ---
 
@@ -164,7 +166,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='position:absolute;z-index:251658240;left:0px;margin-left:440px;
+style='position:absolute;z-index:251658240;left:0px;margin-left:min(440px, 35vw);
 margin-top:262px;width:12px;height:27px'>
 
 <table cellpadding=0 cellspacing=0>
@@ -185,7 +187,7 @@ margin-top:262px;width:12px;height:27px'>
 </table>
 
 </span><span style='position:absolute;z-index:251657216;left:0px;margin-left:
-392px;margin-top:262px;width:19px;height:27px'>
+min(392px, 35vw);margin-top:262px;width:19px;height:27px'>
 
 <table cellpadding=0 cellspacing=0>
  <tr>
@@ -204,7 +206,7 @@ margin-top:262px;width:12px;height:27px'>
  </tr>
 </table>
 
-</span><span style='font-size:12.0pt'>    <img width=372 height=526
+</span><span style='font-size:12.0pt'>    <img alt="Chart of persons and format: relationship, purpose, objective and subjective (independent and dependent) aspects" width=372 height=526
 id="Picture 1" src="/images/essays/meaningful-life/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

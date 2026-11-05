@@ -25,7 +25,7 @@ next: chapter-23
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt; line-height:115%'>carpenters, builders, and masons—and buy the timber and cut stone for repairs. </span></i></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%'>They won’t need to account for the money they receive. They’re honest.” </span></i><b><span style='font-size:12.0pt;line-height:115%'>                                                                                                                                                </span></b></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%'>                                                                                                                                                            </span></sup></b><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 22:1-7</span></b></p>
+<p class="section-ref">2 Kg 22:1-7</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height: 115%'>Then Hilkiah the priest told Shaphan the secretary<i>, “I’ve found the Book of the Law in the Temple.” </i>He gave it to him to read, </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%'>and Shaphan brought word to the king,
@@ -45,7 +45,9 @@ next: chapter-23
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt; line-height:115%'>But I’ve listened to you because you became sensitive and humbled yourself when you heard about the desolation I’ve cursed this place and its people with; you tore your clothes and cried.  </span></i></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%'>I’ll let you pass on to your ancestors in peace. You won’t see the disaster I’m going to bring here.”’”</span></i><span style='font-size:12.0pt;line-height:115%'>  </span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%'>They took word back to the king.<b>                                                                                     </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 22:8-20</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%'>They took word back to the king.<b>                                                                                     </b></span></p>
+
+<p class="section-ref">2 Kg 22:8-20</p>
 
 
 <style>

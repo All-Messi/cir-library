@@ -1,7 +1,7 @@
 ---
 title: "Only One"
-date: ''
-author: "Virgil Warren, christir.org"
+date: "2017-04-30"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

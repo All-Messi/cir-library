@@ -49,6 +49,9 @@ next: chapter-29
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The nations will see that you’re called by Yahveh’s name and be </span></i></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>afraid of you.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>
+</span></b></span></p>
+
 <p class="section-ref">Deut 28:1-10</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Yahveh will make you prosperous in your offspring and your animals’ </span></i></span></p>
@@ -222,7 +225,7 @@ next: chapter-29
 
 <p class="section-ref">Deut 28:45-57</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:31.5pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v58" id="v58"><sup class="verse-num">58</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If you don’t observe the laws in this scroll and respect this honored and awesome name, ‘Yahveh Your God’ <a name="_Hlk114036698">[Yahveh-Elohekha], </a></span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:31.5pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v58" id="v58"><sup class="verse-num">58</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If you don’t observe the laws in this scroll and respect this honored and awesome name, ‘Yahveh Your God’ [Yahveh-Elohekha], </span></i></span>
 <span class="verse verse-v59" id="v59"><sup class="verse-num">59</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>he’ll bring severe plagues, miserable chronic diseases on you and your descendants. </span></i></span>
 <span class="verse verse-v60" id="v60"><sup class="verse-num">60</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’ll bring on you Egypt’s diseases that you feared and still cling to you. </span></i></span>
 <span class="verse verse-v61" id="v61"><sup class="verse-num">61</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’ll even bring on you sicknesses and plagues that aren’t in this scroll.   </span></i></span></p>

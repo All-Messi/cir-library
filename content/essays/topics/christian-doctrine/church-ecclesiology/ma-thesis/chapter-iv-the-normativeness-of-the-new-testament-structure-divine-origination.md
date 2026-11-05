@@ -1,7 +1,8 @@
 ---
 title: "CHAPTER IV THE NORMATIVENESS OF THE NEW TESTAMENT STRUCTURE Divine Origination"
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-02-04
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -356,7 +357,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'><img width=401 height=165 id="Picture 6"
+style='font-size:12.0pt'><img alt="Commission (Mt. 28:18-19) in heaven, obedience (Mt. 16:19; 18:18) on earth, ratification; process A and process B" width=401 height=165 id="Picture 6"
 src="/images/essays/chapter-iv-the-normativeness-of-the-new-testament-structure-divine-origination/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -446,7 +447,7 @@ style='font-size:12.0pt'>                        </span><
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'><img width=380 height=210 id="Picture 5"
+style='font-size:12.0pt'><img alt="Pentecost A.D. 30: Father, Head, Spirit, Apostles, word and Elders between heaven and earth" width=380 height=210 id="Picture 5"
 src="/images/essays/chapter-iv-the-normativeness-of-the-new-testament-structure-divine-origination/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -993,7 +994,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=320 height=182 id="Picture 4"
+style='font-size:12.0pt'><img alt="Grid of boxes divided by dashed lines" width=320 height=182 id="Picture 4"
 src="/images/essays/chapter-iv-the-normativeness-of-the-new-testament-structure-divine-origination/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -1039,7 +1040,7 @@ style='font-size:12.0pt'>                           �
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=177 height=156 id="Picture 3"
+style='font-size:12.0pt'><img alt="Levels: Christ (1), Apostles (2), E (3)" width=177 height=156 id="Picture 3"
 src="/images/essays/chapter-iv-the-normativeness-of-the-new-testament-structure-divine-origination/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -1061,7 +1062,7 @@ style='font-size:12.0pt'>                        </span><
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=202 height=178 id="Picture 2"
+style='font-size:12.0pt'><img alt="Levels 1 to 4: Christ, Apostles, intermediate level, E" width=202 height=178 id="Picture 2"
 src="/images/essays/chapter-iv-the-normativeness-of-the-new-testament-structure-divine-origination/image005.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -1096,7 +1097,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=180 height=158 id="Picture 1"
+style='font-size:12.0pt'><img alt="Levels 1 to 4: Christ, Apostles, E and SA, SS" width=180 height=158 id="Picture 1"
 src="/images/essays/chapter-iv-the-normativeness-of-the-new-testament-structure-divine-origination/image006.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

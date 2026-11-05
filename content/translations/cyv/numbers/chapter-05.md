@@ -15,10 +15,13 @@ next: chapter-06
 ### Purity in Israel’s Camp
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>        5<sup>:1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses, </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell Israel to send outside the camp any leper, anybody with a discharge, anyone ceremonially unclean because of a dead person. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Send out male or female so they won’t defile their camp where I live.”</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They did that.
+</span></span></p>
 
 <p class="section-ref">Num 5:1-4</p>
 
@@ -46,7 +49,9 @@ next: chapter-06
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’ll have her take an oath, ‘If no man has had intercourse with you while under your husband’s authority, be immune to this bitter water that brings a curse. </span></i></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But if you’ve defiled yourself with another man,’ </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>[</span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>then he’ll have her swear the oath] </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>‘may Yahveh make you a curse among your people. </span></i></span>
-<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This water will make your abdomen swell and your thigh waste away.’ She’ll say, ‘True. True.’                            </span></i><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Num</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>5:11-22</span></b></span></p>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This water will make your abdomen swell and your thigh waste away.’ She’ll say, ‘True. True.’</span></i><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Num 5:11-22</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The priest will write these curses on a scroll and wash them off into the water. </span></i></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he’ll have her drink the water. </span></i></span>

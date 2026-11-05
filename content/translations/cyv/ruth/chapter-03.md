@@ -48,6 +48,8 @@ next: chapter-04
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Wait till you find out how the matter goes. He won’t rest till he’s settled it today.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>       </span></b></span></p>
 
+<p class="section-ref">Ruth 3:9-18</p>
+
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

@@ -13,7 +13,7 @@ next: chapter-142
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> A Psalm of David</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124376947"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, I’m calling on you; come quick;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, I’m calling on you; come quick;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      hear me out.</span></p>
 
@@ -49,10 +49,10 @@ next: chapter-142
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I look to you, Lord G</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>OD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>,</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124377156"><b><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>     </span></b></a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and take refuge in you; don’t leave me with no defense</span><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>.
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>     </span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and take refuge in you; don’t leave me with no defense</span><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>.
 </span></b></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <a name="_Hlk121133308"><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>Keep me from the jaws of the trap they’ve set for me</span></a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>Keep me from the jaws of the trap they’ve set for me</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            from sinners’ snares;</span></p>
 

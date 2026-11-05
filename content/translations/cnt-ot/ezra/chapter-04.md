@@ -40,7 +40,7 @@ next: chapter-05
 
 <p class="section-ref">Ezra 4:6-11a</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124869577"><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“To King Artaxerxes </span></i></a></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“To King Artaxerxes </span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From your subjects in Beyond the River </span></i></p>
 
@@ -52,7 +52,7 @@ next: chapter-05
 
 <p class="section-ref">Ezra 4:11b-16</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124869644"><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king answered Rehum, Shimshai, and their associates in Samaria and the rest of Beyond the River:</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king answered Rehum, Shimshai, and their associates in Samaria and the rest of Beyond the River:</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Greetings,</span></i></p>
 
@@ -62,7 +62,7 @@ next: chapter-05
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So issue a decree to stop those men from rebuilding the city till I issue a decree. </span></i></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Take care of this matter promptly. We must not let this situation harm the royal interests</span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><a name="_Hlk124869717"><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As soon as Rehum, Shimshai, and their associates read a copy of King Artaxerxes’ letter, they hurried to Jerusalem and stopped the Jews by force. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As soon as Rehum, Shimshai, and their associates read a copy of King Artaxerxes’ letter, they hurried to Jerusalem and stopped the Jews by force. </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The work on the Temple halted till the <b>second year of Darius</b>, king of Persia.<b>          </b></span></span></p>
 
 <p class="section-ref">Ezra 4:17-24</p>

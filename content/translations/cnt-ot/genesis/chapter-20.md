@@ -15,7 +15,7 @@ next: chapter-21
 ### Abraham and Abimelech
 
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><a name="_Hlk125452891"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Abraham moved toward the Negev and settled between Kadesh and Shur, living for a while in Gerar. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Abraham moved toward the Negev and settled between Kadesh and Shur, living for a while in Gerar. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said of Sarah, <i>“She’s my sister”</i>; so Abimelech, king of Gerar, sent and took her. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But God came to him in a dream at night, <i>“You’re a dead man. The woman you’ve taken is married.” </i></span></span></p>
 
@@ -25,7 +25,9 @@ next: chapter-21
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God said to him in the dream, </span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I know. I’ve kept you from sinning against me and didn’t let you touch her. </span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Give the man his wife. He’s a prophet; he’ll pray for you, and you’ll live. If you don’t, you can be sure you and everybody you have will die.”         </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gen 20:1-7</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                </span></i></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I know. I’ve kept you from sinning against me and didn’t let you touch her. </span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Give the man his wife. He’s a prophet; he’ll pray for you, and you’ll live. If you don’t, you can be sure you and everybody you have will die.”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Gen 20:1-7</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Abimelech got up early and called his officials and told them. They were really afraid. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He called Abraham, </span></span></p>

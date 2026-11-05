@@ -11,7 +11,7 @@ next: chapter-08
 
 ## Hebrews Chapter 7
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For this [the] <b><i>“Melchizedek, king of-Salem, priest of-[the] God [the] Most-High, the-one having-met Abraham returning from the slaughter of-the kings”</i></b> and <b><i>“having-blessed him,”</i></b> </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For this [the] <b><i>“Melchizedek, king of-Salem, priest of-[the] God [the] Most-High, the-one having-met Abraham returning from the slaughter of-the kings”</i></b> and <b><i>“having-blessed him,”</i></b> </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to-whom also <b><i>“Abraham”</i></b> divided <b><i>“(a) tenth from all-things,”</i></b><i>
 </i>first translated “King of-Righteousness,” but then also “King of-Salem,” that is, “King of-Peace”; </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>without-father, without-mother, without-genealogy, having neither beginning of-days nor end of-life, but having-been-likened to-the Son of-[the] God, he-remains (a) priest [unto the] continually.</span></span></p>
@@ -47,9 +47,7 @@ next: chapter-08
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and he-will┘not└repent-himself,</span></i></b></p>
 
-
-### ‘You (are) (a) priest unto the age/forever3.’”
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    ‘You (are) (a) priest </span></i></b><b><i><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>unto the age/forever<sup>3</sup></span></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.’”</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>By so-much [also]<sup>ms</sup> Jesus has-become guarantor of-(a)-better covenant.
 </span></span>

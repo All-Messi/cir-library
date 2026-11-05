@@ -15,7 +15,7 @@ next: chapter-05
 ### The Promise of Rest
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let’s be alert so none of us<i> </i>even looks like we’re coming short of a promise he left behind about <i>“going into his rest.”</i> </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let’s be alert so none of us<i> </i>even looks like we’re coming short of a promise he left behind about <i>“going into his rest.”</i> </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We’ve had good news presented to us just like they did. But what they heard didn’t do them any good because they didn’t combine hearing with believing. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> who believe <u>do</u> go into rest like he said,</span></span></p>
 
@@ -62,6 +62,8 @@ next: chapter-05
 <p class="MsoNormal" style='margin-bottom:0in;'><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We have a great high priest that’s passed through the sky, Jesus the Son of God. So let’s hold onto what we’re committed to. </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’s a high priest that can sympathize with our weaknesses because he has faced every temptation we have, but without sinning. </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So let’s boldly draw near to the throne of grace to receive mercy and find grace when we need it.            </span></span></p>
+
+<p class="section-ref">Heb 4:14-16</p>
 
 
 <style>

@@ -41,8 +41,6 @@ weight: 1
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve had so much I want to tell you<sup>sg</sup> but not in writing. </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I hope to see you soon and speak to you in person. Peace to you. Your friends send their greetings. Greet your friends by name.                                                               </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>3 Jn 13-14</span></b></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Translator: Virgil Warren,                                                                                               christir.org</span></p>
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

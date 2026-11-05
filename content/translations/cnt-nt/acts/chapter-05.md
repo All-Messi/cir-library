@@ -15,7 +15,7 @@ next: chapter-06
 ### Ananias and Sapphira
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A man named Ananias and his wife Sapphira also sold a piece of land. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A man named Ananias and his wife Sapphira also sold a piece of land. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He kept part of the price and took the rest to the apostles. (She was in on it.) </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Peter said, <i>“Ananias, why did Satan prompt you to lie to the Holy Spirit, when you kept part of the price of the field? </i></span></span>

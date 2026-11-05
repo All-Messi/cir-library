@@ -2,6 +2,7 @@
 title: "DISPENSATIONS"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-15
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -34,7 +35,7 @@ through the heads of <u>families</u>, or “patriarchs.”</span></p>
 style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=316 height=31
+style='font-size:12.0pt'><img alt="Patriarchal, Mosaic and Christian periods" width=316 height=31
 src="/images/essays/dispensations/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -62,7 +63,7 @@ at       </span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=377 height=149
+style='font-size:12.0pt'><img alt="Timeline: cross and Pentecost A.D. 30 (50 days), then 40 years to the fall of Jerusalem A.D. 70" width=377 height=149
 src="/images/essays/dispensations/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

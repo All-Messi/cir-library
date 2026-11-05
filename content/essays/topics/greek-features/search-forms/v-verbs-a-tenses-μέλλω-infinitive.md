@@ -1,7 +1,8 @@
 ---
-title: "V. Verbs A. Tenses μέλλω + infinitive"
-author: "Virgil Warren, christir.org"
+title: "V. Verbs"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-02-04
 categories:
 - 'Topics'
 - 'Greek Features'
@@ -167,7 +168,7 @@ margin-left:9.0pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>    
 imperative</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                     ouj(kc)
+margin-left:9.0pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                     οὐ(κχ)
 + present imperative  <b>[none]</b></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -181,16 +182,16 @@ lang=EL style='font-size:12.0pt'>οὐ</span><span style='font-size:12.0pt'> +
 aorist imperative   <b>[none]</b></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                     deu'teimperative
+margin-left:9.0pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                     δεῦτε + imperative
 (w/i 6 words before the imperative)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                     deu'roimperative
+margin-left:9.0pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                     δεῦρο + imperative
 (w/i 6 words before the imperative)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                     u{page,
-uJpavgete+ imperative (w/i 6 words before the imperative)</span></p>
+margin-left:9.0pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                     ὕπαγε,
+ὑπάγετε + imperative (w/i 6 words before the imperative)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:9.0pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                     second
@@ -224,7 +225,7 @@ margin-left:9.0pt;margin-bottom:.0001pt'><span style='font-size:12.0pt'>    
 lang=EL style='font-size:12.0pt'>ἵνα</span><span lang=EL style='font-size:12.0pt'>
 </span><span style='font-size:12.0pt'>+ [</span><span lang=EL style='font-size:
 12.0pt'>οὐ</span><span style='font-size:12.0pt'>, </span><span lang=EL
-style='font-size:12.0pt'>οὐκ</span><span style='font-size:12.0pt'>, oujc, </span><span
+style='font-size:12.0pt'>οὐκ</span><span style='font-size:12.0pt'>, οὐχ, </span><span
 lang=EL style='font-size:12.0pt'>οὐχί</span><span style='font-size:12.0pt'>, </span><span
 lang=EL style='font-size:12.0pt'>οὐκέτι</span><span style='font-size:12.0pt'>, </span><span
 lang=EL style='font-size:12.0pt'>οὔπω</span><span style='font-size:12.0pt'>, </span><span
@@ -233,7 +234,7 @@ lang=EL style='font-size:12.0pt'>οὔδε</span><span style='font-size:12.0pt'>
 lang=EL style='font-size:12.0pt'>οὐδεῖς</span><span lang=EL style='font-size:
 12.0pt'> </span><span lang=EL style='font-size:12.0pt'>οὐδεμία</span><span
 style='font-size:12.0pt'>, </span><span lang=EL style='font-size:12.0pt'>οὐδέν</span><span
-style='font-size:12.0pt'>, oujqeiv&quot; oujqevn, </span><span lang=EL
+style='font-size:12.0pt'>, οὐθείς οὐθέν, </span><span lang=EL
 style='font-size:12.0pt'>οὐδέποτε</span><span style='font-size:12.0pt'>, </span><span
 lang=EL style='font-size:12.0pt'>οὐδέπω</span><span style='font-size:12.0pt'>
 indicative</span></p>
@@ -583,7 +584,7 @@ margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>
 + accusative-participle [n/g]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     indicative-singular-eijmiv
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     indicative-singular-εἰμί
 + singular-nominative-present-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -632,163 +633,163 @@ lang=EL style='font-size:12.0pt'>γίνομαι</span><span lang=FR style='font
 12.0pt'> + plural-nominative-present-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     imperative-singular-uJpavrcw 
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     imperative-singular-ὑπάρχω 
 + singular-nominative-present-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     imperative-plural-uJpavrcw 
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     imperative-plural-ὑπάρχω 
 + plural-nominative-present-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     subjunctive-singular-eijmiv
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     subjunctive-singular-εἰμί
 + singular-nominative-present-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     subjunctive-plural-eijmiv
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     subjunctive-plural-εἰμί
 + plural-nominative-present-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     subjunctive-singular-givnomai
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     subjunctive-singular-γίνομαι
 + singular-nominative-present-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     subjunctive-plural-givnomai
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     subjunctive-plural-γίνομαι
 + plural-nominative-present-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     subjunctive-singular-uJpavrcw 
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     subjunctive-singular-ὑπάρχω 
 + singular-nominative-present-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     subjunctive-plural-uJpavrcw 
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     subjunctive-plural-ὑπάρχω 
 + plural-nominative-present-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     optative-singular-eijmiv
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     optative-singular-εἰμί
 + singular-nominative-present-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     optative-plural-eijmiv
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     optative-plural-εἰμί
 + plural-nominative-present-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     optative-singular-givnomai
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     optative-singular-γίνομαι
 + singular-nominative-present-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     optative-plural-givnomai
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     optative-plural-γίνομαι
 + plural-nominative-present-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     optative-singular-uJpavrcw 
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     optative-singular-ὑπάρχω 
 + singular-nominative-present-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     optative-plural-uJpavrcw
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     optative-plural-ὑπάρχω
 + plural-nominative-present-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     indicative-singular-eijmiv
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     indicative-singular-εἰμί
 + singular-nominative-present-perfect-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     indicative-plural-eijmiv
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     indicative-plural-εἰμί
 + plural-nominative-present-perfect-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     indicative-singular-givnomai
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     indicative-singular-γίνομαι
 + singular-nominative-present-perfect-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     indicative-plural-givnomai
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     indicative-plural-γίνομαι
 + plural-nominative-present-perfect-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     indicative-singular-uJpavrcw 
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     indicative-singular-ὑπάρχω 
 + singular-nominative-present-perfect-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     indicative-plural-uJpavrcw 
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     indicative-plural-ὑπάρχω 
 + plural-nominative-present-perfect-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     imperative-singular-eijmiv
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     imperative-singular-εἰμί
 + singular-nominative-present-perfect-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     imperative-plural-eijmiv
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     imperative-plural-εἰμί
 + plural-nominative-present-perfect-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     imperative-singular-givnomai
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     imperative-singular-γίνομαι
 + singular-nominative-present-perfect-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     imperative-plural-givnomai
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     imperative-plural-γίνομαι
 + plural-nominative-present-perfect-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     imperative-singular-uJpavrcw 
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     imperative-singular-ὑπάρχω 
 + singular-nominative-present-perfect-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     imperative-plural-uJpavrcw 
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     imperative-plural-ὑπάρχω 
 + plural-nominative-present-perfect-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     subjunctive-singular-eijmiv
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     subjunctive-singular-εἰμί
 + singular-nominative-present-perfect-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     subjunctive-plural-eijmiv
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     subjunctive-plural-εἰμί
 + plural-nominative-present-perfect-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     subjunctive-singular-givnomai
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     subjunctive-singular-γίνομαι
 + singular-nominative-present-perfect-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     subjunctive-plural-givnomai
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     subjunctive-plural-γίνομαι
 + plural-nominative-present-perfect-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     subjunctive-singular-uJpavrcw 
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     subjunctive-singular-ὑπάρχω 
 + singular-nominative-present-perfect-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     subjunctive-plural-uJpavrcw 
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     subjunctive-plural-ὑπάρχω 
 + plural-nominative-present-perfect-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     optative-singular-eijmiv
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     optative-singular-εἰμί
 + singular-nominative-present-perfect-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     optative-plural-eijmiv
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     optative-plural-εἰμί
 + plural-nominative-present-perfect-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     optative-singular-givnomai
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     optative-singular-γίνομαι
 + singular-nominative-present-perfect-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     optative-plural-givnomai
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     optative-plural-γίνομαι
 + plural-nominative-present-perfect-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     optative-singular-uJpavrcw 
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     optative-singular-ὑπάρχω 
 + singular-nominative-present-perfect-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     optative-plural-uJpavrcw 
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     optative-plural-ὑπάρχω 
 + plural-nominative-present-perfect-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     singular-eijmiv
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     singular-εἰμί
 + aorist-singular-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     plural-eijmiv
+margin-left:9.0pt;margin-bottom:.0001pt'><span lang=FR style='font-size:12.0pt'>                     plural-εἰμί
 + aorist-plural-participle</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

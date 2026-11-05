@@ -1598,7 +1598,7 @@ blockquote {
 }
 
 .gospel-mk {
-    color: #215868; /* Mark - Teal */
+    color: #006600; /* Mark - green (Virgil's Word colour; was teal #215868 until 2026-11-04) */
 }
 
 .gospel-lk {
@@ -1634,7 +1634,7 @@ blockquote {
 }
 
 .harmony-legend .gospel-mk {
-    border-left: 4px solid #215868;
+    border-left: 4px solid #006600;
 }
 
 .harmony-legend .gospel-lk {
@@ -1755,7 +1755,7 @@ blockquote {
     }
     
     .gospel-mt { color: #000000 !important; }
-    .gospel-mk { color: #215868 !important; }
+    .gospel-mk { color: #006600 !important; }
     .gospel-lk { color: #7030A0 !important; }
     .gospel-jn { color: #C00000 !important; }
 }
@@ -1789,7 +1789,7 @@ span.gospel-mt { color: #000000 !important; }
 
 .harmony-content .gospel-mk,
 .harmony-text .gospel-mk,
-span.gospel-mk { color: #215868 !important; }
+span.gospel-mk { color: #006600 !important; }
 
 .harmony-content .gospel-lk,
 .harmony-text .gospel-lk,
@@ -2020,9 +2020,9 @@ span.gospel-jn { color: #C00000 !important; }
     color: #000000;
 }
 
-/* Mark - Teal */
+/* Mark - Green (was teal #215868 until 2026-11-04) */
 .gospel-mk {
-    color: #215868;
+    color: #006600;
 }
 
 /* Luke - Purple */
@@ -2115,7 +2115,7 @@ strong em .verse-num {
 
 /* Ensure gospel colors work inside table cells */
 .genealogy-table .gospel-mt { color: #000000 !important; }
-.genealogy-table .gospel-mk { color: #215868 !important; }
+.genealogy-table .gospel-mk { color: #006600 !important; }
 .genealogy-table .gospel-lk { color: #7030A0 !important; }
 .genealogy-table .gospel-jn { color: #C00000 !important; }
 
@@ -2299,7 +2299,7 @@ strong em .verse-num {
 
 @media print {
     .gospel-mt { color: #000000 !important; }
-    .gospel-mk { color: #215868 !important; }
+    .gospel-mk { color: #006600 !important; }
     .gospel-lk { color: #7030A0 !important; }
     .gospel-jn { color: #C00000 !important; }
     

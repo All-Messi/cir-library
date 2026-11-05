@@ -57,8 +57,9 @@ next: chapter-07
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The exiles observed Passover on the <b>fourteenth of the first month</b>. </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The priests and Levites had purified themselves. They killed the Passover lamb for all the exiles, for their brothers the priests, and for themselves. </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Israelites from the exile and the ones that had separated themselves from the impurity of the nations in the land, joined them in reaching out to Yahveh God of Israel by eating <i>the Passover</i>. </span></span>
-<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They observed the Festival of Unleavened Bread for a week with joy because Yahveh had given them reason to celebrate. He had inclined the heart of the Assyrian king to encourage them in the work on his Temple.                </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ezra 6:13-22</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>
-</span></b></span></p>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They observed the Festival of Unleavened Bread for a week with joy because Yahveh had given them reason to celebrate. He had inclined the heart of the Assyrian king to encourage them in the work on his Temple.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Ezra 6:13-22</p>
 
 
 <style>

@@ -40,7 +40,7 @@ next: chapter-16
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The priests and Levites consecrated themselves to bring up the Ark. </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Levites carried it on their shoulders, with the poles on it like Moses had commanded by Yahveh’s message.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                          </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 15:1-15</span></b></p>
+<p class="section-ref">1 Ch 15:1-15</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David told the chiefs among the Levites to appoint their relatives the singers and the ones with musical instruments—harps, lyres, loud cymbals—to make joyful music. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Levites appointed Heman Ben-Joel and his relatives, Asaph Ben-Berechiah, and Ethan Ben-Kushaiah from the descendants of Merari their relatives. </span></span>
@@ -50,13 +50,17 @@ next: chapter-16
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mattithiah, Eliphelehu, Mikneiah, Obed-edom, Jeiel, and Azaziah were to lead with lyres pitched to <i>The Sheminith</i>. </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Chenaniah, chief of the Levites, was in charge of the singing. He taught singing because he was good at it. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Berechiah and Elkanah were gatekeepers for the Ark. </span></span>
-<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer the priests blew bugles ahead of the Ark. Obed-edom and Jehiah were also gatekeepers for the Ark.   </span><b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>1 Ch 15:16-24</span></b></span></p>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer the priests blew bugles ahead of the Ark. Obed-edom and Jehiah were also gatekeepers for the Ark.   </span></span></p>
+
+<p class="section-ref">1 Ch 15:16-24</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David, with the elders in Israel and the commanders of thousands, went to bring up the Ark from Obed-edom’s house with joy. </span></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Because God was helping the Levites that were carrying the Ark, they sacrificed 7 bulls and 7 rams. </span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David dressed in a fine linen robe with the Levites that were carrying the Ark, the singers, and Chenaniah, who led the singing. David also wore a linen ephod. </span></span>
-<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel brought up the Ark <a name="_Hlk138171656">with shouting, blowing rams’ horns and trumpets, crashing cymbals, and playing harps and lyres. </a></span></span>
-<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the Ark came to The City of David, Saul’s daughter Michal looked out the window and saw King David dancing and celebrating; and she despised him.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>         1 Ch 15:25-29</span></b></span></p>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel brought up the Ark with shouting, blowing rams’ horns and trumpets, crashing cymbals, and playing harps and lyres. </span></span>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the Ark came to The City of David, Saul’s daughter Michal looked out the window and saw King David dancing and celebrating; and she despised him.</span></span></p>
+
+<p class="section-ref">1 Ch 15:25-29</p>
 
 
 <style>

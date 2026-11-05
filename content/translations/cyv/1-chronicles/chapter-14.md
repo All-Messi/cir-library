@@ -21,7 +21,9 @@ next: chapter-15
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His children born in Jerusalem were Shammua, Shobab, Nathan, Solomon,<b> </b></span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ibhar, Elishua, Elpelet, </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nogah, Nepheg, Japhia, </span></span>
-<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Elishama, Beeliada, and Eliphelet.</span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                                       1 Ch 14:1-7</span></b></span></p>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Elishama, Beeliada, and Eliphelet.</span></span></p>
+
+<p class="section-ref">1 Ch 14:1-7</p>
 
 
 ### Philistines Defeated
@@ -40,7 +42,9 @@ next: chapter-15
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t attack them head on. Circle around behind them and come at them across from the balsam trees. </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When you hear marching in the tops of the balsam trees, attack. God will have gone out ahead of you to strike their army.”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David did that, and they struck down the Philistine army from Gibeon to Gezer. </span></span>
-<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His fame went out to all the countries, and Yahveh made them afraid of him.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                    1 Ch 14:8-17</span></b></span></p>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His fame went out to all the countries, and Yahveh made them afraid of him.</span></span></p>
+
+<p class="section-ref">1 Ch 14:8-17</p>
 
 
 <style>

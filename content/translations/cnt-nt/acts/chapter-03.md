@@ -15,7 +15,7 @@ next: chapter-04
 ### Healing the Lame Man at Gate Beautiful
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Peter and John were going up into the Temple at 3 o’clock prayer. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Peter and John were going up into the Temple at 3 o’clock prayer. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Daily, people had been carrying a man crippled from birth <i>and taking him</i> to the Temple gate called <i>Gate </i>Beautiful to ask for alms from people going into the Temple. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he saw Peter and John about to go in, he asked for alms. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Peter looked at him with John and said, <i>“Look at us.”</i> </span></span></p>

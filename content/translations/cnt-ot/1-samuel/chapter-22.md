@@ -15,7 +15,7 @@ next: chapter-23
 ### David at the Case of Adullam
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David left and got to the cave near Adullam. When his brothers and father’s family heard, they came down. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David left and got to the cave near Adullam. When his brothers and father’s family heard, they came down. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Everybody in distress, in debt, or disheartened gathered to him till became the captain of about 400 men.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He went from there to Mizpah in Moab and said to the king, <i>“Please let my parents stay with you till I know what God will do for me.”</i> </span></span>

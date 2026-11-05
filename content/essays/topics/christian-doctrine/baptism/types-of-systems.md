@@ -2,6 +2,7 @@
 title: "TYPES OF SYSTEMS"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-14
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -43,7 +44,7 @@ baptism back and forth between different systems without realizing it.</span></p
 style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=270 height=78
+style='font-size:12.0pt'><img alt="Legal system: action → authority → result" width=270 height=78
 src="/images/essays/types-of-systems/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -62,7 +63,7 @@ it so and makes it occur.</span></p>
 style='font-size:14.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=270 height=74
+style='font-size:12.0pt'><img alt="Natural system: action → force → result" width=270 height=74
 src="/images/essays/types-of-systems/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -78,7 +79,7 @@ the wet dog.       </span></p>
 style='font-size:14.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=269 height=73
+style='font-size:12.0pt'><img alt="Interpersonal system: action → choice → result" width=269 height=73
 src="/images/essays/types-of-systems/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

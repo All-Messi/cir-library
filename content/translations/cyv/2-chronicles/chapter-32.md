@@ -25,7 +25,9 @@ next: chapter-33
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Be strong and courageous; don’t be afraid or intimidated by Assyria’s king or his host. The One that’s with us is greater than the one that’s with him. </span></i></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>All he’s got is a physical army, but we have Yahveh our God to help us and fight our battles.”</span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people trusted what he said.</span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                                                        2 Ch 32:1-8</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people trusted what he said.</span></p>
+
+<p class="section-ref">2 Ch 32:1-8</p>
 
 
 ### Sennacherib Threatens Jerusalem
@@ -38,7 +40,9 @@ next: chapter-33
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hasn’t the same Hezekiah taken away his high places and altars, and told Judah and Jerusalem to worship at one altar and burn incense on <u>it</u>? </span></i></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t you know what my predecessors and I have done to all the countries? Were their gods able to deliver their land from me? </span></i></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who among them that my predecessors destroyed, could deliver his people from me? </span></i></span>
-<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t let Hezekiah mislead you. No god could deliver his people from me and the kings before me. How much less <u>your</u> God?’”           </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 32:9-15</span></b></span></p>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t let Hezekiah mislead you. No god could deliver his people from me and the kings before me. How much less <u>your</u> God?’”           </span></i></span></span></p>
+
+<p class="section-ref">2 Ch 32:9-15</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His officers spoke against </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh God and Hezekiah. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He wrote letters to insult </span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Yahveh God of Israel:</span></span></p>
@@ -51,7 +55,9 @@ next: chapter-33
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But King Hezekiah and the prophet Isaiah Ben-Amoz, prayed about that and appealed to Heaven. </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh sent an angel that destroyed every powerful soldier, commander, and officer in the camp. <i>Sennacherib</i> went back to his own land humiliated. When he entered the temple of his god, <i>two</i> of his own sons killed him with a sword. </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh saved Hezekiah, the people in Jerusalem, and the rest and guided them on every side. </span></span>
-<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Many people started bringing gifts to </span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Yahveh at Jerusalem and special presents to Hezekiah so that all the nations regarded him highly after that.                                                                                                                                         </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 32:16-23</span></b></span></p>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Many people started bringing gifts to </span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Yahveh at Jerusalem and special presents to Hezekiah so that all the nations regarded him highly after that.                                                                                                                                         </span></span></p>
+
+<p class="section-ref">2 Ch 32:16-23</p>
 
 
 ### Hezekiah’s Sickness and Recovery
@@ -71,7 +77,9 @@ next: chapter-33
 
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of his acts and his deeds of devotion are recorded in </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Vision of the Prophet</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Isaiah Ben-Amoz</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> and </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Book of the Kings of Judah and Israel</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>. </span></span>
-<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died and they buried him in the upper section of the tombs of David’s descendants. The people in Judah and Jerusalem honored him when he died. His son Manasseh became king.</span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                          2 Ch 32:24-33   </span></b></span></p>
+<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died and they buried him in the upper section of the tombs of David’s descendants. The people in Judah and Jerusalem honored him when he died. His son Manasseh became king.</span></span></p>
+
+<p class="section-ref">2 Ch 32:24-33</p>
 
 
 <style>

@@ -19,8 +19,7 @@ next: chapter-12
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%'>But Jehosheba, King Joram’s daughter, Ahaziah’s sister, stole Ahaziah’s son Joash from the king’s sons they were killing. She hid him with his nurse in a bedroom, so he wasn’t killed. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%'>She hid him in Yahveh’s Temple for 6 years while <b>Athaliah</b> ruled the country.</span><b><span style='font-size: 10.0pt;line-height:115%'> </span></b></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><b><span style='font-size:10.0pt; line-height:115%'>                                                                                                                                2 Kg 11:1-3</span></b><b><span style='font-size:12.0pt;line-height:115%'>
-</span></b></p>
+<p class="section-ref">2 Kg 11:1-3</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height: 115%'>In the <b>seventh year</b>, Jehoiada the priest sent for the commanders of hundreds of the Carite mercenaries together with the palace guard and brought them to Yahveh’s Temple. He made a covenant with them and put them under oath. He showed them the king’s son </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%'>and told them, </span></span></p>
@@ -35,7 +34,7 @@ next: chapter-12
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height: 115%'>He brought him out, put the crown on him, and gave him the Testimony. They anointed him king, clapped their hands, and said, <i>“Long live the king!”</i><b>
 </b></span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><b><span style='font-size:12.0pt;line-height:115%'>                                                                                                                              </span></b><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 11:4-12</span></b><b><span style='font-size:12.0pt;line-height:115%'>           </span></b></p>
+<p class="section-ref">2 Kg 11:4-12</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height: 115%'>When Athaliah heard the noise, she came to Yahveh’s Temple. </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%'>She saw the king standing by the pillar according to custom with the captains and buglers beside him. The people were celebrating and blowing the bugles. She tore her clothes and cried, <i>“Treason! Treason!” </i></span></span>
@@ -48,7 +47,9 @@ next: chapter-12
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%'>The people celebrated and the city grew quiet. </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height: 115%'>Jehoash was 7 when he became king.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 11:13-21</span></b></span></p>
+</b></span></span></p>
+
+<p class="section-ref">2 Kg 11:13-21</p>
 
 
 <style>

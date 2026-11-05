@@ -23,7 +23,9 @@ next: chapter-15
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ibhar, Elishua, Elpelet, </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nogah, Nepheg, Japhia, </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Elishama, Beeliada, and Eliphelet.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 14:1-7</span></b></span></p>
+</b></span></span></p>
+
+<p class="section-ref">1 Ch 14:1-7</p>
 
 
 ### Philistines Defeated
@@ -43,7 +45,9 @@ next: chapter-15
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David did that, and they struck down the Philistine army from Gibeon to Gezer. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His fame went out to all the countries, and the L</span><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> made them afraid of him.
-</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 14:8-17</span></b></span></p>
+</span></span></p>
+
+<p class="section-ref">1 Ch 14:8-17</p>
 
 
 <style>

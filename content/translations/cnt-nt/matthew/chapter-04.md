@@ -15,7 +15,7 @@ next: chapter-05
 ### The Temptation of Jesus
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then the Spirit led Jesus into the desert to be tempted by the devil. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then the Spirit led Jesus into the desert to be tempted by the devil. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After fasting 40 days, he was hungry, </span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> and the tempter came, <i>“If you’re God’s Son, tell these stones to become loaves of bread.”</i></span></span></p>
 
@@ -28,9 +28,7 @@ next: chapter-05
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The devil took<sup>p</sup> him to the Holy City and stood him on the pinnacle of the Temple, </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If you’re God’s Son, throw yourself down. Scripture says,</span></i></span></p>
 
-
-### ‘He’ll tell his angels to catch you
-
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>‘He’ll tell his angels to catch you</i></b></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    so you’ll never trip over a rock’</span></i></b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Ps 91:11-12]</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>.</span></p>
 
@@ -43,9 +41,7 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus said<sup>p</sup>, <i>“Go away, Satan. Scripture says, </i></span></span></p>
 
-
-### ‘Worship the LORD your God,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>‘Worship the L</i></b></span><b><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> your God,</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and
 </span></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>only <b>serve <u>him</u>’</b>”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Deut 6:13].</span></b></p>
@@ -68,21 +64,19 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>by the Jordan, </span></i></b></p>
 
-
-### Galilee of the Gentiles—
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Galilee of the Gentiles—</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i></b><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>people that lived in darkness</span></i></b></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    have seen a bright light.</span></i></b></p>
 
-
-### It has dawned on those who lived
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        It has dawned on those who lived </span></i></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>in a region of deep darkness”</span></i></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Is 9:1-2]</span></b><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>.</span><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>          <b>   </b></span></i></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>               </span><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From then on, Jesus preached, <i>“Repent; the kingdom of heaven’s coming.”</i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>   Mt 4:12-17</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>               </span><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From then on, Jesus preached, <i>“Repent; the kingdom of heaven’s coming.”</i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Mt 4:12-17</p>
 
 
 ### Calling Four Fishermen

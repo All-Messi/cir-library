@@ -1,7 +1,8 @@
 ---
-title: "VERBS Compounds, types of (not including morpheme-root combinations) non-prepositional compounds"
-author: "Virgil Warren, christir.org"
+title: "Verbs: Types of Compounds"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-02-04
 categories:
 - 'Topics'
 - 'Greek Features'
@@ -119,11 +120,11 @@ style='font-size:12.0pt'>Governance</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            genitive  [`a{ptomai]</span></p>
+style='font-size:12.0pt'>            genitive  [`ἅπτομαι]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            dative  [ajkolouqevw]</span></p>
+style='font-size:12.0pt'>            dative  [ἀκολουθέω]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -133,30 +134,30 @@ style='font-size:12.0pt'>            accusative</span></p>
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            accusatives, capable of governing two,
 that are object + objective complement [= verbs able to be followed by a
-nominative in passive transforms] [euJrivskw, tivqhmi,                    kalevw,
-ojnomavzw, levgw]</span></p>
+nominative in passive transforms] [εὑρίσκω, τίθημι,                    καλέω,
+ὀνομάζω, λέγω]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            accusatives, capable of governing two,
 that are not object + objective complement [= verbs able to be followed by a
-nominative in passive transforms] [aijtevw, ejrwtavw,                      didavskw,
-ajnamimnhvskw]</span></p>
+nominative in passive transforms] [αἰτέω, ἐρωτάω,                      διδάσκω,
+ἀναμιμνήσκω]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            genitive or accusative  [ajkouvw,
-ajnevcomai, a[rcomai, geuvomai, ejpiqumevw, kratevw, mnhmoneuvw]</span></p>
+style='font-size:12.0pt'>            genitive or accusative  [ἀκούω,
+ἀνέχομαι, ἄρχομαι, γεύομαι, ἐπιθυμέω, κρατέω, μνημονεύω]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            genitive and accusative objects at the
-same time [kathgorevw, pivmplhmi, plhrovw]</span></p>
+same time [κατηγορέω, πίμπλημι, πληρόω]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            </span><span lang=FR style='font-size:
-12.0pt'>dative or accusative  [;diakonevw, latreuvw, proskunevw, cravomai]</span></p>
+12.0pt'>dative or accusative  [;διακονέω, λατρεύω, προσκυνέω, χράομαι]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
@@ -182,38 +183,38 @@ tense to tense]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                           eei</span></p>
+style='font-size:12.0pt'>                           e∅ei</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                           eh/</span></p>
+style='font-size:12.0pt'>                           e∅h/</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                           euhu</span></p>
+style='font-size:12.0pt'>                           eu∅hu</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                           eueu</span></p>
+style='font-size:12.0pt'>                           eu∅eu</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                    </span><span lang=FR
-style='font-size:12.0pt'>temporal plus syllabic augment  [mevllw</span><span
-style='font-size:12.0pt'></span><span lang=FR style='font-size:12.0pt'>h[mellon;
-ajnoivgw</span><span style='font-size:12.0pt'></span><span lang=FR
-style='font-size:12.0pt'>ajnevw/xa]</span></p>
+style='font-size:12.0pt'>temporal plus syllabic augment  [μέλλω</span><span
+style='font-size:12.0pt'>∅</span><span lang=FR style='font-size:12.0pt'>ἤμελλον;
+ἀνοίγω</span><span style='font-size:12.0pt'>∅</span><span lang=FR
+style='font-size:12.0pt'>ἀνέω/ξα]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
 style='font-size:12.0pt'>                    </span><span style='font-size:
-12.0pt'>irregular augment  [qevlw  h[qelon, because earlier the present began
+12.0pt'>irregular augment  [θέλω ∅ ἤθελον, because earlier the present began
 with </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=EL
 style='font-size:12.0pt'>                           </span><span
-style='font-size:12.0pt'>ej-]</span></p>
+style='font-size:12.0pt'>ἐ-]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -235,7 +236,7 @@ style='font-size:12.0pt'>            reduplication</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                    vowel-initial perfects with
-syllabic reduplication  [ajkouvwajkhvkoa]</span></p>
+syllabic reduplication  [ἀκούω∅ἀκήκοα]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -245,7 +246,7 @@ corresponding voiceless stop + e (regular)</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                    double reduplication on
-vowel-initial words  [oJravweJwvraka]</span></p>
+vowel-initial words  [ὁράω∅ἑώρακα]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -261,7 +262,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>Impersonal  [dei', crh'/]</span></p>
+style='font-size:12.0pt'>Impersonal  [δεῖ, χρῆ/]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -321,11 +322,11 @@ aorists]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -avnw</span></p>
+style='font-size:12.0pt'>                    -άνω</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                    -aivnw</span></p>
+style='font-size:12.0pt'>                    -αίνω</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -364,8 +365,8 @@ style='font-size:12.0pt'>            first-aorist  <b>vs.</b></span>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            first aorist not showing s  [mevnw 
-e[meina] <b>vs.</b></span></p>
+style='font-size:12.0pt'>            first aorist not showing s  [μένω ∅
+ἔμεινα] <b>vs.</b></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -382,8 +383,8 @@ both   <b>vs.</b></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            root aorists [e[bhn &lt; ba-, present =
-baivnw]</span></p>
+style='font-size:12.0pt'>            root aorists [ἔβην &lt; ba-, present =
+βαίνω]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -399,7 +400,7 @@ style='font-size:12.0pt'>            second perfects  <b> vs.</b></
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            perfect form with present meaning [oi\da]</span></p>
+style='font-size:12.0pt'>            perfect form with present meaning [οἶδα]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -417,12 +418,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            building up roots by adding corresponding
-nasal + avnw  [la(m)b(avnw) &lt; lab;</span></p>
+nasal + άνω  [λα(μ)β(άνω) &lt; lab;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                    </span><span lang=FR
-style='font-size:12.0pt'>tu(g)c(avnw) &lt; tuc]</span></p>
+style='font-size:12.0pt'>τυ(γ)χ(άνω) &lt; tuc]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
@@ -434,7 +435,7 @@ style='font-size:12.0pt'>Reduplication</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            aorists  [h[gagon]</span></p>
+style='font-size:12.0pt'>            aorists  [ἤγαγον]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -443,8 +444,8 @@ considerations&quot;]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            presents:  divdwmi, i{sthmi, tivqhmi,
-pipravzw, gignwvskw, giv(g)nomai</span></p>
+style='font-size:12.0pt'>            presents:  δίδωμι, ἵστημι, τίθημι,
+πιπράζω, γιγνώσκω, γί(γ)νομαι</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -481,8 +482,8 @@ style='font-size:12.0pt'>            Action verbs <b>vs.</b></span></
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            linking verbs  [eijmiv, giv(g)nomai,
-uJpavrcw]  <b>vs.</b></span></p>
+style='font-size:12.0pt'>            linking verbs  [εἰμί, γί(γ)νομαι,
+ὑπάρχω]  <b>vs.</b></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -497,7 +498,7 @@ style='font-size:12.0pt'>                    </span><span sty
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            capable of being followed by nominative
-when passive [tivqhmi, kalevw, euJrivskw]</span></p>
+when passive [τίθημι, καλέω, εὑρίσκω]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -505,7 +506,7 @@ style='font-size:12.0pt'>            frequentatives</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            desideratives:  -seivw, avw, iavw</span></p>
+style='font-size:12.0pt'>            desideratives:  -σείω, άω, ιάω</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -545,70 +546,70 @@ style='font-size:12.0pt'>            a-collective or intensive</span>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            </span><span lang=FR style='font-size:
-12.0pt'>ajrci-, dus-, euj-, hJmi-, nh-,</span></p>
+12.0pt'>ἀρχι-, dus-, εὐ-, ἡμι-, nh-,</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
-style='font-size:12.0pt'>            </span><span style='font-size:12.0pt'>-avw
+style='font-size:12.0pt'>            </span><span style='font-size:12.0pt'>-άω
 [denominatives] </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -avzw [denominatives] </span></p>
+style='font-size:12.0pt'>            -άζω [denominatives] </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -aivnw (causative except in verbs of
+style='font-size:12.0pt'>            -αίνω (causative except in verbs of
 mental action) [denominatives] </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -auvrw [denominatives]</span></p>
+style='font-size:12.0pt'>            -αύρω [denominatives]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -eivr [denominatives]</span></p>
+style='font-size:12.0pt'>            -είρ [denominatives]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -euvw [denominatives] </span></p>
+style='font-size:12.0pt'>            -εύω [denominatives] </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -evw [denominatives]</span></p>
+style='font-size:12.0pt'>            -έω [denominatives]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -aivnw</span></p>
+style='font-size:12.0pt'>            -αίνω</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -avnw</span></p>
+style='font-size:12.0pt'>            -άνω</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -avnw (plus a corresponding nasal inserted
+style='font-size:12.0pt'>            -άνω (plus a corresponding nasal inserted
 in the root before its related sould)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -avw (often desideratives)</span></p>
+style='font-size:12.0pt'>            -άω (often desideratives)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -evw</span></p>
+style='font-size:12.0pt'>            -έω</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -euvw</span></p>
+style='font-size:12.0pt'>            -εύω</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -iavw (often desideratives)</span></p>
+style='font-size:12.0pt'>            -ιάω (often desideratives)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -ivzw [denominatives] </span></p>
+style='font-size:12.0pt'>            -ίζω [denominatives] </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -620,12 +621,12 @@ style='font-size:12.0pt'>            -nw</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -ovw  (causative except in verbs of mental
+style='font-size:12.0pt'>            -όω  (causative except in verbs of mental
 action)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -seivw (often desideratives)</span></p>
+style='font-size:12.0pt'>            -σείω (often desideratives)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
@@ -637,16 +638,16 @@ style='font-size:12.0pt'>            -tw</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -uvzw [denominatives]</span></p>
+style='font-size:12.0pt'>            -ύζω [denominatives]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -uvnw (usually causative/intensive, except
+style='font-size:12.0pt'>            -ύνω (usually causative/intensive, except
 in verbs of mental action) [denominatives]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>            -uvrw [denominatives]</span></p>
+style='font-size:12.0pt'>            -ύρω [denominatives]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span

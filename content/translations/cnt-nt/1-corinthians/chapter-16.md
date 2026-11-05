@@ -14,7 +14,7 @@ prev: chapter-15
 ### The Collection for Hebrew Christians
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>About the collection for the saints. Do what I told the churches in Galatia. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>About the collection for the saints. Do what I told the churches in Galatia. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Every first <i>day</i> of the week, each of you lay aside in store as things go for you, so there won’t be any collecting after I get there. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When I arrive, whoever you appoint, I’ll send with letters to carry your gift to Jerusalem. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If it’s appropriate for me to go too, we’ll go together.</span></span></p>
@@ -60,8 +60,6 @@ prev: chapter-15
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>My love </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>is</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> with you all in Christ Jesus. Amen.         </span></span></p>
 
 <p class="section-ref">1 Cor 16:19-24</p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Translator: Virgil Warren                                                                                                 </span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 
 
 <style>

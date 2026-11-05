@@ -12,10 +12,6 @@ next: chapter-04
 ## Amos Chapter 3
 
 
-### Amos 2:12-16
-
-
-
 ### Witnesses Summoned Against Israel
 
 
@@ -45,13 +41,11 @@ next: chapter-04
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A lion has roared! Who’s not afraid?</span></i></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            The Lord G</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>OD</span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> has spoken! Who can refuse to prophesy?”</span></i><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>    </span></b></p>
 
-### The Lord GOD has spoken! Who can refuse to prophesy?”
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b></p>
 
-
-
-### Amos 3:1-8
-
+<p class="section-ref">Amos 3:1-8</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Declare on the fortresses in Ashdod and Egypt: </span></span></p>
 

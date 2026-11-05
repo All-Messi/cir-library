@@ -2,10 +2,12 @@
 title: "OBSERVING THE LORDS SUPPER"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-17
 categories:
 - 'Topics'
 - 'Christian Living'
 - 'Christian Living Book'
+weight: 25
 draft: false
 ---
 

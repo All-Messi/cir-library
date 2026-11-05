@@ -15,7 +15,8 @@ next: chapter-25
 ### Balaam’s Third Oracle
 
 
-<p class="MsoListBulletCxSpMiddle" ><a name="_Hlk126744975"></a><a name="_Hlk126747210"><b><span style='font-size: 14.0pt;line-height:115%;font-family:"Times New Roman",serif'>24<sup>;1</sup></span></b></a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Balaam saw that it pleased the L</span><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> to bless Israel, he didn’t go like before to look for omens, but faced the open country. </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He saw Israel camping by tribes, and God’s Spirit came on him. </span></span>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Balaam saw that it pleased the L</span><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> to bless Israel, he didn’t go like before to look for omens, but faced the open country. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He saw Israel camping by tribes, and God’s Spirit came on him. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He took up this oracle:</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“The oracle of Balaam son of Beor,</span></i></b></p>
@@ -28,7 +29,7 @@ next: chapter-25
 
 <p class="MsoListBulletCxSpMiddle" ><b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                        that falls down with his eyes wide open.</span></i></b></p>
 
-<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span></i><a name="_Hlk126745689"></a><a name="_Hlk126747309"><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“How fair your tents, Jacob,</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span></i><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“How fair your tents, Jacob,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  the places where you live, Israel!</span></i></p>
 
@@ -48,7 +49,7 @@ next: chapter-25
 
 <p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  his kingdom will be exalted</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span></i><a name="_Hlk126747466"><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> </a><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God is bringing him out of Egypt;</span></i></b></span></p>
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God is bringing him out of Egypt;</span></i></b></span></p>
 
 <p class="MsoListBulletCxSpMiddle" ><b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                  he’s like the horns of a wild ox for him.</span></i></b></p>
 
@@ -58,7 +59,7 @@ next: chapter-25
 
 <p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  and shatter them with his arrows.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span></i><a name="_Hlk126746245"><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> lies down like a lion;</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span></i><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> lies down like a lion;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  who dares to rouse him?</span></i></p>
 
@@ -75,8 +76,8 @@ next: chapter-25
 <p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balaam said</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
 </span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Didn’t I tell your messengers, </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Though Balak gives me his house full of silver and gold, on my own I can’t do anything contrary to the L</span></i><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s command, good or bad. I’ll say what he says.’? </span></i><a name="_Hlk126747627"></span>
-<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m going to my people, but I’ll advise you what this nation will do to your people later.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                                                                 </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Didn’t I tell your messengers, </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Though Balak gives me his house full of silver and gold, on my own I can’t do anything contrary to the L</span></i><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s command, good or bad. I’ll say what he says.’? </span></i></span>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m going to my people, but I’ll advise you what this nation will do to your people later.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                                                                 </span></span></p>
 
 <p class="section-ref">Num 24:10-14</p>
 
@@ -84,7 +85,7 @@ next: chapter-25
 ### Balaam’s Last Oracle
 
 
-<p class="MsoListBulletCxSpMiddle" ><a name="_Hlk126747840"><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He took up this oracle:</span></span></p>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He took up this oracle:</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“The oracle of Balaam son of Beor,</span></i></b></p>
 
@@ -123,7 +124,7 @@ next: chapter-25
 
 <p class="section-ref">Num 24:15-19</p>
 
-<p class="MsoListBulletCxSpMiddle" ><a name="_Hlk126748019"><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He looked at Amalek and took up this oracle:</span></span></p>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He looked at Amalek and took up this oracle:</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“Amalek was first among the nations,</span></i></p>
 

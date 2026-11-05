@@ -15,7 +15,7 @@ next: chapter-13
 ### Miriam and Aaron Oppose Moses
 
 
-<p class="MsoListBulletCxSpMiddle" ><a name="_Hlk126673165"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Miriam and Aaron criticized Moses for the Nubian woman he’d married. </span></span>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Miriam and Aaron criticized Moses for the Nubian woman he’d married. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Has the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> indeed only spoken through you? Hasn’t he spoken through us too?” </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> heard it. (</span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-family: "Times New Roman",serif'>Moses was the most humble man in the world</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.)
 </span></span>

@@ -2,6 +2,7 @@
 title: "SHORTENING UP THE STUDY OF SALVATION FROM What the Bible Says About Salvation"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-12
 categories:
 - 'Topics'
 - 'Christian Doctrine'

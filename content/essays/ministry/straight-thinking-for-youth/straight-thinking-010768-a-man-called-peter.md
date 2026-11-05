@@ -1,11 +1,15 @@
 ---
-title: "Straight Thinking 010768 A MAN CALLED PETER"
-author: "Virgil Warren, christir.org"
+title: "A Man Called Peter"
+subtitle: "Straight Thinking, January 7, 1968"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-12
 categories:
 - 'Ministry'
 - 'Straight Thinking For Youth'
 draft: false
+aliases:
+- /essays/ministry/straight-thinking-for-youth/straight-thinking/
 ---
 
 <style>
@@ -26,14 +30,11 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>Straight Thinking</span></b></p>
 
-<p class=MsoNormal align=center style='margin-bottom:.25in;text-align:center'><span
-style='font-size:10.0pt;line-height:115%'>010768</span></p>
 
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%'>A MAN CALLED PETER</span></p>
+
+
+
 
 <p class=MsoNormal style='text-align:justify'><i><span style='font-size:12.0pt;
 line-height:115%'>Sunday. </span></i><span style='font-size:12.0pt;line-height:
@@ -106,6 +107,5 @@ serve. (</span><span style='font-size:10.0pt;line-height:115%'>Read John <b>21</
 style='font-size:12.0pt;line-height:115%'>.)</span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
-line-height:115%'>Virgil Warren, <u>Straight</u>, January 7, 1968, p13                                                                                            
-christir.org</span></p>
+line-height:115%'>Virgil Warren, <u>Straight</u>, January 7, 1968, p13</span></p>
 </div>

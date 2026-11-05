@@ -15,7 +15,7 @@ next: chapter-11
 ### Sermon on the Good Shepherd
 
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></b><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>10</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:</span></sup></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Whoever doesn’t go through the gate into the sheep pen but climbs up somewhere else, is a thief. </span></i></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Whoever doesn’t go through the gate into the sheep pen but climbs up somewhere else, is a thief. </span></i></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A shepherd comes through the gate. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The gatekeeper lets him in, and the sheep recognize his voice. He calls them by name and leads them out. </span></i></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he gets them out, he goes in front of them, and they follow him because they know his voice. </span></i></span>
@@ -51,7 +51,7 @@ next: chapter-11
 ### Jesus at the Feast of Dedication
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Festival of Dedication <a name="_Hlk142056041"><i>[Hanukkah] </i></a>took place in Jerusalem during the winter, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Festival of Dedication <i>[Hanukkah] </i>took place in Jerusalem during the winter, </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and Jesus was walking in the Temple in Solomon’s Colonnade. </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Jews surrounded him and said, <i>“How long are you going to keep us in suspense? Are you the Messiah? Tell us plainly.”</i></span></span></p>
 

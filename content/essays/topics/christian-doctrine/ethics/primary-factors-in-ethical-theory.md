@@ -2,6 +2,8 @@
 title: "PRIMARY FACTORS IN ETHICAL THEORY"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-10-26
+lastmod: 2025-07-15
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -148,7 +150,7 @@ of these two main facets of living.</span></p>
 style='font-size:12.0pt'>     </span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=333 height=238 id="Picture 1"
+style='font-size:12.0pt'><img alt="Vertical (A-1), horizontal (A-2) and individual (A-3, inner and outer) dimensions; eschatological (B-1); existential" width=333 height=238 id="Picture 1"
 src="/images/essays/primary-factors-in-ethical-theory/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -392,7 +394,7 @@ how to act with other people than what is moral or ethical in the strict sense.
 action is the understood intent. It is communicated by divine command. Telling
 the truth is an example.</span></p>
 
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><img
+<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><img alt="Nested ellipses: morality (“command”) within wisdom (“advice”) within ministry (“commission”)"
 width=322 height=131 src="/images/essays/primary-factors-in-ethical-theory/image002.png" align=left hspace=12><span
 style='font-size:12.0pt'>            The accompanying diagram shows two other
 kinds of interpersonal action and their relationship to ethics. People live

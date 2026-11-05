@@ -2,6 +2,8 @@
 title: "ETERNAL OPPORTUNITY FOR SALVATION THROUGH CHRIST?"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2023-07-06
+lastmod: 2025-07-10
 categories:
 - 'Topics'
 - 'Christian Doctrine'

@@ -10,10 +10,6 @@ next: chapter-02
 
 ## Song of Solomon Chapter 1
 
-
-### Conversational Yahveh Covenant
-
-
 <p class="MsoNormal" align=center style='margin-bottom:0in;text-align:center'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Solomon’s Song of Songs</span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bride</span></p>
@@ -28,9 +24,9 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>            </span></i><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>Take me with you; let’s hurry off together!</span></i></span></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  The king will take me to his rooms.</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>          </span></b></span></p>
 
-### The king will take me to his rooms.                      S of S 1:1-4
-
+<p class="section-ref">S of S 1:1-4</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Friends</span></p>
 
@@ -70,9 +66,7 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and pasture your young goats by the shepherds’ tents.</span></i></p>
 
-
-### S of S 1:5-8
-
+<p class="section-ref">S of S 1:5-8</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“My darling, to me you’re like my mare among Pharaoh’s chariots.</span></i></span></p>
 
@@ -97,7 +91,9 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>My beloved is to me a cluster of henna blossoms</span></i></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  in the vineyards of En-gedi.”</span></i><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                S of S 1:9-14</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  in the vineyards of En-gedi.”</span></i></span></p>
+
+<p class="section-ref">S of S 1:9-14</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Groom</span></p>
 
@@ -115,7 +111,9 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#C00000'>                        </span></i><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#C00000'>The beams in our houses are cedar;</span></i></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  our rafters are fir.”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                                               </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>S of S 1:15-17</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                  our rafters are fir.”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#C00000'>                                               </span></b></span></p>
+
+<p class="section-ref">S of S 1:15-17</p>
 
 
 <style>

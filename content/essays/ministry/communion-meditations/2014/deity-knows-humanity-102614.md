@@ -1,7 +1,7 @@
 ---
 title: "Deity Knows Humanity"
 date: '2014-10-26'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

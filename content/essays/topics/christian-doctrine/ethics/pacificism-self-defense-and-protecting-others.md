@@ -2,6 +2,8 @@
 title: "PACIFICISM, SELF-DEFENSE, AND PROTECTING OTHERS"
 author: "Virgil Warren, PhD"
 date: '2026-11-04'
+printed: 2026-10-24
+lastmod: 2026-10-24
 categories:
 - 'Topics'
 - 'Christian Doctrine'

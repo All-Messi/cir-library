@@ -2,6 +2,7 @@
 title: "SUBMITTING TO ONE ANOTHER: Ephesians 5:21-6:9"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-14
 categories:
 - 'Topics'
 - 'Christian Doctrine'

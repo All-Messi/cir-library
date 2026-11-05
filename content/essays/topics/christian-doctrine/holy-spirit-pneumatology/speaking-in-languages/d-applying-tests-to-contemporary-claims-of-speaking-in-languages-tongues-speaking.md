@@ -6,10 +6,13 @@ categories:
 - Holy Spirit Pneumatology
 - Speaking In Languages
 date: '2026-02-16'
+printed: 2023-07-08
+lastmod: 2025-07-10
 draft: false
-title: "D. \tApplying tests to contemporary claims of speaking in languages ('tongues\
-  \ speaking')"
+title: "Applying Tests to Contemporary Claims of Speaking in Languages (“Tongues Speaking”)"
 weight: 12
+aliases:
+- /essays/topics/christian-doctrine/holy-spirit-pneumatology/speaking-in-languages/d-applying-tests-to-contemporary-claims-of-speaking-in-languages-tongues/
 ---
 
 <style>

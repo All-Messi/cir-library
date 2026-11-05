@@ -1,6 +1,6 @@
 ---
-title: "DURATION of Charismata A (HS book pt 14)"
-author: "Virgil Warren, christir.org"
+title: "Duration of the Charismata, A"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:
 - 'Topics'
@@ -703,7 +703,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:0in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>              <img width=342 height=135 id="Picture 1"
+style='font-size:12.0pt'>              <img alt="“Through a glass darkly”: individuals and mankind across the death veil to the second coming of Christ, “face to face”" width=342 height=135 id="Picture 1"
 src="/images/essays/duration-of-charismata-a-hs-book-pt-14/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

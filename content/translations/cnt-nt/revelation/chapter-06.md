@@ -15,7 +15,7 @@ next: chapter-07
 ### Breaking the First 6 Seals
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When I saw the Lamb break the first seal, I heard one living being say like thunder,
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When I saw the Lamb break the first seal, I heard one living being say like thunder,
 <i>“Come.”</i> </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A white horse <i>came out</i>; its rider had a bow. He received a crown and went out to conquer.</span></span></p>
 
@@ -42,9 +42,7 @@ next: chapter-07
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They cried out, <i>“How long, Master, holy and true, before you avenge our blood on the people living on earth?” </i></span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He gave each one a white robe and told them to rest a little longer till their fellow martyrs fulfill their course.  </span></span></p>
 
-
-### Rev 6:9-11
-
+<p class="section-ref">Rev 6:9-11</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When I saw <i>the Lamb</i> break the sixth seal, there was a major earthquake. The sun got as dark as burlap made of hair, and the whole moon looked like blood. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Stars fell to earth like unripe figs in a strong wind. </span></span>
@@ -52,6 +50,8 @@ next: chapter-07
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The kings on earth, the elite, the commanders of 1,000 <i>[chiliarchs]</i>, the rich, the powerful, servants and freemen hid in caves and mountain rocks. </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They said to the mountains and rocks, <i>“Bring an avalanche over us and hide us from the One on the throne and from the anger of the Lamb. </i></span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The time for their great fury has come. Who can survive it?”</span></i></span></p>
+
+<p class="section-ref">Rev 6:12-17</p>
 
 
 <style>

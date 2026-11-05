@@ -11,11 +11,7 @@ next: chapter-33
 
 ## Job Chapter 32
 
-
-### Job’s words end here.                                                     Job 31:38-40
-
-
-<p class="MsoNormal" style='margin-bottom:0in;'><a name="_Hlk125058414"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The three men stopped replying to Job, because he was certain he was innocent. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The three men stopped replying to Job, because he was certain he was innocent. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then
 <span style='color:#00B0F0'>Elihu</span> Ben-Barachel the Buzite from the family of Ram, was mad at Job because he’d justified himself to God. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He was mad at his three friends because they couldn’t answer <i>Job</i> but still condemned him. </span></span>
@@ -63,9 +59,7 @@ next: chapter-33
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>but I wouldn’t have answered him with your arguments.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'> </span></b></p>
 
-
-### Job 32:11-14
-
+<p class="section-ref">Job 32:11-14</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>“You’re discredited;</span></i></span></p>
 

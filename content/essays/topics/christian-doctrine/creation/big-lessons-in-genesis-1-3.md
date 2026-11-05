@@ -2,6 +2,7 @@
 title: "BIG LESSONS IN GENESIS 1-3"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Doctrine'

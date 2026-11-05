@@ -27,7 +27,9 @@ next: chapter-04
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, <i>“You’ve shown great enduring love to David as he followed after truth, goodness, and an upright heart toward you. You’ve given him a son to sit on his throne. </i></span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now, Yahveh my God, you’ve made me king, but I’m just a child. I don’t know how to manage affairs. </span></i></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m among the people you’ve chosen, people too numerous to count. </span></i></span>
-<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Give me an intelligent mind to judge them, to distinguish good from bad. Who can judge this large nation?”</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                 </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 3:1-9</span></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>             </span></b></span></p>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Give me an intelligent mind to judge them, to distinguish good from bad. Who can judge this large nation?”</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">1 Kg 3:1-9</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> What he asked for pleased Yahveh. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told him, </span></span></p>
@@ -36,7 +38,9 @@ next: chapter-04
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll also give you what you didn’t ask for: wealth and honor like no other king as long as you live. </span></i></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you follow my ways and keep my statutes and commandments like your father did, I’ll lengthen your life.”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></span></p>
 
-<p class="MsoListBulletCxSpLast" style='margin-bottom:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Solomon woke up; it was a dream. He came to Jerusalem and stood in front of the Ark, and offered burnt offerings and peace offerings, and held a banquet for his officials.<b>                   </b></span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>1 Kg 3:10-15</span></b></span></p>
+<p class="MsoListBulletCxSpLast" style='margin-bottom:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Solomon woke up; it was a dream. He came to Jerusalem and stood in front of the Ark, and offered burnt offerings and peace offerings, and held a banquet for his officials.<b>                   </b></span></span></p>
+
+<p class="section-ref">1 Kg 3:10-15</p>
 
 
 ### Solomon’s Wise Ruling
@@ -66,7 +70,9 @@ next: chapter-04
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%'>The other said, <i>“He won’t be mine or yours. Cut him in two!”</i> </span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%'>The king answered, <i>“Give the first woman the living child. She’s his mother.” </i></span></span>
-<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%'>When Israel heard about the judgment he’d handed down, they respected him for the wisdom God had given him for administering justice.<b>   </b></span><b><span style='font-size:10.0pt; line-height:115%'>1 Kg 3:16-28</span></b></span></p>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%'>When Israel heard about the judgment he’d handed down, they respected him for the wisdom God had given him for administering justice.<b>   </b></span></span></p>
+
+<p class="section-ref">1 Kg 3:16-28</p>
 
 
 <style>

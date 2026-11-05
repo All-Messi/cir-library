@@ -15,7 +15,7 @@ next: chapter-04
 ### Ministry of the New Covenant
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Are we beginning to commend ourselves again? We don’t need letters of recommendation to you or from you like some do, do we? </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Are we beginning to commend ourselves again? We don’t need letters of recommendation to you or from you like some do, do we? </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’re our letter that everybody can know and read, written on our hearts. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’re an open letter from Christ, served by us, not written with ink, but with the spirit of the living God, not on stone tablets, but on human hearts.       </span></span></p>
 

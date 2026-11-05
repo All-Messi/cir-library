@@ -382,7 +382,7 @@ a generalized habit.</span></p>
 style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
-style='font-size:12.0pt'>               <img width=386 height=73
+style='font-size:12.0pt'>               <img alt="D. exchanges the welfare of everyone for the welfare of myself; E. the eternal for the temporary/immediate; F. the intangible for the tangible: appeals to what we can see most easily" width=386 height=73
 src="/images/essays/coping-with-temptation/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

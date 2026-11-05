@@ -1,7 +1,7 @@
 ---
 title: "The Hard Part"
 date: '2026-03-08'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

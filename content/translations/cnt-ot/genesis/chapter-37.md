@@ -11,7 +11,7 @@ next: chapter-38
 
 ## Genesis Chapter 37
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><a name="_Hlk125368497"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jacob lived in Canaan, where his father had lived as a nomad. </span></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jacob lived in Canaan, where his father had lived as a nomad. </span></span></p>
 
 <p class="section-ref">Gen 36:31-37:1</p>
 
@@ -36,7 +36,7 @@ next: chapter-38
 ### Joseph Sold by His Brothers
 
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><a name="_Hlk125368771"></a><a name="_Hlk125369405"><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His brothers went to pasture their father’s flock at Shechem. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His brothers went to pasture their father’s flock at Shechem. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel told Joseph, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“Your brothers are pasturing at Shechem? Go join them.”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told him to bring him word how they and the flock were doing</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.
 </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He sent him from the Valley of Hebron to Shechem. </span></span>
@@ -52,7 +52,7 @@ next: chapter-38
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they saw him in the distance, they said, </span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><a name="_Hlk125369616"><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Here comes the dreamer! </span></i></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Here comes the dreamer! </span></i></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let’s kill him and throw him into one of the cisterns. We can say a wild animal ate him. Then let’s see what comes of his dreams!” </span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Reuben heard about their scheme and came to his rescue, </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Let’s not kill him. </span></i></span>

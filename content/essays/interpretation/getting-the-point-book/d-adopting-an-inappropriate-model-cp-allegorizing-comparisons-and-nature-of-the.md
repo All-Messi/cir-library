@@ -2,10 +2,11 @@
 title: "Pitfall: Adopting an Inappropriate Model"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-11
 categories:
 - 'Interpretation'
 - 'Getting The Point Book'
-weight: 21
+weight: 15
 draft: false
 ---
 
@@ -42,8 +43,7 @@ comparisons and nature of the </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-45.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                  case)                                                                                   
-             Virgil Warre, PhD</span></p>
+style='font-size:12.0pt'>                  case)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-45.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

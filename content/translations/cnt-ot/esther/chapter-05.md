@@ -15,7 +15,7 @@ next: chapter-06
 ### Esther’s Request to the King
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124859126"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On the third day, Esther put on her royal robes and stood in the inner court of the king’s palace by his rooms. He was sitting on his throne across from the entrance to the palace. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On the third day, Esther put on her royal robes and stood in the inner court of the king’s palace by his rooms. He was sitting on his throne across from the entrance to the palace. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he saw her, he was pleased and extended the gold scepter that was in his hand. She came and touched the top of it. </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He asked her, </span></span></p>
@@ -33,11 +33,11 @@ next: chapter-06
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            <b>“What’s your petition; I’ll grant it. </b></span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            What’s your request? I’ll do it up to half the kingdom.”</span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>           </span></b></span></p>
 
-### What’s your request? I’ll do it up to half the kingdom.”           Esther 5:1-6
+<p class="section-ref">Esther 5:1-6</p>
 
-
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124859176"><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esther answered, </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esther answered, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“My petition is: </span></i><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>if I’ve found favor with you, if it pleases you to grant my petition, may you<sup>
 </sup>and Haman come to the banquet I’ll prepare for you, and tomorrow I’ll do like you ask.” </span></i></span></p>
@@ -55,7 +55,9 @@ next: chapter-06
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zeresh and his friends said, <i>“Have gallows built 75ft high. In the morning, ask the king to have Mordecai hanged on it. Then go happy with him to the banquet.” </i></span></span></p>
 
-<p class="MsoListBulletCxSpLast" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Haman liked that, so he had them built.<b>                                                              </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esther 5:7-14</span></b></p>
+<p class="MsoListBulletCxSpLast" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Haman liked that, so he had them built.<b>                                                              </b></span></p>
+
+<p class="section-ref">Esther 5:7-14</p>
 
 
 <style>

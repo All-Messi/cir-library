@@ -4,21 +4,21 @@
     <div class="reader-nav-bar">
         <div class="book-selector">
             <a href="{{ .Parent.RelPermalink }}" class="back-to-books">← {{ .Parent.Title }}</a>
-            <span class="current-book">{{ .Params.book }}</span>
+            <h1 class="current-book">{{ .Params.book | default .Title }}<span class="visually-hidden">, {{ .Parent.Title }}</span></h1>
         </div>
-        <button class="chapter-selector-btn" id="chapterSelectorBtn">
-            <span class="selector-icon">☰</span>
+        <button type="button" class="chapter-selector-btn" id="chapterSelectorBtn" aria-haspopup="dialog" aria-controls="chapterPopup">
+            <span class="selector-icon" aria-hidden="true">☰</span>
             <span class="selector-text">Chapters</span>
         </button>
     </div>
 
     <!-- Chapter Selector Popup -->
-    <div class="chapter-popup" id="chapterPopup">
+    <div class="chapter-popup" id="chapterPopup" role="dialog" aria-modal="true" aria-label="Select chapter">
         <div class="popup-overlay" id="popupOverlay"></div>
         <div class="popup-content">
             <div class="popup-header">
                 <h3>Select Chapter</h3>
-                <button class="popup-close" id="popupClose">×</button>
+                <button type="button" class="popup-close" id="popupClose" aria-label="Close">×</button>
             </div>
             <div class="chapter-grid">
                 {{ range .Pages.ByWeight }}
@@ -114,6 +114,8 @@
     font-weight: 600; 
     color: var(--color-primary, #000); 
 }
+/* The book name is the page's <h1> (2026-11-04); keep the old inline-title look. */
+h1.current-book { margin: 0; padding: 0; border: 0; line-height: 1.7; letter-spacing: normal; text-align: left; }
 
 /* Chapter Selector Button */
 .chapter-selector-btn {

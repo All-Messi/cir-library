@@ -68,10 +68,12 @@ next: chapter-45
 
 <p class="section-ref">Gen 44:18-29</p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><a name="_Hlk125363320"><span class="verse verse-v30" id="v30"><sup class="verse-num">30-31</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If I go back and he sees the boy’s not with us, he’ll die. His life is wrapped up in the boy’s life. We’ll send his gray hair down to Sheol in grief. </span></i></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v30" id="v30"><sup class="verse-num">30-31</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If I go back and he sees the boy’s not with us, he’ll die. His life is wrapped up in the boy’s life. We’ll send his gray hair down to Sheol in grief. </span></i></span>
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I became a guarantee for the boy, I said I’d bear the blame permanently if I didn’t bring him back. </span></i></span>
 <span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let me stay in his place so he can go with his half-brothers. </span></i></span>
-<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>How could I go up to my father if he’s not with me? I’d see how hard it would be on him.”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>                                                                                                                  Gen 44:30-34</span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></i></span></p>
+<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>How could I go up to my father if he’s not with me? I’d see how hard it would be on him.”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Gen 44:30-34</p>
 
 
 <style>

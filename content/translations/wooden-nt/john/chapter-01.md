@@ -10,7 +10,7 @@ next: chapter-02
 
 ## John Chapter 1
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the beginning the Word was, and the Word was with [the] God, and the Word was deity/God. </span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the beginning the Word was, and the Word was with [the] God, and the Word was deity/God. </span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> This-One was in the beginning with [the] God. </span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> All-things came-to-be through him, and without him not-even one-thing came-to-be that has-come-to-be. </span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> In him was life, and the life was the light of-[the] men. </span>

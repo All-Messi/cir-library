@@ -15,7 +15,7 @@ next: chapter-21
 ### The Death of Miriam
 
 
-<p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span><a name="_Hlk126701085"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The whole community came to the Wilderness of Zin in the first month and stayed at Kadesh. Miriam died and they buried her there.</span></span></p>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The whole community came to the Wilderness of Zin in the first month and stayed at Kadesh. Miriam died and they buried her there.</span></span></p>
 
 
 ### Moses Strikes the Rock
@@ -30,7 +30,7 @@ next: chapter-21
 
 <p class="section-ref">Num 20:1-5</p>
 
-<p class="MsoListBulletCxSpMiddle" ><a name="_Hlk126701271"><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses and Aaron came from the assembly to the entrance to the Tent of Meeting and fell on their faces. The glory of the </span>LORD<span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> appeared to them. </span></span>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses and Aaron came from the assembly to the entrance to the Tent of Meeting and fell on their faces. The glory of the </span>LORD<span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> appeared to them. </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told Moses, </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Take the staff. You and your brother gather the community. Speak to the rock in front of them so it will yield water, and the community and their animals can drink.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses took the staff, </span></span>
@@ -45,7 +45,7 @@ next: chapter-21
 ### Edom Refuses Passage
 
 
-<p class="MsoListBulletCxSpMiddle" ><a name="_Hlk126701395"><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses sent ambassadors from Kadesh to the king of Edom. </span></span></p>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses sent ambassadors from Kadesh to the king of Edom. </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Your relative Israel says, ‘You know the hardship that has fallen to us. </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You know that our ancestors went down to Egypt and stayed there a long time, and that the Egyptians mistreated them and us. </span></i></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But when we cried out to the L</span></i><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, he sent an angel to bring us out. We’re at Kadesh on the edge of your territory. </span></i></span>
@@ -64,7 +64,7 @@ next: chapter-21
 ### The Death of Aaron
 
 
-<p class="MsoListBulletCxSpMiddle" ><a name="_Hlk126701499"><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they left Kadesh, the whole community came to Mount Hor. </span></span>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they left Kadesh, the whole community came to Mount Hor. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told Moses and Aaron there at the border of Edom,</span><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></sup></b></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Aaron will pass on to his people. He won’t enter the land I’ve given Israel because you<sup>pl</sup> rebelled against my command at Meribah. </span></i></span>
@@ -75,7 +75,9 @@ next: chapter-21
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After Moses stripped Aaron and put </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>his vestments</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> on Eleazar, Aaron died. Moses and Eleazar came down from the mountain. </span></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the community saw Aaron had died, they mourned for him 30 days.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b></span></p>
 
-<p class="MsoListBulletCxSpMiddle" ><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                        Num</span></b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> <b>20:22-29</b></span></p>
+<p class="MsoListBulletCxSpMiddle" ><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'><b></b></span></p>
+
+<p class="section-ref">Num 20:22-29</p>
 
 
 <style>

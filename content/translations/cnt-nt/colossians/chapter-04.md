@@ -35,7 +35,9 @@ prev: chapter-03
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve also sent Onesimus, faithful and dear brother, who’s one of you. They’ll tell you about things here.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Aristarchus, my fellow prisoner, greets you, along with Mark, Barnabas’ cousin (</span><span style='font-family:"Times New Roman",serif'>Welcome him if he comes.),</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>
-<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and Jesus, called Justus—men from the Circumcision. <i>At present </i>they’re the only co-workers I have. They’ve been an encouragement to me.          </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Col 4:7-11</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span></p>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and Jesus, called Justus—men from the Circumcision. <i>At present </i>they’re the only co-workers I have. They’ve been an encouragement to me.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Col 4:7-11</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Epaphras,
 <i>who’s</i> one of you, greets you. He strives for you in prayers that you’ll stand complete and confident in God’s will. </span></span>
@@ -48,16 +50,11 @@ prev: chapter-03
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I, Paul, sign this greeting with my own hand. Remember my bonds. </span></span></p>
 
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Grace
+<i>be</i> with you.</span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>
+</span></b></p>
 
-### Grace
-be with you.
-
-
-
-### Col 4:12-18
-
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Translator: Virgil Warren                                                                                                 </span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
+<p class="section-ref">Col 4:12-18</p>
 
 
 <style>

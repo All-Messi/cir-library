@@ -2,6 +2,8 @@
 title: "BIBLICAL BRAIN TEASERS"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 1997-04-27
+lastmod: 2025-07-11
 categories:
 - 'Interpretation'
 - 'Brain Teasers'

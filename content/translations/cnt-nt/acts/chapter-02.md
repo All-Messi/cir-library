@@ -80,9 +80,7 @@ next: chapter-03
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God released him from a painful death and resurrected him because death couldn’t hold him. </span></i></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David said,</span></i></span></p>
 
-
-### ‘I always see the LORD in front of me;
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    <b>‘I always see the L</b></span></i><b><i><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> in front of me; </span></i></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                he’s at my right hand so I’m secure.</span></i></b></p>
 
@@ -107,9 +105,7 @@ next: chapter-03
 <span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He ascended to God’s right hand, received from the Father the Holy Spirit he promised, and poured out what you’re seeing and hearing. </span></i></span>
 <span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David didn’t ascend to heaven; he said himself, </span></i></span></p>
 
-
-### ‘The LORD said to my Lord,
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    <b>‘The L</b></span></i><b><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span></i></b><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> said to my Lord, </span></i></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                “Sit on my right hand</span></i></b></p>
 

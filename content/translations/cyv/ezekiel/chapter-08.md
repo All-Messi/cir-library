@@ -12,10 +12,6 @@ next: chapter-09
 ## Ezekiel Chapter 8
 
 
-### Ezek 7:23b-27
-
-
-
 ### Idolatry in the Temple
 
 
@@ -25,7 +21,9 @@ next: chapter-09
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The glory of Israel’s God was there—like what I’d seen in the plain.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, <i>“Son of man, look north.”</i> North of the altar gate at the entrance, I saw this idol that made God jealous. </span></span>
-<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Do you see the detestable things Israel is doing here to keep me out of my own sanctuary? But you’ll see still more detestable things.”                                       </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ezek 8:1-6</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></i></span></p>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Do you see the detestable things Israel is doing here to keep me out of my own sanctuary? But you’ll see still more detestable things.”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Ezek 8:1-6</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he took me to the entrance to the court and showed me a hole in the wall. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Dig through the wall.” </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>I dug through it and found an entrance. </span></span>

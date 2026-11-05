@@ -44,9 +44,11 @@ next: chapter-16
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>cut it down and burned it at the Brook Kidron. </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He didn’t take away the high places, but his heart was true to Yahveh his whole life. </span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>He brought to Yahveh’s Temple his and his father’s dedicated gifts—silver, gold, and various articles.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 15:1-15</span></b></span></p>
+</b></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126249392"><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>War went on between <b>Asa</b> and <u>Baasha</u>, king of Israel, their whole lives. </span></span>
+<p class="section-ref">1 Kg 15:1-15</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>War went on between <b>Asa</b> and <u>Baasha</u>, king of Israel, their whole lives. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Baasha went up against Judah and fortified Ramah to prevent anybody from going out or coming to Asa. </span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Asa took the silver and gold that was left in the treasuries of Yahveh’s Temple and delivered it to his officials. He sent them to Benhadad Ben-Tabrimmon Ben-Hezion, king of Aram, who lived in Damascus, saying, </span></span></p>
 
@@ -59,7 +61,7 @@ next: chapter-16
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of the acts of Asa, the strength of his rule, the towns he built are recorded in <i>The Chronicles of the Kings of Judah</i>. In his old age, he had a disease in his feet. </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>He died and they buried him with his ancestors in The City of David. His son Jehoshaphat reigned.<b> </b></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                                                                                                                            </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 15:16-24</span></b></p>
+<p class="section-ref">1 Kg 15:16-24</p>
 
 
 ### Nadab Rules in Israel
@@ -81,7 +83,9 @@ next: chapter-16
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the <b>third year of Asa</b>, Baasha became king of Israel at Tirzah and ruled for 24 years.
 </span></span>
 <span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He did evil like Jeroboam did and got Israel to do.
-</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 15:25-34</span></b></span></p>
+</span></span></p>
+
+<p class="section-ref">1 Kg 15:25-34</p>
 
 
 <style>

@@ -1,7 +1,9 @@
 ---
-title: "Straight Thinking 020468 THE MAKINGS OF A MAN"
-author: "Virgil Warren, christir.org"
+title: "The Makings of a Man"
+subtitle: "Straight Thinking, February 4, 1968"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-12
 categories:
 - 'Ministry'
 - 'Straight Thinking For Youth'
@@ -26,14 +28,11 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>Straight Thinking</span></b></p>
 
-<p class=MsoNormal align=center style='margin-bottom:.25in;text-align:center'><span
-style='font-size:10.0pt;line-height:115%'>020468</span></p>
 
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%'>THE MAKINGS OF A MAN</span></p>
+
+
+
 
 <p class=MsoNormal style='text-align:justify'><i><span style='font-size:12.0pt;
 line-height:115%'>Sunday.</span></i><span style='font-size:12.0pt;line-height:
@@ -107,6 +106,5 @@ house. (</span><span style='font-size:10.0pt;line-height:115%'>Read Luke <b>19</
 style='font-size:12.0pt;line-height:115%'>.)</span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
-line-height:115%'>Virgil Warren, <u>Straight</u>, February 4, 1968, p13                                                                              
-christir.org</span></p>
+line-height:115%'>Virgil Warren, <u>Straight</u>, February 4, 1968, p13</span></p>
 </div>

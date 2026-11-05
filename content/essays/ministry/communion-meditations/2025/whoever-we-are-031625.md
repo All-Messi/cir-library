@@ -1,7 +1,7 @@
 ---
 title: "Whoever We Are"
 date: '2025-03-16'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

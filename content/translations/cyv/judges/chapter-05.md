@@ -41,7 +41,9 @@ next: chapter-06
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The mountains shook in front of Yahveh;</span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              you, Sinai, shook in front of Israel’s God.            </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 5:1-5</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              you, Sinai, shook in front of Israel’s God.            </span></i></span></p>
+
+<p class="section-ref">Jud 5:1-5</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“In the days of Shamgar Ben-Anath,</span></i></span></p>
 
@@ -67,9 +69,9 @@ next: chapter-06
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  who volunteered willingly among the people.</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                                                            Bless Yahveh.              </span></i></span></p>
 
-### Bless Yahveh.              Jud 5:6-9
-
+<p class="section-ref">Jud 5:6-9</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Sing, you that ride white donkeys,</span></i></span></p>
 
@@ -85,9 +87,9 @@ next: chapter-06
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  the triumphs of his rural people in Israel. </span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Then Yahveh’s people went down to the gates.          </span></i></span></p>
 
-### Then Yahveh’s people went down to the gates.          Jud 5:10-11
-
+<p class="section-ref">Jud 5:10-11</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Wake up, wake up, Deborah!</span></i></span></p>
 
@@ -111,7 +113,9 @@ next: chapter-06
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          from Zebulun they marched</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                who carry the marshal’s staff.                        </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 5:12-14</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                who carry the marshal’s staff.                        </span></i></span></p>
+
+<p class="section-ref">Jud 5:12-14</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The princes of Issachar came with Deborah;</span></i></span></p>
 
@@ -143,9 +147,7 @@ next: chapter-06
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          Naphtali, too, on the high places in the countryside.</span></i></p>
 
-
-### Jud 5:15-18
-
+<p class="section-ref">Jud 5:15-18</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The kings came and fought;</span></i></span></p>
 
@@ -167,7 +169,9 @@ next: chapter-06
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Then the horses’ hoofs beat loud</span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          with the galloping of steeds.                                 </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 5:19-22</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          with the galloping of steeds.                                 </span></i></span></p>
+
+<p class="section-ref">Jud 5:19-22</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“‘Curse Meroz,’ the angel of Yahveh</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> <i>says;</i></span></span></p>
 
@@ -201,9 +205,9 @@ next: chapter-06
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                he lay still at her feet.</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          He sank and fell down dead at her feet.</span></i></span></p>
 
-### He sank and fell down dead at her feet.   Jud 5:23-27
-
+<p class="section-ref">Jud 5:23-27</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She looked out the window;</span></i></span></p>
 
@@ -231,7 +235,9 @@ next: chapter-06
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                when it rises at it brightest.”</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The land had peace for 40 years.                                                                                       </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 5:28-31</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The land had peace for 40 years.                                                                                       </span></p>
+
+<p class="section-ref">Jud 5:28-31</p>
 
 
 <style>

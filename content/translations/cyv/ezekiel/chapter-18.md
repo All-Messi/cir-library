@@ -141,7 +141,7 @@ next: chapter-19
 
 <p class="section-ref">Ezek 18:30-32</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.25in;'><a name="_Hlk200621909"><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>A Funeral Song for Israel’s Princes</span></b></a><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.25in;'><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>A Funeral Song for Israel’s Princes</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span></sup></b></p>
 
 

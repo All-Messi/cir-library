@@ -70,7 +70,7 @@ or neglect of kids we love.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                      <img width=179 height=129
+style='font-size:12.0pt'>                      <img alt="Interpersonal containing marriage containing parenting" width=179 height=129
 src="/images/essays/christian-parenting/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -137,7 +137,7 @@ children.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>              <img width=224 height=55
+style='font-size:12.0pt'>              <img alt="Security and self-esteem through teaching and correction" width=224 height=55
 src="/images/essays/christian-parenting/image002.png">  </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -668,7 +668,7 @@ dehumanizing, and degrading.  </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>           <img width=335 height=85
+style='font-size:12.0pt'>           <img alt="Fear → force → nature; authority → right → law; guilt → rules → logic: non-personal" width=335 height=85
 src="/images/essays/christian-parenting/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -683,7 +683,7 @@ effective approaches, and rejection will not be sensed.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>             <img width=282 height=57
+style='font-size:12.0pt'>             <img alt="Authority + fear → respect; guilt → repentance/forgiveness" width=282 height=57
 src="/images/essays/christian-parenting/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

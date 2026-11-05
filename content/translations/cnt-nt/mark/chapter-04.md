@@ -15,7 +15,7 @@ next: chapter-05
 ### The Sermon in Stories
 
 
-<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>4</span></b><b><sup><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>:</span></sup></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Later he was trying to teach by the lake, but the crowd was<sup>p</sup> so big he got in a boat on the water and sat down. The crowd was on the shore. </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Later he was trying to teach by the lake, but the crowd was<sup>p</sup> so big he got in a boat on the water and sat down. The crowd was on the shore. </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He started teaching them with stories. </span></span></p>
 
@@ -31,9 +31,7 @@ next: chapter-05
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He told them, <i>“You’re allowed to know the unrevealed things about The kingdom of God, but to people outside I’m doing things in stories </i></span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>so </span></i></span></p>
 
-
-### ‘They’ll certainly see, but not perceive;
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                        <b>‘They’ll certainly see, but not perceive;</b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                        they’ll certainly hear, but not understand, </span></i></b></p>
 

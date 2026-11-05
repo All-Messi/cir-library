@@ -23,7 +23,9 @@ next: chapter-28
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height: 115%'>Dodai the Ahohite and his division were responsible for the second month with Mikloth as chief officer. </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height: 115%'>The third commander of the army for the third month was Benaiah Ben-Jehoiada the priest, as chief. </span></span>
-<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height: 115%'>This Benaiah was the most elite soldier of the 30 and responsible for 30. His son Ammizabad was responsible for his division.  </span><b><span style='font-size:10.0pt;line-height:115%'>1 Ch 27:1-6</span></b></span></p>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height: 115%'>This Benaiah was the most elite soldier of the 30 and responsible for 30. His son Ammizabad was responsible for his division.  </span></span></p>
+
+<p class="section-ref">1 Ch 27:1-6</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%'>The fourth for the fourth month was Joab’s brother Asahel and his son Zebadiah.</span><b><sup><span style='font-size:14.0pt;line-height:115%'>  </span></sup></b><span style='font-size:12.0pt;line-height:115%'> </span></span></p>
 
@@ -41,7 +43,9 @@ next: chapter-28
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height: 115%'>The eleventh for the eleventh month was Benaiah the Pirathonite, descendant of Ephraim. </span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%'>The twelfth for the twelfth month was Heldai the Netophathite of Othniel.    </span><b><span style='font-size:10.0pt; line-height:115%'>1 Ch 27:7-15</span></b></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%'>The twelfth for the twelfth month was Heldai the Netophathite of Othniel.    </span></span></p>
+
+<p class="section-ref">1 Ch 27:7-15</p>
 
 
 ### Tribal Leaders
@@ -75,10 +79,10 @@ next: chapter-28
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.25in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span lang=DA style='font-size:12.0pt;line-height:115%'>for Dan, Azarel Ben-Jeroham.</span></span></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%'>Those <i>were </i>the officers of the tribes of Israel.
+</span></p>
 
-### Those were the officers of the tribes of Israel.
-1 Ch 27:16-22
-
+<p class="section-ref">1 Ch 27:16-22</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height: 115%'>But David didn’t count the ones under 20 because Yahveh had said he would multiply Israel like the stars in the sky. </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%'>Joab Ben-Zeruiah had started to count
@@ -100,7 +104,9 @@ next: chapter-28
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%'>Baal-hanan the Gederite oversaw the olive and sycamore trees in the western foothills.</span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>Joash oversaw the stores of oil.                                                                          </span><b><span style='font-size:10.0pt;line-height:115%'>1 Ch 27:23-28</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>Joash oversaw the stores of oil.                                                                          </span></p>
+
+<p class="section-ref">1 Ch 27:23-28</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%'>Shitrai the Sharonite oversaw the cattle that grazed in Sharon.</span></span></p>
 
@@ -112,7 +118,9 @@ next: chapter-28
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%'>Jaziz the Hagrite oversaw the flocks.</span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><u><span style='font-size:12.0pt;line-height:115%'>Those oversaw David’s property</span></u><span style='font-size:12.0pt;line-height:115%'>.                                                                       </span><b><span style='font-size:10.0pt;line-height:115%'>1 Ch 27:29-31</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><u><span style='font-size:12.0pt;line-height:115%'>Those oversaw David’s property</span></u><span style='font-size:12.0pt;line-height:115%'>.                                                                       </span></p>
+
+<p class="section-ref">1 Ch 27:29-31</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%'>Jonathan, David’s uncle, <i>was</i> an intelligent advisor and secretary.</span></span></p>
 
@@ -124,12 +132,12 @@ next: chapter-28
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%'>Jehoiada Ben-Benaiah and Abiathar succeeded<sup>pl</sup> Ahithophel.</span></span></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>Joab commanded the king’s army.
+</span></p>
 
-### Joab commanded the king’s army.
-1 Ch 27:32-34
+<p class="section-ref">1 Ch 27:32-34</p>
 
-
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><a name="_Hlk200358003"><b><span style='font-size:12.0pt;line-height:115%'>David’s</span></b></a><b><sup><span style='font-size:14.0pt;line-height:115%'> </span></sup></b><b><span style='font-size:12.0pt;line-height:115%'>Charge to Israel</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><b><span style='font-size:12.0pt;line-height:115%'>David’s</span></b><b><sup><span style='font-size:14.0pt;line-height:115%'> </span></sup></b><b><span style='font-size:12.0pt;line-height:115%'>Charge to Israel</span></b></p>
 
 
 <style>

@@ -11,7 +11,7 @@ next: chapter-05
 
 ## Romans Chapter 4
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What then will-we-say (that) Abraham, the forefather of-me, has-found according-to (the) flesh? </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What then will-we-say (that) Abraham, the forefather of-me, has-found according-to (the) flesh? </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For if Abraham was-justified by [the] works, he-has (a)-basis-for-boasting, but not toward God. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>For what does┘the scripture└say? <b>“And Abraham trusted-in [the] God, and it-was-regarded to-him [as] righteousness.”</b> </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But for-the-one working, the reward/result is┘not└regarded according-to grace, but according-to debt. </span></span>
@@ -24,9 +24,7 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Blessed (is the) man sin of-whom (the) Lord certainly does┘not└regard </span></b></span></p>
 
-
-### (against him).”
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(against him).” </span></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So (is) this [the] blessedness on the circumcision or on the uncircumcision too? For we-say, </span></span></p>
 

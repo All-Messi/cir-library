@@ -15,7 +15,9 @@ next: chapter-03
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I urge you to bond together in love and to gain the valuable confidence that comes from knowing and understanding God’s revealed mystery: Christ. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>All the hidden treasures of knowledge and wisdom lie in him. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I say that so nobody will lead you astray with persuasive arguments. </span></span>
-<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Though I’m absent in body, I’m present in spirit, happy to see your orderly living and steadfast faith in Christ. </span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>Col 1:24-2:5</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Though I’m absent in body, I’m present in spirit, happy to see your orderly living and steadfast faith in Christ.</span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Col 1:24-2:5</p>
 
 
 ### Urging Continued Faithfulness
@@ -32,9 +34,7 @@ next: chapter-03
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He canceled the certificate of debt made up of regulations that worked against us, took it out of the way, and nailed it to his cross. </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He disarmed rulers and authorities and displayed them openly for what they were by overcoming them </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>in the cross and resurrection</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></span></p>
 
-
-### Col 2:6-15
-
+<p class="section-ref">Col 2:6-15</p>
 
 
 ### Concerns Irrelevant for Christians

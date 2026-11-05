@@ -11,7 +11,7 @@ next: chapter-03
 
 ## Titus Chapter 2
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But
 <u>you</u> speak<sup>imper</sup> what-things are–fitting to-[the] sound doctrine, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(that) older-men (are) to-be serious-minded, respectable, sensible; sound with-respect-to-[the] faith, [the] love, [the] perseverance;  </span></span></p>
 

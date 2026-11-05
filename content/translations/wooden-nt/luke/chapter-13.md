@@ -67,6 +67,8 @@ next: chapter-14
 <span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jerusalem! Jerusalem! the-one killing the prophets and stoning the-ones having-been-sent to it, how-many-times did-I-want to-gather-together the children of-you like<sup>2</sup> (a) hen (gathers) the brood of-her under the/her wings, and you-were┘not└willing. </span></i></span>
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Behold, the house of-you is-left. [And]<sup>ms</sup> I-say to-you, you-will┘not└see me until [then he-will-come] you-say, </span></i></span></p>
 
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b><i>‘Blessed (is) the-One coming in (the) name of-(the)-Lord.’</i></b><i>”</i></span></p>
+
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

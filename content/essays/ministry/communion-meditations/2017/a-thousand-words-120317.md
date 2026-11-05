@@ -1,7 +1,7 @@
 ---
 title: "A Thousand Words"
 date: '2017-12-03'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

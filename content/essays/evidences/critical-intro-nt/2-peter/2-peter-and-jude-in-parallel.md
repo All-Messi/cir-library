@@ -2,6 +2,8 @@
 title: "2 PETER AND JUDE IN PARALLEL"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2023-07-15
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'
@@ -927,10 +929,6 @@ lang=EL style='font-size:13.0pt;font-family:"Times New Roman",serif'>&nbsp;</spa
 <p class=MsoNormal style='margin-top:0in;margin-right:-4.5pt;margin-bottom:
 0in;margin-left:22.5pt;text-align:justify;text-indent:-22.5pt;line-height:normal'><span
 lang=EL style='font-size:13.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-4.5pt;margin-bottom:
-0in;margin-left:22.5pt;text-align:justify;text-indent:-22.5pt;line-height:normal'><span
-style='font-family:"Times New Roman",serif'>christir.org</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-4.5pt;margin-bottom:
 0in;margin-left:22.5pt;text-align:justify;text-indent:-22.5pt;line-height:normal'><span

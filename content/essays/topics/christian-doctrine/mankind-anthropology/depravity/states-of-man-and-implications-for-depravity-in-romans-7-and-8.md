@@ -2,6 +2,7 @@
 title: "STATES OF MAN AND IMPLICATIONS FOR DEPRAVITY IN ROMANS 7 AND 8"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-15
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -602,7 +603,7 @@ the former. Formally they relate as follows:</span></p>
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'><img width=325 height=124
+line-height:18.0pt'><span style='font-size:12.0pt'><img alt="Overlapping ellipses A, B and C: 7:14-24 and 7:25-8:17" width=325 height=124
 id="Picture 4" src="/images/essays/states-of-man-and-implications-for-depravity-in-romans-7-and-8/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
@@ -709,7 +710,7 @@ death (cp. James<b> 1</b>:14-15).</span></p>
 18.0pt'><span style='font-size:12.0pt'>  </span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'><img width=303 height=75
+line-height:18.0pt'><span style='font-size:12.0pt'><img alt="Law → sin → death/bondage/fear, with temptation and flesh" width=303 height=75
 src="/images/essays/states-of-man-and-implications-for-depravity-in-romans-7-and-8/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
@@ -724,7 +725,7 @@ turn becomes life. </span></p>
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'><img width=332 height=68
+line-height:18.0pt'><span style='font-size:12.0pt'><img alt="Law → righteousness → life/freedom/hope, with Holy Spirit and human spirit" width=332 height=68
 id="Picture 3" src="/images/essays/states-of-man-and-implications-for-depravity-in-romans-7-and-8/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
@@ -739,7 +740,7 @@ confesses. However, the sin that occurs is canceled because of Christ. </span></
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'><img width=333 height=150
+line-height:18.0pt'><span style='font-size:12.0pt'><img alt="Struggle in sanctification: Holy Spirit, human spirit, law, righteousness → life; sin → death (crossed out); flesh, temptation" width=333 height=150
 id="Picture 2" src="/images/essays/states-of-man-and-implications-for-depravity-in-romans-7-and-8/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
@@ -803,7 +804,7 @@ outside-to-inside pattern, the same pattern that coveting has.</span></p>
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'><img width=334 height=117
+line-height:18.0pt'><span style='font-size:12.0pt'><img alt="Coveting (flesh) and loving (spirit): arrows into and out of a circle" width=334 height=117
 id="Picture 1" src="/images/essays/states-of-man-and-implications-for-depravity-in-romans-7-and-8/image005.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:

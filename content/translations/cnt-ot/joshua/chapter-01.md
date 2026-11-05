@@ -14,7 +14,7 @@ next: chapter-02
 ### The LORD’s Charge to Joshua
 
 
-<p class="MsoListBulletCxSpFirst" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After Moses died, God said to Joshua son of Nun, Moses’ assistant, </span></span></p>
+<p class="MsoListBulletCxSpFirst" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After Moses died, God said to Joshua son of Nun, Moses’ assistant, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span class="Heading1Char"><i><span style='font-size:12.0pt;line-height:115%'>“</span></i></span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses has died. You and the people, cross the Jordan to the land I’m giving you. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Like I promised Moses, everywhere you go I’ll deliver it to you. </span></i></span>

@@ -22,9 +22,7 @@ next: chapter-17
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When you were born, your umbilical cord wasn’t cut off, you weren’t washed, or rubbed with salt, or even wrapped in cloth. </span></i></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nobody took pity on you to do any of those things for you. You were tossed out in an open field because you were repulsive.</span></i></span></p>
 
-
-### Ezek 16:1-5
-
+<p class="section-ref">Ezek 16:1-5</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When I went by and saw you squirming in your blood, I said to you, ‘Live!’ </span></i></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I made you as numerous as plants in a field. You grew up tall and filled out. Your breasts formed and your hair grew, but you were naked and bare. </span></i></span>
@@ -66,9 +64,7 @@ next: chapter-17
 <span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nobody carries on prostitution like you do. <u>You</u> do the paying!”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span></b></span></p>
 
-
-### Ezek 16:30-34
-
+<p class="section-ref">Ezek 16:30-34</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So, prostitute, listen to what Yahveh says, </span></span>
 <span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Because your lewdness was poured out and your nakedness uncovered through your prostitution with your lovers and your detestable idols, and because of your sons’ blood that you gave to idols, </span></i></span>

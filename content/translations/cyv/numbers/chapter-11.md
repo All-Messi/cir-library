@@ -15,8 +15,7 @@ next: chapter-12
 ### The People Complain
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-       </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>The people started complaining about their hardships. Yahveh’s anger flared. It burned among them and burned up the outskirts of the camp. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>The people started complaining about their hardships. Yahveh’s anger flared. It burned among them and burned up the outskirts of the camp. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people cried out to Moses, and he prayed to Yahveh, and the fire died down. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The name of that place became Taberah, because Yahveh’s fire “burned” among them. </span></span></p>
 
@@ -27,7 +26,9 @@ next: chapter-12
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The manna was like coriander seed and looked like bdellium. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people would go around and gather it up, grind it between millstones, mash it in mortars, or boil it in pots and make cakes. The cakes tasted like they were baked with olive oil. </span></span>
-<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The manna would fall with the dew at night.</span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'> Num 11:1-9</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                   </span></span></p>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The manna would fall with the dew at night.</span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Num 11:1-9</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          </span><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses heard the families whining at the entrance to their tents. Yahveh’s anger kindled greatly, and Moses wasn’t pleased. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He asked Yahveh, </span></span></p>

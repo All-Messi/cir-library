@@ -4,7 +4,7 @@ categories:
 - Bible Resources
 date: '2026-02-16'
 draft: false
-title: CHRIST'S RESURRECTION APPEARANCES
+title: "Christ's Resurrection Appearances"
 weight: 1
 ---
 
@@ -40,8 +40,3 @@ The Great Commission	<strong><sup>28</sup></strong>:16-20
 Appearance to Paul (Acts <strong><sup>9</sup></strong>:3-9;
 
 <strong><sup>22</sup></strong>:6-11; <strong><sup>26</sup></strong>:12-18; 1 Corinthians<strong> 15</strong>:8)
-
-christir.org
-
-
-

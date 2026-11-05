@@ -15,7 +15,7 @@ next: chapter-08
 ### Healing the Centurion’s Servant
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After he finished, he went to Capernaum. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After he finished, he went to Capernaum. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A centurion’s valued servant was sick, close to death. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The centurion heard about Jesus and sent elders of the Jews to ask him to come get the servant through it. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they got to Jesus, they urged him earnestly, <i>“He deserves doing that for him.
@@ -71,9 +71,7 @@ next: chapter-08
 <u>did</u> you go out to see? A prophet? Oh yes, and more than a prophet. </span></i></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’s the one that scripture refers to,</span></i></span></p>
 
-
-### ‘I’ll send my messenger ahead of you
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        <b>‘I’ll send my messenger ahead of you</b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    <b>to get</b> your <b>road ready for you’</b></span></i><b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Mal 3:1]</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></p>
 
@@ -91,7 +89,9 @@ next: chapter-08
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>John the Baptist came, not eating bread or drinking wine, and you say he’s got a demon. </span></i></span>
 <span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Son of Man has come eating and drinking, and you say he’s a glutton, a drunk, a pal of tax collectors and sinners. </span></i></span>
-<span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wisdom becomes obvious from what it produces.”<sup>lit</sup> </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                         </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Lk 7:18-35</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span></p>
+<span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wisdom becomes obvious from what it produces.”<sup>lit</sup></span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Lk 7:18-35</p>
 
 
 ### In the House of Simon the Pharisee

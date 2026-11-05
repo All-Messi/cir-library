@@ -12,14 +12,10 @@ next: chapter-06
 ## Ephesians Chapter 5
 
 
-### Eph 4:25-32
-
-
-
 ### Imitating God
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>5</span></b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>:</span></sup><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So imitate God like children he loves. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So imitate God like children he loves. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Live in love like Christ loved you and gave himself for you <i>as an</i> offering, a sacrifice to God for a sweet fragrance. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t let immorality, impurity, or greed even be mentioned among you, as is appropriate for saints. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t allow any indecency or foolish, vulgar talk among you; express gratitude instead. </span></span>
@@ -75,8 +71,9 @@ next: chapter-06
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>because we’re parts of his body: </span></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“That’s why a man is to leave his parents and unite with his wife, and they’ll become one”</span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:8.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Gen 2:24]</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>.<b> </b></span></span>
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s a profound matter, but the main thing I’m talking about is Christ and the church. </span></span>
-<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But, each one of you needs to love his wife like he loves himself, and wives need to respect their husbands.</span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'> Eph 5:21-33</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></span></p>
+<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But, each one of you needs to love his wife like he loves himself, and wives need to respect their husbands.</span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Eph 5:21-33</p>
 
 
 <style>

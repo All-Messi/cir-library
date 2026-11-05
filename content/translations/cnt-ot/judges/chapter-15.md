@@ -25,7 +25,9 @@ next: chapter-16
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He lit the torches and released the foxes in the Philistines’ standing grain and olive orchards. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Philistines asked, <i>“Who did this?”</i> They said, <i>“Samson, the Timnite’s son-in-law, because he gave his wife to his companion.”</i> The Philistines came up and burned her and her father. </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Samson told them, <i>“If this is what you do, I swear I’ll take my revenge on you, and after that I’ll quit.”</i> </span></span>
-<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He struck them hip and thigh with a great slaughter and went down to stay in the cave at Etam.<b>   </b></span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>Jud</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>15:1-8</span></b></span></p>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He struck them hip and thigh with a great slaughter and went down to stay in the cave at Etam.<b></b></span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Jud 15:1-8</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then the Philistines came up and encamped in Judah and made a raid on Lehi. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The men in Judah said, <i>“Why have you come up against us?” </i></span></span></p>
@@ -39,7 +41,9 @@ next: chapter-16
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“We’ll tie you up and give you to them. We won’t kill you.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So they tied him up with two new ropes and brought him up from the rock.  <b>                 </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 15:9-13</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So they tied him up with two new ropes and brought him up from the rock.  <b>                 </b></span></p>
+
+<p class="section-ref">Jud 15:9-13</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he came to Lehi, the Philistines came shouting to meet him, and the Spirit of the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> came on him powerfully. The ropes on his arms became like smoldering flax, and his bonds melted off his hands. </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He found a fresh jawbone from a donkey and killed 1,000 men with it. </span></span>
@@ -58,7 +62,9 @@ next: chapter-16
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He was thirsty and “cried out” to the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
 <i>“You’ve granted me this great deliverance. Am I to die from thirst and fall into the hands of uncircumcised men?”</i> </span></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God split open the hollow place that’s in Lehi, and water started coming out of it. When he drank it, his energy returned, and he revived. So he named it En<i>-</i>hakkore; it’s still at Lehi. </span></span>
-<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He judged Israel <b>20 years</b> during the time of the Philistines.<b>       </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 15:14-20</span></b></span></p>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He judged Israel <b>20 years</b> during the time of the Philistines.<b>       </b></span></span></p>
+
+<p class="section-ref">Jud 15:14-20</p>
 
 
 <style>

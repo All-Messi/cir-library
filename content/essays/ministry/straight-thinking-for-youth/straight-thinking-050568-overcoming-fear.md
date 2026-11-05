@@ -1,7 +1,9 @@
 ---
-title: "Straight Thinking 050568 OVERCOMING FEAR"
-author: "Virgil Warren, christir.org"
+title: "Overcoming Fear"
+subtitle: "Straight Thinking, May 5, 1968"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-12
 categories:
 - 'Ministry'
 - 'Straight Thinking For Youth'
@@ -26,14 +28,11 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>Straight Thinking</span></b></p>
 
-<p class=MsoNormal align=center style='margin-bottom:.25in;text-align:center'><span
-style='font-size:10.0pt;line-height:115%'>050568</span></p>
 
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%'>OVERCOMING FEAR</span></p>
+
+
+
 
 <p class=MsoNormal style='text-align:justify'><i><span style='font-size:12.0pt;
 line-height:115%'>Sunday.</span></i><span style='font-size:12.0pt;line-height:
@@ -100,6 +99,5 @@ Psalm <b>139</b>:7-12; <b>27</b>:1; Hebrews <b>11</b>:27</span><span
 style='font-size:12.0pt;line-height:115%'>.)</span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
-line-height:115%'>Virgil Warren, <u>Straight</u>, May 5, 1968, p13                                                                                  
-chrisstir.org </span></p>
+line-height:115%'>Virgil Warren, <u>Straight</u>, May 5, 1968, p13 </span></p>
 </div>

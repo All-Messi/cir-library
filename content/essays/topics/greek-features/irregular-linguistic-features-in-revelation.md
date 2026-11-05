@@ -4,8 +4,10 @@ categories:
 - Topics
 - Greek Features
 date: '2026-02-16'
+lastmod: 2025-07-10
 draft: false
-title: "IRREGULAR LINGUISTIC FEATURES IN REVELATION:"
+title: "Irregular Linguistic Features in Revelation"
+subtitle: "Interacting with R. H. Charles"
 weight: 2
 ---
 
@@ -35,15 +37,13 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>INTERACTING WITH R. H. CHARLES</span></b></p>
+
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><b><span
 style='font-size:12.0pt'>&nbsp;</span></b></p>
 
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
+
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span

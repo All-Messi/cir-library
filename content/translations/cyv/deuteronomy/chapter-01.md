@@ -11,14 +11,11 @@ next: chapter-02
 ## Deuteronomy Chapter 1
 
 
-### Conversational Yahveh Covenant
-
-
-
 ### The Command to Leave Horeb
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><span style='font-size:14.0pt;line-height:115%;font-family: "Times New Roman",serif'> 1<sup>:1</sup></span></b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Moses spoke to Israel in the open country east of the Jordan, in the Arabah across from Suph between Paran and Tophel, Laban, Hazeroth, and Dizahab. </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It takes 11 days to travel from Horeb/<i>Sinai</i> past Mount Seir to Kadesh-barnea. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Moses spoke to Israel in the open country east of the Jordan, in the Arabah across from Suph between Paran and Tophel, Laban, Hazeroth, and Dizahab. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It takes 11 days to travel from Horeb/<i>Sinai</i> past Mount Seir to Kadesh-barnea. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The <b>first day, eleventh month, fortieth year</b>, Moses told Israel everything Yahveh had told him to give them. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That was after he’d defeated Sihon, king of the Amorites, in Heshbon and Og, king of Bashan, in Ashtaroth and Edrei. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>East of the Jordan in Moab, Moses undertook to explain the Law.         </span></span></p>

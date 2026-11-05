@@ -27,7 +27,9 @@ next: chapter-05
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He made 10 basins</span></u><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> to wash in, and set 5 on each side for rinsing things for the burnt offering; but the sea was for the priests to wash in; </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>10 golden lampstands</span></u><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> in the way prescribed, and set them in the Temple, 5 on each side;                   </span><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 4:1-7</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>10 golden lampstands</span></u><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> in the way prescribed, and set them in the Temple, 5 on each side;                   </span></span></p>
+
+<p class="section-ref">2 Ch 4:1-7</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>10 tables</span></u><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> placed in the Temple, 5 on each side; </span></span></p>
 
@@ -36,7 +38,9 @@ next: chapter-05
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the court of priests</span></u><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>, the great court, and bronze-plated doors for the court. </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He set the sea on the right side of the Temple toward the southeast.
-</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 4:8-10</span></b></span></p>
+</span></span></p>
+
+<p class="section-ref">2 Ch 4:8-10</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Huram made the <u>pails, shovels, and bowls</u>, and finished the work for King Solomon on God’s Temple:
 </span></span>
@@ -53,7 +57,9 @@ next: chapter-05
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the lampstands with their lamps to burn in front of the inner sanctuary as prescribed, </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the <u>flowers</u>, lamps, <u>tongs</u>; </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the
-<u>snuffers</u>, bowls, <u>spoons</u>, <u>firepans</u>; the entrance to the Temple, its inner doors for the Holy of Holies, and the doors of the Temple (</span><span style='font-family:"Times New Roman",serif'>the nave</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>). </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 4:11-22</span></b></span></p>
+<u>snuffers</u>, bowls, <u>spoons</u>, <u>firepans</u>; the entrance to the Temple, its inner doors for the Holy of Holies, and the doors of the Temple (</span><span style='font-family:"Times New Roman",serif'>the nave</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>). </span></span></p>
+
+<p class="section-ref">2 Ch 4:11-22</p>
 
 
 <style>

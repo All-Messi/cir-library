@@ -15,7 +15,7 @@ next: chapter-21
 ### Ahab’s War with Syria
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126269889"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Benhadad, king of Aram, gathered his army, 32 kings with horses and chariots. He went up and laid siege to Samaria and attacked it. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Benhadad, king of Aram, gathered his army, 32 kings with horses and chariots. He went up and laid siege to Samaria and attacked it. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He sent ambassadors to Ahab in the city, <i>“Benhadad says, </i></span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘<i>Your silver and gold are mine. Your most beautiful wives and children are mine too.’”</i>   </span></span></p>
 
@@ -27,7 +27,9 @@ next: chapter-21
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king of Israel called the elders of the land, <i>“See how this man is looking to make trouble; he sent for my wives, my children, my silver and gold. I didn’t tell him no.” </i></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The elders and the people advised, <i>“Don’t agree </i>to anything<i>.”</i> <b>                         </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 20:1-8</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The elders and the people advised, <i>“Don’t agree </i>to anything<i>.”</i> <b>                         </b></span></span></p>
+
+<p class="section-ref">1 Kg 20:1-8</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said to Benhadad’s ambassadors, <i>“Tell my lord the king, ‘Everything you sent for the first time I’ll do, but I can’t do this.”</i> The ambassadors took him that message. </span></span></p>
 
@@ -37,10 +39,10 @@ next: chapter-21
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Benhadad heard it, he was drinking with the kings in temporary shelters and told his officers, <i>“Take</i> <i>your positions.”</i> <b>                                                                             </b></span></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>They took their positions against the city.
+</span></p>
 
-### They took their positions against the city.
-1 Kg 20:9-12
-
+<p class="section-ref">1 Kg 20:9-12</p>
 
 
 ### Ahab’s Victory over Ben-Hadad
@@ -56,7 +58,7 @@ next: chapter-21
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> <i>“You.” </i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><a name="_Hlk126270323"><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He mustered the troops of the 232 provinces, 7,000 Israelites. </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He mustered the troops of the 232 provinces, 7,000 Israelites. </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They went out at noon while Benhadad was getting drunk in temporary shelters with his allied 32 kings. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel’s troops went out first. </span></span></p>
@@ -69,16 +71,18 @@ next: chapter-21
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They each killed their man, the Arameans fled, and Israel chased them. Benhadad escaped on a horse with the cavalry. </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king of Israel struck the horses and chariots, and killed the Arameans with a great slaughter.<b>                                                                                                                                                            </b></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                                                                                                                            </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 20:13-21</span></b></p>
+<p class="section-ref">1 Kg 20:13-21</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The prophet came to the king, <i>“Make plans for another attack. At the first of the year, the king of Aram will come back.”</i></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now the officers of Aram’s king told him, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Their gods are mountain gods; so they were stronger than we were. Let’s fight them on the plains. We’ll surely be stronger than they are. </span></i><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Put a commander in place of each king. </span></i></span>
-<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Muster an army like the one you’ve lost, horse for horse, chariot for chariot. Then fight them in the plain; we’ll surely be stronger than they are.”  </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 20:22-25</span></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>               </span></b></span></p>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Muster an army like the one you’ve lost, horse for horse, chariot for chariot. Then fight them in the plain; we’ll surely be stronger than they are.”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></b></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126270440"><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At the first of the year, Benhadad mustered the Arameans and went up to Aphek to fight Israel. </span></span>
+<p class="section-ref">1 Kg 20:22-25</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At the first of the year, Benhadad mustered the Arameans and went up to Aphek to fight Israel. </span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Israelites mustered, gathered provisions, and went to meet them. They camped there like two little flocks of goats, but the Arameans filled the countryside. </span></span>
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then a man of God came up and told the king of Israel<i>,   </i></span></span></p>
 
@@ -87,16 +91,20 @@ next: chapter-21
 </span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They camped against one another for a week. The seventh day, the battle began, and the Israelites killed 100,000 foot soldiers in one day. </span></span>
-<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest fled into Aphek, and the wall fell on 27,000 more. Benhadad fled to the city into an inner room.<b>           </b></span><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 20:26-30</span></b></span></p>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest fled into Aphek, and the wall fell on 27,000 more. Benhadad fled to the city into an inner room.<b>           </b></span></span></p>
+
+<p class="section-ref">1 Kg 20:26-30</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His officers told him, <i>“We’ve heard that the kings of Israel are merciful. Let’s put burlap around our waists and ropes on our heads, and go out to the king of Israel. Maybe he’ll let you live.” </i></span></span>
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So they put burlap around their waists and ropes on their heads, and went to the king of Israel, <i>“Benhadad says, ‘Please don’t kill me.’” </i></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>He said, <i>“Is my brother still alive?”</i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126270592"><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The officers quickly picked up on his word and said, <i>“Your brother Benhadad</i>.<i>”</i> He said, <i>“Go bring him here.” </i>Benhadad came out, and he took him up into the chariot.</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The officers quickly picked up on his word and said, <i>“Your brother Benhadad</i>.<i>”</i> He said, <i>“Go bring him here.” </i>Benhadad came out, and he took him up into the chariot.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Benhadad</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told him, <i>“I’ll restore the towns my father took from your father, and you’ll make streets in Damascus like my father did in Samaria.” Ahab</i> said, <i>“And I’ll let you go with this treaty.”</i> He made a treaty with him and let him go.<b>     </b></span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>1 Kg 20:31-34</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Benhadad</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told him, <i>“I’ll restore the towns my father took from your father, and you’ll make streets in Damascus like my father did in Samaria.” Ahab</i> said, <i>“And I’ll let you go with this treaty.”</i> He made a treaty with him and let him go.<b>     </b></span></span></p>
+
+<p class="section-ref">1 Kg 20:31-34</p>
 
 
 ### A Prophet Condemns Ahab’s Release
@@ -118,7 +126,9 @@ next: chapter-21
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Right away he took the bandage off his eyes, and the king recognized he was one of the prophets. </span></span>
 <span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told him, <i>“The </i><i>L</i></span><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says, since you let the man go that he’d devoted to destruction, it’s your life for his and your people for his.’”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>  </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king of Israel went home to Samaria sullen and resentful.<b>                      </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 20:35-43</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king of Israel went home to Samaria sullen and resentful.<b>                      </b></span></span></p>
+
+<p class="section-ref">1 Kg 20:35-43</p>
 
 
 <style>

@@ -15,7 +15,7 @@ next: chapter-08
 ### Stephen’s Defense
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The high priest said, <i>“Is that true?”</i></span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The high priest said, <i>“Is that true?”</i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, </span></span></p>
 
@@ -87,9 +87,7 @@ next: chapter-08
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“God turned away and gave them up to serve the host of heaven, like scripture says in the Book of the Prophets, </span></i></span></p>
 
-
-### ‘You didn’t just offer me slain victims and sacrifices
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    <b>‘You didn’t </b></span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>just <b><i>offer <u>me</u> slain victims and sacrifices </i></b></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                for 40 years in the wilderness, did you, Israel?</span></i></b></p>
 
@@ -121,8 +119,10 @@ next: chapter-08
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v51" id="v51"><sup class="verse-num">51</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You stiff-necked and uncircumcised in heart and ears, you always resist the Holy Spirit just like your ancestors did! </span></i></span>
 <span class="verse verse-v52" id="v52"><sup class="verse-num">52</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Which prophet didn’t they persecute? They killed the ones that predicted the coming of the Righteous One that you’ve betrayed and murdered, </span></i></span>
-<span class="verse verse-v53" id="v53"><sup class="verse-num">53</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>you that received the Law ordained by angels and haven’t kept it!”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Acts
-</span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>7:44-53</span></b></span></p>
+<span class="verse verse-v53" id="v53"><sup class="verse-num">53</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>you that received the Law ordained by angels and haven’t kept it!”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Acts
+7:44-53</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v54" id="v54"><sup class="verse-num">54</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They were enraged and gritted their teeth at him. </span></span>
 <span class="verse verse-v55" id="v55"><sup class="verse-num">55</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Filled with the Holy Spirit, he looked intently into heaven and saw God’s glory and Jesus standing to his right. </span></span>

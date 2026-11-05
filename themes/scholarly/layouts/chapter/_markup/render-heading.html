@@ -1,0 +1,9 @@
+{{- /* Bible chapter headings (2026-11-04). The converter writes "## Genesis Chapter 1" as the
+       first heading of every chapter file; it is the page's visible title, so render it as the
+       page's one <h1> (styled like the old h2 in chapter/single.html). Every other heading is
+       rendered exactly as Goldmark's default would. */ -}}
+{{- $lvl := .Level -}}
+{{- $isTitle := and (eq .Level 2) (findRE `^\S.*\sChapter\s+\d+\s*$` (.Text | plainify) 1) -}}
+{{- if $isTitle }}{{ $lvl = 1 }}{{ end -}}
+<h{{ $lvl }} id="{{ .Anchor }}"{{ if $isTitle }} class="chapter-h1"{{ end }}{{ range $k, $v := .Attributes }}{{ if ne $k "id" }} {{ $k }}="{{ $v }}"{{ end }}{{ end }}>{{ .Text }}{{ if $isTitle }}{{ with .Page.Parent }}{{ with .Parent }}<span class="visually-hidden">, {{ .Title }}</span>{{ end }}{{ end }}{{ end }}</h{{ $lvl }}>
+{{- /* trailing newline intentionally omitted */ -}}

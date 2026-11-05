@@ -2,6 +2,8 @@
 title: "PART FOUR: THE PHILOSOPHICAL METHOD IN SKETCH"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-06-08
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Apologetics Book'

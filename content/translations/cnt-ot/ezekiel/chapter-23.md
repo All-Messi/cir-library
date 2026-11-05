@@ -28,9 +28,7 @@ next: chapter-24
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I gave her to her lovers, the Assyrians. </span></i></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They uncovered her nakedness; they took her children but killed her with a sword. So she became a byword among women, and they carried out judgments on her.</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b></span></p>
 
-
-### Ezek 23:1-10
-
+<p class="section-ref">Ezek 23:1-10</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Her sister Oholibah saw that and became even more corrupt in doting on her lovers. Her prostitution was worse than her sister’s. </span></i></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She doted on the Assyrians, nearby governors and officials, magnificently attired, horsemen riding horses, all desirable young men. </span></i></span>
@@ -60,8 +58,9 @@ next: chapter-24
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll turn you over to the ones you despise, people you’re alienated from. </span></i></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll deal with you in hate, take your property, and leave you naked. </span></i></span>
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your lewdness and prostitution will be exposed. </span></i></span>
-<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ve followed your sister’s ways; so I’ll give you her cup </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to drink<i>.’         </i></span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>Ezek 23:22-31</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></b></span></p>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ve followed your sister’s ways; so I’ll give you her cup </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to drink<i>.’</i></span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Ezek 23:22-31</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The Lord G</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>OD</span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> says,   </span></i></span></p>
 
@@ -97,10 +96,10 @@ next: chapter-24
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> said:</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Son of man, will you willing to judge Oholah and Oholibah? Then remind them of their detestable acts. </span></i><a name="_Hlk147405733"><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Say,
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Son of man, will you willing to judge Oholah and Oholibah? Then remind them of their detestable acts. </span></i><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Say,
 </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <a name="_Hlk147405651">‘You’ve committed adultery and murder—</a></span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      ‘You’ve committed adultery and murder—</span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            adultery by worshiping your idols, </span></i></p>
 
@@ -175,6 +174,10 @@ next: chapter-24
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Your lewdness will come back on you</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> as the penalty for worshiping idols. </span></i></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <u>That way you’ll know I’m the Lord G</u></span></i><i><u><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>OD</span></u></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.’”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                     </span></b></span></p>
+
+<p class="section-ref">Ezek 23:43-49</p>
 
 
 <style>

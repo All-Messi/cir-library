@@ -11,7 +11,7 @@ next: chapter-04
 
 ## Colossians Chapter 3
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If then you-were-raised-with [the] Christ, seek the-things above, where [the] Christ is-seated on (the) right (hand) of-[the] God. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If then you-were-raised-with [the] Christ, seek the-things above, where [the] Christ is-seated on (the) right (hand) of-[the] God. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Set-your-mind-on the-things above, not the-things on [the] earth. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For you-died and the life of-you has-been-hidden with Christ in [the] God. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When [the] Christ, the life of-you, appears, then you also will-be-manifested with him in glory.</span></span></p>

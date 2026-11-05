@@ -39,7 +39,9 @@ next: chapter-09
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses left Pharaoh and called out to Yahveh about the frogs. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh did what he asked; the frogs died in the houses, courts, and fields. </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They piled them up and the country reeked. </span></span>
-<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Pharaoh saw relief, he hardened his heart and wouldn’t listen.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> Ex 8:8-15</span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>          </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></b></span></p>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Pharaoh saw relief, he hardened his heart and wouldn’t listen.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Ex 8:8-15</p>
 
 
 ### The Plague of Gnats
@@ -79,7 +81,9 @@ next: chapter-09
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses left and prayed to Yahveh, </span></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and he took the swarms away completely. </span></span>
-<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Pharaoh hardened his heart that time too and wouldn’t let the people go.                                                                                                                      </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ex</span></b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> <b>8:26-32</b></span></span></p>
+<span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Pharaoh hardened his heart that time too and wouldn’t let the people go.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'><b></b></span></span></p>
+
+<p class="section-ref">Ex 8:26-32</p>
 
 
 <style>

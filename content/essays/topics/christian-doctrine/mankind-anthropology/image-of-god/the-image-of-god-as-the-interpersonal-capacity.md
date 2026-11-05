@@ -2,6 +2,7 @@
 title: "THE 'IMAGE OF GOD' AS THE INTERPERSONAL CAPACITY"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-16
 categories:
 - 'Topics'
 - 'Christian Doctrine'

@@ -15,12 +15,12 @@ next: chapter-04
 ### Nebuchadnezzar’s Golden Statue
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124426056"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nebucharnezzar made a gold image 90ft tall and 18ft wide, and set it up on the Plain of Dura in the province of Babylon. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nebucharnezzar made a gold image 90ft tall and 18ft wide, and set it up on the Plain of Dura in the province of Babylon. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he sent word to gather the satraps, prefects, governors, advisors, treasurers, judges, magistrates, and rulers of the provinces to come to the dedication of the image. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They came and stood in front of it. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The herald declared loudly, </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><a name="_Hlk146980342"><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Every people, nation, and language </span></i></a><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>group<i>, </i></span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>when you hear the horn, flute, lyre, trigon, harp, pipes, and other instruments, fall down and worship the gold image the king has set up. </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Every people, nation, and language </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>group<i>, </i></span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>when you hear the horn, flute, lyre, trigon, harp, pipes, and other instruments, fall down and worship the gold image the king has set up. </span></i></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Whoever doesn’t will immediately be thrown into the blazing furnace.” </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So when the people heard the instruments, they all fell down to the image in worship.</span></span></p>
@@ -42,7 +42,7 @@ next: chapter-04
 
 <p class="section-ref">Dan 3:8-13</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><a name="_Hlk124426222"><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Is it true you won’t serve my gods or worship the gold image I set up? </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Is it true you won’t serve my gods or worship the gold image I set up? </span></i></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you’re ready, when you hear the instruments, fall down in worship to the image I’ve made. If you don’t, you’ll be thrown directly into the blazing furnace. What god can deliver you from me?” </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Shadrach, Meshach, and Abed-nego answered him, </span></span></p>
@@ -58,7 +58,7 @@ next: chapter-04
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Since the king’s command was strict and the furnace was extremely hot, the fire killed the soldiers that carried them. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They fell into the blazing furnace still tied up. </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124426320"><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nebuchadnezzar was astounded. He jumped up and exclaimed to his advisers, <i>“Didn’t we throw three men in the fire?”</i></span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nebuchadnezzar was astounded. He jumped up and exclaimed to his advisers, <i>“Didn’t we throw three men in the fire?”</i></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Yes.”</span></i></p>
 

@@ -15,7 +15,7 @@ next: chapter-34
 ### Jacob Meets Esau
 
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><a name="_Hlk125374643"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jacob looked up and saw Esau coming with his 400 men. He divided the children between Leah, Rachel, and the two maids. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jacob looked up and saw Esau coming with his 400 men. He divided the children between Leah, Rachel, and the two maids. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He put the maids and their children in front, Leah and her children next, Rachel and Joseph last. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He went on ahead of them and bowed to the ground seven times as he got closer to his brother. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Esau ran to meet him, embraced him, hugged him, and kissed him. They cried <i>together</i>.
@@ -40,7 +40,7 @@ next: chapter-34
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He kept urging him, so he took it.</span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk125374880"><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esau said,</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> “Let’s travel on. I’ll go ahead of you.”</span></i></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esau said,</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> “Let’s travel on. I’ll go ahead of you.”</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But he told him, </span></span></p>
 

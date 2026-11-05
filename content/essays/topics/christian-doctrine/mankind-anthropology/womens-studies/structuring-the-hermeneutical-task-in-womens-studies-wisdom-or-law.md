@@ -2,6 +2,8 @@
 title: "STRUCTURING THE HERMENEUTICAL TASK IN WOMENS STUDIES: WISDOM OR LAW?"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-07-20
+lastmod: 2025-07-14
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -51,7 +53,7 @@ we have to say here comes in association with the accompanying diagram.</span></
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                      <img width=340 height=170
+style='font-size:12.0pt'>                      <img alt="Wisdom (advice, expediency, method, opinion, love, bylaw material) containing LAW (commandment, morality, faith, positive commandment)" width=340 height=170
 src="/images/essays/structuring-the-hermeneutical-task-in-womens-studies-wisdom-or-law/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

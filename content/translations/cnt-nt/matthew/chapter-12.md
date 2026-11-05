@@ -15,7 +15,7 @@ next: chapter-13
 ### Another Controversy About Breaking Sabbath
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, Jesus was walking along through grain fields on the Sabbath. His disciples were hungry and started picking off heads of wheat and eating the seeds. </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, Jesus was walking along through grain fields on the Sabbath. His disciples were hungry and started picking off heads of wheat and eating the seeds. </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When some Pharisees saw it, they said, <i>“Your disciples are breaking the Law.”</i></span></span></p>
 
@@ -59,9 +59,7 @@ next: chapter-13
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    my dearly loved one I delight in—</span></i></b></p>
 
-
-### I’ll put my Spirit on him,
-
+<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        I’ll put my Spirit on him,</span></i></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    and he’ll render justice for the nations.</span></i></b></p>
 

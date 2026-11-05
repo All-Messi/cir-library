@@ -2,6 +2,8 @@
 title: "FORMAL PREPARATION FOR MINISTRY: THE 18-30 YEARS"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-07-21
+lastmod: 2025-07-12
 categories:
 - 'Ministry'
 - 'Preparation For Ministry'

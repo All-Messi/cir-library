@@ -2,6 +2,8 @@
 title: "THE OLIVET DISCOURSE"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-08-02
+lastmod: 2025-07-10
 categories:
 - 'Topics'
 - 'Christian Doctrine'

@@ -101,9 +101,7 @@ next: chapter-10
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    will devour Israel with wide-open jaws.</span></p>
 
-
-### Even then, his anger won’t be spent;
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              </span><b><span style='font-family:"Times New Roman",serif'>Even then, his anger won’t be spent;</span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-family:"Times New Roman",serif'>                                    his fist will still be raised.                                            </span></b></span></p>
 
@@ -135,9 +133,7 @@ next: chapter-10
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                          they all speak foolishness.</span></p>
 
-
-### Even then, his anger won’t be spent;
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><b><span style='font-family:"Times New Roman",serif'>Even then, his anger won’t be spent;</span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-family:"Times New Roman",serif'>                                    his fist will still be raised.</span></b><span style='font-family:"Times New Roman",serif'>                                            </span></p>
 
@@ -171,9 +167,7 @@ next: chapter-10
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              and together feed on Judah.</span></p>
 
-
-### Even then, his anger won’t be spent;
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><b><span style='font-family:"Times New Roman",serif'>Even then, his anger won’t be spent;</span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-family:"Times New Roman",serif'>                                    his fist will still be raised.</span></b></span></p>
 

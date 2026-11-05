@@ -10,10 +10,6 @@ next: chapter-02
 
 ## Malachi Chapter 1
 
-
-### Conversational Yahveh Covenant
-
-
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-top:0in;margin-bottom:0in;margin-left:0in;text-align:center'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>An Oracle from Yahveh to Israel Through Malachi</span></span></p>
 
 
@@ -28,7 +24,7 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esau’s descendants claim, <i>“We’ve been beaten down, but we’ll come back and rebuild the ruins.”</i></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            But Yahveh of Hosts says, <i>“They may rebuild, but I’ll tear </i>it <i>down </i>again<i>. People will call <a name="_Hlk123035070">them The Evil Country, The Nation Yahveh Is Angry with Forever.” </a></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            But Yahveh of Hosts says, <i>“They may rebuild, but I’ll tear </i>it <i>down </i>again<i>. People will call them The Evil Country, The Nation Yahveh Is Angry with Forever.” </i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ll see this and say, <i>“May Yahveh be honored beyond Israel’s boundaries!”</i></span></span></p>
 

@@ -32,7 +32,9 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“He was wearing a leather belt and clothes made out of hair.” </span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“That was Elijah the Tishbite.” </span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                                              </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Kg 1:1-8</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“That was Elijah the Tishbite.” </span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                                              </span></b></span></p>
+
+<p class="section-ref">2 Kg 1:1-8</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king sent him a captain with his 50 men <i>to arrest him</i>. He went up to <i>Elijah</i>, who was sitting on a hill, <i>“Man of God, the king says to come down!”</i> </span></span></p>
 
@@ -42,7 +44,7 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If I’m a ‘man of God,’ fire from the sky will consume you and your 50 men.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> That’s what happened. </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126321087"><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He sent a third captain with his 50 men. When the captain came up, he knelt to Elijah, begging him, </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He sent a third captain with his 50 men. When the captain came up, he knelt to Elijah, begging him, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Man of God, please value my life and the lives of these 50 servants of yours. </span></i><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Fire from the sky consumed the first two captains with their men. Regard my life as worth something to you.” </span></i></span></p>
 
@@ -53,7 +55,9 @@ next: chapter-02
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says, ‘Is there no God in Israel? Since you’ve asked Baal-zebub, you won’t get out of bed.’”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died, and <u>Jehoram</u> became king in the <b>second year of Jehoram</b> son of Jehoshaphat, king of Judah, because <i>Ahaziah</i> didn’t have a son. </span></span>
-<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of his acts are recorded in <i>The Chronicles of the Kings of Israel</i>.<b>                    </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Kg 1:9-18</span></b></span></p>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of his acts are recorded in <i>The Chronicles of the Kings of Israel</i>.<b>                    </b></span></span></p>
+
+<p class="section-ref">2 Kg 1:9-18</p>
 
 
 <style>

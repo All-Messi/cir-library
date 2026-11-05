@@ -2,6 +2,8 @@
 title: "REVELATION: GOOD AND EVIL IN ETERNAL PERSPECTIVE"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-02-04
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Book Studies'

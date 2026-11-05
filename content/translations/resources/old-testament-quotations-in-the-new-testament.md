@@ -4,7 +4,7 @@ categories:
 - Bible Resources
 date: '2026-02-16'
 draft: false
-title: OLD TESTAMENT QUOTATIONS IN THE NEW TESTAMENT
+title: "Old Testament Quotations in the New Testament"
 weight: 1
 ---
 
@@ -3012,9 +3012,3 @@ Notes: Longer quotations include shorter parts within them quoted in other place
 
 
 Our listing we have extracted from the bold-face entries in the Greek text UBS <sup>5</sup>th ed rev, 2014, including the wording of the Old Testament texts. In the back of that volume appears a listing of passage references, given both from Old to New (pp. 857-60) and from New to Old (pp. 860-63). Additionally, the publishers have included an “Index of Allusions and Verbal Parallels.”
-
-christir.org
-
-
-
-

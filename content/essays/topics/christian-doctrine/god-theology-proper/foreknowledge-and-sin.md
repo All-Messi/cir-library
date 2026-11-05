@@ -2,6 +2,7 @@
 title: "FOREKNOWLEDGE AND SIN"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2026-03-29
 categories:
 - 'Topics'
 - 'Christian Doctrine'

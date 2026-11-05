@@ -1,7 +1,7 @@
 ---
 title: "His Body the Church"
 date: '2016-04-10'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

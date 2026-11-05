@@ -15,7 +15,7 @@ next: chapter-07
 ### Isaiah’s Call and Cleansing
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk86919730"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The year King Uzziah died</span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>, I saw the Lord sitting on a high throne, and his train filled the Temple. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The year King Uzziah died</span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>, I saw the Lord sitting on a high throne, and his train filled the Temple. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Seraphs hovered above him, each with six wings:  two covered their faces, two covered their feet, and with two they flew. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>One shouted to the other,        </span></span></p>
 

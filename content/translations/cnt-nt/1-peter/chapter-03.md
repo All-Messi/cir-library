@@ -37,9 +37,7 @@ next: chapter-04
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    a long time and prosper?</span></i></b></p>
 
-
-### Keep your tongue from evil
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Keep your tongue from evil </span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and your lips from lying.</span></i></b></p>
 
@@ -51,9 +49,7 @@ next: chapter-04
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and hears their prayers.</span></i></b></p>
 
-
-### He turns against
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  He turns against </span></i></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>people that practice sin”</span></i></b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span><b><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Ps 34:12-16]</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.
                                         </span></b></span></p>
@@ -75,7 +71,9 @@ next: chapter-04
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He went in the spirit and preached to the spirits in prison </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that disobeyed while God patiently waited for Noah to build the ark. In it, water saved a few people—eight. </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s like baptism saving you. It doesn’t wash off dirt, but appeals to God for a clear conscience because of Christ’s resurrection. </span></span>
-<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’s ascended to God’s right hand in heaven with angels, authorities, and powers subject to him.                                                               </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Pet 3:17-22</span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></span></p>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’s ascended to God’s right hand in heaven with angels, authorities, and powers subject to him.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">1 Pet 3:17-22</p>
 
 
 <style>

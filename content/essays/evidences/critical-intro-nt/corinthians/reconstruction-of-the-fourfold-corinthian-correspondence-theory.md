@@ -2,6 +2,7 @@
 title: "RECONSTRUCTION OF THE FOURFOLD CORINTHIAN CORRESPONDENCE THEORY"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-15
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'
@@ -30,7 +31,7 @@ aliases:
 </style>
 
 <div class="word-content">
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
+<p class="cir-diagram" style="text-align:center;margin:1.25rem 0"><img src="/images/diagrams/reconstruction-of-the-fourfold-corinthian-correspondence-theory-1.png" alt="Diagram: 1 Corinthians 5:9 previous letter, 1 Corinthians, 2 Corinthians 2:4 sorrowful letter, 2 Corinthians (1-9, 10-13); arrows show 2 Corinthians 6:14-7:1 moved from the previous letter and 10-13 from the sorrowful letter" width="398" style="max-width:100%;height:auto"></p><p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>            2 Corinthians <b>6</b>:14-<b>7</b>:1 does
 not form the whole of the “previous letter.” It is not a unit that can stand on
 its own, so its beginning and end have been removed and then inserted where it
@@ -74,7 +75,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=323 height=98 id="Picture 1"
+style='font-size:12.0pt'><img alt="Corinthian correspondence: letters A, B (severe letter), C and C′ within 2 Corinthians" width=323 height=98 id="Picture 1"
 src="/images/essays/reconstruction-of-the-fourfold-corinthian-correspondence-theory/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

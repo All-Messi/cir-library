@@ -40,8 +40,6 @@ weight: 1
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The children of your elect sister say hello.                                                           </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Jn 12-13</span></b></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Translator: Virgil Warren,                                                                                                christir.org</span></p>
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

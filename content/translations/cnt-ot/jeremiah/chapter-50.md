@@ -15,7 +15,7 @@ next: chapter-51
 
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>the Land of the Babylonians, Through the Prophet Jeremiah:</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123745240"><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Announce it among the nations; </span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Announce it among the nations; </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>hoist a standard everyone can see:</span></i></p>
 
@@ -45,7 +45,7 @@ next: chapter-51
 
 <p class="section-ref">Jer 50:6-10</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123745552"><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Though you’re happy and jubilant </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>now<i>,</i></span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Though you’re happy and jubilant </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>now<i>,</i></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            you that plundered my permanent possession,</span></i></p>
 
@@ -81,7 +81,7 @@ next: chapter-51
 
 <p class="section-ref">Jer 50:11-14</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123745651"><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Raise your battle cry at it everywhere!</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Raise your battle cry at it everywhere!</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      It has given up; its pillars have fallen;</span></i></p>
 
@@ -134,7 +134,7 @@ next: chapter-51
 
 <p class="section-ref">Jer 50:21-23</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123756556"><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I set a snare for you and caught you, Babylon,</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I set a snare for you and caught you, Babylon,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      while you weren’t watching.</span></i></p>
 
@@ -170,7 +170,7 @@ next: chapter-51
 
 <p class="section-ref">Jer 50:24-28</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123756708"><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Summon many </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>nations<i> against Babylon,</i></span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Summon many </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>nations<i> against Babylon,</i></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      every one that bends the bow;</span></i></p>
 
@@ -206,7 +206,7 @@ next: chapter-51
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> of Hosts says,</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <a name="_Hlk123756829">“Israel is oppressed,</a></span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      “Israel is oppressed,</span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Judah as well.</span></i></p>
 
@@ -233,7 +233,7 @@ next: chapter-51
 
 <p class="section-ref">Jer 50:33-35</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123756965"><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A sword against their <u>fortunetellers</u></span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A sword against their <u>fortunetellers</u></span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>so
 <i>they’ll become fools!</i></span></p>
@@ -263,7 +263,7 @@ next: chapter-51
 
 <p class="section-ref">Jer 50:39-40</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123757105"><span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“People are coming from the north;</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“People are coming from the north;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      a big empire with many kings</span></i></p>
 
@@ -288,7 +288,7 @@ next: chapter-51
 
 <p class="section-ref">Jer 50:41-43</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123757179"><span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> </a><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Like a lion from the thickets by the Jordan</span></i></b><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <b>suddenly</b> <b>attacking a sheepfold,</b> <b>I’ll chase everyone away from it</b> in an instant<b>. I’ll appoint over it anyone I choose. Who can take me to court? What shepherd can oppose me?” </b></span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Like a lion from the thickets by the Jordan</span></i></b><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <b>suddenly</b> <b>attacking a sheepfold,</b> <b>I’ll chase everyone away from it</b> in an instant<b>. I’ll appoint over it anyone I choose. Who can take me to court? What shepherd can oppose me?” </b></span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:1.35pt; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So listen to what the L</span></b><b><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> has planned </span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>for Babylon and the Babylonians. <b>They’ll drag off the little ones in the flock and empty the pasture<i>.</i></b><i> </i></span></span>
 <span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At the shout, <i>“Babylon’s been captured!”</i> the ground will shake. The nations will hear the shout. <b>        </b></span></span></p>

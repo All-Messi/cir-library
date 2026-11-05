@@ -15,7 +15,7 @@ next: chapter-03
 ### Ruth Meets Boaz
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><a name="_Hlk124505528"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Naomi’s husband Elimelech had a wealthy relative named Boaz. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Naomi’s husband Elimelech had a wealthy relative named Boaz. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ruth said to Naomi, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“Let me go glean among the heads of grain after one that might take an interest in me.” </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go ahead, my daughter.”</span></i></p>
@@ -36,7 +36,7 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Listen carefully, my daughter. Don’t glean anywhere else. Stay here with my maids. </span></i><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Watch which field they harvest and follow them. I’ve warned the young men not to bother you. When you’re thirsty, go to the water jars and drink what the servants draw.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124505814"><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She fell on her face, bowing to the ground, </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“Why have I been pleasing enough to you that you’ve paid attention to me? I’m a foreigner.”</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She fell on her face, bowing to the ground, </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“Why have I been pleasing enough to you that you’ve paid attention to me? I’m a foreigner.”</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Boaz said, </span></span></p>
 
@@ -63,7 +63,7 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ruth said, </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Besides, he told me to stay close to his workmen till they’ve finished his harvest.’”</span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124507052"><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Naomi said </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“It’s good for you to go out with his maids so others won’t harm you in another field.”</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Naomi said </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“It’s good for you to go out with his maids so others won’t harm you in another field.”</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She gleaned close by Boaz’s maids till the end of barley harvest and wheat harvest. She was living with her mother-in-law.<b>    </b></span></span></p>
 

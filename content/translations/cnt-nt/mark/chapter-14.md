@@ -15,7 +15,7 @@ next: chapter-15
 ### Fifth Prediction of His Death
 
 
-<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>14</span></b><b><sup><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>:</span></sup></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The Passover and Festival of Unleavened Bread was two days away. The chief priests and scribes were trying to find a way to arrest Jesus by stealth and put him to death. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The Passover and Festival of Unleavened Bread was two days away. The chief priests and scribes were trying to find a way to arrest Jesus by stealth and put him to death. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They said, <i>“Not during the festival; the people will riot.”</i></span><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span></b></span></span></p>
 
 <p class="section-ref">Mk 14:1-2</p>
@@ -31,7 +31,9 @@ next: chapter-15
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Jesus said, <i>“Leave her alone. Why are you bothering her? She’s done me a good turn. </i></span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>You always have poor people around; you can do something good for them any time. You won’t always have<sup>p</sup> me. </span></i></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>She did what she could: she anointed my body ahead of time for burial. </span></i></span>
-<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Wherever you deliver the good news in the world, tell what she’s done in memory of her.”</span></i><b><span style='font-size:9.0pt;font-family:"Times New Roman",serif'>             </span></b><b><span style='font-size:10.0pt;font-family:"Times New Roman",serif'>Mk 14:3-9</span></b><i><span style='font-size:10.0pt;font-family:"Times New Roman",serif'>         </span></i></span></p>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Wherever you deliver the good news in the world, tell what she’s done in memory of her.”</span></i><b><span style='font-size:9.0pt;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:10.0pt;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:10.0pt;font-family:"Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Mk 14:3-9</p>
 
 
 ### Judas’ Plot to Betray Jesus
@@ -92,9 +94,7 @@ next: chapter-15
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Jesus told<sup>p</sup> them, “<i>You’re all going to desert me because scripture says,</i></span></span></p>
 
-
-### ‘I’ll strike down the shepherd,
-
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                        </span></i><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>‘I’ll strike down the shepherd,</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                    and
 </span></i></b><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>his<i> sheep will scatter’</i> </span></b><b><span style='font-size:9.0pt;font-family: "Times New Roman",serif'>[Zech 13:7]</span></b><span style='font-size:12.0pt; font-family:"Times New Roman",serif'>.</span></p>
@@ -169,9 +169,7 @@ next: chapter-15
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;line-height:normal'><span class="verse verse-v62" id="v62"><sup class="verse-num">62</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“I am;</span></i></span></p>
 
-
-### ‘You’ll see the Son of Man
-
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            ‘</span></i><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>You’ll see the Son of Man </span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                        sitting on the right hand of Power</span></i></b><i><span style='font-size:12.0pt; font-family:"Times New Roman",serif'> and </span></i><b><span style='font-size: 9.0pt;font-family:"Times New Roman",serif'>[Ps 110:1]</span></b></p>
 

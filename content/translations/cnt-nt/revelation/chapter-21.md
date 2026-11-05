@@ -15,13 +15,14 @@ next: chapter-22
 ### The New Earth and Sky
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I saw a new earth and sky. The first earth and sky had passed away, and there wasn’t any ocean anymore. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I saw a new earth and sky. The first earth and sky had passed away, and there wasn’t any ocean anymore. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I watched the Holy City, the New Jerusalem, come down out of heaven from God, ready like a bride adorned for her husband. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A loud voice came from the throne, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“God’s tabernacle is with his people; he’ll live with them, and they’ll belong to him.
-</span></i><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>He’ll wipe away every tear, and there won’t be any pain, weeping, crying, or death anymore. Former things will pass away.”     </span></i><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>Rev 21:1-4</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></i></span></p>
+</span></i><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>He’ll wipe away every tear, and there won’t be any pain, weeping, crying, or death anymore. Former things will pass away.”</span></i><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Rev 21:1-4</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The One on the throne said, </span></span></p>
 
@@ -43,7 +44,9 @@ next: chapter-22
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It had a broad, high wall and twelve gates, with an angel at each gate and the names of Israel’s twelve tribes inscribed on them. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There were three gates each on the east, north, south, and west. </span></span>
-<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The wall consisted of twelve foundations with the names of the Lamb’s twelve apostles on them.                                                                                                                             </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Rev 21:9-14</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>       </span></span></p>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The wall consisted of twelve foundations with the names of the Lamb’s twelve apostles on them.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Rev 21:9-14</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
 <i>angel</i> that was talking to me had a gold rod for measuring the city, its gates, and wall. </span></span>

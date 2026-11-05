@@ -15,7 +15,7 @@ next: chapter-14
 ### The Sermon in Stories
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus left the house that day and sat down by the lake. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus left the house that day and sat down by the lake. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So many people were gathering that he got in a boat and sat down while the crowd stood on the shore. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told them lots of things with stories.</span></span></p>
 
@@ -41,9 +41,7 @@ next: chapter-14
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s why I’m telling them stories: though they see, they don’t see; though they hear, they don’t hear or understand. </span></i></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They illustrate the way Isaiah describes them:</span></i></span></p>
 
-
-### ‘You can certainly see, but don’t understand;
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        <b>‘You can certainly see, but don’t understand;</b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        you can certainly hear, but don’t perceive,</span></i></b></p>
 
@@ -103,7 +101,10 @@ next: chapter-14
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        and tell them things not revealed since the founding of the world”</span></i></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b></p>
 
-<p class="section-ref">Ps 78:2</p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Ps 78:2]</span></b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
+</span></i></b></span></p>
+
+<p class="section-ref">Mt 13:24-35</p>
 
 
 ### Further Private Instruction in Stories

@@ -21,7 +21,9 @@ next: chapter-15
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%'>but he didn’t take away the high places. The people still sacrificed and burned incense on them. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%'>As soon as the kingdom was firmly in hand, he executed the officials that had assassinated his father. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%'>He didn’t execute their sons, as the Law said that Yahveh commanded Moses, <i>“Don’t execute parents for offspring or offspring for parents. Execute each person for that person’s sin.”</i> </span></span>
-<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%'>He killed 10,000 Edomites in the Valley of Salt, took Sela, and named it Joktheel to this day.                                                                     </span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 14:1-7</span></b><span style='font-size:12.0pt;line-height:115%'> </span></span></p>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%'>He killed 10,000 Edomites in the Valley of Salt, took Sela, and named it Joktheel to this day.</span><b><span style='font-size:10.0pt;line-height:115%'></span></b><span style='font-size:12.0pt;line-height:115%'></span></span></p>
+
+<p class="section-ref">2 Kg 14:1-7</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height: 115%'>He sent ambassadors to Jehoash </span><span style='font-size:10.0pt; line-height:115%'>(Ben-Jehoahaz Ben-Jehu)</span><span style='font-size:12.0pt; line-height:115%'>, king of Israel<i>, “Come; let’s face each other.”</i> </span></span></p>
 
@@ -35,7 +37,9 @@ next: chapter-15
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%'>He took the gold, silver, and utensils in Yahveh’s Temple and the king’s treasuries, as well as hostages, and went back to Samaria. </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height: 115%'>The rest of the acts of Jehoash, the strength of his rule, and his war with Amaziah are recorded in <i>The Chronicles of the Kings of Israel.</i> </span></span>
-<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%'>He died and they buried him in Samaria with the kings of Israel. His son Jeroboam</span><b><sup><span style='font-size:14.0pt;line-height:115%'>II</span></sup></b><span style='font-size:12.0pt;line-height:115%'> became king.<b>        </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 14:8-16 </span></b></span></p>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%'>He died and they buried him in Samaria with the kings of Israel. His son Jeroboam</span><b><sup><span style='font-size:14.0pt;line-height:115%'>II</span></sup></b><span style='font-size:12.0pt;line-height:115%'> became king.<b>        </b></span></span></p>
+
+<p class="section-ref">2 Kg 14:8-16</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height: 115%'>Amaziah lived 15 years after the death of Jehoash. </span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%'>The rest of the acts of Amaziah are recorded in <i>The Chronicles of the Kings of Judah</i>. </span></span>
@@ -54,7 +58,9 @@ next: chapter-15
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%'>Since Yahveh hadn’t yet said he’d blot out Israel, he saved them by Jeroboam</span><b><sup><span style='font-size:14.0pt;line-height:115%'>II</span></sup></b><span style='font-size:12.0pt;line-height:115%'>.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height: 115%'>The rest of the acts of Jeroboam</span><b><sup><span style='font-size: 14.0pt;line-height:115%'>II</span></sup></b><span style='font-size:12.0pt; line-height:115%'>, the strength of his rule, and how he fought and recovered Damascus and Hamath for Israel (</span><i>cities </i>that had belonged to Judah<span style='font-size:12.0pt;line-height:115%'>), are recorded in <i>The Chronicles of the Kings of Israel.</i> </span></span>
-<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height: 115%'>He died and his son <u>Zechariah</u> became king.<b>        </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 14:17-29</span></b></span></p>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height: 115%'>He died and his son <u>Zechariah</u> became king.<b>        </b></span></span></p>
+
+<p class="section-ref">2 Kg 14:17-29</p>
 
 
 <style>

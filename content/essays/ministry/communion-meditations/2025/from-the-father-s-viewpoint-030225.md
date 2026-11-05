@@ -1,7 +1,7 @@
 ---
 title: "From the Father’s Viewpoint"
 date: '2025-03-02'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

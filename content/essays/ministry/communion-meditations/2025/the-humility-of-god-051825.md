@@ -1,7 +1,7 @@
 ---
 title: "The Humility of God"
 date: '2025-05-18'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

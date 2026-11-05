@@ -2,10 +2,13 @@
 title: "LIVING FREELY"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-03-16
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Living'
 - 'Christian Living Book'
+weight: 16
 draft: false
 ---
 
@@ -254,8 +257,8 @@ style='font-size:12.0pt'>                           �
                       He wrote.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
-0in;margin-left:4.5in;margin-bottom:.0001pt;text-align:justify;text-indent:
--265.5pt'><span style='font-size:12.0pt'>                                                                                        He
+0in;margin-left:min(4.5in, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:
+calc(min(78px, 35vw) - min(4.5in, 35vw))'><span style='font-size:12.0pt'>                                                                                        He
 received and sent                   guests and directed mis-   sionary efforts.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

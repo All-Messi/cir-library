@@ -64,9 +64,7 @@ next: chapter-34
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll make the land desolate; pride about its power will stop. Israel’s mountains will be so desolate nobody can get through them. </span></i></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll know I’m Yahveh</span></u></i><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> when I make the land desolate because of their disgusting deeds.’</span></i><b><sup><span style='font-size: 14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                      </span></sup></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>   </span></b></span></p>
 
-
-### Ezek 33:21-29
-
+<p class="section-ref">Ezek 33:21-29</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Son of man, your fellow citizens talk about you by the walls and in the doorways, ‘Come on, let’s hear a message from Yahveh.’ </span></i></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They come and sit with you like my people, but they do the lustful things they talk about and set their hearts on making money. </span></i></span>

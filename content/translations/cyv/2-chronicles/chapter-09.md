@@ -22,14 +22,18 @@ next: chapter-10
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the food at his table, the seating of his officials, the attendance by his servers and their attire, his cupbearers and their attire, the stairway he used to go up to Yahveh’s Temple, she was breathless, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The report was true that I heard in my country about your words and wisdom. </span></i></span>
-<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But I didn’t believe it till I saw it. They didn’t tell me half of it. </span></i><a name="_Hlk146223066"></span>
-<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>How fortunate your officers must feel, being around you continually and listening to your wisdom. </span></i></span>
-<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bless Yahveh your God that delighted in you and set you on his throne. He loved Israel and established the </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>nation<i> permanently; that’s why he made you their king—to do justice and goodness.”</i>                               </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 9:1-8</span></b></span></p>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But I didn’t believe it till I saw it. They didn’t tell me half of it. </span></i></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>How fortunate your officers must feel, being around you continually and listening to your wisdom. </span></i></span>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bless Yahveh your God that delighted in you and set you on his throne. He loved Israel and established the </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>nation<i> permanently; that’s why he made you their king—to do justice and goodness.”</i>                               </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She gave him <a name="_Hlk145087449">4½ tons <sup>120 talents</sup> of gold</a> and a large amount of spices and precious stones. There’d never been spices like what she gave him. </span></span>
+<p class="section-ref">2 Ch 9:1-8</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She gave him 4½ tons <sup>120 talents</sup> of gold and a large amount of spices and precious stones. There’d never been spices like what she gave him. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Hiram and Solomon’s crews brought gold from Ophir plus algum wood and precious stones. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>From the algum <i>wood </i>he made steps for Yahveh’s Temple and the king’s palace as well as lyres and harps for the singers. Nobody in Judah had ever seen anything like them. </span></span>
-<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King Solomon gave the queen of Sheba everything she asked for—more than what she’d brought him. Then she and her attendants went back to her country.  </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 9:9-12</span></b></span></p>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King Solomon gave the queen of Sheba everything she asked for—more than what she’d brought him. Then she and her attendants went back to her country.  </span></span></p>
+
+<p class="section-ref">2 Ch 9:9-12</p>
 
 
 ### Solomon’s Wealth and Spendor
@@ -44,7 +48,9 @@ next: chapter-10
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>12 lions stood on opposite sides of the 6 steps. Nothing like it was ever made for any other kingdom. </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King Solomon’s drinking cups were made out of gold. The items for the Palace of the Forest of Lebanon were pure gold. Silver wasn’t considered valuable in his time. </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>He had ships that went to Tarshish every three years with Hiram’s sailors, and brought back gold, silver, ivory, apes and peacocks.
-</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 9:13-21</span></b></span></p>
+</span></span></p>
+
+<p class="section-ref">2 Ch 9:13-21</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King Solomon became greater than any king <i>other </i>anywhere in wealth and wisdom. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Kings from all over the world wanted to be around him to hear the wisdom God put in him. </span></span>
@@ -61,7 +67,9 @@ next: chapter-10
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of the acts of Solomon, first to last, are recorded in <i>The Chronicles of Nathan the Prophet</i>, <i>The Prophecy of Ahijah the Shilonite</i>, and <i>The Visions of Iddo the Seer</i> about Jeroboam Ben-Nebat. </span></span>
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He ruled for 40 years in Jerusalem over all Israel. </span></span>
-<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died and they buried him in The City of David. His son Rehoboam reigned.                                                              </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 9:22-31</span></b></span></p>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died and they buried him in The City of David. His son Rehoboam reigned.                                                              </span></span></p>
+
+<p class="section-ref">2 Ch 9:22-31</p>
 
 
 <style>

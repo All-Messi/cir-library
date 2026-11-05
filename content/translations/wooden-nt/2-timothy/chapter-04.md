@@ -10,7 +10,7 @@ prev: chapter-03
 
 ## 2 Timothy Chapter 4
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I-solemnly-charge (you) before [the] God and Christ Jesus, the-One going to-judge (the) living and (the) dead, and with-respect-to-the appearing of-him and the kingdom of-him:  </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I-solemnly-charge (you) before [the] God and Christ Jesus, the-One going to-judge (the) living and (the) dead, and with-respect-to-the appearing of-him and the kingdom of-him:  </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>preach the word, be-ready in season (and) out-of-season; refute, rebuke, encourage with all longsuffering and teaching.  </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For (the) time will-be when they-will┘not└put-up-with/endure [the] sound teaching; but according-to [the] their-own desires, they-will-accumulate for-themselves teachers itching<sup>nom</sup> with-respect-to-the what-they-hear, </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and will-wander-off-from/turn-away-from the truth with-respect-to-the message, and will turn-aside to [the] myths.  </span></span>
@@ -38,13 +38,6 @@ prev: chapter-03
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Erastus remained in Corinth, and I-left┘Trophimus└behind in Miletus sick.  </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Do-your-best/Be-diligent to-come before winter.  Ebulus and Pudens and Linus and Claudia and all the brothers greet you.  </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Lord (be) with the spirit of-you.  [The] grace (be) with you.</span></span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil Warren, PhD</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>translator</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 
 
 <style>

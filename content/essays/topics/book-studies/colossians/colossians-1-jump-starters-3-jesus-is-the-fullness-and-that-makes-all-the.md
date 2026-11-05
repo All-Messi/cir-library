@@ -1,7 +1,8 @@
 ---
-title: "COLOSSIANS 1 Jump-Starters 3 Jesus is the 'fullness,' and that makes all the difference 1:19"
-author: "Virgil Warren, christir.org"
+title: "Colossians 1 Jump-Starters 3: Jesus Is the “Fullness,” and That Makes All the Difference"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Book Studies'

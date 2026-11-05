@@ -1,7 +1,9 @@
 ---
-title: "Straight Thinking 102267 MAN AMONG MEN"
-author: "Virgil Warren, christir.org"
+title: "Man Among Men"
+subtitle: "Straight Thinking, October 22, 1967"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-12
 categories:
 - 'Ministry'
 - 'Straight Thinking For Youth'
@@ -26,14 +28,11 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>Straight Thinking</span></b></p>
 
-<p class=MsoNormal align=center style='margin-bottom:.25in;text-align:center'><span
-style='font-size:10.0pt;line-height:115%'>102267</span></p>
 
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%'>MAN AMONG MEN</span></p>
+
+
+
 
 <p class=MsoNormal style='text-align:justify'><i><span style='font-size:12.0pt;
 line-height:115%'>Sunday.</span></i><span style='font-size:12.0pt;line-height:
@@ -103,6 +102,5 @@ style='font-size:10.0pt;line-height:115%'>Read <br>
 Colossians <b>2</b>:8</span><span style='font-size:12.0pt;line-height:115%'>.)</span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
-line-height:115%'>Virgil Warren, <u>Straight</u>, October 22, 1967, p13                                                                              
-christsir.org</span></p>
+line-height:115%'>Virgil Warren, <u>Straight</u>, October 22, 1967, p13</span></p>
 </div>

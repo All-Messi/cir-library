@@ -343,7 +343,7 @@ style='font-size:12.0pt'>                           �
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                      <img width=196
+style='font-size:12.0pt'>                                      <img alt="Quality of interpersonal relationship, with material needs people have" width=196
 height=149 src="/images/essays/spiritual-fruit/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

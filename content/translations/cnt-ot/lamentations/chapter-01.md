@@ -14,7 +14,7 @@ next: chapter-02
 ### Jerusalem Deserted
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         1<sup>:1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>How lonely the city sits that used to bustle with people!</span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>How lonely the city sits that used to bustle with people!</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            She’s like a widow that was once great among the nations!</span></p>
 
@@ -127,9 +127,9 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        because there’s no comforter near to restore my soul.</span></i></p>
 
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  My children are desolate because the enemy has prevailed.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>     </span></b></span></p>
 
-### My children are desolate because the enemy has prevailed.”     Lam 1:13-16
-
+<p class="section-ref">Lam 1:13-16</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zion holds out her hands, but there’s no one to comfort her;</span></span></p>
 
@@ -158,9 +158,9 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  My heart’s upset because I’ve been rebellious.</span></i></p>
 
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  The sword bereaves in the street; it’s like death in the house.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></b></span></p>
 
-### The sword bereaves in the street; it’s like death in the house.      Lam 1:17-20
-
+<p class="section-ref">Lam 1:17-20</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ve heard that I’m groaning with nobody to comfort me.</span></i></span></p>
 
@@ -175,6 +175,10 @@ next: chapter-02
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pay attention to their sinfulness,, </span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and deal with them like you’ve dealt with me for my sins.</span></i></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  I groan a lot, and my heart is faint.”</span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                            </span></b></span></p>
+
+<p class="section-ref">Lam 1:21-22</p>
 
 
 <style>

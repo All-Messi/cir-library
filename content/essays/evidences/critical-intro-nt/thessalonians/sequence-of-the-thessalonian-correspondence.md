@@ -2,6 +2,7 @@
 title: "SEQUENCE OF THE THESSALONIAN CORRESPONDENCE"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'
@@ -172,6 +173,5 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                  Paul may not be talking about the
-same trials.                                          </span><span
-style='font-size:11.0pt'>christir.org</span></p>
+same trials.                                          </span></p>
 </div>

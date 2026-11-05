@@ -4,7 +4,7 @@ categories:
 - Bible Resources
 date: '2026-02-16'
 draft: false
-title: COMPOSITE ACCOUNT OF PAUL'S CONVERSION
+title: "Composite Account of Paul's Conversion"
 weight: 1
 ---
 
@@ -62,5 +62,3 @@ For a parallel Greek layout of Paul’s conversion accounts, see elsewhere on th
 
 
 Translator and Compiler
-
-christir.org

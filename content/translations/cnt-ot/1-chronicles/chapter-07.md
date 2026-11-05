@@ -26,7 +26,9 @@ next: chapter-08
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>With them by their generations according to their families were 36,000 </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.75in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      troops of the army, because they had many wives and sons. </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Their relatives among the descendants of Issachar </span><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>were</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> trained soldiers, enrolled by genealogy—87,000 in all.
-                                   </span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>1 Ch 7:1-5</span></b></span></p>
+                                   </span></span></p>
+
+<p class="section-ref">1 Ch 7:1-5</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>BENJAMIN</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> had three sons: <u>Bela</u>, <u>Becher</u>, and <u>Jediael</u>.</span></span></p>
 
@@ -50,7 +52,9 @@ next: chapter-08
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Shuppim</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> and <u>Huppim</u> </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>were </span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>sons of Ir.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Hushim
-</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>was</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> the son of Aher.<b>                                                                                 </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 7:6-12</span></b></p>
+</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>was</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> the son of Aher.<b>                                                                                 </b></span></p>
+
+<p class="section-ref">1 Ch 7:6-12</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of <b>NAPHTALI</b>: Jahziel, Guni, Jezer, and Shallum, the descendants of Bilhah.</span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></i></span></p>
 
@@ -70,7 +74,9 @@ next: chapter-08
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His sister Hammolecheth bore Ishbod, Abiezer, and Mahlah.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of <u>Shemida</u> were Ahian, Shechem, Likhi, and Aniam.<b>                      </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 7:13-19</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of <u>Shemida</u> were Ahian, Shechem, Likhi, and Aniam.<b>                      </b></span></span></p>
+
+<p class="section-ref">1 Ch 7:13-19</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of <b>EPHRAIM</b> </span><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>were</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Shuthelah and Bered, Tahath his son, Eleadah his son, Tahath his son, </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zabad his son, Shuthelah his son, and Ezer and Elead that<sup>pl</sup> the men in Gath who were born in the land killed because they came down to steal their livestock. </span></span>
@@ -81,7 +87,9 @@ next: chapter-08
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ladan his son, Ammihud his son, Elishama his son, </span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Non/</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nun</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> his son, and Joshua his son. </span></span>
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Their possessions and settlements </span><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>were</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Bethel, Naaran to the east, Gezer to the west, and Shechem as far as Ayyah with their towns. </span></span>
-<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Along their border with the Manassites, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>they had </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Beth-shean, Taanach, Megiddo, and Dor with their towns. The descendants of Joseph lived in those towns.                   </span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>1 Ch 7:20-29</span></b></span></p>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Along their border with the Manassites, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>they had </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Beth-shean, Taanach, Megiddo, and Dor with their towns. The descendants of Joseph lived in those towns.                   </span></span></p>
+
+<p class="section-ref">1 Ch 7:20-29</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of <b>ASHER</b>: Imnah, Ishvah, Ishvi, <u>Beriah</u>, as well as their sister Serah</span></span></p>
 
@@ -104,7 +112,9 @@ next: chapter-08
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of Ulla <i>were</i></span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> Arah, Hanniel, and Rizia.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>These
-<i>were</i> descendants of Asher, heads of families elite soldiers, principal leaders. The number enrolled by genealogy for military service was 26,000 men.</span><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <b>1 Ch 7:30-40</b></span></span></p>
+<i>were</i> descendants of Asher, heads of families elite soldiers, principal leaders. The number enrolled by genealogy for military service was 26,000 men.</span><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">1 Ch 7:30-40</p>
 
 
 <style>

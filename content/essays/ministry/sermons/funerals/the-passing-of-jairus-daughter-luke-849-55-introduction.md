@@ -1,7 +1,9 @@
 ---
 title: "THE PASSING OF JAIRUS DAUGHTER (Luke 8:49-55) Introduction"
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 1998-02-14
+lastmod: 2025-02-04
 categories:
 - 'Ministry'
 - 'Sermons'

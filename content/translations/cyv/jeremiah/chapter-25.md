@@ -16,8 +16,7 @@ next: chapter-26
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>in the <b>Fourth Year of Jehoiakim Ben-Josiah, King of Judah</b></span></p>
 
 
-### (the
-First Year of Nebuchadnezzar King of Babylon)
+### (the First Year of Nebuchadnezzar King of Babylon)
 
 
 

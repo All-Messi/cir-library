@@ -2,6 +2,7 @@
 title: "CHRISTIANITY BY CONTRAST: SKETCHES"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-16
 categories:
 - 'Topics'
 - 'Interpersonalism'
@@ -180,10 +181,10 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 
 <p class=MsoNormal style='margin-bottom:0in;text-indent:.5in'><span
 style='position:relative;z-index:251660800'><span style='left:0px;position:
-absolute;left:128px;top:-255px;width:29px;height:12px'><img width=29 height=12
+absolute;left:128px;top:-255px;width:29px;height:12px'><img alt="Arrow" width=29 height=12
 src="/images/essays/christianity-by-contrast-sketches/image001.png"></span></span><span style='position:relative;
 z-index:251658752'><span style='left:0px;position:absolute;left:212px;
-top:-255px;width:29px;height:12px'><img width=29 height=12
+top:-255px;width:29px;height:12px'><img alt="Arrow" width=29 height=12
 src="/images/essays/christianity-by-contrast-sketches/image001.png"></span></span><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'> </span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>           interpersonal      
@@ -191,7 +192,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> 
 
 <p class=MsoNormal style='margin-bottom:0in;text-indent:.5in'><span
 style='position:relative;z-index:251656704'><span style='left:0px;position:
-absolute;left:310px;top:-256px;width:29px;height:12px'><img width=29 height=12
+absolute;left:310px;top:-256px;width:29px;height:12px'><img alt="Arrow" width=29 height=12
 src="/images/essays/christianity-by-contrast-sketches/image001.png"></span></span><span style='font-size:12.0pt;
 line-height:115%;font-family:"Times New Roman",serif'>            behavior                         
                                                          (i. d. w/Christ)</span></p>

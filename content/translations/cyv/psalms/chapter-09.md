@@ -110,7 +110,9 @@ next: chapter-10
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Put them in fear;</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>      remind them that they’re mere mortals.                           </span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>Ps 9:17-20</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>      remind them that they’re mere mortals.</span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></p>
+
+<p class="section-ref">Ps 9:17-20</p>
 
 
 <style>

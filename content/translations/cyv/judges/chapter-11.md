@@ -15,7 +15,7 @@ next: chapter-12
 ### Jephthah Judges Israel
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jephthah</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> from Gilead was a strong soldier, but he was a prostitute’s son. His father was Gilead. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jephthah</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> from Gilead was a strong soldier, but he was a prostitute’s son. His father was Gilead. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gilead’s <u>wife</u> also bore him sons. When her sons grew up, they shoved Jephthah out, <i>“You won’t inherit in our father’s house. You’re another woman’s son.”</i> </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He ran away and lived in the land of Tob. Ruffians gathered around him and went on raids with him.</span></span></p>
 
@@ -31,7 +31,9 @@ next: chapter-12
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Yahveh</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <i>is witness. We’ll do that.” </i></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jephthah went with them, and the people made him their leader. He swore in at Mizpah in front of Yahveh.     </span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>Jud 11:1-11</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jephthah went with them, and the people made him their leader. He swore in at Mizpah in front of Yahveh.     </span></span></p>
+
+<p class="section-ref">Jud 11:1-11</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He sent messengers to the Ammonite king, <i>“What do you have against me that you’ve attacked my land?”  </i></span></span></p>
 
@@ -54,7 +56,9 @@ next: chapter-12
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Why didn’t you recover them while Israel lived in Heshbon, Aroer, and their villages, and in the towns on the banks of the Arnon for <b>300 years</b>? </span></i></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I haven’t sinned against you. You’ve wronged me by attacking me. May Yahveh</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <i>the Judge decide today between Israel and Ammon.” </i></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the Ammonite king of the Ammonites wouldn’t listen.                                         </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 11:12-28</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the Ammonite king of the Ammonites wouldn’t listen.                                         </span></span></p>
+
+<p class="section-ref">Jud 11:12-28</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Spirit of Yahveh stirred up Jephthah, and <i>he</i> went through Gilead and Manasseh to Mizpah in Gilead and on to the Ammonites. </span></span>
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He vowed to Yahveh, <i>“If you’ll give the Ammonites to me, </i></span></span>
@@ -73,7 +77,9 @@ next: chapter-12
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, <i>“Go ahead.”</i> </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He sent her away; she and her companions left to mourn her virginity for two months. </span><span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She came back to her father, who did with her according to his vow. She never knew a man. It became a custom in Israel </span></span>
-<span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that the young women went four days a year to mourn the daughter of Jephthah of Gilead.                                                                                                                                        </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 11:29-40</span></b></span></p>
+<span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that the young women went four days a year to mourn the daughter of Jephthah of Gilead.                                                                                                                                        </span></span></p>
+
+<p class="section-ref">Jud 11:29-40</p>
 
 
 <style>

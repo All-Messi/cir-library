@@ -1,0 +1,28 @@
+{{- /* pdf-path.html — the static PDF for a page, or "" when none exists (2026-11-04).
+       Split out of pdf-link.html so the SEO head (citation_pdf_url) uses the same rules
+       as the PDF button. Returns a site-relative path such as "pdfs/essays/x/y.pdf".
+       Usage: {{ $pdf := partial "pdf-path.html" . }} */ -}}
+{{- $page := . -}}
+{{- $pdfPath := "" -}}
+{{- $type := $page.Params.type | default "" -}}
+{{- $rel := $page.RelPermalink | replaceRE "^/" "" | replaceRE "/$" "" -}}
+{{- /* The staging mirror lives under /cir-library/: strip the baseURL path so the
+       file lookup matches static/ on every build. */ -}}
+{{- $basePath := (urls.Parse site.BaseURL).Path | replaceRE "^/" "" -}}
+{{- if $basePath }}{{ $rel = strings.TrimPrefix $basePath (printf "%s/" $rel) | replaceRE "/$" "" }}{{ end -}}
+{{- if eq $type "harmony-section" -}}
+    {{- $pdfPath = "pdfs/translations/harmony/the-harmonized-gospels.pdf" -}}
+{{- else if eq $type "chapter" -}}
+    {{- $parentRel := $page.Parent.RelPermalink | replaceRE "^/" "" | replaceRE "/$" "" -}}
+    {{- if $basePath }}{{ $parentRel = strings.TrimPrefix $basePath (printf "%s/" $parentRel) | replaceRE "/$" "" }}{{ end -}}
+    {{- with $parentRel }}{{ $pdfPath = printf "pdfs/%s.pdf" . }}{{ end -}}
+{{- else -}}
+    {{- with $rel }}{{ $pdfPath = printf "pdfs/%s.pdf" . }}{{ end -}}
+{{- end -}}
+{{- /* EXISTENCE GUARD (2026-10-28): RelPermalink is percent-encoded (Greek/accented
+       slugs); decode before touching the filesystem. */ -}}
+{{- if $pdfPath -}}
+    {{- $decoded := (urls.Parse (printf "/%s" $pdfPath)).Path | strings.TrimPrefix "/" -}}
+    {{- if not (fileExists (printf "static/%s" $decoded)) }}{{ $pdfPath = "" }}{{ end -}}
+{{- end -}}
+{{- return $pdfPath -}}

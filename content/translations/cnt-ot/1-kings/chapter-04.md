@@ -15,24 +15,18 @@ next: chapter-05
 ### Solomon’s Officials and Governors
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk126183663"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Solomon ruled all Israel. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Solomon ruled all Israel. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>These were his officials:</span></span></p>
 
-
-### Azariah son of Zadok was priest.
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>Azariah</b> son of Zadok was priest.</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Elihoreph</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> and <b>Ahijah</b>, sons of Shisha, were secretaries.</span></span></p>
 
-
-### Jehoshaphat son of Ahilud was recorder.
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>Jehoshaphat</b> son of Ahilud was recorder.</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Benaiah</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> son of Jehoiada was the general over the army.</span></span></p>
 
-
-### Zadok and Abiathar were priests.
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>Zadok</b> and <b>Abiathar</b> were priests.</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Azariah</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> son of Nathan oversaw the deputies.</span></span></p>
 
@@ -40,9 +34,7 @@ next: chapter-05
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ahishar</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> governed the household.</span></span></p>
 
-
-### Adoniram son of Abda oversaw forced labor.
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>Adoniram</b> son of Abda oversaw forced labor.<b>                      </b></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Solomon had 12 deputies who provided for him and his household, one per month per </span></span></p>
 
@@ -51,7 +43,9 @@ next: chapter-05
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Benhur
 </span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>in the hill country of Ephraim,
-</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 4:1-8</span></b></span></p>
+</span></span></p>
+
+<p class="section-ref">1 Kg 4:1-8</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Bendeker
 </span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>in Makaz, Shaalbim, Beth-shemesh, and Elon-beth-hanan;</span></span></p>
@@ -88,15 +82,15 @@ next: chapter-05
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Geber</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> son of Uri in Gilead (the country of King Sihon the Amorite and </span></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                        Og, king of Bashan. He was the only deputy in the land.)<b>            </b></span></p>
 
-### Og, king of Bashan. He was the only deputy in the land.)            1 Kg 4:7-19
-
+<p class="section-ref">1 Kg 4:7-19</p>
 
 
 ### Solomon’s Prosperity and Wisdom
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126183987"><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Judah and Israel were as numerous as sand on the shore. They were eating and drinking and celebrating. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Judah and Israel were as numerous as sand on the shore. They were eating and drinking and celebrating. </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Solomon ruled the kingdoms from the <i>Euphrates </i>River to the land of the Philistines and the border of Egypt. They brought tribute and served him his whole life. </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Solomon’s provisions for one day were </span></span></p>
@@ -116,14 +110,18 @@ next: chapter-05
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Judah and Israel lived safely, every man under his vine and fig tree from Dan to Beersheba Solomon’s whole life. </span></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He had 40,000 stalls for horses for his chariots and 12,000 cavalry. </span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For a month at a time, the deputies provided for him and everybody that came to his table; they left, not lacking anything. </span></span>
-<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They also brought barley and straw for the horses and swift steeds to where it should be, each according to his responsibility.        </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 4:20-28</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>   </span></span></p>
+<span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They also brought barley and straw for the horses and swift steeds to where it should be, each according to his responsibility.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">1 Kg 4:20-28</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God gave Solomon wisdom, great discernment, and breadth of mind. </span></span>
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His wisdom surpassed the wisdom of men in the East and in Egypt. </span></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He was wiser than anyone else—than Ethan the Ezrahite, Heman; or Calcol and Darda, sons of Mahol. He was famous in the nations all around. </span></span>
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He authored 3,000 proverbs and wrote 1,005 songs. </span></span>
 <span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He knew about trees from the cedars in Lebanon to the hyssop on the wall. He talked about animals, birds, crawling things, and fish. </span></span>
-<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>People came from every nation to hear his wisdom, kings everywhere who’d heard about it. <b>           </b></span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>1 Kg 4:29-34</span></b></span></p>
+<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>People came from every nation to hear his wisdom, kings everywhere who’d heard about it. <b>           </b></span></span></p>
+
+<p class="section-ref">1 Kg 4:29-34</p>
 
 
 <style>

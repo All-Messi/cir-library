@@ -66,7 +66,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'> <img width=369 height=270
+style='font-size:12.0pt'> <img alt="1 Corinthians 13:1-3 meaning: communication (what you say), abilities (what you can do), activities (what you do); without a caring attitude it means, is and gains nothing" width=369 height=270
 src="/images/essays/products-of-love/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -213,7 +213,7 @@ style='font-size:12.0pt'>            </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>          <img width=312 height=87
+style='font-size:12.0pt'>          <img alt="Love is not self-centered (arrow inward); love gives of itself for the joy of others (arrow outward)" width=312 height=87
 src="/images/essays/products-of-love/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -655,5 +655,5 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>CONCLUSION </span></p>
+style='font-size:12.0pt'>CONCLUSION </span></p><p class="cir-diagram" style="text-align:center;margin:1.25rem 0"><img src="/images/diagrams/products-of-love-3.png" alt="Conclusion: law → nature, logic → ideas, love → persons; little unity without love. Corinthian church: divided, love unifies (1 Corinthians 13)" width="305" style="max-width:100%;height:auto"></p>
 </div>

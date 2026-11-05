@@ -1,7 +1,7 @@
 ---
 title: "Natural Ways to Cope"
 date: '2020-11-08'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

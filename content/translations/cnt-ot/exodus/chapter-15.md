@@ -15,10 +15,10 @@ next: chapter-16
 ### Moses’ Song of Triumph
 
 
-<p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Moses and the Israelites sang this song to the L</span><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>:
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Moses and the Israelites sang this song to the L</span><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>:
 </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  <a name="_Hlk126847652"><i>“I’ll sing to the L</i></a></span><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> because he’s triumphed gloriously;</span></i></p>
+<p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  <i>“I’ll sing to the L</i></span><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> because he’s triumphed gloriously;</span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        he’s thrown the horse and its rider into the sea.</span></i></p>
 
@@ -42,7 +42,7 @@ next: chapter-16
 
 <p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  they sank like rocks.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk126847773"><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your right hand, L</span></i><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, was majestic in </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>its
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your right hand, L</span></i><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, was majestic in </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>its
 <i>power;</i></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  it shattered the enemy.</span></i></p>
@@ -83,7 +83,7 @@ next: chapter-16
 
 <p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  in your strength you guided them to your sacred abode.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk126847821"><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The nations have heard and tremble;</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The nations have heard and tremble;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  anguish has gripped the people in Philistia.</span></i></p>
 
@@ -111,7 +111,7 @@ next: chapter-16
 
 <p class="section-ref">Ex 15:1-18</p>
 
-<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk126847929"><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pharaoh’s horses, chariots, and cavalry went into the sea, and the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> washed the water back over them; but the Israelites walked through on dry seabed. </span></span>
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pharaoh’s horses, chariots, and cavalry went into the sea, and the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> washed the water back over them; but the Israelites walked through on dry seabed. </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Miriam the prophetess, Aaron’s sister, took a tambourine and went out with the women with tambourines and dancing. </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She lined out a song to them,</span></span></p>
@@ -122,7 +122,7 @@ next: chapter-16
 
 <p class="section-ref">Ex 15:19-21</p>
 
-<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk126847980"><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses led the Israelites from the Red Sea to the Wilderness of Shur. They traveled three days without finding water. </span></span>
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses led the Israelites from the Red Sea to the Wilderness of Shur. They traveled three days without finding water. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they got to Marah, the water was too “brackish” to drink. That’s why it was called Marah. </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people complained to Moses, <i>“What are we going to drink?” </i></span></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He called out to the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>, and he showed him a tree. <i>Moses</i> threw it in the water and made it drinkable. <i>The L</i></span><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> made a statute and regulation to test them.<i> </i></span></span></p>

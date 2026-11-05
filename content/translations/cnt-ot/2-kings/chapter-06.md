@@ -15,7 +15,7 @@ next: chapter-07
 ### The Floating Ax head
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk126332591"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The school of the prophets told Elisha, </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The school of the prophets told Elisha, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“There’s not enough room where we’re living. </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let us go to the Jordan, and each take a log to build a place there to live.” </span></i></span></p>
 
@@ -30,13 +30,15 @@ next: chapter-07
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The man of God said, <i>“Where did it fall?”</i> When he showed him, he cut off a stick and threw it in there and made the iron float.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, <i>“Pick it up.”</i> He reached out and took it.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Kg 6:1-7</span></b></span></p>
+</b></span></span></p>
+
+<p class="section-ref">2 Kg 6:1-7</p>
 
 
 ### Elisha Traps Blinded Arameans
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><a name="_Hlk126332875"><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king of Aram was at war with Israel. He advised his officers, <i>“I’m going to camp in such and such a place.”</i> </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king of Aram was at war with Israel. He advised his officers, <i>“I’m going to camp in such and such a place.”</i> </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The man of God sent a message to the king of Israel, <i>“Don’t go near that place; the Arameans are coming down there.”</i> </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king of Israel sent to where the man of God told him. He warned him more than once, so he guarded himself there. </span></span></p>
 
@@ -50,7 +52,7 @@ next: chapter-07
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king of Aram </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>sent horses, chariots, and a big army and surrounded the city at night.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                            </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Kg 6:8-14</span></b></p>
+<p class="section-ref">2 Kg 6:8-14</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the man of God’s attendant got up early and went out, an army was circling the city with horses and chariots. He said, <i>“Master! What are we going to do?”</i>
 </span></span></p>
@@ -66,13 +68,15 @@ next: chapter-07
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“No. Would you kill the ones you’ve taken captive with your sword and bow? Give them bread and water so they can eat and drink and go home to their master.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He prepared a big banquet for them. When they’d eaten, he sent them away. Marauding bands from Aram never came into Israel again.<b>         </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Kg 6:15-23</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He prepared a big banquet for them. When they’d eaten, he sent them away. Marauding bands from Aram never came into Israel again.<b>         </b></span></span></p>
+
+<p class="section-ref">2 Kg 6:15-23</p>
 
 
 ### Severe Famine in Samaria
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126333160"><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After that, Benhadad, king of Aram, gathered his army, went up, and laid siege to Samaria. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After that, Benhadad, king of Aram, gathered his army, went up, and laid siege to Samaria. </span></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There was a severe famine in Samaria, and they laid siege to it till a donkey’s head sold for 2 lbs <sup>80 shekels</sup> of silver and </span><span style='font-size:12.0pt; line-height:115%;font-family:"Agency FB",sans-serif'>a</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> pint </span><sup><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>¼ </span></sup><sup><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> cab </span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>of pigeon manure sold for 2 oz <sup>5 shekels </sup>of silver.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As the king was passing by on the wall, a woman cried out to him, <i>“Help, my lord the king.” </i></span></span>
@@ -85,14 +89,18 @@ next: chapter-07
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the king heard it, he tore his clothes—he was passing by on the wall—and the people looked, and he had burlap under his body. </span></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he said, <i>“God do so to me and more if Elisha’s head remains on him today.”</i><b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Kg 6:24-31</span></b></span></p>
+</b></span></span></p>
+
+<p class="section-ref">2 Kg 6:24-31</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Elisha and the elders were sitting in his house. The king sent a man; but before he got there,
 <i>Elisha</i> told the elders, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Do you see how this murderer’s son has sent to take away my head? When the messenger comes, shut the door and hold it shut against him. Isn’t the sound of his master’s feet behind him?”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While he was still talking, the messenger came down to him, and he said, <i>“This disaster is from the L</i></span><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>. Why should I wait for the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> any longer?”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <b>                                                                                                                    </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Kg 6:32-33</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While he was still talking, the messenger came down to him, and he said, <i>“This disaster is from the L</i></span><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>. Why should I wait for the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> any longer?”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <b>                                                                                                                    </b></span></span></p>
+
+<p class="section-ref">2 Kg 6:32-33</p>
 
 
 <style>

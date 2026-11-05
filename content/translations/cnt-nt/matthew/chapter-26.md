@@ -15,7 +15,7 @@ next: chapter-27
 ### Fifth Prediction of His Death
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Jesus finished, he told his disciples, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Jesus finished, he told his disciples, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“As you know, the Passover is two days from now. I’ll be handed over to be crucified.”</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Meantime the chief priests and the elders of the people met in the courtyard of Caiaphas, the high priest, </span></span>
@@ -106,9 +106,7 @@ next: chapter-27
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus told<sup>p</sup> them, <i>“All of you will desert me tonight. Scripture says,</i></span></span></p>
 
-
-### ‘I’ll strike down the shepherd,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b>‘I’ll strike down the shepherd,</b></span></i></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and his sheep will scatter’</span></i></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Zech 13:7]</span></b><b><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>.</span></b></p>
 
@@ -194,9 +192,7 @@ next: chapter-27
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v64" id="v64"><sup class="verse-num">64</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Yes. Nevertheless, I’m telling you, </span></i></span></p>
 
-
-### ‘Later you’ll see the Son of Man
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Later you’ll see <b>the Son of Man </b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      sitting on the right hand of Power and</span></i></b></p>
 

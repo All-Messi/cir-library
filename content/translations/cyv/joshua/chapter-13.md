@@ -12,14 +12,10 @@ next: chapter-14
 ## Joshua Chapter 13
 
 
-### Josh 12:7-24
-
-
-
 ### Land Still to Be Taken
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Joshua was getting along in years, Yahveh told him, </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Joshua was getting along in years, Yahveh told him, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“You’re getting old, and there’s </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>still
 <i>a lot of land to take: </i></span></p>
@@ -69,16 +65,17 @@ next: chapter-14
 <p class="section-ref">Josh 13:8-14</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses gave an inheritance to the tribe of <u>Reuben</u> by clans. </span></span>
-<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Their territory went from Aroer—on the edge of the Arnon valley, and the city that’s in the middle of the valley—the whole tableland of Medeba; </span><a name="_Hlk146177848"></span>
-<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Heshbon and the other towns on the tableland: Dibon, Bamoth-baal, Beth-baalmeon, </span></span>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Their territory went from Aroer—on the edge of the Arnon valley, and the city that’s in the middle of the valley—the whole tableland of Medeba; </span></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Heshbon and the other towns on the tableland: Dibon, Bamoth-baal, Beth-baalmeon, </span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jahaz, Kedemoth, Mephaath, </span></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Kiriathaim, Sibmah, Zereth-shahar on the hill of the valley, </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Beth-peor and the slopes of Pisgah, Beth-jeshimoth. </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Reuben’s territory </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>included the whole kingdom of Sihon, king of the Amorites, who ruled in Heshbon, whom Moses defeated together with the leaders of Midian—Evi, Rekem, Zur, Hur, and Reba, allies of Sihon. </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people of Israel also killed with the sword Balaam Ben-Beor, the fortuneteller.
 </span></span>
-<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Jordan was the boundary of Reuben. That was Reuben’s inheritance by clans, towns, and villages.         </span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>Josh 13:15-23</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></span></p>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Jordan was the boundary of Reuben. That was Reuben’s inheritance by clans, towns, and villages.</span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Josh 13:15-23</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses gave an inheritance to <u>Gad</u> by clans. </span></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Their territory was Jazer, the towns in Gilead, half the land of the Ammonites to Aroer, east of Rabbah; </span></span>

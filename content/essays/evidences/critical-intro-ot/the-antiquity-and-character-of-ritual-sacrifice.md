@@ -2,6 +2,7 @@
 title: "THE ANTIQUITY AND CHARACTER OF RITUAL SACRIFICE"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Critical Intro Ot'
@@ -325,5 +326,5 @@ oil, a thousand rams, or the sacrifice of a person’s own child.</span></p>
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-align:justify'><span
-style='font-family:"Times New Roman",serif'>chrisstir.org</span></p>
+style='font-family:"Times New Roman",serif'></span></p>
 </div>

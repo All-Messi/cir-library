@@ -1,7 +1,7 @@
 ---
 title: "Reversible"
 date: '2026-10-04'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

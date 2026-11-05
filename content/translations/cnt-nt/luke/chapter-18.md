@@ -15,7 +15,7 @@ next: chapter-19
 ### Parable About the Unjust Judge
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>18</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:</span></sup></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told a story to the effect that people should always pray, and not give up. </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told a story to the effect that people should always pray, and not give up. </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“There was a judge in a town who didn’t fear God or respect people. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A widow in that town kept coming to him to defend her against her accuser. </span></i></span>
@@ -67,7 +67,9 @@ next: chapter-19
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus said, <i>“There <u>is</u> one thing you can do: sell everything you own and distribute it to the poor, and you’ll have wealth in heaven; then come with me.”           </i></span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he heard that, he got really discouraged because he was very wealthy.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>  Lk 18:18-23</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he heard that, he got really discouraged because he was very wealthy.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Lk 18:18-23</p>
 
 
 ### The Peril About Wealth
@@ -94,7 +96,7 @@ next: chapter-19
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He took the Twelve aside and told them, <i>“We’re going up to Jerusalem to accomplish everything the prophets wrote about me. </i></span></span>
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll be handed over to the Gentiles, and be made fun of, abused, spit on. </span></i></span>
 <span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they’ve flogged me, they’ll put me to death; but on the third day I’ll resurrect.” </span></i></span>
-<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <a name="_Hlk90376474"><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>None of that made <u>any</u> sense to them. </span></a><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                        </span></span></p>
+<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>None of that made <u>any</u> sense to them. </span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                        </span></span></p>
 
 <p class="section-ref">Lk 18:31-34</p>
 

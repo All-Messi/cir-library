@@ -11,7 +11,7 @@ next: chapter-26
 
 ## Matthew Chapter 25
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:31.5pt;margin-bottom: 0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> “Then the kingdom of-[the] heaven[s] will-be-like then virgins, who, having-taken the lamps of-them, they-went-out to meeting the groom. </span></i></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:31.5pt;margin-bottom: 0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> “Then the kingdom of-[the] heaven[s] will-be-like then virgins, who, having-taken the lamps of-them, they-went-out to meeting the groom. </span></i></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now five of them were foolish and five (were) wise. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For the foolish, having-taken the lamps of-them, did┘not└take oil with them. </span></i></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the wise took oil in [the] flasks with the lamps of-them. </span></i></span>

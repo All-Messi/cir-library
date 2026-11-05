@@ -15,11 +15,13 @@ next: chapter-04
 ### More about Controlling the Tongue
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>3</span></b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>:</span></sup><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Not many of you should try to be teachers; you’ll get judged more strictly. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Not many of you should try to be teachers; you’ll get judged more strictly. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In lots of ways we all slip up; if we don’t slip up in what we say, we’re perfect; and we can bridle our whole body. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We put bits in horses’ mouths so they’ll obey us, and we guide their whole body. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The same thing with ships. Though they’re so big and driven by strong winds, the helmsmen control them with a very small steering paddle wherever they want them to go. </span></span>
-<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The same thing with the tongue. It’s a small part of the body, but it makes big claims.   </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>James 3:1-5</span></b></span></p>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The same thing with the tongue. It’s a small part of the body, but it makes big claims.   </span></span></p>
+
+<p class="section-ref">James 3:1-5</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A little spark can set a big forest on fire! </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>People tame all kinds of animals and birds, reptiles and sea creatures; </span></span>
@@ -27,7 +29,9 @@ next: chapter-04
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We bless the Lord and Father with it, and <i>then</i> curse people made like him. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Blessing and cursing from the same mouth! That shouldn’t be. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Brackish and sweet water don’t gush out of the same spring, do they? </span></span>
-<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A fig tree can’t bear olives or a vine yield figs, can it? What’s salty can’t make something sweet.                </span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>James 3:6-12</span></b></span></p>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A fig tree can’t bear olives or a vine yield figs, can it? What’s salty can’t make something sweet.                </span></span></p>
+
+<p class="section-ref">James 3:6-12</p>
 
 
 ### The Importance of Wisdom
@@ -38,7 +42,9 @@ next: chapter-04
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Wisdom” like that doesn’t come from above; it’s earthly, unspiritual, demonic. </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Where there’s jealousy and selfishness, people are unstable and exhibit all kinds of bad behavior. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wisdom from above is first pure, then peaceful, gentle, open to reason, merciful, and yielding good fruits. It doesn’t waver or show hypocrisy. </span></span>
-<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Peacemakers use peace to plant righteous fruit.</span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>   James 3:13-18</span></b></span></p>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Peacemakers use peace to plant righteous fruit.</span></span></p>
+
+<p class="section-ref">James 3:13-18</p>
 
 
 <style>

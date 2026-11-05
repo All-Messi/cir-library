@@ -19,7 +19,7 @@ next: chapter-45
 ### Disaster Because of Idolatry
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123724942"><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Yahveh of Hosts, the God of Israel, says, ‘You’ve seen the catastrophe I brought on Jerusalem and the towns in Judah; they’re in ruins. Nobody’s living in them </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Yahveh of Hosts, the God of Israel, says, ‘You’ve seen the catastrophe I brought on Jerusalem and the towns in Judah; they’re in ruins. Nobody’s living in them </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>because their sinfulness made me angry.  They kept serving and burning sacrifices to gods they and their ancestors hadn’t known. </span></i></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yet I sent them my prophets time and again, saying not to do that detestable thing.
 </span></i></span>
@@ -33,7 +33,7 @@ next: chapter-45
 
 <p class="section-ref">Jer 44:1-10</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123725064"><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“So Yahveh of Hosts says, ‘I’ll destroy everybody that’s from Judah </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“So Yahveh of Hosts says, ‘I’ll destroy everybody that’s from Judah </span></i></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and remove the remnant that’s determined to go live in Egypt. From least to greatest will meet their end here by sword or famine. They’ll become a curse, something abhorred, a disgrace. </span></i></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Like I’ve punished Jerusalem, I’ll punish Egypt with sword, famine, and disease. </span></i></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Only a few refugees will ever make it back to the land they long to see.’”

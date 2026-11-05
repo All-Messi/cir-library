@@ -2,10 +2,12 @@
 title: "INFLUENCING FOR CHRIST"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Living'
 - 'Christian Living Book'
+weight: 21
 draft: false
 ---
 
@@ -101,7 +103,7 @@ style='position:absolute;z-index:251657728;left:0px;margin-left:0px;margin-top:
  </tr>
 </table>
 
-</span><u><span style='font-size:12.0pt'>               <img width=393
+</span><u><span style='font-size:12.0pt'>               <img alt="1. Fulfilled by teaching, making disciples; not military process (Luke 22:38 + 49-51), intimidation, economic duress, social pressure, manipulation: such techniques are dehumanizing and depersonalizing" width=393
 height=137 id="Picture 1" src="/images/essays/influencing-for-christ/image001.png"></span></u></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

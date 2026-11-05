@@ -11,7 +11,7 @@ next: chapter-11
 
 ## Matthew Chapter 10
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He called his twelve disciples together and gave them authority to cast out unclean spirits and heal all <i>kinds of</i> disease and illness. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He called his twelve disciples together and gave them authority to cast out unclean spirits and heal all <i>kinds of</i> disease and illness. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>These are the twelve apostles: Simon called Peter; his brother Andrew; James son of Zebedee, his brother John, </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Philip, Bartholomew, Thomas, Matthew the tax collector, James son of Alphaeus, Thaddaeus, </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Simon the Cananaean, and Judas Iscariot, who also betrayed him <i>in the end</i>.</span></span></p>
@@ -64,7 +64,9 @@ next: chapter-11
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Whoever denies who I am to </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>other <i>people, </i></span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll deny to my Father in heaven</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> as belonging to me<i>.</i>     </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mt 10:24-33</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll deny to my Father in heaven</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> as belonging to me<i>.</i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></p>
+
+<p class="section-ref">Mt 10:24-33</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t think I’ve come to bring peace to the earth. </span></i></span></p>
 
@@ -73,13 +75,9 @@ next: chapter-11
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            son
 <b>‘against father,’ </b></span></i></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>‘daughter against mother,’  </b></span></i></p>
 
-### ‘daughter against mother,’
-
-
-
-### ‘daughter-in-law against mother-in-law.’
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>‘daughter-in-law against mother-in-law.’ </b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘People’s enemies will be in their own houses’</span></i></b><b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Mic 7:6]</span></b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></span></p>
 

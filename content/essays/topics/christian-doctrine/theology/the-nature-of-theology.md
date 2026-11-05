@@ -2,6 +2,7 @@
 title: "THE NATURE OF THEOLOGY"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-13
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -35,7 +36,7 @@ style='font-size:12.0pt'> I. The Nature of Theology <i>vs</i>. Exegesis</span><
 style='font-size:12.0pt'>   </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                <img width=361 height=193
+style='font-size:12.0pt'>                <img alt="Topics 1 to 4 linked to a problem-solution letter" width=361 height=193
 src="/images/essays/the-nature-of-theology/image001.jpg"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -83,7 +84,7 @@ correctness of the revelation, and his omnipotence guarantees its stability.</sp
 style='font-size:6.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                       <img width=309 height=68
+style='font-size:12.0pt'>                       <img alt="Truth between reason and experience; revelation between reason and experience" width=309 height=68
 src="/images/essays/the-nature-of-theology/image002.jpg"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -128,7 +129,7 @@ is.</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                    <img width=326 height=197
+style='font-size:12.0pt'>                    <img alt="Documents #1 to #4 within special revelation, within reality" width=326 height=197
 src="/images/essays/the-nature-of-theology/image003.jpg"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

@@ -24,7 +24,9 @@ next: chapter-40
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he put out Zedekiah’s eyes, bound him in bronze restraints, and took him to Babylon. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Babylonians burned the king’s palace and the people’s houses and tore down the walls around Jerusalem. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nebuchadnezzar exiled to Babylon the rest of the people in the city and the ones that defected to him. </span></span>
-<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nebuzaradan, captain of the bodyguard, left some people in Judah that didn’t have anything, and gave them vineyards and fields.<b>                  </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jer 39:1-10</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>     </span></b></span></p>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nebuzaradan, captain of the bodyguard, left some people in Judah that didn’t have anything, and gave them vineyards and fields.<b></b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Jer 39:1-10</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nebuchadnezzar gave Nebuzaradan orders about Jeremiah, </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Look after him; don’t harm him. Deal with him like he tells you.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>
@@ -39,8 +41,9 @@ next: chapter-40
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go tell Ebed-melech the Nubian, ‘Yahveh of Hosts, the God of Israel, says, “I’m about to bring my message on this city for disaster, not prosperity. It’ll take place before you<sup>sg</sup> on that day. </span></i></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But you<sup>sg</sup> won’t be given over to the men you dread. </span></i></span>
-<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll rescue you so you won’t fall by the sword. You’ll have to save your life by being a reward of war, because you’ve trusted in me.”’”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>               Jer 39:15-18</span></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>
-</span></b></span></p>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll rescue you so you won’t fall by the sword. You’ll have to save your life by being a reward of war, because you’ve trusted in me.”’”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Jer 39:15-18</p>
 
 
 <style>

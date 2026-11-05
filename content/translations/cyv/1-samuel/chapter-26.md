@@ -45,7 +45,9 @@ next: chapter-27
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David asked him<i>, </i></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Aren’t you a man? Who is like you in Israel? Why not protect the king? Someone came over to destroy him. </span></i><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What you’ve done isn’t good. As sure as Yahveh lives, you all need to die; you didn’t protect Yahveh’s anointed. See the king’s spear and the jug of water that was by his head.”</span></i><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                            1 Sam 26:13-16</span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>  </span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Aren’t you a man? Who is like you in Israel? Why not protect the king? Someone came over to destroy him. </span></i><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What you’ve done isn’t good. As sure as Yahveh lives, you all need to die; you didn’t protect Yahveh’s anointed. See the king’s spear and the jug of water that was by his head.”</span></i><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">1 Sam 26:13-16</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Saul recognized David’s voice, <i>“Is that you, my son?” </i></span></span></p>
 
@@ -63,6 +65,11 @@ next: chapter-27
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As I highly valued your life today, so may Yahveh highly value my life and deliver me from all distress.” </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Saul said, <i>“You’re blessed, son. You’ll accomplish a lot and certainly end up winning.” </i></span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>David went on his way, and Saul went home.<b>
+</b></span></p>
+
+<p class="section-ref">1 Sam 26:17-25</p>
 
 
 <style>

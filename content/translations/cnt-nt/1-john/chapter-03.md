@@ -15,7 +15,7 @@ next: chapter-04
 ### Children of God
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Look at what special love the Father has extended to us in calling us his children. The world doesn’t know us because it didn’t know him. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Look at what special love the Father has extended to us in calling us his children. The world doesn’t know us because it didn’t know him. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We’re God’s children now. It’s not clear what we <u>will</u> be, but we do know that when </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Christ</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> returns, we’ll be <u>like</u> him and see him as he is. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Everybody that has that hope keeps himself pure like <u>he</u> is.                                             </span></span></p>
 
@@ -26,7 +26,9 @@ next: chapter-04
 <u>he</u> is. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Whoever does evil is like the devil because he’s been sinning since the beginning. The Son of God came to destroy what the devil does. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>None of the ones God begets practices sin because </span><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God’s</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> seed stays in them. They can’t be sinning because <u>God’s</u> begotten them. </span></span>
-<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s how you can tell God’s children from the devil’s. Anybody that doesn’t <u>practice</u> goodness or care about fellow believers, doesn’t belong to God.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                                     1 Jn 3:1-10</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span></span></p>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s how you can tell God’s children from the devil’s. Anybody that doesn’t <u>practice</u> goodness or care about fellow believers, doesn’t belong to God.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">1 Jn 3:1-10</p>
 
 
 ### Love One Another
@@ -49,7 +51,7 @@ next: chapter-04
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If our conscience doesn’t make us feel guilty, we’re confident in front of him, </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and he gives us what we ask for because we do what pleases him. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He has told us to believe in his Son Jesus Christ and love each other. </span></span>
-<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When we do that, he lives in us and we in him. <a name="_Hlk135477303">We know he’s in us by the spirit he’s given us</a>.                                                                                                                                              </span></span></p>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When we do that, he lives in us and we in him. We know he’s in us by the spirit he’s given us.                                                                                                                                              </span></span></p>
 
 <p class="section-ref">1 Jn 3:19-24</p>
 

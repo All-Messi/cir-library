@@ -1,7 +1,7 @@
 ---
 title: "The Peace of the Cross"
 date: '2015-03-01'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

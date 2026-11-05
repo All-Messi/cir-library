@@ -2,6 +2,7 @@
 title: "RECENSIONS OF ROMANS"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'
@@ -231,7 +232,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                           <img
+style='font-size:12.0pt'>                                           <img alt="Structure of Romans: 1:1-14:23, 15:1-33, 16:1-20a, benediction 16:20b, 16:21-23, doxology 16:25-27"
 width=177 height=249 id="Picture 1" src="/images/essays/recensions-of-romans/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

@@ -4,7 +4,7 @@ chapters: 31
 title: 1 Samuel
 translation: CYV
 type: book
-weight: 48
+weight: 9
 ---
 
 ## 1 Samuel

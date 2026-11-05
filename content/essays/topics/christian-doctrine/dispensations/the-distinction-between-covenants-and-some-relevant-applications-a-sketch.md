@@ -2,6 +2,8 @@
 title: "THE DISTINCTION BETWEEN COVENANTS AND SOME RELEVANT APPLICATIONS: A SKETCH"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2016-10-01
+lastmod: 2025-07-10
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -153,7 +155,7 @@ margin-left:.25in;text-align:justify'><span style='font-size:12.0pt;line-height:
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.25in;text-align:justify'><span style='font-size:12.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>                                                
-</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><img
+</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><img alt="Destruction: a crossed-out square beside a circle"
 width=156 height=105 id="Picture 1" src="/images/essays/the-distinction-between-covenants-and-some-relevant-applications-a-sketch/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
@@ -165,7 +167,7 @@ margin-left:.25in;text-align:justify'>
  </tr>
  <tr>
   <td></td>
-  <td><img width=144 height=96 src="/images/essays/the-distinction-between-covenants-and-some-relevant-applications-a-sketch/image002.png"></td>
+  <td><img alt="Two laws: boxes 1 and 2" width=144 height=96 src="/images/essays/the-distinction-between-covenants-and-some-relevant-applications-a-sketch/image002.png"></td>
  </tr>
 </table>
 
@@ -200,7 +202,7 @@ to the apostles; hence, the next entry.</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.25in;text-align:justify'><span style='font-size:12.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>                                             </span><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><img
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><img alt="Amendment: kept, dropped, added, altered"
 width=191 height=130 id="Picture 3" src="/images/essays/the-distinction-between-covenants-and-some-relevant-applications-a-sketch/image003.png"></span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>   </span></p>
 
@@ -237,7 +239,7 @@ for relationship to God must be found. Paul’s code word for that basis is
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.25in;text-align:justify'><span style='font-size:12.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>                                      </span><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><img
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><img alt="Repeal-replace: Old Covenant (legal) → New Testament (interpersonal)"
 width=240 height=145 id="Picture 4" src="/images/essays/the-distinction-between-covenants-and-some-relevant-applications-a-sketch/image004.png"></span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>     </span></p>
 
@@ -262,7 +264,7 @@ perfect comes, in-part things disappear (1 Corinthians <b>13</b>: 9).</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:.25in;text-align:justify'><span style='font-size:12.0pt;line-height:
 115%;font-family:"Times New Roman",serif'>                  </span><span
-style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><img
+style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><img alt="Salvation history: law within promise (Gen. 12:3), love (Deut. 6:5; Lev. 19:18), grace-faith (Heb. 2:4) and heart (Jer. 31:33); interpersonalism"
 width=374 height=137 id="Picture 5" src="/images/essays/the-distinction-between-covenants-and-some-relevant-applications-a-sketch/image005.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;

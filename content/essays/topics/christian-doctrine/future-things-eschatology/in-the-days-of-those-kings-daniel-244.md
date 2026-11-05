@@ -2,6 +2,7 @@
 title: "'IN THE DAYS OF THOSE KINGS': DANIEL 2:44"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-10
 categories:
 - 'Topics'
 - 'Christian Doctrine'

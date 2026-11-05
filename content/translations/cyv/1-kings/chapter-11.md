@@ -23,7 +23,9 @@ next: chapter-12
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He did what was sin and didn’t follow Yahveh faithfully. </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He built a high place for Chemosh, detestable idol of Moab, on the mountain east of Jerusalem, and for Molech, detestable idol of the Ammonites. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He did that for all his foreign wives, who<sup>pl</sup> burned incense and sacrificed to their gods.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 11:1-8</span></b></span></p>
+</b></span></span></p>
+
+<p class="section-ref">1 Kg 11:1-8</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh was angry with him because he turned his heart away. The God of Israel had appeared to him twice, </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and commanded him not to go after other gods. But he didn’t obey that command. </span></span>
@@ -32,7 +34,7 @@ next: chapter-12
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Because you’ve done this and haven’t kept my covenant and statutes, I’ll tear the kingdom from you and give it to one of your servants. </span></i><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But for David’s sake, I won’t do it in your lifetime. I’ll tear it away from your son, </span></i></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but not all of it. I’ll give him one tribe for the sake of David and Jerusalem that I’ve chosen.”</span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>     </span></b></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                      </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 11:9-13</span></b></p>
+<p class="section-ref">1 Kg 11:9-13</p>
 
 
 ### Solomon’s Adversaries
@@ -49,7 +51,9 @@ next: chapter-12
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“What have you lacked with me?” </span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“Nothing; but you need to let me go.” </span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                             </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 11:14-22</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“Nothing; but you need to let me go.” </span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                             </span></b></span></p>
+
+<p class="section-ref">1 Kg 11:14-22</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God raised up another adversary, Rezon Ben-Eliada, who had fled from his lord Hadadezer, king of Zobah. </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24-25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He gathered men and led a marauding band after David killed the people in Zobah. They went to Damascus and ruled<sup>pl</sup> Aram from there. He hated Israel</span><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and was its adversary all of Solomon’s life like Hadad was. </span></span></p>
@@ -85,7 +89,9 @@ next: chapter-12
 </span></span>
 <span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He ruled Israel in Jerusalem for 40 years. </span></span>
 <span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he died, they buried him in The City of David. His son Rehoboam reigned.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 11:23-43</span></b></span></p>
+</b></span></span></p>
+
+<p class="section-ref">1 Kg 11:23-43</p>
 
 
 <style>

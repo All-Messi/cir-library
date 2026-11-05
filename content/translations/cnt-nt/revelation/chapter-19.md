@@ -11,7 +11,7 @@ next: chapter-20
 
 ## Revelation Chapter 19
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After that, I heard what sounded like a great crowd in heaven,</span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After that, I heard what sounded like a great crowd in heaven,</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <i>“Hallelujah!</i></span></p>
 
@@ -78,7 +78,9 @@ next: chapter-20
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>I watched the beast, the kings of the earth, and their armies gather to battle the Rider on the horse and his armies. </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He and his forces captured the beast and the false prophet that performed signs in front of it, <i>signs
 </i>it used to deceive people that had the stamp of the beast and worshiped its image. They threw them both alive into the burning sulfur lake. </span></span>
-<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Rider on the horse killed the rest with the sword from his mouth, and the vultures gorged on their flesh.                                                             </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Rev 19:17-21</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span></p>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Rider on the horse killed the rest with the sword from his mouth, and the vultures gorged on their flesh.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Rev 19:17-21</p>
 
 
 <style>

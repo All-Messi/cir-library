@@ -11,7 +11,7 @@ next: chapter-04
 
 ## Judges Chapter 3
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh left those nations to the test the Israelites that hadn’t experienced war in Canaan. [</span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh left those nations to the test the Israelites that hadn’t experienced war in Canaan. [</span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>] </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The nations were</span></span></p>
 
@@ -35,7 +35,9 @@ next: chapter-04
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He was angry and sold Israel to Cushan-rishathaim, king of Mesopotamia, for 8 years. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they appealed to Yahveh, he raised up <b>Othniel</b> Ben-Kenaz, Caleb’s younger brother, to deliver them. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Spirit of Yahveh stirred him up to judge Israel. He went out to war, and Yahveh delivered Cushan-rishathaim to him. </span></span>
-<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The land had peace for 40 years. Then Othniel died.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> Jud 3:1-11</span></b></span></p>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The land had peace for 40 years. Then Othniel died.</span></span></p>
+
+<p class="section-ref">Jud 3:1-11</p>
 
 
 ### Ehud Judges Israel
@@ -55,9 +57,7 @@ next: chapter-04
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The hilt went in after the blade, and the fat closed over the blade. He didn’t pull it out, and the refuse came out. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ehud went out to the anteroom, closed the doors to the roof room, and locked them.                                                                                                              </span></span></p>
 
-
-### Jud 3:12-23
-
+<p class="section-ref">Jud 3:12-23</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he’d gone, the servants came and saw the doors locked, and thought he was relieving<i> </i>himself in the cool room<i>.</i> </span></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They waited till they were completely confused. When he still didn’t come out, they took the key and opened the doors. There he was, on the floor, dead.</span></span></p>
@@ -72,7 +72,9 @@ next: chapter-04
 ### Shamgar Judges Israel
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After him came <b>Shamgar</b> Ben-Anath, who killed 600 Philistines with an ox goad and delivered Israel. <b> </b></span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>Jud 3:24-31</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After him came <b>Shamgar</b> Ben-Anath, who killed 600 Philistines with an ox goad and delivered Israel. <b> </b></span></span></p>
+
+<p class="section-ref">Jud 3:24-31</p>
 
 
 <style>

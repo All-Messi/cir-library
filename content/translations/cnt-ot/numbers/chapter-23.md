@@ -24,7 +24,7 @@ next: chapter-24
 
 <p class="section-ref">Num 23:1-6</p>
 
-<p class="MsoListBulletCxSpMiddle" ><b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span></b><a name="_Hlk126703898"><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balaam
+<p class="MsoListBulletCxSpMiddle" ><b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span></b><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balaam
 </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>took up this oracle:              </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“Balak brought me from Aram,</span></i></p>
@@ -59,7 +59,7 @@ next: chapter-24
 
 <p class="section-ref">Num 23:7-10</p>
 
-<p class="MsoListBulletCxSpMiddle" ><a name="_Hlk126703976"><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balak said to Balaam, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“What have you done to me? I told you to curse my enemies; you’ve blessed them!”</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balak said to Balaam, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“What have you done to me? I told you to curse my enemies; you’ve blessed them!”</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t I have to say what the L</span></i><i><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> tells me?”</span></i></span></p>
 
@@ -100,7 +100,7 @@ next: chapter-24
 
 <p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  or seen trouble in Israel.</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            <a name="_Hlk126704115">The L</a></span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> their God is with them,</span></i></p>
+<p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            The L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> their God is with them,</span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" ><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  and has been proclaimed their king.</span></i></p>
 

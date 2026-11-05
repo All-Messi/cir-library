@@ -69,9 +69,7 @@ next: chapter-14
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We’re bringing you the good news that the promise God made to our ancestors </span></i></span>
 <span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>he’s fulfilled to us by resurrecting Jesus. Scripture says in Psalm 2,</span></i></span></p>
 
-
-### ‘You’re my Son;
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b>‘You’re my Son;</b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        I’ve inaugurated you today’</span></i></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Ps 2:7].</span></b></p>
 
@@ -96,9 +94,7 @@ next: chapter-14
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    be amazed and perish.</span></i></b></p>
 
-
-### I’ll do something in your day you wouldn’t believe
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        I’ll do something in your day you wouldn’t believe </span></i></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    if somebody explained it to you’</span></i></b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Hab 1:5 LXX].</span></b></p>
 
@@ -116,9 +112,7 @@ next: chapter-14
 <span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Paul and Barnabas spoke out boldly, <i>“We needed to deliver God’s message to you first. Since you’re rejecting it and consider yourselves not worthy of eternal life, we’re turning to the Gentiles. </i></span></span>
 <span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s what the </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> commanded us,</span></i></span></p>
 
-
-### ‘I’ve made you a light for the Gentiles
-
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b>‘I’ve made you a light for the Gentiles</b></span></i></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    so you can save the whole world’</span></i></b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Is 49:6]</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>.</span></p>
 

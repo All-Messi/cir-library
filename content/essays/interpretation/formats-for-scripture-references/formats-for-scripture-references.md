@@ -2,6 +2,8 @@
 title: "FORMATS FOR SCRIPTURE REFERENCES"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2005-02-17
+lastmod: 2025-07-11
 categories:
 - 'Interpretation'
 - 'Formats For Scripture References'
@@ -384,7 +386,7 @@ margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                        not: (John <b>11</b>:35)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:2.0in;margin-bottom:.0001pt;text-align:justify;text-indent:-1.5in'><span
+margin-left:min(2.0in, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(2.0in, 35vw))'><span
 style='font-size:12.0pt'>                        <b>NOTE:</b> Whether the book
 reference is abbreviated depends on how familiar the reader is likely to be
 with the names of biblical books.</span></p>
@@ -620,7 +622,7 @@ margin-left:43.5pt;margin-bottom:.0001pt;text-align:justify'><b><span
 style='font-size:12.0pt'>&nbsp;</span></b></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:2.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-2.0in'><span
+margin-left:min(2.5in, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(2.5in, 35vw))'><span
 style='font-size:12.0pt'>                        not preferable: The term <i>Messiah</i>
 is introduced into the Old Testament in Psalm<u>s</u> <b>2</b>.</span></p>
 

@@ -14,7 +14,7 @@ prev: chapter-20
 ### Wives for Benjamites
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The men of Israel had sworn at Mizpah that none of them</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>would give his daughter in marriage to Benjamin</span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>. </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The men of Israel had sworn at Mizpah that none of them</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>would give his daughter in marriage to Benjamin</span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>. </span></i></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people came to Bethel and sat till evening in front of God and cried bitterly. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God of Israel, why has this happened that a tribe should be missing from Israel?”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people got up early the next day, built an altar, and offered burnt offerings and peace offerings. </span></span>
@@ -22,7 +22,9 @@ prev: chapter-20
 </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’d taken an oath at Mizpah to put to death anyone that didn’t come up to the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.
 </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They felt sorry for Benjamin, their fellow Jews, </span><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“A tribe has been eliminated from Israel today. </span></i></span>
-<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What are we going to do for wives for the ones that are left? We’ve sworn by the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> not to give them our daughters for wives.”</span></i><b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                         </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 21:1-7</span></b></span></p>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What are we going to do for wives for the ones that are left? We’ve sworn by the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> not to give them our daughters for wives.”</span></i><b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                         </span></b></span></span></p>
+
+<p class="section-ref">Jud 21:1-7</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They said, </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“What tribe didn’t come up?” </span></i></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the people mustered, not one person from Jabesh-gilead was there. </span></span>
@@ -32,7 +34,9 @@ prev: chapter-20
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then the whole community sent word to Benjamin at the Rock of Rimmon to announce a truce. </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Benjamin came back, and they gave them the women they’d saved from Jabesh-gilead, but they weren’t enough. </span></span>
-<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people had mercy on Benjamin because the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> had created a division in the tribes.<b>                                                                                                          </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 21:8-15</span></b></span></p>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people had mercy on Benjamin because the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> had created a division in the tribes.<b>                                                                                                          </b></span></span></p>
+
+<p class="section-ref">Jud 21:8-15</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The elders of the community said, </span></span></p>
 
@@ -53,11 +57,7 @@ prev: chapter-20
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In those days there wasn’t a king in Israel. Everybody did what seemed right to them.</span></span></p>
 
-
-### Jud 21:16-25
-
-
-<p class="MsoNormal" ><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
+<p class="section-ref">Jud 21:16-25</p>
 
 
 <style>

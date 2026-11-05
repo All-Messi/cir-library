@@ -1,6 +1,6 @@
 ---
-title: "RECEIVING THE SPIRIT, Acts 19 and"
-author: "Virgil Warren, christir.org"
+title: "Acts 19 and Receiving the Spirit"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:
 - 'Topics'

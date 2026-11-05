@@ -12,10 +12,6 @@ next: chapter-03
 ## Nahum Chapter 2
 
 
-### I’ll completely destroy them.                                                 Nah 1:15
-
-
-
 ### Nineveh to Fall
 
 
@@ -73,7 +69,7 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nineveh is like a leaking reservoir.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Stop! Stop! </span></i><a name="_Hlk121820752"><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>deserting residents<i>!” </i></span></a></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Stop! Stop! </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>deserting residents<i>!” </i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      but none of them even look back.</span></p>
 
@@ -89,9 +85,9 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Hearts melt and knees knock!</span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      Loins throb in pain; faces turn pale!</span></p>
 
-### Loins throb in pain; faces turn pale!                                 Nah 2:8-10
-
+<p class="section-ref">Nah 2:8-10</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Where’s that lion’s den now,</span></span></p>
 
@@ -118,6 +114,8 @@ next: chapter-03
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and leave you with no </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>nations <i>to</i> <i>prey on. </i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your ambassadors won’t be bringing reports anymore.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></p>
+
+<p class="section-ref">Nah 2:11-1</p>
 
 
 <style>

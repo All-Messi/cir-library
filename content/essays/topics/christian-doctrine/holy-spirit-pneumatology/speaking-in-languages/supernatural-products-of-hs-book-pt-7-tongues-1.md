@@ -1,13 +1,13 @@
 ---
-title: "Supernatural PRODUCTS of HS (book pt 7) Tongues #1"
-author: "Virgil Warren, christir.org"
+title: "Supernatural Products of the Holy Spirit: Tongues"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:
 - 'Topics'
 - 'Christian Doctrine'
 - 'Holy Spirit Pneumatology'
 - 'Speaking In Languages'
-weight: 6
+weight: 7
 draft: false
 ---
 
@@ -123,7 +123,7 @@ style='font-size:12.0pt'>     </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                <img width=353 height=139
+style='font-size:12.0pt'>                <img alt="Miraculous and non-miraculous: supernatural intervention (part of “circumstances”) and natural law (“Bible”, “other Christians”, interpersonal relationship with the Spirit-Son-Father); not everyone, everyone" width=353 height=139
 id="Picture 2" src="/images/essays/supernatural-products-of-hs-book-pt-7-tongues-1/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -461,7 +461,7 @@ style='font-size:12.0pt'>                           �
 Holy Spirit came on the speakers, not the hearers.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:2.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-2.25in'><span
+margin-left:min(2.5in, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(24px, 35vw) - min(2.5in, 35vw))'><span
 style='font-size:12.0pt'>                                                [4]    Acts
 <b>2</b>:4 sets the stage so that <b>2</b>:6, 11 explains the             preceding,
 not <i>vice versa</i>.</span></p>
@@ -550,7 +550,7 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:2.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-2.0in'><span
+margin-left:min(2.25in, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(24px, 35vw) - min(2.25in, 35vw))'><span
 style='font-size:12.0pt'>                                       (c)     <u>Each</u>
 heard <u>them</u> speaking in their own language while we know they heard in
 their own language.</span></p>
@@ -1439,7 +1439,7 @@ margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>&nbsp;</
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=253 height=52 id="Picture 1"
+style='font-size:12.0pt'><img alt="Tongues and prophecy, with tongues within prophecy" width=253 height=52 id="Picture 1"
 src="/images/essays/supernatural-products-of-hs-book-pt-7-tongues-1/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

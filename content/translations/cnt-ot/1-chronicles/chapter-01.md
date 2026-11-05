@@ -43,7 +43,7 @@ next: chapter-02
 </span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hivites, Arkites, Sinites, </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Arvadites, Zemarites, Hamathites;</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                                                                                                                                </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 1:1-16</span></b></p>
+<p class="section-ref">1 Ch 1:1-16</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of <b>Shem</b>: Elam, Asshur, <u>Arpachshad</u>, Lud, Aram, Uz, Hul, Gether, and Meshech</span></span></p>
 
@@ -65,7 +65,9 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:1.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>   </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>father of</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Reu <i>father of</i> </span><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Serug
 <i>father of</i> Nahor <i>father of</i> Terah <i>father of</i> </span></span>
-<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Abram (</span><u><span style='font-family:"Times New Roman",serif'>Abraham</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>).<b>                                          </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 1:17-27</span></b></span></p>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Abram (</span><u><span style='font-family:"Times New Roman",serif'>Abraham</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>).<b>                                          </b></span></span></p>
+
+<p class="section-ref">1 Ch 1:17-27</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of <b>Abraham</b>: <u>Isaac</u> and <u>Ishmael</u> </span></span></p>
 
@@ -97,7 +99,9 @@ next: chapter-02
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>
                   </span></sup></b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>Amalek </span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of <u>Reuel</u>: Nahath, Zerah, Shammah, and Mizzah<b>                  </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 1:28-37</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of <u>Reuel</u>: Nahath, Zerah, Shammah, and Mizzah<b>                  </b></span></span></p>
+
+<p class="section-ref">1 Ch 1:28-37</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of Seir: <u>Lotan</u>, <u>Shobal</u>, <u>Zibeon</u>, <u>Anah</u>, <u>Dishon</u>,
 <u>Ezer</u>, and <u>Dishan</u> </span></span></p>
@@ -114,7 +118,9 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of <u>Ezer</u>: Bilhan, Zaavan, and Jaakan </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> The sons of <u>Dishan</u>: Uz and Aran<b>                                                                      </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 1:38-42</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> The sons of <u>Dishan</u>: Uz and Aran<b>                                                                      </b></span></p>
+
+<p class="section-ref">1 Ch 1:38-42</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The kings that ruled in Edom before Israel had a king </span></span></p>
 
@@ -153,7 +159,9 @@ next: chapter-02
 <span class="verse verse-v53" id="v53"><sup class="verse-num">53</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Kenaz, Teman, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Mibzar,
-</span><span class="verse verse-v54" id="v54"><sup class="verse-num">54</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Magdiel, Iram.<b>                                                                                      </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 1:43-54</span></b></span></p>
+</span><span class="verse verse-v54" id="v54"><sup class="verse-num">54</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Magdiel, Iram.<b>                                                                                      </b></span></span></p>
+
+<p class="section-ref">1 Ch 1:43-54</p>
 
 
 <style>

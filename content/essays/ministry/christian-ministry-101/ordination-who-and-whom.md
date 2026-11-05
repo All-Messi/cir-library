@@ -2,6 +2,7 @@
 title: "ORDINATION: WHO AND WHOM"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-02-06
 categories:
 - 'Ministry'
 - 'Christian Ministry 101'

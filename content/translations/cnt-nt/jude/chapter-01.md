@@ -68,8 +68,6 @@ weight: 1
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now to him who can keep you from stumbling and stand you blameless in front of his glory with great joy, </span></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to the only God our Savior through Jesus Christ our Lord <i>be</i> glory and majesty, dominion and authority before all time, now, and forever. Amen.     </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jude 24-25</span></b></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Translator: Virgil Warren,                                                                                                 </span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

@@ -11,10 +11,6 @@ next: chapter-02
 ## Ezra Chapter 1
 
 
-### Conversational Yahveh Covenant
-
-
-
 ### Cyrus Lets the Exiles Return
 
 
@@ -26,7 +22,7 @@ next: chapter-02
 
 <p class="section-ref">Ezra 1:1-4</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk145582359"><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God stirred up the leaders of the tribes from Judah and Benjamin along with the priests and Levites to go to Jerusalem to rebuild his Temple. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God stirred up the leaders of the tribes from Judah and Benjamin along with the priests and Levites to go to Jerusalem to rebuild his Temple. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Their neighbors encouraged them with silver and gold items, with goods, livestock, and valuables, plus freewill offerings. </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Cyrus brought out the items from Yahveh’s Temple that Nebuchadnezzar had carried to the temple of his gods. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He had Mithredath the treasurer bring them out and count them out to Sheshbazzar, ruler of Judah: </span></span>

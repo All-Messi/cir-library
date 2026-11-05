@@ -31,8 +31,9 @@ next: chapter-02
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But, even if <u>we</u> or an angel from heaven would present a gospel different from what we presented, consider him under a curse. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I repeat, if anybody presents a gospel different from the one you’ve received, consider him under a curse. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Am I trying to please people or God? If I was trying to please people, I wouldn’t be serving Christ. </span></span>
-<span class="verse verse-v11" id="v11"><sup class="verse-num">11-12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m telling you, the message I presented <i>to you</i> didn’t come from other people; Jesus Christ revealed it to me.    </span><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gal 1:6-12</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></span></p>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11-12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m telling you, the message I presented <i>to you</i> didn’t come from other people; Jesus Christ revealed it to me.</span><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Gal 1:6-12</p>
 
 
 ### Paul’s History

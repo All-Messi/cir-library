@@ -24,7 +24,9 @@ next: chapter-28
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of the acts of Jotham, including his wars, are recorded in </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Book of the Kings of Israel and Judah</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>. [</span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]
 </span></span>
-<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died, and they buried him in The City of David. His son Ahaz became king.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>         2 Ch 27:1-9</span></b></span></p>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died, and they buried him in The City of David. His son Ahaz became king.</span></span></p>
+
+<p class="section-ref">2 Ch 27:1-9</p>
 
 
 <style>

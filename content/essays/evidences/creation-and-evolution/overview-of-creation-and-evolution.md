@@ -2,6 +2,7 @@
 title: "OVERVIEW OF CREATION AND EVOLUTION"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Creation And Evolution'
@@ -60,7 +61,7 @@ not distinct in kind from the universe.</span></p>
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                      <img width=298 height=90
+style='font-size:12.0pt'>                      <img alt="Circles: pantheism (G = U), panentheism (U contains G), theistic evolution (G contains U)" width=298 height=90
 id="Picture 2" src="/images/essays/overview-of-creation-and-evolution/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -71,7 +72,7 @@ is distinct in kind from the universe.</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                    <img width=60 height=77
+style='font-size:12.0pt'>                    <img alt="Two stacked circles, G and U" width=60 height=77
 id="Picture 1" src="/images/essays/overview-of-creation-and-evolution/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

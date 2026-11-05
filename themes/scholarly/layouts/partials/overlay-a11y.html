@@ -1,0 +1,45 @@
+{{- /* overlay-a11y.html — keyboard/screen-reader support for the reader's picker overlays
+       (book, chapter, translation, harmony topics), 2026-11-04. The open/close functions
+       live in reading-ui.html and just toggle style.display; this watches for that and
+       (1) moves focus into the dialog (the active item, else the first link), (2) keeps the
+       trigger's aria-expanded in sync, (3) returns focus to the trigger on close, and
+       (4) closes on Escape. No markup or behaviour change for mouse/touch users. */ -}}
+<script>
+(function() {
+    var overlays = document.querySelectorAll('.overlay[role="dialog"]');
+    if (!overlays.length || !window.MutationObserver) return;
+    var lastTrigger = null;
+    document.addEventListener('click', function(e) {
+        var t = e.target.closest && e.target.closest('[aria-haspopup="dialog"]');
+        if (t) lastTrigger = t;
+    }, true);
+    function isOpen(el) { return el.style.display !== 'none' && el.style.display !== ''; }
+    overlays.forEach(function(ov) {
+        var trigger = document.querySelector('[aria-controls="' + ov.id + '"]');
+        var wasOpen = isOpen(ov);
+        new MutationObserver(function() {
+            var open = isOpen(ov);
+            if (open === wasOpen) return;
+            wasOpen = open;
+            if (trigger) trigger.setAttribute('aria-expanded', open ? 'true' : 'false');
+            if (open) {
+                var target = ov.querySelector('.active[href], a.active, .book-item.active') || ov.querySelector('.books-list a[href], .chapter-grid a[href]') || ov.querySelector('a[href], button');
+                if (target) {
+                    if (!target.hasAttribute('href') && target.tagName !== 'BUTTON') target.setAttribute('tabindex', '-1');
+                    setTimeout(function() { target.focus({ preventScroll: false }); }, 0);
+                }
+            } else {
+                var back = trigger || lastTrigger;
+                if (back && (ov.contains(document.activeElement) || document.activeElement === document.body)) back.focus();
+            }
+        }).observe(ov, { attributes: true, attributeFilter: ['style'] });
+        ov.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape' && isOpen(ov)) {
+                e.stopPropagation();
+                ov.style.display = 'none';
+                document.body.classList.remove('overlay-open');
+            }
+        });
+    });
+})();
+</script>

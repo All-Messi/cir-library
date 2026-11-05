@@ -11,16 +11,14 @@ next: chapter-05
 
 ## Luke Chapter 4
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And Jesus, full of-(the)-Holy Spirit, returned from the Jordan and was-being-led by the Spirit in the desert, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And Jesus, full of-(the)-Holy Spirit, returned from the Jordan and was-being-led by the Spirit in the desert, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>being-tempted by the devil for-forty days. And he-did</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>┘not└</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>eat nothing/anything in [the] those days; and they having-been-finished, he-hungered. </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the devil said to-him, <i>“If you-are (the) Son of-[the] God, say to-[the] this stone [in-order]-that it-become (a) loaf.” </i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And [the] Jesus answered [to] him, <i>“It-is-written [that], </i></span></span></p>
 
-
-### ‘[The] man shall┘not└live on bread only.’”
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘[The] man shall</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>┘not└</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>live on bread only.’</span></i></b><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>” </span></i></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And having-led</span><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>┘him└</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>up, he-showed him all the kingdoms of-the world in (a) moment of-time. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the devil said to-him, <i>“I-will-give you all [the] this authority and the glory of-them, because it-has-been-given to-me and to-whomever I-desire to-give it. </i></span></span>
@@ -28,9 +26,7 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And having-answered, the Jesus said to-him, <i>“It-is-written,</i></span></span></p>
 
-
-### ‘You-shall-worship (the) Lord the God of-you,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>‘You-shall-worship (the) Lord the God of-you,</i></b></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and you-shall-serve him </span></i></b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>only.’”</span></p>
 
@@ -41,17 +37,13 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and [that]</span></i></span></p>
 
-
-### ‘They-will-carry you on (the) hands (of-them),
-
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>‘They-will-carry you on (the) hands (of-them),</i></b></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    lest-at-any-time you strike the foot of-you against (a) rock.’</span></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>”</span></i></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And having-answered, [the] Jesus said to-him [that], <i>“It-has-been-said,</i></span></span></p>
 
-
-### ‘You-shall┘not└tempt (the) Lord the God of-you.’”
-
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b>‘You-shall</b></span></i><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>┘not└</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>tempt (the) Lord the God of-you.’</span></i></b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>”          </span></i></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And having-finished every temptation, the devil went-away from him until (an) opportunity (would come).                  </span></span></p>
 
@@ -64,9 +56,7 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                to-preach to-(the)-poor.</span></i></b></p>
 
-
-### He-has-sent me to-preach release to-captives
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        He-has-sent me to-preach release to-captives</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and sight to-(the)-blind</span></i></b></p>
 

@@ -12,10 +12,6 @@ next: chapter-06
 ## Amos Chapter 5
 
 
-### Yahveh God of Hosts.                                         Amos 4:12-13
-
-
-
 ### A Call to Repentance
 
 
@@ -161,7 +157,7 @@ next: chapter-06
 
 <p class="section-ref">Amos 5:18-20</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <a name="_Hlk146891628"><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“I despise your festivals; </span></i></a></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“I despise your festivals; </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I don’t delight in your solemn assemblies.</span></i></p>
 
@@ -184,8 +180,9 @@ next: chapter-06
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“<u>Did</u> you bring me sacrifices and grain offerings in the desert for 40 years, Israel?
 </span></i></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Well, you also carried along Sakkuth your king god and Kaiwan your star god, images you made for yourselves. </span></i></span>
-<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I’ll send you into exile beyond Damascus,”</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Yahveh says, whose name is The God of Hosts.</span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>   Amos 5:25-27</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></sup></b></span></p>
+<span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I’ll send you into exile beyond Damascus,”</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Yahveh says, whose name is The God of Hosts.</span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></sup></b></span></p>
+
+<p class="section-ref">Amos 5:25-27</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Woe to the Complacent</span></b><b><sup><span style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'>   </span></sup></b></p>
 

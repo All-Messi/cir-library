@@ -10,7 +10,7 @@ prev: chapter-15
 
 ## Romans Chapter 16
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now I-commend to-you Phoebe, the sister of-us, being [also]<sup>ms</sup> (a) servant of-the church [the] in Cenchrea, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now I-commend to-you Phoebe, the sister of-us, being [also]<sup>ms</sup> (a) servant of-the church [the] in Cenchrea, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>in-order-that you-welcome her in (the) Lord in-a-way-worthy of-[the] saints and (that you-help her in whatever<sup>2</sup> matter she-may-have-need of you; for she also was (a) helper of-many—and └of-me myself.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Greet Prisca<sup>f</sup> and Aquila<sup>m</sup>, [the] fellow-workers of-me in Christ Jesus, </span></span>
@@ -40,13 +40,6 @@ prev: chapter-15
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24-25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now to-the-One able to-establish you according-to the gospel of-me and the proclaimed-message of-Jesus Christ, according-to (the) revelation of-(the)-mystery kept-secret in eternal times, </span></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but now manifested through also (the) scriptures of-(the)-prophets according-to (the) commandment of-the eternal God, having-been-made-known to all the Gentiles, to-(the)-obedience of-faith—</span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to-(the) only wise God through Jesus Christ, to-whom (be) [the] glory forever<sup>3</sup>. Amen.</span></span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil Warren, PhD</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>translator</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 
 
 <style>

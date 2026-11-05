@@ -25,7 +25,7 @@ next: chapter-07
 
 <p class="section-ref">Eccl 6:1-9</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122425091"><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> has already decided what’s going to happen, including what each of us will be. We can’t argue with him about it; he’s stronger than we are. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> has already decided what’s going to happen, including what each of us will be. We can’t argue with him about it; he’s stronger than we are. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The more we say the less it means; so what’s the point of talking? </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who knows what’s good for us anyway during the few years of our pointless life? They’ll go by like a shadow, and who can tell us what will happen under the sun when they’re done?        </span></span></p>
 

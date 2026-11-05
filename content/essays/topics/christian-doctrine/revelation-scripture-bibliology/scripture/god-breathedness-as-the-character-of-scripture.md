@@ -2,6 +2,7 @@
 title: "'GOD-BREATHEDNESS' AS THE CHARACTER OF SCRIPTURE"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-12
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -76,7 +77,7 @@ with the proclamation.</span></p>
 18.0pt'><span style='font-size:2.0pt'>     </span><span style='font-size:12.0pt'>                   </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>                                             <img
+18.0pt'><span style='font-size:12.0pt'>                                             <img alt="God → prophet → proclamation"
 width=191 height=35 src="/images/essays/god-breathedness-as-the-character-of-scripture/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
@@ -139,7 +140,7 @@ predicts that such aid is not required.</span></p>
 18.0pt'><span style='font-size:12.0pt'>               </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>                            <img
+18.0pt'><span style='font-size:12.0pt'>                            <img alt="Holy Spirit → regeneration of man and revelation in the Bible"
 width=299 height=83 id="Picture 2" src="/images/essays/god-breathedness-as-the-character-of-scripture/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
@@ -214,7 +215,7 @@ his revelation; his revelation is</span></p>
 </span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>                                                         <img
+18.0pt'><span style='font-size:12.0pt'>                                                         <img alt="God → revelation and responsibility"
 width=110 height=75 id="Picture 1" src="/images/essays/god-breathedness-as-the-character-of-scripture/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:

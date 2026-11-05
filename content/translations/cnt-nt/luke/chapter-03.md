@@ -15,7 +15,7 @@ next: chapter-04
 ### The Beginning of John’s Ministry
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the fifteenth year of Tiberias Caesar, Pontius Pilate was governing Judaea, Herod was tetraarch of Galilee, his brother Philip was tetraarch of Iturea and Trachonitis, Lysanius was tetraarch of Abilene, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the fifteenth year of Tiberias Caesar, Pontius Pilate was governing Judaea, Herod was tetraarch of Galilee, his brother Philip was tetraarch of Iturea and Trachonitis, Lysanius was tetraarch of Abilene, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Annas and Caiaphas were high priests.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            That’s when a message came from God to John son of Zachariah in the desert. </span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He went to the area around the Jordan River and started presenting a baptism of repentance to forgive sins. </span></span>
@@ -23,13 +23,9 @@ next: chapter-04
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>“One shouting in the desert,</i></b></span></p>
 
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    ‘Get the road ready for the L</span></i></b><b><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>!</span></i></b></p>
 
-### ‘Get the road ready for the LORD!
-
-
-
-### Make it straight!
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                Make it straight!</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                </span></i></b><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Fill every chuck hole.</span></i></b></span></p>
 
@@ -94,7 +90,7 @@ next: chapter-04
 <p class="section-ref">Lk 3:21-22</p>
 
 
-### The Genealogy of Jesus According to Luke  (cp. Mt 1:1-17)
+### The Genealogy of Jesus According to Luke (cp. Mt 1:1-17)
 
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom:4.0pt; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus was about 30 when he began his ministry. He was—as supposed—the </span></span></p>

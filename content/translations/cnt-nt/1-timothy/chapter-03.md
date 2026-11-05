@@ -12,7 +12,7 @@ next: chapter-04
 ## 1 Timothy Chapter 3
 
 
-### Caracteristics of  Elders
+### Caracteristics of Elders
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It’s a reliable statement: </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“If anyone aspires to being an overseer, he’s aspiring to do a good thing.” </span></i></span>

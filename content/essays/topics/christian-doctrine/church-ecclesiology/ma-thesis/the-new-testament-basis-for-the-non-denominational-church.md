@@ -7,10 +7,12 @@ categories:
 - Ma Thesis
 date: '2026-02-16'
 draft: false
-title: "THE NEW TESTAMENT BASIS FOR THE NON-DENOMINATIONAL CHURCH:"
-weight: 0
+title: "The New Testament Basis for the Non-Denominational Church"
+weight: 1
 content_kind: title-page
 subtitle: "THE HISTORICAL ARGUMENT"
+aliases:
+- /essays/topics/christian-doctrine/church-ecclesiology/ma-thesis/the-new-testament-basis-for-the-non-denominational-church-the-historical/
 ---
 
 <style>

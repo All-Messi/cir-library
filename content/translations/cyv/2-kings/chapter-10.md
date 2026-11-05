@@ -25,7 +25,9 @@ next: chapter-11
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height: 115%'>The steward of the household, the mayor of the city, the elders, and the guardians of the children sent Jehu a message, <i>“We’re your servants; we’ll do whatever you say. We won’t make anybody king. Do what you want to.” </i></span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%'>He wrote them a second letter, </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt; line-height:115%'>“If you’re with me, take the heads of your master’s sons and meet me at Jezreel tomorrow about this time.” </span></i><b><span style='font-size:12.0pt;line-height:115%'>       </span></b><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 10:1-6a</span></b></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt; line-height:115%'>“If you’re with me, take the heads of your master’s sons and meet me at Jezreel tomorrow about this time.” </span></i><b><span style='font-size:12.0pt;line-height:115%'>       </span></b></span></p>
+
+<p class="section-ref">2 Kg 10:1-6a</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height: 115%'>The chief men in the city were raising the king’s sons. </span><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%'>When the letter came, they killed his 70 sons, put their heads in baskets, and sent them to <i>Jehu</i> at Jezreel.</span></span></p>
 
@@ -46,7 +48,9 @@ next: chapter-11
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height: 115%'>He said, <i>“Take them alive.”</i> </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height: 115%'>They took them alive and <i>then decided to </i>kill every one of them at the pit at Beth-eked—42 men.             </span><b><span style='font-size:10.0pt; line-height:115%'>2 Kg 10:6b-14</span></b><b><span style='font-size:12.0pt; line-height:115%'> </span></b></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height: 115%'>They took them alive and <i>then decided to </i>kill every one of them at the pit at Beth-eked—42 men.</span><b><span style='font-size:10.0pt; line-height:115%'></span></b><b><span style='font-size:12.0pt; line-height:115%'></span></b></p>
+
+<p class="section-ref">2 Kg 10:6b-14</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height: 115%'>When he left there, he met Jehonadab Ben-Rechad, coming to meet him. He greeted him, <i>“Is your heart right, as my heart is with yours?”</i> </span></span></p>
 
@@ -67,7 +71,9 @@ next: chapter-11
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%'>He sent all over Israel and the Baal worshipers came. There wasn’t a man that didn’t go into Baal’s temple and fill it end to end. </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%'>He told the one in charge of the wardrobe, <i>“Bring out robes for the worshipers.”</i> He did that. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%'>Jehu went in with Jehonadab and told the Baal worshipers, <i>“Make sure there aren’t any worshipers of Yahveh.”</i> </span></span>
-<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%'>Then they went in to offer sacrifices and burnt offerings. Jehu had stationed 80 men outside, <i>“Whoever lets a man escape that I bring to you will give his life in exchange </i>for it<i>.”</i></span><b><span style='font-size:10.0pt;line-height:115%'>                                                2 Kg 10:15-24</span></b><b><span style='font-size:12.0pt;line-height:115%'> </span></b></span></p>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%'>Then they went in to offer sacrifices and burnt offerings. Jehu had stationed 80 men outside, <i>“Whoever lets a man escape that I bring to you will give his life in exchange </i>for it<i>.”</i></span><b><span style='font-size:10.0pt;line-height:115%'></span></b><b><span style='font-size:12.0pt;line-height:115%'></span></b></span></p>
+
+<p class="section-ref">2 Kg 10:15-24</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height: 115%'>As soon as he’d finished offering the burnt offering, Jehu told the guard and royal officers, <i>“Go in, kill them; don’t let anybody get out.”</i> They killed them with swords, and the guard and royal officers threw them out. They went to the inner room of Baal’s temple </span></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt; line-height:115%'>and brought out the sacred pillars and burned them. </span></span>
@@ -76,14 +82,18 @@ next: chapter-11
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height: 115%'>But, Jehu didn’t stop the sins Jeroboam caused Israel to do—the gold calves at Bethel and Dan. </span></span>
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height: 115%'>Yahveh told him, <i>“Since you’ve done to Ahab’s family what I wanted, your descendants will sit on Israel’s throne for four generations.”</i> </span></span>
-<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%'>But Jehu wasn’t careful to follow the Law of Yahveh with all his heart. <b>                                                                                              </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 10:25-31</span></b></span></p>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%'>But Jehu wasn’t careful to follow the Law of Yahveh with all his heart. <b>                                                                                              </b></span></span></p>
+
+<p class="section-ref">2 Kg 10:25-31</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height: 115%'>Then Yahveh began to cut off parts of Israel. Hazael defeated them throughout Israel’s territory: </span></span>
 <span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height: 115%'>from the Jordan eastward, all the land of Gilead, Gad, Reuben, and Manasseh, from Aroer by the valley of the Arnon—Gilead and Bashan. </span></span>
 <span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%'>The rest of the acts of Jehu and the strength of his rule are recorded in <i>The Chronicles of the Kings of Israel</i>.
 </span></span>
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%'>He died and they buried him in Samaria. His son <u>Jehoahaz</u> became king. </span></span>
-<span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%'>Jehu ruled Israel for 28 years in Samaria.                                                                               </span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 10:32-36</span></b></span></p>
+<span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%'>Jehu ruled Israel for 28 years in Samaria.                                                                               </span></span></p>
+
+<p class="section-ref">2 Kg 10:32-36</p>
 
 
 <style>

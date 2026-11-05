@@ -48,7 +48,7 @@ next: chapter-120
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> Bet </span><span lang=HE dir=RTL style='font-size:16.0pt;line-height:115%; font-family:"Times New Roman",serif'>ב</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124320915"><span dir=LTR></span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>How can the young keep their conduct pure?</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span dir=LTR></span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>How can the young keep their conduct pure?</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      By guarding it with what you say.</span></p>
 
@@ -81,7 +81,7 @@ next: chapter-120
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> Gimel</span><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span><span lang=HE dir=RTL style='font-size:16.0pt;line-height:115%; font-family:"Times New Roman",serif'>ג</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124321094"><span dir=LTR></span><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Deal well with me </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span dir=LTR></span><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Deal well with me </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      so I can live and keep your word.</span></p>
 
@@ -117,7 +117,7 @@ next: chapter-120
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> Dalet </span><span lang=HE dir=RTL style='font-size:16.0pt;line-height:115%; font-family:"Times New Roman",serif'>ד</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124321329"><span dir=LTR></span><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m lying in the dust;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span dir=LTR></span><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m lying in the dust;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      revive me with your message.</span></p>
 
@@ -155,7 +155,7 @@ next: chapter-120
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span dir=LTR></span><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Teach me, </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, the way your statutes direct,</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <a name="_Hlk124321577">and I’ll keep them to the end.</a></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and I’ll keep them to the end.</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Help me understand                                                             </span></span></p>
 
@@ -175,7 +175,7 @@ next: chapter-120
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Confirm to me your promise</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><a name="_Hlk124321596"><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>to those who respect you.</span></a></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>to those who respect you.</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Turn away the disgrace I dread,</span></span></p>
 
@@ -191,7 +191,7 @@ next: chapter-120
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span dir=LTR></span><span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Direct your enduring love toward me, </span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></b><a name="_Hlk124321749"><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>the salvation you offer in your word,</span></a></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>the salvation you offer in your word,</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>so I can answer whoever tries to discredit me,</span></span></p>
 
@@ -220,7 +220,7 @@ next: chapter-120
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                                         Zayin
 </span><span lang=HE dir=RTL style='font-size:16.0pt;line-height:115%; font-family:"Times New Roman",serif'>ז</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124322043"><span dir=LTR></span><span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Remember your promise </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span dir=LTR></span><span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Remember your promise </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      that you made for me to trust in.</span></p>
 
@@ -259,7 +259,7 @@ next: chapter-120
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span dir=LTR></span><span class="verse verse-v57" id="v57"><sup class="verse-num">57</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, you’re my portion;</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <a name="_Hlk124322227">I promise to obey what you say.</a></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I promise to obey what you say.</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v58" id="v58"><sup class="verse-num">58</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I ask for your blessing with all my heart;</span></span></p>
 
@@ -296,7 +296,7 @@ next: chapter-120
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, like you promised.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124322416"><span class="verse verse-v66" id="v66"><sup class="verse-num">66</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Give me discernment and insight</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v66" id="v66"><sup class="verse-num">66</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Give me discernment and insight</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      because I believe in your commandments.</span></p>
 
@@ -330,7 +330,7 @@ next: chapter-120
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span dir=LTR></span><span class="verse verse-v73" id="v73"><sup class="verse-num">73</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You made me and fashioned me;</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <a name="_Hlk124323627">help me understand so I can appreciate your commandments.</a></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      help me understand so I can appreciate your commandments.</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v74" id="v74"><sup class="verse-num">74</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>May the ones that respect you see me and be happy</span></span></p>
 
@@ -367,7 +367,7 @@ next: chapter-120
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                                         Kaph
 </span><span dir=RTL></span><span dir=RTL style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'><span dir=RTL></span> </span><span lang=HE dir=RTL style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>כ</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124324362"><span dir=LTR></span><span class="verse verse-v81" id="v81"><sup class="verse-num">81</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m weary waiting for your rescue,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span dir=LTR></span><span class="verse verse-v81" id="v81"><sup class="verse-num">81</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m weary waiting for your rescue,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      but I’ve put my hope in your message.</span></p>
 
@@ -406,7 +406,7 @@ next: chapter-120
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span dir=LTR></span><span class="verse verse-v89" id="v89"><sup class="verse-num">89</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, your word is settled forever in heaven.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124325546"><span class="verse verse-v90" id="v90"><sup class="verse-num">90</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your faithfulness continues through every generation;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v90" id="v90"><sup class="verse-num">90</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your faithfulness continues through every generation;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      you built the earth to stand.</span></p>
 
@@ -439,7 +439,7 @@ next: chapter-120
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                                         Mem
 </span><span lang=HE dir=RTL style='font-size:16.0pt;line-height:115%; font-family:"Times New Roman",serif'>מ</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124325704"><span class="verse verse-v97" id="v97"><sup class="verse-num">97</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>How I love your law!</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v97" id="v97"><sup class="verse-num">97</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>How I love your law!</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I think about it all the time.</span></p>
 
@@ -477,7 +477,7 @@ next: chapter-120
 </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nun
 </span><span lang=HE dir=RTL style='font-size:16.0pt;line-height:115%; font-family:"Times New Roman",serif'>נ</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124326041"><span dir=LTR></span><span class="verse verse-v105" id="v105"><sup class="verse-num">105</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your word is a lamp for my feet,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span dir=LTR></span><span class="verse verse-v105" id="v105"><sup class="verse-num">105</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your word is a lamp for my feet,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      a light for my path.</span></p>
 
@@ -514,7 +514,7 @@ next: chapter-120
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                                        Samek
 </span><span lang=HE dir=RTL style='font-size:16.0pt;line-height:115%; font-family:"Times New Roman",serif'>ס</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124326182"><span dir=LTR></span><span class="verse verse-v113" id="v113"><sup class="verse-num">113</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I detest people with divided loyalties,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span dir=LTR></span><span class="verse verse-v113" id="v113"><sup class="verse-num">113</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I detest people with divided loyalties,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      but I love your Law.</span></p>
 
@@ -558,7 +558,7 @@ next: chapter-120
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            so godless people won’t oppress me. </span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124326331"><span class="verse verse-v123" id="v123"><sup class="verse-num">123</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>My eyes strain to see your deliverance come</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v123" id="v123"><sup class="verse-num">123</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>My eyes strain to see your deliverance come</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and your promise come true.</span></p>
 
@@ -586,7 +586,7 @@ next: chapter-120
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> Pe </span><span lang=HE dir=RTL style='font-size:16.0pt;line-height:115%; font-family:"Times New Roman",serif'>פ</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124326529"><span class="verse verse-v129" id="v129"><sup class="verse-num">129</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your testimonies are wonderful;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v129" id="v129"><sup class="verse-num">129</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Your testimonies are wonderful;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      so I observe them.</span></p>
 
@@ -626,7 +626,7 @@ next: chapter-120
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      your judgments are fair.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124326623"><span class="verse verse-v138" id="v138"><sup class="verse-num">138</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ve commanded your testimonies </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v138" id="v138"><sup class="verse-num">138</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ve commanded your testimonies </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      in goodness and faithfulness.</span></p>
 
@@ -659,7 +659,7 @@ next: chapter-120
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                                         Qoph
 </span><span lang=HE dir=RTL style='font-size:16.0pt;line-height:115%; font-family:"Times New Roman",serif'>ק</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124326733"><span dir=LTR></span><span class="verse verse-v145" id="v145"><sup class="verse-num">145</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I pray with all my heart; answer me, </span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>!</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span dir=LTR></span><span class="verse verse-v145" id="v145"><sup class="verse-num">145</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I pray with all my heart; answer me, </span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>!</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I’ll observe your statutes.</span></p>
 
@@ -687,7 +687,7 @@ next: chapter-120
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and your commandments are true.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122784988"><span class="verse verse-v152" id="v152"><sup class="verse-num">152</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For</span><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>a long time I’ve known </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v152" id="v152"><sup class="verse-num">152</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For</span><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>a long time I’ve known </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that you’ve laid down your testimonies to last forever.<b>   </b></span></p>
 
@@ -696,7 +696,7 @@ next: chapter-120
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                                         Resh
 </span><span lang=HE dir=RTL style='font-size:16.0pt;line-height:115%; font-family:"Times New Roman",serif'>ר</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124327563"><span dir=LTR></span><span class="verse verse-v153" id="v153"><sup class="verse-num">153</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Look at my difficulties and deliver me</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span dir=LTR></span><span class="verse verse-v153" id="v153"><sup class="verse-num">153</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Look at my difficulties and deliver me</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      because I don’t forget your Law.</span></p>
 
@@ -733,7 +733,7 @@ next: chapter-120
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                                                         Shin
 </span><span lang=HE dir=RTL style='font-size:16.0pt;line-height:115%; font-family:"Times New Roman",serif'>שׁ</span><span dir=LTR></span><span lang=HE style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'><span dir=LTR></span> </span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124327856"><span class="verse verse-v161" id="v161"><sup class="verse-num">161</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Officials harass me for no reason,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v161" id="v161"><sup class="verse-num">161</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Officials harass me for no reason,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      but I only stand in awe of what you say.</span></p>
 
@@ -772,7 +772,7 @@ next: chapter-120
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v169" id="v169"><sup class="verse-num">169</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let my call come to you, L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>;</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124328102"><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>      give me insight like you promised.</span></a></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>      give me insight like you promised.</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v170" id="v170"><sup class="verse-num">170</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Listen to my petition</span></span></p>
 

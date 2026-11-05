@@ -1,7 +1,9 @@
 ---
 title: "JUST A THOUGHT 'Where Is God?'"
-author: "Virgil Warren christir.org"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2013-08-10
+lastmod: 2025-07-10
 categories:
 - 'Topics'
 - 'Just A Thought'

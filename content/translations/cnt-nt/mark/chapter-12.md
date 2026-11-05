@@ -29,9 +29,7 @@ next: chapter-13
 </span></i></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>You’ve even read this scripture, haven’t you:</span></i></span></p>
 
-
-### ‘A stone the masons set aside
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                        </span></i><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>‘A stone the masons set aside</span></i></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                    has become a cornerstone.</span></i></b></p>
 
@@ -125,9 +123,7 @@ next: chapter-13
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>After he answered <i>those questions</i>, as he was teaching in the Temple, he said, <i>“How can the scribes say that the Messiah is David’s son? </i></span></span>
 <span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>David said by the Holy Spirit,</span></i></span></p>
 
-
-### ‘The LORD said to my Lord,
-
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span></i><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>‘The L</span></i></b><b><i><span style='font-size:9.0pt;font-family:"Times New Roman",serif'>ORD</span></i></b><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'> said to my Lord,</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                        “Sit at my right hand</span></i></b></p>
 

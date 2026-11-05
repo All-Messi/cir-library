@@ -12,10 +12,6 @@ next: chapter-09
 ## Amos Chapter 8
 
 
-### Israel will go into exile.’”                                    Amos 7:10-17
-
-
-
 ### A Vision of Ripe Fruit
 
 
@@ -25,9 +21,9 @@ next: chapter-09
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“A basket of ripe fruit.”</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“My people Israel are also ripe—</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>for punishment.<i> I won’t spare them any longer. </i></span><a name="_Hlk146894944"><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The singing at the palace will turn into wailing. There’ll be lots of corpses silently thrown out everywhere.”</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“My people Israel are also ripe—</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>for punishment.<i> I won’t spare them any longer. </i></span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The singing at the palace will turn into wailing. There’ll be lots of corpses silently thrown out everywhere.”</span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122901176"><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Listen to this, you that run over the needy and trample on the humble, </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Listen to this, you that run over the needy and trample on the humble, </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>saying,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      “When’s the new moon going to be over</span></i></p>
@@ -80,7 +76,7 @@ next: chapter-09
 
 <p class="section-ref">Amos 8:7-10</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122901248"><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Lord G</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>OD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says. </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Lord G</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>OD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says. </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>“The time’s coming when </i></span></p>
 

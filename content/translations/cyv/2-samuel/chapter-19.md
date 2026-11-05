@@ -11,7 +11,7 @@ next: chapter-20
 
 ## 2 Samuel Chapter 19
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%'>Then Joab heard, <i>“The king is crying and mourning for Absalom.”</i> </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%'>Then Joab heard, <i>“The king is crying and mourning for Absalom.”</i> </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt; line-height:115%'>The victory that day turned into mourning because those who heard about it said, <i>“The king is grieving for his son.” </i></span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%'>So the people slipped into the city like humiliated people sneak away from battle. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%'>The king covered his face and cried out, <i>“Absalom! My son! My son!”</i> </span></span></p>

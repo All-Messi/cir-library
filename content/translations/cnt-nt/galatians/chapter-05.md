@@ -36,9 +36,7 @@ next: chapter-06
 </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>still persecute me? </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I wish the ones that are troubling you would mutilate themselves.</span></span></p>
 
-
-### Gal 5:2-12
-
+<p class="section-ref">Gal 5:2-12</p>
 
 
 ### Christian Freedom
@@ -63,7 +61,9 @@ next: chapter-06
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>gentleness, self-control. There’s no law against such things. </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Christ’s people have crucified the physical along with its drives and desires. </span></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If we have life by spirit, let’s conduct life by spirit. </span></span>
-<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let’s not be proud or jealous or irritate each other.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                              Gal 5:13-26</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>          </span></span></p>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let’s not be proud or jealous or irritate each other.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Gal 5:13-26</p>
 
 
 <style>

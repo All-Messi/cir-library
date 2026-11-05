@@ -22,7 +22,9 @@ prev: chapter-20
 </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’d taken an oath at Mizpah to put to death anyone that didn’t come up to </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh.<i>
 </i></span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>They felt sorry for Benjamin, their fellow Jews, </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“A tribe has been eliminated from Israel today. </span></i></span>
-<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What are we going to do for wives for the ones that are left? We’ve sworn by Yahveh</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <i>not to give them our daughters for wives.”                                                                                                                                 </i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 21:1-7</span></b></span></p>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What are we going to do for wives for the ones that are left? We’ve sworn by Yahveh</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> <i>not to give them our daughters for wives.”                                                                                                                                 </i></span></span></p>
+
+<p class="section-ref">Jud 21:1-7</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They said, </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“What tribe didn’t come up?” </span></i></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the people mustered, not one person from Jabesh-gilead was there. </span></span>
@@ -32,7 +34,9 @@ prev: chapter-20
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then the whole community sent word to Benjamin at the Rock of Rimmon to announce a truce. </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Benjamin came back, and they gave them the women they’d saved from Jabesh-gilead, but they weren’t enough. </span></span>
-<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people had mercy on Benjamin because </span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>Yahveh had created a division in the tribes.                                                                                                                                 </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 21:8-15</span></b></span></p>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people had mercy on Benjamin because </span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>Yahveh had created a division in the tribes.                                                                                                                                 </span></span></p>
+
+<p class="section-ref">Jud 21:8-15</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The elders of the community said, </span></span></p>
 
@@ -53,11 +57,7 @@ prev: chapter-20
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In those days there wasn’t a king in Israel. Everybody did what seemed right to them.</span></span></p>
 
-
-### Jud 21:16-25
-
-
-<p class="MsoListBulletCxSpLast" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgi Warren: christir.org</span></p>
+<p class="section-ref">Jud 21:16-25</p>
 
 
 <style>

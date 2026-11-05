@@ -11,7 +11,7 @@ next: chapter-03
 
 ## 2 Peter Chapter 2
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now also false-prophets arose among the people as also false-teachers will-be among you, who will-under-false-pretenses-bring-in heresies of-destruction, denying the Master having-bought them, bringing-on themselves swift destruction.  </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now also false-prophets arose among the people as also false-teachers will-be among you, who will-under-false-pretenses-bring-in heresies of-destruction, denying the Master having-bought them, bringing-on themselves swift destruction.  </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And many will-follow-after the sensualities of-them on-account-of whom the way of-[the] truth will-be-blasphemed/maligned.  </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And in greed they-will-exploit you with-made-up words, for-whom the condemnation of-old is┘not└inactive and the destruction of-then does┘not└sleep.</span></span></p>
 

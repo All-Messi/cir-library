@@ -27,9 +27,9 @@ prev: chapter-33
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joshua was wise because Moses had laid his hands on him. The Israelites listened to him and did what Yahveh told Moses. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Since then no prophet has risen in Israel that Yahveh related to directly. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There was nobody like him </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>for the signs and wonders Yahveh sent him to do in Egypt against Pharaoh, his officials, and his country, </span></span>
-<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and for the great power and terrifying deeds he performed for Israel to see.              </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Deut 34:1-12</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>  </span></span></p>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and for the great power and terrifying deeds he performed for Israel to see.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
 
-<p class="MsoListBulletCxSpLast" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
+<p class="section-ref">Deut 34:1-12</p>
 
 
 <style>

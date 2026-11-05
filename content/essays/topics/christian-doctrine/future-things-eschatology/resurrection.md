@@ -2,6 +2,8 @@
 title: "RESURRECTION"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-08-04
+lastmod: 2025-07-10
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -374,12 +376,12 @@ style='font-size:12.0pt'>                        f.    C
 to          k.   Resurrected condition</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:283.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-247.5pt'><span
+margin-left:min(283.5pt, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(283.5pt, 35vw))'><span
 style='font-size:12.0pt'>                         Paul                                             l.
    Transformed condition of those living </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:283.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-247.5pt'><span
+margin-left:min(283.5pt, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(283.5pt, 35vw))'><span
 style='font-size:12.0pt'>                                                                                    at
 the parousia</span></p>
 
@@ -534,7 +536,7 @@ variant human conditions and in regard to Christ’s and our</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>             <img width=292 height=139
+style='font-size:12.0pt'>             <img alt="Soul/spirit in the intermediate state (2 Cor. 5), our resurrected condition, Christ&#x27;s original resurrected condition" width=292 height=139
 src="/images/essays/resurrection/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

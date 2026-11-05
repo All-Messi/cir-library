@@ -92,11 +92,9 @@ next: chapter-09
 </span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>his
 <b>humble condition he received no justice.</b></span></span></p>
 
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Who can speak of his descendants? </span></b></p>
 
-### Who can speak of his descendants?
-
-
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    his life has been taken from the earth?” </span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    his life has been taken from the earth?” </span></b><b><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>[Is 53:7-8 LXX]</span></b></p>
 
 <p class="section-ref">Acts 8:26-33</p>
 

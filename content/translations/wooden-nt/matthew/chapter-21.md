@@ -18,9 +18,7 @@ next: chapter-22
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Say to-the daughter of-Zion,</span></i></b></span></p>
 
-
-### ‘Behold, the king of you is-coming to-you,
-
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        ‘Behold, the king of you is-coming to-you,</span></i></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:1.0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>humble and having-ridden on (a) donkey </span></i></b></p>
 
@@ -33,14 +31,10 @@ next: chapter-22
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        <b>“Hosanna</b> to the son of-David.</span></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        <b>Blessed (is) the-One coming in (the) name of-(the)-Lord.</b></span></p>
 
-### Blessed (is) the-One coming in (the) name of-(the)-Lord.
-
-
-
-### Hosanna
-in the highest.”
-
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        Hosanna
+</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>in the highest.”</span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he entering into Jerusalem, all the city was-stirred-up, saying, <i>“Who is this?”</i> </span></span></p>
 
@@ -49,9 +43,7 @@ in the highest.”
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And Jesus entered into the temple-complex and cast-out all the-ones selling and buying in the temple, and he-turned-over the tables of-the money-changers and the seats of-the-ones selling [the] doves. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he-says to-them, <i>“It-is-written,</i></span></span></p>
 
-
-### ‘The house of-me shall-be-called (a) house of-prayer,’
-
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        <b>‘The house of-me shall-be-called (a) house of-prayer,’</b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        but
 <u>you</u> are-making it (a) den of-thieves.”</span></i></p>
@@ -59,9 +51,7 @@ in the highest.”
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            14And (the) blind and (the) lame they-brought-to him in the temples, and he-healed them. </span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the chief-priests and the scribes, seeing the marvelous things that he-did and the children [the] shouting in the temple and saying, <i>“Hosanna to-the son of-David,”</i> they-were-indignant, </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and said to-him, <i>“Do-you-hear what these are-saying?” </i>And [the] Jesus says to-them, <i>“Yes, did-you┘never└read [that],</i></span></span></p>
 
-
-### ‘Out-of (the) mouths of-infants,
-
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>‘Out-of (the) mouths of-infants,</i></b></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        and of-nursing-ones you-prepared-for-yourself praise.”</span></i></b></p>
 
@@ -110,17 +100,11 @@ in the highest.”
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:31.5pt;margin-bottom: 0in;margin-left:.5in;'><span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>[The] Jesus says to-them,<i> “Did-you┘never└read in the scriptures,</i></span></span></p>
 
+<p class="MsoNormal" style='margin-top:0in;margin-right:31.5pt;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    <b>‘(The) stone that the builders rejected— </b></span></i></p>
 
-### ‘(The) stone that the builders rejected—
+<p class="MsoNormal" style='margin-top:0in;margin-right:31.5pt;margin-bottom: 0in;margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    This-one became (the) head of-(the)-corner.</span></i></b></p>
 
-
-
-### This-one became (the) head of-(the)-corner.
-
-
-
-### This came from (the) Lord,
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:31.5pt;margin-bottom: 0in;margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    This came from (the) Lord,</span></i></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:31.5pt;margin-bottom: 0in;margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    and is-it marvelous in (the) eyes of-us’</span></i></b><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>?</span></i></p>
 

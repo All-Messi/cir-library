@@ -12,10 +12,6 @@ next: chapter-08
 ## Revelation Chapter 7
 
 
-### Rev 6:12-17
-
-
-
 ### Sealing the 144,000
 
 
@@ -70,6 +66,10 @@ next: chapter-08
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The Lamb at the throne will shepherd them</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and guide them to springs of running water.</span></i></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God will wipe every tear out of their eyes.”                                           </span></i></span></p>
+
+<p class="section-ref">Rev 7:13-17</p>
 
 
 <style>

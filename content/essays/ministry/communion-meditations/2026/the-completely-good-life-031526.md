@@ -1,7 +1,7 @@
 ---
 title: "The Completely Good Life"
 date: '2026-03-15'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

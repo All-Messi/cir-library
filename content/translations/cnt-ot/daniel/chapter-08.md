@@ -15,7 +15,7 @@ next: chapter-09
 ### Daniel’s Vision of the Ram and the Goat
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124458465"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the<b> third year of Belshazzar’s regency</b>, I, Daniel, had another vision. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the<b> third year of Belshazzar’s regency</b>, I, Daniel, had another vision. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I was in Susa the capital, in the province Elam beside the Ulai Canal. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I looked up and saw a ram with two horns standing by the canal. The horns were long, one longer than the other even though the longer one had grown up last. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The ram was butting west, north, and south. No other animals could stand up to it, and nobody could rescue anyone from it. It did what it pleased and became great. <b>                                                                                                                                   </b></span></span></p>
@@ -45,7 +45,7 @@ next: chapter-09
 ### Gabriel Interprets the Vision
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124458599"><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When I, Daniel, had seen the vision and was trying to understand it, one that looked like a man was standing in front of me. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When I, Daniel, had seen the vision and was trying to understand it, one that looked like a man was standing in front of me. </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I heard a man between <i>the banks</i> of Ulai call out, <i>“Gabriel, tell him what the vision means.” </i></span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So he came <i>closer</i>, and I fell on my face in fear. But he said, <i>“Son of man, the vision deals with the end of time.” </i></span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While he was talking to me, I fainted facedown on the ground, but he took hold of me and stood me up. </span></span>

@@ -2,6 +2,7 @@
 title: "THE RELATIONSHIP OF THE LAW AND THE GOSPEL"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Critical Intro Ot'
@@ -153,7 +154,7 @@ the code-content distinction the relationship of the covenants in God’s
 continuing purpose among people follows the accompanying diagram.         </span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt;
-line-height:115%;font-family:"Times New Roman",serif'><img width=468
+line-height:115%;font-family:"Times New Roman",serif'><img alt="Code #1 and code #2: civil, ceremonial (a), ceremonial (b), moral, historical and ontological strands" width=468
 height=172 id="Picture 2" src="/images/essays/the-relationship-of-the-law-and-the-gospel/image001.png"></span></p>
 
 <p class=MsoNormal style='text-align:justify;text-indent:.5in'><span

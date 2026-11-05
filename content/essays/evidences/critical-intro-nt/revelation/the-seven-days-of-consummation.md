@@ -2,6 +2,7 @@
 title: "THE SEVEN DAYS OF CONSUMMATION"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-15
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'
@@ -2405,12 +2406,12 @@ style='font-size:12.0pt'>                  2.   Second bowl �
 became like dead people’s blood;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:3.0in;margin-bottom:.0001pt;text-align:justify;text-indent:-2.75in'><span
+margin-left:min(3.0in, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(24px, 35vw) - min(3.0in, 35vw))'><span
 style='font-size:12.0pt'>                        <b>16</b>:3                                                  every
 living soul died, even the things that </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:3.0in;margin-bottom:.0001pt;text-align:justify;text-indent:-2.75in'><span
+margin-left:min(3.0in, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(24px, 35vw) - min(3.0in, 35vw))'><span
 style='font-size:12.0pt'>                                                                                 were
 in the sea.</span></p>
 
@@ -3310,5 +3311,5 @@ background.</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            B.  It seems impossible to take Revelation
-as strictly chronological because the end is near already in <b>10</b>:7.</span></p>
+as strictly chronological because the end is near already in <b>10</b>:7.</span></p><p class="cir-diagram" style="text-align:center;margin:1.25rem 0"><img src="/images/diagrams/the-seven-days-of-consummation-1.png" alt="Addendum A, The Beasts of Revelation: earth beast 13:11-18 = false prophet 16:13, 19:20, 20:10; beast of 11:7 = sea beast 13:1-10 = beast with an image 14:9-12; sea beast = scarlet beast 17:3-18; red dragon 12:1-17, 16:13, 20:1-3, 7-10 = Satan" width="437" style="max-width:100%;height:auto"></p>
 </div>

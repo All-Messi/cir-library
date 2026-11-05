@@ -1,6 +1,6 @@
 ---
 title: "Topics"
-description: "Interpersonalism, Basic Christianity, Doctrine, and theological studies"
+description: "Interpersonalism, Christian Living, Doctrine, and theological studies"
 weight: 1
 ---
 

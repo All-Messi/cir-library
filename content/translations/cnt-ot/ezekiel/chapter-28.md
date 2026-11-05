@@ -83,9 +83,9 @@ next: chapter-29
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              by the hand of foreigners.</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                         I’ve said so!”’” </span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>        </span></b></span></p>
 
-### I’ve said so!”’”                     Ezek 28:9-10
-
+<p class="section-ref">Ezek 28:9-10</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A message from the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> came to me:</span></span></p>
 
@@ -203,9 +203,9 @@ next: chapter-29
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            by the sword everywhere.</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <u>You’ll know I’m the </u></span></i><i><u><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>L</span></u></i><i><u><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></u></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                </span></b></span></p>
 
-### You’ll know I’m the LORD.                                                Ezek 28:20-23
-
+<p class="section-ref">Ezek 28:20-23</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“For Israel there won’t any longer be a briar to prick or a thorn to hurt them from any that scorn them. <u>They’ll know I’m the Lord G</u></span></i><i><u><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>OD</span></u></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.”</span></i></span></p>
 

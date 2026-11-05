@@ -11,7 +11,7 @@ next: chapter-08
 
 ## 1 Corinthians Chapter 7
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now about what-things you-wrote. (It is) good for (a) man not to-touch (a) woman. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now about what-things you-wrote. (It is) good for (a) man not to-touch (a) woman. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But on-account-of [the] sexual-immorality, each man should-have [the] his-own wife, and each woman should-have [the] her-own husband. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The husband needs-to-give to-the wife the/her due; and likewise also the wife (needs-to-give) to-the husband the/his due. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The wife does┘not└have-authority-over [the] her body, but the husband (does). And likewise the husband also does┘not└have-authority-over [the] his body, but the wife (does). </span></span>

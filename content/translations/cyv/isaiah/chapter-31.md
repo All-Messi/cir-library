@@ -15,7 +15,7 @@ next: chapter-32
 ### Warning to Those Who Rely on Egypt
 
 
-<p class="MsoListBulletCxSpFirst" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><span style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                  31<sup>:1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Misfortune lies ahead for those who go down to Egypt for help,</span></p>
+<p class="MsoListBulletCxSpFirst" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Misfortune lies ahead for those who go down to Egypt for help,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              who rely on horses,</span></p>
 
@@ -52,7 +52,7 @@ next: chapter-32
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <i>      “Like a young lion growls over its prey</i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and
-<a name="_Hlk148471329">shepherds’ shouts don’t scare it away</a>,</span></i></p>
+shepherds’ shouts don’t scare it away,</span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              I’ll</span></i><i><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>Y</span></sup></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> come down</span></i></p>
 

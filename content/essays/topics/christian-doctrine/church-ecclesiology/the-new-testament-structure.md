@@ -2,6 +2,8 @@
 title: "THE NEW TESTAMENT STRUCTURE"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-10-26
+lastmod: 2025-07-15
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -963,7 +965,7 @@ lang=EL style='font-size:12.0pt'> </span><span lang=EL style='font-size:12.0pt'>
 style='font-size:4.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                                    <img width=249
+style='font-size:12.0pt'>                                    <img alt="ὁ διάκονος (1 Timothy 3:8-10, 12-13) and ἡ διάκονος (Romans 16:1; 1 Timothy 3:11 γυνή)" width=249
 height=92 src="/images/essays/the-new-testament-structure/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -1190,7 +1192,7 @@ style='font-size:12.0pt'>                           �
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
-style='font-size:12.0pt'>                              <img width=281
+style='font-size:12.0pt'>                              <img alt="Heaven: Head and Apostles; earth: evangelist, prophet, elders and deacons; general and local" width=281
 height=190 src="/images/essays/the-new-testament-structure/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

@@ -62,9 +62,7 @@ next: chapter-03
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Even if I get poured out like a drink offering on the altar in service to your faith, I’ll rejoice and rejoice with you. </span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You’ll<sup>p</sup> rejoice too along with me. </span></span></p>
 
-
-### Phil 2:12-18
-
+<p class="section-ref">Phil 2:12-18</p>
 
 
 ### Timothy’s Coming

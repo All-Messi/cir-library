@@ -33,9 +33,7 @@ next: chapter-12
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                    </span></i><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Blessed is the coming kingdom of our ancestor David.</span></i></span></p>
 
-
-### Hosanna in the highest!”
-
+<p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                        </span></i><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Hosanna</span></i></b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'> in the highest!”</span></i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>He went into the Temple in Jerusalem and looked around at everything. It was evening already , and he went out to Bethany with the Twelve.                                                                                                                               </span></span></p>
 

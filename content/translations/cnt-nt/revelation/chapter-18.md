@@ -11,7 +11,7 @@ next: chapter-19
 
 ## Revelation Chapter 18
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After that, I watched a different angel come down from the sky with great authority, and his glory lit up the world. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After that, I watched a different angel come down from the sky with great authority, and his glory lit up the world. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He shouted,</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <i>“Fallen, fallen, ‘Babylon’ the Great!</i></span></p>
@@ -105,9 +105,7 @@ next: chapter-19
 
 <p class="MsoNormal" style='margin-bottom:0in;'><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Shipmasters and sailors</span></u><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>, who make their living on the sea, will stand a long way off </span><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and cry as they watch the smoke from her burning<i>. “What other city is like this great city?”</i></span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></b></span></p>
 
-
-### Rev 18:15-18
-
+<p class="section-ref">Rev 18:15-18</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll throw dust on their heads, shout, cry, and weep,</span></span></p>
 

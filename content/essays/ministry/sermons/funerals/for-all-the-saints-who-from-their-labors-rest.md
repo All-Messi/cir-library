@@ -5,9 +5,13 @@ categories:
 - Sermons
 - Funerals
 date: '2026-02-16'
+printed: 1998-02-14
+lastmod: 2025-02-04
 draft: false
 title: For All the Saints Who from Their Labors Rest
 weight: 3
+aliases:
+- /essays/ministry/sermons/funerals/for-all-the-saints-who-from-their-labors-rest-william-walsham-how-for-all-the/
 ---
 
 <style>

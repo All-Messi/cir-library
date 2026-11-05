@@ -1,7 +1,7 @@
 ---
-title: "Philippians 2:5-8."
+title: "Philippians 2:5-8"
 date: '2024-01-01'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

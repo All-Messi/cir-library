@@ -20,10 +20,12 @@ next: chapter-20
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%'>But the officials in Ammon told Hanun, <i>“Do you think David is honoring your father by sending ambassadors to comfort you? Haven’t they come to spy out the land to overthrow </i>it<i>?” </i>Hanun took David’s ambassadors and shaved them, cut off their clothes in the middle as high as their hips, and sent them away. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%'>Some people came and told David about the men. He sent to meet them because they were greatly humiliated. He told them to stay in Jericho till their beards grew back; then come home.</span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height: 115%'>When the Ammonites saw they’d been offensive to David, Hanun and the Ammonites sent <a name="_Hlk145084636">37¾ tons <sup>1,000 talents</sup> of silver </a>to hire chariots and cavalry from Mesopotamia, from Aram-maacah and Zobah. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height: 115%'>When the Ammonites saw they’d been offensive to David, Hanun and the Ammonites sent 37¾ tons <sup>1,000 talents</sup> of silver to hire chariots and cavalry from Mesopotamia, from Aram-maacah and Zobah. </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%'>They hired 32,000 chariots, the king of Maacah, and his soldiers. They camped by Medeba. The Ammonites gathered from their towns and came to battle. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height: 115%'>When David heard it, he sent Joab and the whole army, the strongest soldiers. </span></span>
-<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%'>The Ammonites came out and drew up in battle formation at the entrance to the city. The kings that had come were by themselves in the field.                                                                                                                                   </span><b><span style='font-size:10.0pt;line-height:115%'>1 Ch 19:1-9</span></b></span></p>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%'>The Ammonites came out and drew up in battle formation at the entrance to the city. The kings that had come were by themselves in the field.                                                                                                                                   </span></span></p>
+
+<p class="section-ref">1 Ch 19:1-9</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height: 115%'>When Joab saw that the battle was set against him in front and behind, he selected elite soldiers and arrayed them against the Arameans. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%'>The rest he placed under his brother Abishai, and they arrayed themselves against the Ammonites. </span></span>
@@ -38,7 +40,9 @@ next: chapter-20
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%'>When David heard it, he mustered Israel, crossed the Jordan, and came on them. He drew up in formation against them, and they fought him. </span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height: 115%'>They fled, and he killed 7,000 charioteers and 40,000 foot soldiers, and put Shophach to death. </span></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%'>When Hadadezer’s vassals saw Israel had defeated them, they surrendered and served David. The Arameans weren’t willing to help the Ammonites anymore.
-</span><b><span style='font-size:10.0pt;line-height:115%'>1 Ch 19:10-19</span></b></span></p>
+</span></span></p>
+
+<p class="section-ref">1 Ch 19:10-19</p>
 
 
 <style>

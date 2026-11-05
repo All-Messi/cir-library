@@ -13,9 +13,7 @@ prev: chapter-03
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So, fellow Christians loved and longed for, my joy and crown, stand firm in the Lord.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>
  </span></b></span></p>
 
-
-### Phil 3:17-4:1
-
+<p class="section-ref">Phil 3:17-4:1</p>
 
 
 ### Keeping a Positive Outlook
@@ -63,8 +61,6 @@ prev: chapter-03
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The grace of the Lord Jesus Christ <i>be</i> with your spirit.                                     </span></span></p>
 
 <p class="section-ref">Phil 4:21-23</p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Translator: Virgil Warren                                                                                                 </span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 
 
 <style>

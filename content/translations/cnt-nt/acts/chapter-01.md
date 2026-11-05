@@ -18,7 +18,9 @@ next: chapter-02
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>up to when by the Holy Spirit he commissioned the apostles he’d chosen. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>During 40 days after he suffered, he showed himself alive to them in a variety of unmistakable proofs and discussed God’s kingdom. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While he was eating with them, he told them to wait in Jerusalem for <i>“the Father’s promise I told you about: </i></span></span>
-<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>John immersed in water, but <u>you’ll</u> be ‘immersed’ in the Holy Spirit in a few days.”                </span></i><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>Acts 1:1-5</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i></span></p>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>John immersed in water, but <u>you’ll</u> be ‘immersed’ in the Holy Spirit in a few days.”</span></i><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Acts 1:1-5</p>
 
 
 ### The Ascension of Jesus
@@ -53,9 +55,7 @@ next: chapter-02
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-family:"Times New Roman",serif'>Everybody in Jerusalem heard about it, so in their <i>[Aramaic] </i>language they called that field Haceldama, Field of Blood.)</span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></i></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Scripture says in the Psalms, </span></i></span></p>
 
-
-### ‘Let his house be deserted
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:1.0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Let his house be deserted </span></i></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    and nobody live in it’</span></i></b><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Ps 69:25]</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>;</span></p>
 

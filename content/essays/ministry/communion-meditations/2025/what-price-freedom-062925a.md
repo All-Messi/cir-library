@@ -1,7 +1,7 @@
 ---
 title: "What Price Freedom"
 date: '2025-06-29'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

@@ -27,7 +27,9 @@ next: chapter-24
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Levites and Judah did what he said. Each one brought his men that were to come in on the Sabbath with the ones that were to go out on the Sabbath, because Jehoiada didn’t dismiss any of the divisions. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jehoiada gave the commanders of hundreds King David’s spears and large and small shields that were in the Temple. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He stationed the men around the king from the south side of the Temple to the north, near the altar. </span></span>
-<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then they brought out the king’s son, put the crown on him, gave him the Testimony, and declared him king. Jehoiada and his sons anointed him and said, <i>“Long live the king!”</i></span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>                                                                                                         2 Ch 23:1-11</span></b></span></p>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then they brought out the king’s son, put the crown on him, gave him the Testimony, and declared him king. Jehoiada and his sons anointed him and said, <i>“Long live the king!”</i></span></span></p>
+
+<p class="section-ref">2 Ch 23:1-11</p>
 
 
 ### The Death of Athaliah
@@ -38,7 +40,9 @@ next: chapter-24
 </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She saw the king standing by his pillar at the entrance, and the commanders and trumpeters beside him. The common people were celebrating and blowing trumpets. The singers with their musical instruments were leading the praise. She tore her clothes, <i>“Treason! Treason!”</i> </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jehoiada brought out the commanders over the army and told them, <i>“Bring her out between the ranks and put to death with a sword anybody that tries to rescue her.”</i> The priests said, <i>“Don’t do it in the<sup>Y</sup> Temple.” </i></span></span>
-<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They seized her, and when she got to the entrance of the Horse Gate of the king’s palace, they put her to death.        </span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>2 Ch 23:12-15</span></b></span></p>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They seized her, and when she got to the entrance of the Horse Gate of the king’s palace, they put her to death.        </span></span></p>
+
+<p class="section-ref">2 Ch 23:12-15</p>
 
 
 ### Jehoiadah’s Reforms
@@ -49,7 +53,9 @@ next: chapter-24
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He placed the officers of the<sup>Y</sup> Temple under the Levitical priests that David had assigned over the<sup>Y</sup> Temple, as written in the Law of Moses—with celebration and singing according to David’s order. </span></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He stationed gatekeepers for the<sup>Y</sup> Temple so nobody ceremonially unclean could go in. </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He took the commanders of hundreds, the nobles, rulers of the people, and common people, and brought the king down from the<sup>Y</sup> Temple through the upper gate to the king’s palace and placed him on the throne. </span></span>
-<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So the people celebrated, and the city grew quiet because they’d put Athaliah to death with a sword.  </span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>2 Ch 23:16-21</span></b></span></p>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So the people celebrated, and the city grew quiet because they’d put Athaliah to death with a sword.  </span></span></p>
+
+<p class="section-ref">2 Ch 23:16-21</p>
 
 
 <style>

@@ -47,7 +47,7 @@ next: chapter-39
 ### Jeremiah Warns Zedekiah Again
 
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><a name="_Hlk123722696"><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then King Zedekiah had Jeremiah brought to the third entrance of Yahveh’s Temple, <i>“I’m going to ask you something. Don’t keep back anything from me.”</i></span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then King Zedekiah had Jeremiah brought to the third entrance of Yahveh’s Temple, <i>“I’m going to ask you something. Don’t keep back anything from me.”</i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jeremiah said, <i>“If I tell you, won’t you put me to death? If I give you advice, you won’t take it.”</i></span></span></p>
 

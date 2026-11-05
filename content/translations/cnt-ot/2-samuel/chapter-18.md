@@ -32,7 +32,7 @@ next: chapter-19
 
 <p class="section-ref">2 Sam 18:1-8</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126066436"><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Absalom happened to meet <i>some of</i> David’s men. He was trying to escape on his mule, and it went under the thick branches of a big terebinth tree. His hair got tangled up in them and left him hanging as the mule kept going. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Absalom happened to meet <i>some of</i> David’s men. He was trying to escape on his mule, and it went under the thick branches of a big terebinth tree. His hair got tangled up in them and left him hanging as the mule kept going. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>One fellow told Joab, <i>“I saw Absalom hanging from a terebinth tree.”</i> </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joab said, <i>“You saw him! Why didn’t you strike him to the ground? I would’ve given you 10 pieces of silver and a belt.”</i> </span></span></p>

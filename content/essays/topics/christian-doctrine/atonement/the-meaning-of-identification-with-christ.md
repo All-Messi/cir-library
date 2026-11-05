@@ -2,6 +2,8 @@
 title: "THE MEANING OF 'IDENTIFICATION WITH CHRIST'"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2007-07-09
+lastmod: 2026-07-28
 categories:
 - 'Topics'
 - 'Christian Doctrine'

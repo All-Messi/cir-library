@@ -73,7 +73,9 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        He made peace through the blood Christ<sup>Messiah</sup> shed on the cross—</span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    peace with things on earth and in heaven.                                       </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Col 1:9-20</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                    </span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    peace with things on earth and in heaven.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></p>
+
+<p class="section-ref">Col 1:9-20</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At one time you were enemies in mind and deed. </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now he has reconciled <i>you</i> in his physical body through death to bring you into his presence holy, blameless, without fault. </span></span>

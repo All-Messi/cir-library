@@ -1,7 +1,8 @@
 ---
 title: "CHAPTER I NON-DENOMINATIONAL UNITY IN PERSPECTIVE AND PREVIEW General Framework in Diagram"
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-11
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -78,7 +79,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=363 height=226 id="Picture 8"
+style='font-size:12.0pt'><img alt="Theological, practical and historical unity: individual unity with Christ, collective unity through Christ, functional unity in Christ, organizational unity under Christ; invisible and visible unity" width=363 height=226 id="Picture 8"
 src="/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -176,7 +177,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:1.0in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'><img width=340 height=141 id="Picture 7"
+style='font-size:12.0pt'><img alt="Visible church and world, with the invisible church across D1 to D4" width=340 height=141 id="Picture 7"
 src="/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -201,7 +202,7 @@ margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=330 height=155 id="Picture 6"
+style='font-size:12.0pt'><img alt="Invisible church circle beside the visible church and the world" width=330 height=155 id="Picture 6"
 src="/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -460,12 +461,12 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=384 height=235
+style='font-size:12.0pt'><img alt="World and the church: non-distinctives and extra distinctives between minimum and maximum unity" width=384 height=235
 src="/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image004.png"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=386 height=94 id="Picture 5"
+style='font-size:12.0pt'><img alt="3. unbelief does not equal disbelief; 4. uncertainty does not equal rejection" width=386 height=94 id="Picture 5"
 src="/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image005.png"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
@@ -541,7 +542,7 @@ style='font-size:12.0pt'>Fig. 5.  Pattern of “World-Churchism”</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=207 height=213 id="Picture 4"
+style='font-size:12.0pt'><img alt="Christ above the heaven/earth line; earthly headquarters with SA and LC below" width=207 height=213 id="Picture 4"
 src="/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image006.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -568,7 +569,7 @@ style='font-size:12.0pt'>Fig. 6. Pattern of Denominationalism</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=319 height=180 id="Picture 3"
+style='font-size:12.0pt'><img alt="Christ and Apostles above the heaven/earth line; several earthly headquarters with SA and LC below" width=319 height=180 id="Picture 3"
 src="/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image007.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -613,7 +614,7 @@ style='font-size:12.0pt'>Fig. 7.  Pattern of “No-Churchism”</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=181 height=98 id="Picture 2"
+style='font-size:12.0pt'><img alt="Christ and the individual among scattered marks" width=181 height=98 id="Picture 2"
 src="/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image008.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -665,7 +666,7 @@ style='font-size:12.0pt'>Fig. 8.  Pattern of Non-Denominationalism</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=236 height=125 id="Picture 1"
+style='font-size:12.0pt'><img alt="Christ and Apostles above the heaven/earth line; SA and LC below" width=236 height=125 id="Picture 1"
 src="/images/essays/chapter-i-non-denominational-unity-in-perspective-and-preview-general-framework/image009.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><u><span

@@ -2,6 +2,8 @@
 title: "1 TIMOTHY 2:9-15"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2014-01-21
+lastmod: 2025-07-14
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -89,7 +91,7 @@ last part would be his inference from the Genesis event.</span></p>
 style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=425 height=216
+style='font-size:12.0pt'><img alt="Genesis 2-3 headship and relative responsibility, teaching men (1 Timothy 2:12), veil-wearing (1 Corinthians 11:8-10), being silent (1 Corinthians 14:34-35): potential application of the cultural variable" width=425 height=216
 src="/images/essays/1-timothy-29-15/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span

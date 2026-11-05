@@ -25,9 +25,7 @@ next: chapter-03
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But you’ve gone off-road and made people stumble with your instruction; you’ve corrupted my covenant with Levi. </span></i></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So people despise you because you show favoritism in how you execute the Law.</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                       </span></b></span></p>
 
-
-### Mal 2:1-9
-
+<p class="section-ref">Mal 2:1-9</p>
 
 
 ### Judah Profaned the Covenant

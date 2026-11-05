@@ -5,6 +5,8 @@ categories:
 - Sermons
 - Sunrise
 date: '2026-02-16'
+printed: 2006-04-16
+lastmod: 2025-07-12
 draft: false
 title: SURPRISED AT SUNRISE
 weight: 3
@@ -115,5 +117,5 @@ relive the sunrise to keep the surprise alive.</p>
 <p class=MsoNormal style='text-align:justify'>Virgil Warren</p>
 
 <p class=MsoNormal style='text-align:justify'>April 16, 2006                                                                                                      
-<span style='font-size:11.0pt'>christir.org</span></p>
+</p>
 </div>

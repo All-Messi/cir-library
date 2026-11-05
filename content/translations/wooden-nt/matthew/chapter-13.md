@@ -11,7 +11,7 @@ next: chapter-14
 
 ## Matthew Chapter 13
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In [the] that day having-come-out of-the house, [the] Jesus sat-down beside the sea. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In [the] that day having-come-out of-the house, [the] Jesus sat-down beside the sea. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>And many crowd[s] were-gathered-together to him, so-that he, having-gotten in (a) boat, sat-down, and all the crowd was-standing on the shore. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he-said to-them many-things in parables, saying, </span></span></p>
 
@@ -32,9 +32,7 @@ next: chapter-14
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On-account-of this I-am-speaking to-them in parables, because, seeing, they-do┘not└see and, hearing, they-do┘not└hear nor understand, </span></i></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and the prophecy of-Isaiah is-fulfilled, the-one saying, </span></i></span></p>
 
-
-### ‘Hearing, you-will-hear and certainly not understand
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:31.5pt;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    <b>‘Hearing, you-will-hear and certainly not understand</b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:31.5pt;margin-bottom: 0in;margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                and seeing, you-will-see and certainly not perceive.</span></i></b></p>
 

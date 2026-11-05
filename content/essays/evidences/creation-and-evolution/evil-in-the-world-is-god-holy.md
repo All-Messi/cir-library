@@ -2,6 +2,7 @@
 title: "EVIL IN THE WORLD: IS GOD HOLY?"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-14
 categories:
 - 'Evidences'
 - 'Creation And Evolution'
@@ -40,7 +41,7 @@ style='font-size:12.0pt'>Introduction:  The Antilogism</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                          <img width=282 height=201
+style='font-size:12.0pt'>                          <img alt="Triangle: Holiness of God, Omnipotence of God, Fact of evil" width=282 height=201
 id="Picture 2" src="/images/essays/evil-in-the-world-is-god-holy/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -221,7 +222,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>               <img width=341 height=131 id="Picture 1"
+style='font-size:12.0pt'>               <img alt="Arrow-shaped band with a wavy line between parallel lines" width=341 height=131 id="Picture 1"
 src="/images/essays/evil-in-the-world-is-god-holy/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

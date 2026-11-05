@@ -10,7 +10,7 @@ next: chapter-02
 
 ## Jeremiah Chapter 1
 
-<p class="MsoListBulletCxSpFirst" style='margin-bottom:0in'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> 1<sup>:1</sup></span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>The Words of Jeremiah Son of Hilkiah </span></p>
+<p class="MsoListBulletCxSpFirst" style='margin-bottom:0in'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>The Words of Jeremiah Son of Hilkiah </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> from the Priests at Anathoth in Benjamin</span></p>
 

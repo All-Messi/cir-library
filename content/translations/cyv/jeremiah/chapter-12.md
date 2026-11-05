@@ -15,7 +15,7 @@ next: chapter-13
 ### Jeremiah’s Complaint
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         12<sup>:1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You render justice, Yahveh, </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You render justice, Yahveh, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        so I’ll argue my case to you.</span></p>
 
@@ -139,7 +139,9 @@ next: chapter-13
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m about to uproot them from their lands along with Judah. </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But afterward I’ll relent and bring these nations back to their territories. </span></i></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then, if they’ll learn to swear by me, ‘As sure as the Lord lives,’ like they taught my people to swear by Baal, I’ll let them live among my people. </span></i></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But
-</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>any nation<i> </i>that <i>won’t listen, I’ll uproot and destroy.”     </i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jer 12:14-17</span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>       </span></i></span></p>
+</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>any nation<i> </i>that <i>won’t listen, I’ll uproot and destroy.”</i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Jer 12:14-17</p>
 
 
 <style>

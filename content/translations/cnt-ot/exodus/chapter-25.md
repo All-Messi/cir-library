@@ -27,7 +27,9 @@ next: chapter-26
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>olive oil for lighting, spices for anointing oil and fragrant incense, </span></i></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>onyx stones and setting stones for the ephod and pouch.  </span></i></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Have them build a sanctuary so I can live among them. </span></i></span>
-<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Build the Tabernacle and its furniture like I show you.                                            </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ex 25:1-9</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                 </span></i></span></p>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Build the Tabernacle and its furniture like I show you.</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Ex 25:1-9</p>
 
 
 ### The Ark of the Covenant

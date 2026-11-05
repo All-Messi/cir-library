@@ -29,8 +29,9 @@ next: chapter-04
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now set it aside: anger, rage, hateful feelings, slander, filthy talk. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t lie to one other, because you’ve taken off the old self and its behaviors, </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and put on the new <i>self</i> that’s made new unto knowing the One who created that new self in his image. </span></span>
-<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In that image there’s no Greek or Jew, circumcision or uncircumcision; barbarian, Scythian; slave or free; Christ <i>includes</i> <i>us</i> all and <i>is</i> in <i>us</i> all.                           </span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>Col 3:5-11</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></span></p>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In that image there’s no Greek or Jew, circumcision or uncircumcision; barbarian, Scythian; slave or free; Christ <i>includes</i> <i>us</i> all and <i>is</i> in <i>us</i> all.</span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Col 3:5-11</p>
 
 
 ### Emphasizing the Major Virtues

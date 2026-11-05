@@ -38,9 +38,7 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><b><i><span style='font-family:"Times New Roman",serif'>“For three sins of </span></i></b><i><span style='font-family:"Times New Roman",serif'>Damascus <b>and for four,</b></span></i></p>
 
-
-### I won’t hold back its punishment:e said, He said
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><b><i><span style='font-family:"Times New Roman",serif'>      I won’t hold back its punishment:<span style='display:none'>e said, He said</span></span></i></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they threshed </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>the people of <i>Gilead </i></span></p>
 
@@ -56,17 +54,15 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and the one that holds the scepter from Beth-eden.</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            The people of Syria will go to Kir in exile.” </span></i><b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>             </span></b></span></p>
 
-### The people of Syria will go to Kir in exile.”              Amos 1:1-5
-
+<p class="section-ref">Amos 1:1-5</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-family:"Times New Roman",serif'>      “For three sins of </span></i></b><i><span style='font-family:"Times New Roman",serif'>Gaza <b>and for four,</b></span></i></p>
 
-
-### I won’t hold back its punishment:
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><b><i><span style='font-family:"Times New Roman",serif'>I won’t hold back its punishment:</span></i></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they deported an entire population to Edom.</span></i></p>
 
@@ -80,17 +76,15 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      I’ll unleash my power on Ekron,</span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            And the remnant of Philistines will perish.” </span></i></span></p>
 
-### And the remnant of Philistines will perish.”              Amos 1:6-8
-
+<p class="section-ref">Amos 1:6-8</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><b><i><span style='font-family:"Times New Roman",serif'>“For three sins of </span></i></b><i><span style='font-family:"Times New Roman",serif'>Tyre <b>and for four,</b></span></i></p>
 
-
-### I won’t hold back its punishment:
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><b><i><span style='font-family:"Times New Roman",serif'>I won’t hold back its punishment:</span></i></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they delivered an entire population to Edom</span></i></p>
 
@@ -106,9 +100,7 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><b><i><span style='font-family:"Times New Roman",serif'>“For three sins of </span></i></b><i><span style='font-family:"Times New Roman",serif'>Edom <b>and for four,</b></span></i></p>
 
-
-### I won’t hold back its punishment:
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><b><i><span style='font-family:"Times New Roman",serif'>I won’t hold back its punishment:</span></i></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they pursued their brothers with a sword</span></i></p>
 
@@ -128,9 +120,7 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></i><b><i><span style='font-family:"Times New Roman",serif'>“For three sins of </span></i></b><i><span style='font-family:"Times New Roman",serif'>the Ammonites<b> and for four,</b></span></i></p>
 
-
-### I won’t hold back their punishment:
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><b><i><span style='font-family:"Times New Roman",serif'>I won’t hold back </span></i></b><i><span style='font-family:"Times New Roman",serif'>their<b> punishment:</b></span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they ripped open pregnant women in Gilead</span></i></p>
 

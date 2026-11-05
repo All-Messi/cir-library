@@ -2,10 +2,14 @@
 title: "GOOD AND EVIL IN ETERNAL PERSPECTIVE: HELP FROM REVELATION"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-02-04
+lastmod: 2025-07-14
 categories:
 - 'Evidences'
 - 'Evil Problem Of Theodicy'
 draft: false
+aliases:
+- /essays/evidences/evil-problem-of-theodicy/good-and-evil-in-eternal-perspective/
 ---
 
 <style>

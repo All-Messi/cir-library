@@ -12,10 +12,6 @@ next: chapter-03
 ## Esther Chapter 2
 
 
-### Esther 1:16b-22
-
-
-
 ### Esther Becomes Queen
 
 
@@ -25,7 +21,9 @@ next: chapter-03
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Have beautiful young virgins be sought for you. </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Appoint officers in all the provinces to gather them to the harem in Susa under the custody of Hegai, the king’s eunuch in charge of the women. Give them ointments, </span></i></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and have the young woman that pleases you replace Vashti as queen.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He liked that; so that’s what he did.                                                                                 </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esther 2:1-4</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He liked that; so that’s what he did.                                                                                 </span></p>
+
+<p class="section-ref">Esther 2:1-4</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There was a Jew in Susa named <i>Mordecai</i> Ben-Jair (</span><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ben-Shimei Ben-Kish</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>), a Benjamite. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He was among the captives Nebuchadnezzar took from Jerusalem with Jeconiah, king of Judah. </span></span>
@@ -33,7 +31,9 @@ next: chapter-03
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the king declared his edict and many young women were brought to Susa and put in Hegai’s custody, Esther was also taken to his palace. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The young woman pleased him and won his approval. Right away he provided her with her ointments, her portion of food, and seven chosen maids from the king’s palace. He advanced her and her maids to the best place in the harem. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esther hadn’t told anybody who her people or relatives were; Mordecai had charged her not to. </span></span>
-<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Every day he walked past the court of the harem to find out how she was doing.                   </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esther 2:5-11     </span></b></span></p>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Every day he walked past the court of the harem to find out how she was doing.                   </span></span></p>
+
+<p class="section-ref">Esther 2:5-11</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Each young woman’s turn came to go in to King Ahasuerus after the end of her twelve months under the regulations for the women.  Their time of beautification lasted six months with oil of myrrh and six months with spices and women’s cosmetics.  </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She’d go in to the king with anything she wanted to take from the harem to his palace. </span></span>
@@ -43,9 +43,7 @@ next: chapter-03
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He liked Esther more than any of the <i>other </i>women. He showed her more kindness, and she was more pleasing to him than the <i>other </i>virgins. So he set the royal crown on her head and made her queen in place of Vashti. </span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he held a grand banquet, Esther’s banquet, for all his nobles and officials. He made a holiday for the provinces and gave gifts with royal liberality.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>             </span></b></span></p>
 
-
-### Esther 2:12-18
-
+<p class="section-ref">Esther 2:12-18</p>
 
 
 ### Mordecai’s Uncovers a Conspiracy
@@ -56,7 +54,9 @@ next: chapter-03
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>During that time, while Mordecai was sitting at the king’s gate, Bigthan and Teresh, two of the king’s officials that guarded the door, got mad and tried to lay hands on King Ahasuerus. </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Mordecai found out about it and told Queen Esther. She informed the king in Mordecai’s name. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the plot was investigated and found to be true, they were both hanged on gallows. It was recorded in <i>The Book of Chronicles</i> in the king’s presence.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esther 2:19-23</span></b></span></p>
+</b></span></span></p>
+
+<p class="section-ref">Esther 2:19-23</p>
 
 
 <style>

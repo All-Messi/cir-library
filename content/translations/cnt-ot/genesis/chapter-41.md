@@ -15,7 +15,7 @@ next: chapter-42
 ### Pharaoh’s Dreams
 
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><a name="_Hlk125365060"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Two years later, Pharaoh dreamed he was standing by the Nile. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Two years later, Pharaoh dreamed he was standing by the Nile. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Seven healthy, well-fed cows came up from the river and started grazing on the marsh grass. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Seven scrawny, bony cows came up </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and ate the seven healthy, well-fed ones. Then he woke up.</span></span></p>
@@ -27,7 +27,7 @@ next: chapter-42
 
 <p class="section-ref">Gen 41:1-8</p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><a name="_Hlk125365301"><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The cupbearer said to Pharaoh, </span></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The cupbearer said to Pharaoh, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I remember my own sins today. </span></i><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You were furious with us and confined me and the chief baker in the captain of the bodyguard’s house. </span></i></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We
@@ -55,7 +55,7 @@ next: chapter-42
 
 <p class="section-ref">Gen 41:14-24</p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk125365482"><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joseph told him,</span></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joseph told him,</span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Your dreams both mean the same thing. God has told you what he’s going to do. </span></i><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The seven good cows and seven good ears represent seven years. </span></i></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The seven bony, scrawny cows that came up after them and the seven thin heads scorched by the east wind represent seven years of famine. [</span></i></span>
@@ -77,7 +77,7 @@ next: chapter-42
 ### Joseph Made Ruler of Egypt
 
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><a name="_Hlk125365726"><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The plan made sense to him and his officials. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The plan made sense to him and his officials. </span></span>
 <span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He asked, </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“Can we find anyone else like this who has a divine spirit in him?”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></span>
 <span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pharaoh told Joseph, </span></span></p>
 
@@ -87,7 +87,9 @@ next: chapter-42
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pharaoh took off his signet ring and put it on Joseph’s finger, dressed him in fine linen, and put a gold chain around his neck. </span></span>
 <span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He had him ride in his second chariot, and they declared ahead of him, </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Bend the knee!” </span></i></span>
 <span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pharaoh told him, </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m Pharaoh, but without your permission nobody will lift hand or foot anywhere in Egypt.” </span></i></span>
-<span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pharaoh named him Zaphenath-paneah and gave him as a wife Asenath, daughter of Potiphera, priest of On.                                                                                                                                   </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gen 41:37-45</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                 </span></span></p>
+<span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Pharaoh named him Zaphenath-paneah and gave him as a wife Asenath, daughter of Potiphera, priest of On.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Gen 41:37-45</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joseph was 30 when he stood in front of Pharaoh. He went out from Pharaoh all over Egypt. </span></span>
 <span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>During the seven abundant years, the ground produced abundantly. </span></span>

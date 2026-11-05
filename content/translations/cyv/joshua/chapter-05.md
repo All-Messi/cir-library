@@ -15,7 +15,7 @@ next: chapter-06
 ### Circumcision at Gilgal
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>5<sup>:</sup></span></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Amorite kings west of the Jordan and the Canaanite kings by the sea, heard that Yahveh had dried up the Jordan for the Israelites to cross. Their hearts melted; there was no spirit in them.</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Amorite kings west of the Jordan and the Canaanite kings by the sea, heard that Yahveh had dried up the Jordan for the Israelites to cross. Their hearts melted; there was no spirit in them.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, Yahveh told Joshua to make flint knives and circumcise the Israelites this second time<i>. </i></span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He did that at Gibeath-haaraloth. </span></span>

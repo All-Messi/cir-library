@@ -11,7 +11,7 @@ next: chapter-09
 
 ## Ecclesiastes Chapter 8
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>              8<sup>:1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who is wise enough to figure out what things mean? Wisdom puts a glow on the face and changes a harsh countenance to a radiant one.</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who is wise enough to figure out what things mean? Wisdom puts a glow on the face and changes a harsh countenance to a radiant one.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>My advice to you is to keep the king’s command that you’ve sworn before God to do.
 </span></span>
@@ -26,7 +26,7 @@ next: chapter-09
 
 <p class="section-ref">Eccl 8:1-9</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122425369"><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then I saw the sinful buried who use to frequent the Holy Place. They were soon forgotten in the city where they did it. It’s pointless. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:9.0pt; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then I saw the sinful buried who use to frequent the Holy Place. They were soon forgotten in the city where they did it. It’s pointless. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sentence against a sin doesn’t always come right away. That’s why people think they can get away with it. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Though a sinner sins 100 times and keeps living, I still know it’ll be well with those who respect God openly. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but it won’t be well for those sinners; they won’t lengthen their days like a shadow because they don’t respect God. </span></span></p>

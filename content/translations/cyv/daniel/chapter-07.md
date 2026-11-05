@@ -12,10 +12,6 @@ next: chapter-08
 ## Daniel Chapter 7
 
 
-### Dan 6:25-28
-
-
-
 ### Daniel’s Vision of the Four Beasts
 
 

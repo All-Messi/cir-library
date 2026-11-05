@@ -12,10 +12,6 @@ next: chapter-09
 ## Amos Chapter 8
 
 
-### Israel will go into exile.’”                                    Amos 7:10-17
-
-
-
 ### A Vision of Ripe Fruit
 
 

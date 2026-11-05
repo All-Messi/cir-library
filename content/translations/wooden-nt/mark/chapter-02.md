@@ -11,7 +11,7 @@ next: chapter-03
 
 ## Mark Chapter 2
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And having-entered again into Capernaum through days, it-was-heard that he-is/was at home. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And having-entered again into Capernaum through days, it-was-heard that he-is/was at home. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And many came-together so-that no-longer the-things at the door [not] to-have-room, and he-began-to-speak to-them the word. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And they/some-people come, bringing to him (a) paralytic, being-carried by four. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And not being-able to-bring him (him) to-him on-account-of the crowd, they-unroofed the roof where he-was; and, having-dug-out, they-lower the bed-roll where the paralytic was-lying. </span></span>

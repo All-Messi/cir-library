@@ -15,7 +15,7 @@ next: chapter-17
 ### Passover Festival
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:31.5pt; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126580349"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“In the month Abib, celebrate <u>Passover</u> to Yahveh your God. That’s when he brought you out of Egypt at night. </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:31.5pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“In the month Abib, celebrate <u>Passover</u> to Yahveh your God. That’s when he brought you out of Egypt at night. </span></i></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Sacrifice the Passover from the flock and the herd where he designates. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For a week, only eat bread without yeast—the bread of suffering (</span></i><i><span style='font-family:"Times New Roman",serif'>you came out in a hurry</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>)—so you’ll remember all your life when you left Egypt. </span></i></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For a week no yeast will be anywhere in any of your houses. None of the meat you sacrifice the first evening is to remain till morning. </span></i></span>
@@ -63,7 +63,9 @@ next: chapter-17
 
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:31.5pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t set up a wooden Asherah pole beside an altar you make for Yahveh. </span></i></span>
-<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t set up </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>sacred <i>pillars. That’s something he despises.</i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                             Deut 16:18-22 </span></b><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>     </span></sup></b></span></p>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t set up </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>sacred <i>pillars. That’s something he despises.</i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><sup><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></sup></b></span></p>
+
+<p class="section-ref">Deut 16:18-22</p>
 
 
 <style>

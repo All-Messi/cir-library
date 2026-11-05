@@ -6,6 +6,8 @@ categories:
 - Church Ecclesiology
 - Ordination
 date: '2026-02-16'
+printed: 2023-07-06
+lastmod: 2025-07-15
 draft: false
 title: ORIENTATION TO ORDINATION
 weight: 4

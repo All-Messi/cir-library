@@ -11,7 +11,7 @@ next: chapter-10
 
 ## Hebrews Chapter 9
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So the first (covenant) used-to-have ordinances of-divine-service and the/a worldly/earthly sanctuary.  </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So the first (covenant) used-to-have ordinances of-divine-service and the/a worldly/earthly sanctuary.  </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For the first tabernacle was-prepared on which (were) both the candelabra and the table and the presentation of-the loaves, which is-called “(The) Holy Place.”</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And behind the second curtain (was a) tabernacle [the] called “(The) Holy of-Holies,” </span></span>

@@ -2,6 +2,7 @@
 title: "A SKETCH ON BAPTISM FROM ACTS 2:38"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-14
 categories:
 - 'Topics'
 - 'Christian Doctrine'

@@ -1,7 +1,7 @@
 ---
 title: "From a Crib to a Cross"
 date: '2024-12-15'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

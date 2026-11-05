@@ -2,6 +2,8 @@
 title: "THE DOCTRINE OF CREATION"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-07-27
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Doctrine'

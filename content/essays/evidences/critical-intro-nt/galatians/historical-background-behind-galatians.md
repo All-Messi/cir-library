@@ -2,6 +2,8 @@
 title: "HISTORICAL BACKGROUND BEHIND GALATIANS"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-06-30
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'
@@ -156,15 +158,15 @@ margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:10.0pt'>    
 by revelation to Jerusalem with Titus       </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-45.0pt;margin-bottom:
-0in;margin-left:2.5in;margin-bottom:.0001pt'><span style='font-size:10.0pt'>                                         
+0in;margin-left:min(2.5in, 35vw);margin-bottom:.0001pt'><span style='font-size:10.0pt'>                                         
 <u>14  (11?) years</u> after his conversion and </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-45.0pt;margin-bottom:
-0in;margin-left:2.5in;margin-bottom:.0001pt'><span style='font-size:10.0pt'>                                         
+0in;margin-left:min(2.5in, 35vw);margin-bottom:.0001pt'><span style='font-size:10.0pt'>                                         
 meets privately with the pillars of the               </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-45.0pt;margin-bottom:
-0in;margin-left:2.5in;margin-bottom:.0001pt'><span style='font-size:10.0pt'>                                          
+0in;margin-left:min(2.5in, 35vw);margin-bottom:.0001pt'><span style='font-size:10.0pt'>                                          
       Jerusalem church <b>(2</b>:1-10)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-45.0pt;margin-bottom:

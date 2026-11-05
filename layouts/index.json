@@ -7,6 +7,8 @@
   {{- end -}}
   {{- $trunc := 500 -}}
   {{- if .Params.book }}{{ $trunc = 2000 }}{{ end -}}
+  {{- /* Harmony sections: index the whole text so the in-page "Search harmony" finds any name (Nicodemus, Zacchaeus...) */ -}}
+  {{- if eq .Type "harmony-section" }}{{ $trunc = 1000000 }}{{ end -}}
   {{- $isEssay := not .Params.book -}}
   {{- $index = $index | append (dict "title" (cond (eq .Type "essays") (partial "title-case.html" .Title) .Title) "permalink" .Permalink "content" (.Plain | truncate $trunc) "categories" $titleCats "book" .Params.book "translation" .Params.translation "isEssay" $isEssay "pageType" "page" "kind" (.Params.content_kind | default "") "words" .WordCount) -}}
 {{- end -}}

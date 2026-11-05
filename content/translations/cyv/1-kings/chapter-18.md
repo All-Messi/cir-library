@@ -36,7 +36,9 @@ next: chapter-19
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%'>Haven’t you heard what I did when Jezebel was killing his prophets? I hid 100 of them by 50s in a cave and provided them bread and water? </span></i></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt; line-height:115%'>Now you want me to tell my master you’re here!” </span></i></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height: 115%'>Elijah said, <i>“As Yahveh of Hosts lives, I’ll present myself to </i>Ahab<i> today.”</i><b>     </b></span><b><span style='font-size:10.0pt;line-height: 115%'>1 Kg 18:1-15</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height: 115%'>Elijah said, <i>“As Yahveh of Hosts lives, I’ll present myself to </i>Ahab<i> today.”</i><b>     </b></span></span></p>
+
+<p class="section-ref">1 Kg 18:1-15</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height: 115%'>Obadiah went and told Ahab, and he came to meet Elijah. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%'>When Ahab saw him, he said, <i>“Is that you, you troubler of Israel?” </i></span></span></p>
@@ -52,7 +54,9 @@ next: chapter-19
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height: 115%'>Ahab sent a message among the Israelites and brought the prophets to Mount Carmel. </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%'>Elijah faced the people and said, <i>“How long will you waver between two sides? If Yahveh is God, follow him. If Baal is god, follow him.”</i>   </span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>The people didn’t say anything. <b>                                                                        </b></span><b><span style='font-size:10.0pt;line-height:115%'>1 Kg 18:16-21</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%'>The people didn’t say anything. <b>                                                                        </b></span></p>
+
+<p class="section-ref">1 Kg 18:16-21</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%'>Then Elijah told them, </span></span></p>
 
@@ -65,7 +69,9 @@ next: chapter-19
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%'>They prepared their ox and called on Baal from morning till noon, <i>“Baal, answer us.”</i> There was no answer. They leaped around the altar they’d made. </span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%'>At about noon Elijah mocked them, <i>“Shout, because he’s a god. Either he’s occupied or has wandered off. Maybe he’s traveling or asleep and needs to be woke up.” </i></span></span>
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%'>As was their custom, they shouted and cut themselves with swords and lances till blood gushed out on them. </span></span>
-<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%'>When noon had passed, they raved till the time for evening sacrifice. But there wasn’t any voice, nobody answered, nobody paid attention. <b>   </b></span><b><span style='font-size:10.0pt; line-height:115%'>1 Kg 18:22-29</span></b></span></p>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%'>When noon had passed, they raved till the time for evening sacrifice. But there wasn’t any voice, nobody answered, nobody paid attention. <b>   </b></span></span></p>
+
+<p class="section-ref">1 Kg 18:22-29</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height: 115%'>Then Elijah told the crowd to come closer. He repaired Yahveh’s altar that had been torn down. </span></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height: 115%'>He took 12 stones corresponding to the 12 tribes of Jacob, whose name Yahveh had changed to<i> </i>‘Israel.’ </span></span>
@@ -77,7 +83,7 @@ next: chapter-19
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%'>“Yahveh, God of Abraham, Isaac, and Israel, show today that you’re God in Israel, that I’m your servant, that you’ve told me to do this. </span></i><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <i><span style='font-size:12.0pt; line-height:115%'>Answer me so the people can know you’re God and that you’ve brought them back to you.”</span></i><span style='font-size:12.0pt;line-height: 115%'> <b>                         </b></span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><b><span style='font-size:12.0pt;line-height:115%'>                                                                                                    </span></b><b><span style='font-size:10.0pt;line-height:115%'>1 Kg 18:30-37</span></b></p>
+<p class="section-ref">1 Kg 18:30-37</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height: 115%'>Fire came down from Yahveh and consumed the burnt offering, the wood, the stones, the dust, and the water in the trench. </span></span>
 <span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size:12.0pt;line-height:115%'>The people they fell on their faces, <i>“Yahveh is God! Yahveh is God!” </i></span></span>
@@ -92,7 +98,9 @@ next: chapter-19
 <span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size:12.0pt;line-height:115%'>He told his servant to go look toward the sea<i>.</i> He went and looked, <i>“There’s nothing.”</i> He said, <i>“Go back,”</i> seven times. </span></span>
 <span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <span style='font-size:12.0pt;line-height: 115%'>The seventh time, <i>the servant</i> said, <i>“A cloud the size of a man’s hand is coming up from the horizon.”</i> He said, <i>“Go tell Ahab to get his chariot ready and go down so the rain doesn’t stop him.”</i> </span></span>
 <span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <span style='font-size:12.0pt;line-height:115%'>In a little while, the sky grew dark with clouds and wind, and a downpour came. Ahab rode to Jezreel. </span></span>
-<span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size:12.0pt;line-height:115%'>Yahveh was with Elijah, and he girded up and outran Ahab to Jezreel.</span><b><span style='font-size:10.0pt; line-height:115%'>        1 Kg 18:38-46</span></b></span></p>
+<span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size:12.0pt;line-height:115%'>Yahveh was with Elijah, and he girded up and outran Ahab to Jezreel.</span></span></p>
+
+<p class="section-ref">1 Kg 18:38-46</p>
 
 
 <style>

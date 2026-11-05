@@ -2,6 +2,8 @@
 title: "Part I: OVERVIEW OF CHRISTIAN APOLOGETICS"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2014-02-27
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Apologetics Book'
@@ -5668,7 +5670,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=395 height=219 id="Picture 6"
+style='font-size:12.0pt'><img alt="Diagram: objective principles (Bible: historical basis, doctrinal) and subjective principles (World: sense of need; Church: sense of fulfillment)" width=395 height=219 id="Picture 6"
 src="/images/essays/part-i-overview-of-christian-apologetics/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -6063,7 +6065,7 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                                                   <img
+margin-left:.25in;margin-bottom:.0001pt'><span style='font-size:12.0pt'>                                                   <img alt="Arrow entering a circle labeled “circle of faith”"
 width=150 height=108 id="Picture 5" src="/images/essays/part-i-overview-of-christian-apologetics/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -6181,7 +6183,7 @@ style='font-size:12.0pt'>      </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                              <img
+style='font-size:12.0pt'>                                              <img alt="Diagram: drive level above experience level, on a scale from none to all"
 width=206 height=116 id="Picture 4" src="/images/essays/part-i-overview-of-christian-apologetics/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -6245,7 +6247,7 @@ style='font-size:12.0pt'>                            
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                 <img width=355 height=211
+style='font-size:12.0pt'>                 <img alt="Pyramid of needs from basic physiological needs up to self-actualization, flanked by desire to be loved, drive for meaningfulness, need for innocence and sense of absolute dependence" width=355 height=211
 id="Picture 3" src="/images/essays/part-i-overview-of-christian-apologetics/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -7906,7 +7908,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                <img width=355 height=97 id="Picture 2"
+style='font-size:12.0pt'>                <img alt="Two boxes, (1) and (3), joined by a coil (2)" width=355 height=97 id="Picture 2"
 src="/images/essays/part-i-overview-of-christian-apologetics/image005.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -9173,7 +9175,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>       <img width=407 height=169 id="Picture 1"
+style='font-size:12.0pt'>       <img alt="Diagram of the historical, doctrinal and subjective principles: event, need and results" width=407 height=169 id="Picture 1"
 src="/images/essays/part-i-overview-of-christian-apologetics/image006.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

@@ -13,8 +13,9 @@ next: chapter-04
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Eat this scroll and go speak to Israel.”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I opened my mouth, and he fed it to me. </span></span>
-<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It tasted sweet like honey.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ezek 2:8-3:3</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span></b><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>        </span></b></span></p>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It tasted sweet like honey.<b></b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></b><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Ezek 2:8-3:3</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>[</span></b><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>]<i>
 </i></span></span>
@@ -45,9 +46,7 @@ next: chapter-04
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But if you’ve warned them and they quit sinning, they’ll live because they listened, and you’ll deliver yourself.”
 </span></i></span></p>
 
-
-### Ezek 3:16-21
-
+<p class="section-ref">Ezek 3:16-21</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh put hand on me there ad said, <i>“Get up and go out to the plain, and I’ll talk to you.” </i></span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The glory of Yahveh was there, glory like I’d seen by the Chebar River; I fell on my face. </span></span>

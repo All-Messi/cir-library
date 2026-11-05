@@ -20,10 +20,12 @@ next: chapter-14
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%'>Yahveh’s anger flared; he kept delivering them to Hazael, king of Aram, and Benhadad his son. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%'>Jehoahaz asked for Yahveh’s help and he listened to him, because he saw the oppression by the king of Aram. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%'>Yahveh gave Israel a deliverer, and they escaped from under the Arameans and lived like before. </span></span>
-<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%'>But they didn’t turn away from the sins of Jeroboam<b><sup>I</sup></b> that got Israel to sin; the Asherah pole remained standing in Samaria. </span><a name="_Hlk137208544"></span>
-<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> </a><span style='font-size:12.0pt;line-height:115%'>The Arameans reduced Jehoahaz’s army to not more than 50 cavalry, 10 chariots, and 10,000 infantry, and made them like dust at threshing time. </span></span>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%'>But they didn’t turn away from the sins of Jeroboam<b><sup>I</sup></b> that got Israel to sin; the Asherah pole remained standing in Samaria. </span></span>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%'>The Arameans reduced Jehoahaz’s army to not more than 50 cavalry, 10 chariots, and 10,000 infantry, and made them like dust at threshing time. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height: 115%'>The rest of the acts of Jehoahaz and the strength of his rule are recorded in <i>The Chronicles of the Kings of Israel</i>. </span></span>
-<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%'>He died and they buried him in Samaria. His son Joash became king.</span><b><span style='font-size:10.0pt; line-height:115%'>          2 Kg 13:1-9</span></b></span></p>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%'>He died and they buried him in Samaria. His son Joash became king.</span></span></p>
+
+<p class="section-ref">2 Kg 13:1-9</p>
 
 
 ### Jehoash Rules in Israel
@@ -32,9 +34,11 @@ next: chapter-14
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height: 115%'>In the <b>thirty-seventh year of Joash</b>, king of Judah, <u>Joash/<i>Jehoash</i></u> Ben-Jehoahaz became king of Israel in Samaria <i>and ruled</i> for 16 years. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%'>He didn’t turn away from the sins of Jeroboam that got Israel to sin. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height: 115%'>The rest of the acts of Joash and his strength in fighting Amaziah, king of Judah, are recorded in <i>The Chronicles of the Kings of Israel</i>. </span></span>
-<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%'>Joash died, and they buried him in Samaria with the kings of Israel.</span><b><span style='font-size:10.0pt; line-height:115%'> </span></b><span style='font-size:12.0pt;line-height:115%'>Jeroboam</span><b><sup><span style='font-size:14.0pt;line-height:115%'>II</span></sup></b><span style='font-size:12.0pt;line-height:115%'> sat on his throne.                                                                                                                  </span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 13:10-13</span></b></span></p>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%'>Joash died, and they buried him in Samaria with the kings of Israel.</span><b><span style='font-size:10.0pt; line-height:115%'> </span></b><span style='font-size:12.0pt;line-height:115%'>Jeroboam</span><b><sup><span style='font-size:14.0pt;line-height:115%'>II</span></sup></b><span style='font-size:12.0pt;line-height:115%'> sat on his throne.                                                                                                                  </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><a name="_Hlk126341303"><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> </a><span style='font-size:12.0pt;line-height:115%'>When Elisha took sick with the illness he’d die from, Joash, king of Israel, came down and cried over him, <i>“Father! Father! the chariots of Israel and their drivers!”</i> </span></span></p>
+<p class="section-ref">2 Kg 13:10-13</p>
+
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%'>When Elisha took sick with the illness he’d die from, Joash, king of Israel, came down and cried over him, <i>“Father! Father! the chariots of Israel and their drivers!”</i> </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%'>Elisha said, <i>“Pick up a bow and arrows, </i></span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%'>and put your hand on the bow.”</span></i><span style='font-size:12.0pt;line-height:115%'> </span></span></p>
@@ -55,7 +59,9 @@ next: chapter-14
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%'>Hazael, king of Aram, had oppressed Israel all the time of Jehoahaz. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height: 115%'>But Yahveh was gracious, had mercy, and turned to them because of his covenant with Abraham, Isaac, and Jacob. He still hadn’t destroyed them or thrown them out of his presence. </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height: 115%'>When Hazael died, Benhadad his son became king. </span></span>
-<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%'>Jehoash took back the towns Hazael had taken in war from his father. Three times he defeated him and recovered Israel’s towns.<b>                                                                                                                              </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 13:14-25</span></b></span></p>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%'>Jehoash took back the towns Hazael had taken in war from his father. Three times he defeated him and recovered Israel’s towns.<b>                                                                                                                              </b></span></span></p>
+
+<p class="section-ref">2 Kg 13:14-25</p>
 
 
 <style>

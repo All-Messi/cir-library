@@ -11,7 +11,7 @@ next: chapter-13
 
 ## Matthew Chapter 12
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In that [the] time [the] Jesus went through the grain-fields on-the Sabbath[s]. and the disciples of-him were-hungry and they-began to-pluck grain-heads and to-eat (the). </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In that [the] time [the] Jesus went through the grain-fields on-the Sabbath[s]. and the disciples of-him were-hungry and they-began to-pluck grain-heads and to-eat (the). </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the Pharisees, having seen, said to-him, <i>“Behold, the disciples of-you are-doing what is┘not└lawful to-do on (the) Sabbath.” </i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the/he said to-them, </span></span></p>
@@ -39,9 +39,7 @@ next: chapter-13
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    the Beloved of-me in whom the soul of-me was-well-pleased,</span></i></b></p>
 
-
-### I-will-put the Spirit of-me on him,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        I-will-put the Spirit of-me on him,</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and he-will-announce judgment to-the Gentiles/nations.</span></i></b></p>
 

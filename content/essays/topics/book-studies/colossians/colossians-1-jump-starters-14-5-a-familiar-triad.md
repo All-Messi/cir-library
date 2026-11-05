@@ -1,7 +1,9 @@
 ---
 title: "COLOSSIANS 1 Jump-Starters 1:4-5 a familiar triad"
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2007-02-28
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Book Studies'

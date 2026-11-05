@@ -10,7 +10,7 @@ next: chapter-02
 
 ## 1 Timothy Chapter 1
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Paul, apostle of-Christ Jesus according-to (the) commandment of-God, (the) Savior of-us, and Christ Jesus, the hope of-us, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Paul, apostle of-Christ Jesus according-to (the) commandment of-God, (the) Savior of-us, and Christ Jesus, the hope of-us, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to-Timothy, loyal son in (the) faith.  Grace, mercy, (and) peace from God (the) Father and Christ Jesus the Lord of-us.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Even-a </span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As I-urged you to-remain in Ephesus, going into Macedonia, in-order-that you-may-instruct certain-ones not to-teach-strange-doctrine, </span></span>

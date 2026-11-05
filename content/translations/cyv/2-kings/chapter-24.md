@@ -17,7 +17,9 @@ next: chapter-25
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height: 115%'>and the innocent blood he’d filled Jerusalem with. Yahveh wouldn’t forgive. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%'>The rest of the acts of Jehoiakim are recorded in <i>The Chronicles of the Kings of Judah.</i> </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%'>He died and his son Jehoiachin became king. </span></span>
-<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%'>The king of Egypt didn’t come out of his country again, because the king of Babylon took everything he had from the River of Egypt to the Euphrates River.</span><b><span style='font-size:10.0pt; line-height:115%'>     2 Kg 24:1-7</span></b></span></p>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%'>The king of Egypt didn’t come out of his country again, because the king of Babylon took everything he had from the River of Egypt to the Euphrates River.</span></span></p>
+
+<p class="section-ref">2 Kg 24:1-7</p>
 
 
 ### Jehoiachin Rules in Judah
@@ -42,7 +44,9 @@ next: chapter-25
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <b><span style='font-size:12.0pt; line-height:115%'>Zedekiah</span></b><span style='font-size:12.0pt;line-height: 115%'> was 21 and ruled for 11 years in Jerusalem. His mother was Hamutal Bat-Jeremiah of Libnah. </span></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height: 115%'>He did evil like Jehoiakim. </span></span>
-<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height: 115%'>Because of Yahveh’s anger, this happened in Jerusalem and Judah till he threw them out from his presence. Zedekiah revolted against the king of Babylon.                                                                                                                           </span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 24:8-20</span></b></span></p>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height: 115%'>Because of Yahveh’s anger, this happened in Jerusalem and Judah till he threw them out from his presence. Zedekiah revolted against the king of Babylon.                                                                                                                           </span></span></p>
+
+<p class="section-ref">2 Kg 24:8-20</p>
 
 
 <style>

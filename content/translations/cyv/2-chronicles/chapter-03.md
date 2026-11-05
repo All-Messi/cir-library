@@ -33,12 +33,14 @@ next: chapter-04
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>cherubs on the walls; </span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>made the <u>Holy of Holies</u>—30ft square, equaling the width of the Temple—and overlaid it with <a name="_Hlk145087193">22 2/3 tons <sup>600 talents</sup> of fine gold—</a></span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>made the <u>Holy of Holies</u>—30ft square, equaling the width of the Temple—and overlaid it with 22 2/3 tons <sup>600 talents</sup> of fine gold—</span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the spikes weighed 20 oz <sup>50 shekels </sup>of gold</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>; </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      overlaid the
 <u>upper rooms</u> with gold.                                                                 
-</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 3:1-9</span></b></p>
+</span></p>
+
+<p class="section-ref">2 Ch 3:1-9</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He made 2 <u>sculpted cherubs</u> in the Holy of Holies and overlaid them with gold. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The combined wingspan of the cherubs was 30ft. The wing of one (</span><span style='font-family:"Times New Roman",serif'>7<b>½</b>ft</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>) touched the wall of the Temple. The other wing (</span><span style='font-family: "Times New Roman",serif'>7<b>½</b>ft</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>) touched the wing of the second cherub. </span></span>
@@ -57,8 +59,7 @@ next: chapter-04
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He set up the pillars on the right and left that he named <i>Jachin</i> and <i>Boaz</i> respectively.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></sup></b><b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>2 Ch 3:10-17</span></b></p>
+<p class="section-ref">2 Ch 3:10-17</p>
 
 
 <style>

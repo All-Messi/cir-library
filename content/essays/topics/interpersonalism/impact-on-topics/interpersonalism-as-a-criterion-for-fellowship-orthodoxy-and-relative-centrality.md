@@ -2,6 +2,8 @@
 title: "INTERPERSONALISM AS A CRITERION FOR FELLOWSHIP, ORTHODOXY, AND RELATIVE CENTRALITY"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-01-20
+lastmod: 2025-07-11
 categories:
 - 'Topics'
 - 'Interpersonalism'

@@ -15,7 +15,7 @@ next: chapter-03
 ### A Call for Repentance
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122959205"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Get together, </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Get together, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      go ahead, assemble, shameless nation,</span></p>
 
@@ -41,7 +41,7 @@ next: chapter-03
 ### Judgment Against Philistia
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122959252"><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> </a><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gaza</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> will be abandoned;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gaza</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> will be abandoned;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <u>Ashkelon</u>, desolate.</span></p>
 
@@ -79,7 +79,7 @@ next: chapter-03
 ### Judgment Against Moab and Ammon
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122959302"><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ve heard <u>Moab</u> taunting my people and <u>Ammon</u> insulting them;</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ve heard <u>Moab</u> taunting my people and <u>Ammon</u> insulting them;</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      they’ve become arrogant about </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>my people’s<i> territory.</i></span></p>
 
@@ -108,7 +108,7 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll slay the <u>Nubians </u>with my sword,” </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD says</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk122959386"><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll reach out to the north to destroy <u>Assyria</u></span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll reach out to the north to destroy <u>Assyria</u></span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and make <u>Nineveh</u> a ruins, arid like a desert.</span></i></p>
 

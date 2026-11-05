@@ -1,7 +1,7 @@
 ---
 title: "Let’s Remember That"
 date: '2025-09-21'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

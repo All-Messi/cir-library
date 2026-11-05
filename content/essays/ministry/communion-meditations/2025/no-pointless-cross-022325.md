@@ -1,7 +1,7 @@
 ---
 title: "No Pointless Cross"
 date: '2025-02-23'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

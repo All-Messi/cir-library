@@ -2,6 +2,7 @@
 title: "2 TIMOTHY 3:16"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-12
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -43,7 +44,7 @@ style='font-size:12.0pt'> </span></i></b></p>
 style='font-size:12.0pt'>&nbsp;</span></i></p>
 
 <p class=MsoNormal style='margin-right:-.25in;text-align:justify'><b><span
-style='font-size:12.0pt'>                     <img width=298 height=50
+style='font-size:12.0pt'>                     <img alt="All / every scripture (,) [is] Godbreathed (,) [is] and profitable also" width=298 height=50
 id="Picture 1" src="/images/essays/2-timothy-316/image001.png"></span></b></p>
 
 <p class=MsoNormal style='margin-right:-.25in;text-align:justify'><span

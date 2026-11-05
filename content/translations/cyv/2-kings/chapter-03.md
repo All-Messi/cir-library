@@ -29,7 +29,9 @@ next: chapter-04
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height: 115%'>He said, <i>“Which way will we go up?”</i> </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt; line-height:115%'>“From the Wilderness of Edom.”</span></i><span style='font-size:12.0pt;line-height:115%'> <b>                                                                           </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 3:1-8</span></b></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt; line-height:115%'>“From the Wilderness of Edom.”</span></i><span style='font-size:12.0pt;line-height:115%'> <b>                                                                           </b></span></p>
+
+<p class="section-ref">2 Kg 3:1-8</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height: 115%'>The king of Israel went with the king of Judah and the king of Edom. They made a circuit of a week’s journey, and there wasn’t any water for the army or the livestock that they had with them. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt; line-height:115%'>The king of Israel said, <i>“What are we going to do? Yahveh has called these three kings to deliver them to Moab!”</i> </span></span>
@@ -43,7 +45,9 @@ next: chapter-04
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height: 115%'>Elisha told the king of Israel, <i>“Why come to me? Go to your parents’ prophets.” </i></span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt; line-height:115%'>“No, Yahveh called these three kings together to deliver them to Moab!”</span></i><span style='font-size:12.0pt;line-height:115%'>           </span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 3:9-13</span></b><span style='font-size:12.0pt;line-height:115%'> </span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt; line-height:115%'>“No, Yahveh called these three kings together to deliver them to Moab!”</span></i><span style='font-size:12.0pt;line-height:115%'></span><b><span style='font-size:10.0pt;line-height:115%'></span></b><span style='font-size:12.0pt;line-height:115%'></span></p>
+
+<p class="section-ref">2 Kg 3:9-13</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height: 115%'>Elisha said, </span></span></p>
 
@@ -56,7 +60,9 @@ next: chapter-04
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%'>This is just a little thing for Yahveh to deliver the Moabites to you. </span></i></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%'>Then strike every fortified city, every select city, cut down every fruit tree, stop up every spring, and trash every cultivated piece of land with rocks.’”</span></i></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%'>The next day about the time of morning sacrifice, water flowed down from Edom, and the country was full of water.<b>   </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 3:14-20</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%'>The next day about the time of morning sacrifice, water flowed down from Edom, and the country was full of water.<b>   </b></span></span></p>
+
+<p class="section-ref">2 Kg 3:14-20</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height: 115%'>The Moabites heard that the kings had come up to fight them. They called in everybody that could put on armor and stationed themselves along the border.
 </span></span>
@@ -68,7 +74,9 @@ next: chapter-04
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%'>They destroyed their towns, and each one threw a rock on every piece of cultivated land and trashed it. They stopped up the springs and cut down the fruit trees till in Kir-hareseth only they left its rocks alone. But the <i>stone </i>slingers surrounded it and attacked it. </span></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%'>When the king of Moab saw that the battle was too fierce for him, he took 700 swordsmen to break through near the king of Edom, but they couldn’t. </span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height: 115%'>Then he took his oldest son, who was to reign, and offered him as a burnt offering on the wall. Great horror came over Israel, and they went home.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 3:21-27</span></b></span></p>
+</b></span></span></p>
+
+<p class="section-ref">2 Kg 3:21-27</p>
 
 
 <style>

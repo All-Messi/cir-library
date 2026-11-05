@@ -11,7 +11,7 @@ next: chapter-23
 
 ## Deuteronomy Chapter 22
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                           </span></sup></b><a name="_Hlk126589749"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t watch your fellow citizen’s ox or sheep stray off and not take it to its owner.
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t watch your fellow citizen’s ox or sheep stray off and not take it to its owner.
 </span></i></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>If the owner doesn’t live close by or you don’t know who the owner is, take it home till the owner comes looking for it and then return it. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Do the same thing with someone’s donkey, piece of clothing, or anything a person lost. You can’t confiscate it. </span></i></span>
@@ -37,7 +37,7 @@ next: chapter-23
 ### Regulations for Sexual Purity
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126590141"><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If a man takes a wife and goes into her and then turns against her, </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If a man takes a wife and goes into her and then turns against her, </span></i></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>accuses her of shameful acts, publicly defames her, and says, ‘I took this woman, but when I came near her, I found out she wasn’t a virgin,’ </span></i></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>then her parents will bring the evidence for her virginity to the elders at the city gate. </span></i></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Her father will tell them, ‘I gave her to him as a wife, but he turned against her </span></i></span>
@@ -49,7 +49,7 @@ next: chapter-23
 
 <p class="section-ref">Deut 22:12-21</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126590516"><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If a man is caught lying with a married woman, both will die. That’s how you’re to purge evil from Israel.</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If a man is caught lying with a married woman, both will die. That’s how you’re to purge evil from Israel.</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If a virgin is engaged and </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>another<i> man lies with her, </i></span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>take them both to the city gate and stone them to death—the girl, because she didn’t scream in the city, and the man because he violated another man’s fiancée. That’s how you’re to purge evil from Israel. </span></i></span>
@@ -57,7 +57,7 @@ next: chapter-23
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Don’t do anything to her; there’s no sin in her that deserves death. This case is like a man that murders someone. </span></i></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he found her in the field, she screamed, but there wasn’t anybody there to rescue her. </span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk126590581"><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If a man finds a virgin that’s not engaged and has sex with her and they’re discovered, </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If a man finds a virgin that’s not engaged and has sex with her and they’re discovered, </span></i></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the man will give her father 20 oz <sup>50 shekels </sup>of silver. She’ll become his wife because he violated her. He can’t divorce her. </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“A man can’t marry his father’s </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>former<i> wife and thereby uncover his father’s cloak.</i><b>      </b></span></span></p>

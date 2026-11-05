@@ -20,7 +20,9 @@ next: chapter-05
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Any spirit that doesn’t, isn’t from God; it’s the antichristian <i>spirit</i> that you’ve heard is coming and is already here. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You belong to God. You’ve triumphed over the world, because the One that’s in you is greater than the one that’s in it. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>False leaders belong to the world, so they speak of it, and it listens to them. </span></span>
-<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We belong to God; people that know him listen to us. People that don’t belong to him, don’t listen to us. That’s how you can tell if <i>a prophet has the </i>true spirit or a deceiving one.    </span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>1 Jn 4:1-6</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                       </span></span></p>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We belong to God; people that know him listen to us. People that don’t belong to him, don’t listen to us. That’s how you can tell if <i>a prophet has the </i>true spirit or a deceiving one.</span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">1 Jn 4:1-6</p>
 
 
 ### God is Love

@@ -11,7 +11,7 @@ next: chapter-09
 
 ## 2 Corinthians Chapter 8
 
-<p class="MsoNormal" style='margin-bottom:0in;'><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></sup><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now I-make-known to-you, brothers, the gracious-gift of-[the] God [the] given in the churches of-[the] Macedonia,<b><sup> 2</sup></b> that in (a) great abundance of-affliction the abundance of-the joy of-them and the according-to death poverty of-them abounded to the wealth of-the liberality of-them, </span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now I-make-known to-you, brothers, the gracious-gift of-[the] God [the] given in the churches of-[the] Macedonia,<b><sup> 2</sup></b> that in (a) great abundance of-affliction the abundance of-the joy of-them and the according-to death poverty of-them abounded to the wealth of-the liberality of-them, </span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> I-testify that according-to ability/power, even beyond (their) ability/power (they gave) of-their-own-accord </span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> with much urging begging<b>┘</b>us└for the favor and the fellowship of-the ministry [the] to the saints, </span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> and (this) not as we-hoped/expected, but they-gave themselves first to-the Lord and to-us by (the) will of-God </span>
@@ -30,9 +30,7 @@ next: chapter-09
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b>“The-one (gathering) much did┘not└have more,</b></span></p>
 
-
-### And the-one (gathering) the little did┘not└lack.”
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    And the-one (gathering) the little did┘not└lack.”</span></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> But thanks (be) to-[the] God, the-one having-given the same earnestness for you in the heart of-Titus, </span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> because he-accepted the appeal, and, being very-earnest, went-out to-you of-his-own-accord. </span>

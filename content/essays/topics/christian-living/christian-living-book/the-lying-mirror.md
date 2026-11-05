@@ -2,10 +2,12 @@
 title: "THE LYING MIRROR"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Living'
 - 'Christian Living Book'
+weight: 35
 draft: false
 ---
 

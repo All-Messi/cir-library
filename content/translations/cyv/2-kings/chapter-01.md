@@ -11,10 +11,6 @@ next: chapter-02
 ## 2 Kings Chapter 1
 
 
-### Conversational Yahveh Covenant
-
-
-
 ### Yahveh’s Judgment on Ahaziah
 
 
@@ -36,7 +32,9 @@ next: chapter-02
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt; line-height:115%'>“He was wearing a leather belt and clothes made out of hair.”
 </span></i></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt; line-height:115%'>“That was Elijah the Tishbite.” </span></i><b><span style='font-size:12.0pt;line-height:115%'>                                                                              </span></b><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 1:1-8</span></b></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><i><span style='font-size:12.0pt; line-height:115%'>“That was Elijah the Tishbite.” </span></i><b><span style='font-size:12.0pt;line-height:115%'>                                                                              </span></b></span></p>
+
+<p class="section-ref">2 Kg 1:1-8</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height: 115%'>The king sent him a captain with his 50 men <i>to arrest him</i>. He went up to <i>Elijah</i>, who was sitting on a hill, <i>“Man of God, the king says to come down!”</i> </span></span></p>
 
@@ -57,7 +55,9 @@ next: chapter-02
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%'>“Yahveh says, ‘Is there no God in Israel? Since you’ve asked Baal-zebub, you won’t get out of bed.’”</span></i><span style='font-size:12.0pt;line-height:115%'> </span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height: 115%'>He died, and <u>Jehoram</u> became king in the <b>second year of Jehoram</b> Ben-Jehoshaphat, king of Judah, because <i>Ahaziah</i> didn’t have a son. </span></span>
-<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%'>The rest of his acts are recorded in <i>The Chronicles of the Kings of Israel</i>.<b>                    </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 1:9-18</span></b></span></p>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%'>The rest of his acts are recorded in <i>The Chronicles of the Kings of Israel</i>.<b>                    </b></span></span></p>
+
+<p class="section-ref">2 Kg 1:9-18</p>
 
 
 <style>

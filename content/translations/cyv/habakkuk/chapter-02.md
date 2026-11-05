@@ -50,6 +50,8 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      They gather the whole world to themselves </span></i></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in; line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            and use everybody.</span></i></span></p>
+
 <p class="section-ref">Hab 2:4-5</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in; line-height:normal'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“Won’t people taunt them and say in mockery,</span></i></span></p>

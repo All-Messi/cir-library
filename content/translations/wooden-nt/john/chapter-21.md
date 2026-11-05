@@ -10,7 +10,7 @@ prev: chapter-20
 
 ## John Chapter 21
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ofter these-things [the] Jesus again showed himself to-the disciples at the Sea of-[the] Tiberias. And he-appeared thus. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ofter these-things [the] Jesus again showed himself to-the disciples at the Sea of-[the] Tiberias. And he-appeared thus. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Together were Simon Peter and Thomas, the-one called Didymus, and Nathanael [the] from Cana of-[the] Galilee, and the (sons) of-[the] Zebedee, and two others of the disciples. </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Simon Peter says to-them, <i>“I-am-going to-fish.”</i> </span></span></p>
@@ -71,12 +71,6 @@ prev: chapter-20
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is the disciple the-one testifying about these-things and the-one having-written these-things, and we-know that the testimony of-him is true. </span></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now many other-things also are that [the] Jesus did that, if they-were-written every one, I-suppose not-even the world itself would-hold the written books.</span></span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil Warren, PhD</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Translator</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                                                                        </span><span style='font-family:"Times New Roman",serif'>                christir.org</span></p>
 
 
 <style>

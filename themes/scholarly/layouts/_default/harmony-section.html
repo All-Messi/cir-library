@@ -26,14 +26,14 @@
         <div class="toolbar-search-wrapper">
             <div class="toolbar-search">
                 <svg class="toolbar-search-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-                <input type="text" id="harmony-search-input" class="toolbar-search-input" placeholder="Search harmony text..." autocomplete="off">
+                <input type="text" id="harmony-search-input" class="toolbar-search-input" placeholder="Search harmony text..." autocomplete="off" aria-label="Search the Gospel Harmony">
             </div>
             <div id="harmony-search-dropdown" class="bible-search-dropdown"></div>
         </div>
 
         <div class="toolbar-right">
             {{ partial "pdf-link.html" . }}
-            <button class="toolbar-btn font-btn" onclick="toggleReaderSettings()" data-tip="Text size">
+            <button type="button" class="toolbar-btn font-btn" onclick="toggleReaderSettings()" data-tip="Text size" aria-label="Reader settings: text size and font">
                 <span class="font-icon">A</span><span class="font-icon font-icon-lg">A</span>
             </button>
         </div>
@@ -108,15 +108,23 @@ function toggleSectionOverlay() {
 /* ---- Harmony Text Search ---- */
 var harmonySearchData = null;
 
-fetch('{{ "index.json" | absURL }}')
-    .then(function(r) { return r.json(); })
-    .then(function(data) {
-        // Filter to harmony sections only
-        harmonySearchData = data.filter(function(item) {
-            return item.permalink && item.permalink.indexOf('/harmony/') !== -1;
-        });
-    })
-    .catch(function() {});
+var harmonySearchLoading = false;
+// index.json is ~6 MB: fetch it on first focus/typing in the harmony search box, not on
+// page load (2026-11-04, same pattern as the header search in baseof).
+function loadHarmonySearchIndex() {
+    if (harmonySearchData || harmonySearchLoading) return;
+    harmonySearchLoading = true;
+    fetch('{{ "index.json" | absURL }}')
+        .then(function(r) { return r.json(); })
+        .then(function(data) {
+            harmonySearchData = data.filter(function(item) {
+                return item.permalink && item.permalink.indexOf('/harmony/') !== -1;
+            });
+            var inp = document.getElementById('harmony-search-input');
+            if (inp && inp.value.trim().length >= 2) inp.dispatchEvent(new Event('input'));
+        })
+        .catch(function() { harmonySearchLoading = false; });
+}
 
 (function() {
     var input = document.getElementById('harmony-search-input');
@@ -124,7 +132,9 @@ fetch('{{ "index.json" | absURL }}')
     if (!input) return;
 
     var debounce = null;
+    input.addEventListener('focus', loadHarmonySearchIndex);
     input.addEventListener('input', function() {
+        loadHarmonySearchIndex();
         clearTimeout(debounce);
         debounce = setTimeout(doHarmonySearch, 150);
     });

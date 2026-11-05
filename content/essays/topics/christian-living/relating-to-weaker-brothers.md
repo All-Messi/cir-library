@@ -218,7 +218,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>           <img width=307 height=173
+style='font-size:12.0pt'>           <img alt="Problem #1: depends on how you look at it / does not depend on how you look at it; problem #2: non-Christian, weaker brother, strong opinionated brother" width=307 height=173
 src="/images/essays/relating-to-weaker-brothers/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

@@ -15,7 +15,7 @@ next: chapter-30
 ### Jacob Marries Leah and Rachel
 
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jacob continued on his trip to the country in the east. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jacob continued on his trip to the country in the east. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Up ahead he saw a well in a pasture where they watered the flocks. Three flocks of sheep were lying by it, and it had a big stone over it. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When all the flocks got there, they’d roll the stone off the well, water the sheep, and put it back. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jacob asked them, “</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Brothers, where are you from?”</span></i></span></p>
@@ -65,8 +65,8 @@ next: chapter-30
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Complete the bridal week for this one, and we’ll give you the other one too for another seven years’ work.”</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jacob completed her week, and Laban gave him Rachel as a wife. </span></span>
-<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He also gave his servant Bilhah to Rachel as her maid. </span><a name="_Hlk124590268"></span>
-<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jacob</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> slept with Rachel too. He loved her more than Leah and worked for Laban for seven more years.      </span></span></p>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He also gave his servant Bilhah to Rachel as her maid. </span></span>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jacob</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> slept with Rachel too. He loved her more than Leah and worked for Laban for seven more years.      </span></span></p>
 
 <p class="section-ref">Gen 29:21-30</p>
 

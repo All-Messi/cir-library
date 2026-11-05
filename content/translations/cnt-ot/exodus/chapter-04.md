@@ -17,7 +17,7 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses answered, <i>“What if they don’t believe me, ‘The L</i></span><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> hasn’t really appeared to you!’?”</span></i></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><a name="_Hlk126838357"><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“What’s in your hand?”</span></i></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“What’s in your hand?”</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            “A staff.”</span></i></p>
 
@@ -35,7 +35,7 @@ next: chapter-05
 
 <p class="section-ref">Ex 4:1-9</p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><a name="_Hlk126838737"><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses said, <i>“Lord, I’ve never been good with words before, or lately since you’ve spoken to me. I stammer and stutter.”</i> </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses said, <i>“Lord, I’ve never been good with words before, or lately since you’ve spoken to me. I stammer and stutter.”</i> </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Who made people’s tongues? Who makes people mute or deaf, seeing or blind? Isn’t it me, the L</span></i><i><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>? </span></i></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Go on; I’ll be with your mouth and tell you what to say.”</span></i></span></p>
@@ -54,7 +54,7 @@ next: chapter-05
 ### Moses Returns to Egypt
 
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><a name="_Hlk126838832"><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses went back to Jethro/<i>Reuel</i> and said, <i>“Let me go so I can go to my relatives in Egypt and see if they’re still alive.” </i></span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses went back to Jethro/<i>Reuel</i> and said, <i>“Let me go so I can go to my relatives in Egypt and see if they’re still alive.” </i></span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Have a safe trip.”</span></i></p>
 
@@ -69,7 +69,7 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At a place where they stayed on the way, the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> met him and threatened to put him to death. </span></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zipporah took a flint and cut off her son’s foreskin and threw it at Moses’ feet. She said, <i>‘You’re a bloody groom </i></span></span>
-<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <a name="_Hlk125712221"><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>(</span></a><span style='font-family:"Times New Roman",serif'>because of the circumcision</span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>)<i>!”</i> </span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So <i>God</i> let him alone.                 </span></span></p>
+<span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>(</span><span style='font-family:"Times New Roman",serif'>because of the circumcision</span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>)<i>!”</i> </span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So <i>God</i> let him alone.                 </span></span></p>
 
 <p class="section-ref">Ex 4:18-26</p>
 

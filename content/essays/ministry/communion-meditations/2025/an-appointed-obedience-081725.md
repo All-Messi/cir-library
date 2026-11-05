@@ -1,7 +1,7 @@
 ---
 title: "An Appointed Obedience"
 date: '2025-08-17'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

@@ -11,7 +11,7 @@ next: chapter-04
 
 ## 1 Corinthians Chapter 3
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And-I, brothers, was┘not└able to-speak to-you as spiritual but as physical, as infants in Christ. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And-I, brothers, was┘not└able to-speak to-you as spiritual but as physical, as infants in Christ. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I-gave┘you milk└to-drink, not solid-food. For you-are still physical, for where jealousy and strife (are) among you, are not you fleshly and walk according-to man? </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For when anybody (of you) says, “<u>I</u> am of-Paul,” and another (says), “<u>I</u> (am) of-Apollos,” are-you not men? </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What then is Apollos? And what is Paul? Ministers by whom you-came-to-believe, and to-each as the Lord gave. </span></span>

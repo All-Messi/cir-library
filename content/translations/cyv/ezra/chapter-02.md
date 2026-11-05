@@ -123,7 +123,7 @@ next: chapter-03
 <span class="verse verse-v67" id="v67"><sup class="verse-num">67</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>435 camels, and 6,720 donkeys.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v68" id="v68"><sup class="verse-num">68</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When some heads of families arrived at Yahveh’s Temple in Jerusalem, they offered willingly for restoring God’s Temple on its foundation. </span></span>
-<span class="verse verse-v69" id="v69"><sup class="verse-num">69</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>According to their ability they gave to the treasury <a name="_Hlk145599113">1100 lbs <sup>61,000 drachmas</sup> of gold, 6250 lbs <sup>5,000 minas</sup> of silver, </a>and 100 priestly vestments. </span></span></p>
+<span class="verse verse-v69" id="v69"><sup class="verse-num">69</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>According to their ability they gave to the treasury 1100 lbs <sup>61,000 drachmas</sup> of gold, 6250 lbs <sup>5,000 minas</sup> of silver, and 100 priestly vestments. </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v70" id="v70"><sup class="verse-num">70</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The priests and Levites, some of the people, singers, gatekeepers, Temple servants, and all Israel lived in their town<b>        </b></span></span></p>
 

@@ -2,10 +2,12 @@
 title: "Appendix: Concept Inventory"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-03-03
+lastmod: 2025-07-11
 categories:
 - 'Interpretation'
 - 'Getting The Point Book'
-weight: 100
+weight: 24
 draft: false
 ---
 

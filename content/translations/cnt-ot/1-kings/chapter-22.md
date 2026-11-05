@@ -14,7 +14,7 @@ prev: chapter-21
 ### Ahab and the False Prophets
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126318066"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Three years passed without war between Aram and Israel. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Three years passed without war between Aram and Israel. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the <b>third year</b>, <b>Jehoshaphat</b>, king of Judah, came down to visit the king of Israel. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king of Israel said to his officials, <i>“Do you know that Ramoth-gilead belongs to us, and we’re still not doing anything to take it back from the king of Aram?”</i> </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He asked Jehoshaphat, <i>“Will you go with me to battle at Ramoth-gilead?” </i></span></span></p>
@@ -31,7 +31,9 @@ prev: chapter-21
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king said, <i>“There’s still one, Micaiah son of Imlah, but I despise him; he never prophesies anything good about me.” </i></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t say that.”</span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>
-</span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 22:1-9</span></b></span></p>
+</span></b></span></span></p>
+
+<p class="section-ref">1 Kg 22:1-9</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The two kings were sitting on their thrones, arrayed in their robes at the threshing floor by the gate of Samaria. The prophets were prophesying there. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zedekiah son of Chenaanah made iron horns for himself and said, <i>“The </i><i>L</i></span><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says you’ll gore the Arameans with these till they’re consumed.” </span></i></span>
@@ -41,7 +43,7 @@ prev: chapter-21
 ### Micaiah Prophesies Against Ahab
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126318347"><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The messenger to Micaiah told him<i>, “The prophets agree in giving a favorable report to the king. Make your report like theirs.” </i></span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The messenger to Micaiah told him<i>, “The prophets agree in giving a favorable report to the king. Make your report like theirs.” </i></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Micaiah swore,
 <i>“As sure as the </i><i>L</i></span><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> lives, I’ll say what he tells me.”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
@@ -61,7 +63,9 @@ prev: chapter-21
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            The </span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> said, ‘They don’t have a master </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>anymore<i>;</i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  they need to go home in peace.’”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 22:10-17</span></b></p>
+</span></b></span></p>
+
+<p class="section-ref">1 Kg 22:10-17</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king told Jehoshaphat, <i>“Didn’t I tell you he wouldn’t prophesy anything good about me?” </i></span></span></p>
 
@@ -76,8 +80,10 @@ prev: chapter-21
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘Go do it.’”</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126318757"><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Micaiah said, <i>“The </i><i>L</i></span><i><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> has put a deceiving spirit in your prophets. He’s declared disaster for you.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 22:18-23</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Micaiah said, <i>“The </i><i>L</i></span><i><span style='font-size:9.0pt;line-height: 115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> has put a deceiving spirit in your prophets. He’s declared disaster for you.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
+</span></b></span></span></p>
+
+<p class="section-ref">1 Kg 22:18-23</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zedekiah came up and hit him on the cheek, <i>“How did the </i><i>L</i></span><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s Spirit pass from me to speak to you?”</span></i></span></p>
 
@@ -96,12 +102,14 @@ prev: chapter-21
 </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and
 <i>Jehoshaphat</i> went up against Ramoth-gilead.</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126318991"><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ahab
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ahab
 </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>told Jehoshaphat, <i>“I’ll disguise myself and go into the battle, but you wear your
 </i>royal <i>robes.” </i>So the king of Israel disguised himself and went into battle. </span></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king of Aram had told the 32 captains of his chariots, <i>“Don’t fight anybody great or small except the king of Israel.”</i> </span></span>
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the captains saw Jehoshaphat <i>in his royal robes</i>, they said, <i>“That has to be the king of Israel,”</i> and they turned aside to attack him, and he cried out. </span></span>
-<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they saw it wasn’t the king of Israel, they turned back.                   <b> </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 22:24-33</span></b></span></p>
+<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they saw it wasn’t the king of Israel, they turned back.                   <b> </b></span></span></p>
+
+<p class="section-ref">1 Kg 22:24-33</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>An <i>Aramean </i>archer drew his bow at random and hit the king of Israel in a joint in the armor. He told the chariot driver, <i>“Turn around and get me out of the fight. I’m seriously wounded.”</i> </span></span>
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The battle raged that day; the king was propped up in his chariot in sight of the Arameans and died that evening. The blood from the wound ran down onto the bottom of the chariot. </span></span>
@@ -110,7 +118,9 @@ prev: chapter-21
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king died; they took him to Samaria and buried him. </span></span>
 <span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They washed the chariot by the pool of Samaria. The dogs licked up his blood (</span><span style='font-family:"Times New Roman",serif'>where the prostitutes took baths</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>) like the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> had said. </span></span>
 <span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of the acts of Ahab, the ivory palace he built, the towns he built are recorded in <i>The Chronicles of the Kings of Israel</i>. </span></span>
-<span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His son <u>Ahaziah</u> became king. <b>                      </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 22:34-40</span></b></span></p>
+<span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His son <u>Ahaziah</u> became king. <b>                      </b></span></span></p>
+
+<p class="section-ref">1 Kg 22:34-40</p>
 
 
 ### Jehoshaphat Rules in Judah
@@ -127,7 +137,9 @@ prev: chapter-21
 <span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There wasn’t any king in Edom; a deputy served as king. </span></span>
 <span class="verse verse-v48" id="v48"><sup class="verse-num">48</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jehoshaphat built ships from Tarshish to go to Ophir for gold, but they didn’t make it; they wrecked at Ezion-geber. </span></span>
 <span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Ahab’s son Ahaziah said to Jehoshaphat, <i>“Let my men go with yours in the ships.” </i>But Jehoshaphat wouldn’t let them. </span></span>
-<span class="verse verse-v50" id="v50"><sup class="verse-num">50</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died and they buried him in The City of David. His son <b>Jehoram</b> became king.<b>                                                              </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 22:41-50</span></b></span></p>
+<span class="verse verse-v50" id="v50"><sup class="verse-num">50</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died and they buried him in The City of David. His son <b>Jehoram</b> became king.<b>                                                              </b></span></span></p>
+
+<p class="section-ref">1 Kg 22:41-50</p>
 
 
 ### Ahaziah Rules in Israel
@@ -135,9 +147,9 @@ prev: chapter-21
 
 <p class="MsoListBulletCxSpLast" style='margin-bottom:0in; '><span class="verse verse-v51" id="v51"><sup class="verse-num">51</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ahaziah became king of Israel in Samaria in the <b>seventeenth year of Jehoshaphat</b>, king of Judah, and ruled for <b>2 years</b>. </span></span>
 <span class="verse verse-v52" id="v52"><sup class="verse-num">52</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He did evil like his parents and Jeroboam<b><sup>I</sup></b> that got Israel to sin. </span></span>
-<span class="verse verse-v53" id="v53"><sup class="verse-num">53</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>He served and worshiped Baal, and made the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> God of Israel angry like his father had done.  <b>                                                                                                                                        </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 22:51-53</span></b></span></p>
+<span class="verse verse-v53" id="v53"><sup class="verse-num">53</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>He served and worshiped Baal, and made the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> God of Israel angry like his father had done.  <b>                                                                                                                                        </b></span></span></p>
 
-<p class="MsoNormal" ><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
+<p class="section-ref">1 Kg 22:51-53</p>
 
 
 <style>

@@ -81,13 +81,6 @@ prev: chapter-23
 <span class="verse verse-v52" id="v52"><sup class="verse-num">52</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And they, having-worshipped him, returned into Jerusalem with great joy; </span></span>
 <span class="verse verse-v53" id="v53"><sup class="verse-num">53</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and they-were </span><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>through all/continually<sup>2</sup></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> in the temple blessing [the] God.</span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil Warren, PhD</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>translator</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

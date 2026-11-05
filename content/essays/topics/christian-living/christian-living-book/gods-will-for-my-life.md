@@ -2,10 +2,12 @@
 title: "GODS WILL FOR MY LIFE"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Living'
 - 'Christian Living Book'
+weight: 18
 draft: false
 ---
 
@@ -262,7 +264,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=353 height=130 id="Picture 2"
+style='font-size:12.0pt'><img alt="General will with x&#x27;s; specific will" width=353 height=130 id="Picture 2"
 src="/images/essays/gods-will-for-my-life/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -302,13 +304,13 @@ margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                             up.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:175.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-139.5pt'><span
+margin-left:min(175.5pt, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(175.5pt, 35vw))'><span
 style='font-size:12.0pt'>                                      He set up life
 in such a way that evil tends to self-destruct and righteousness tends to
 prosper.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:2.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-2.0in'><span
+margin-left:min(2.5in, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(2.5in, 35vw))'><span
 style='font-size:12.0pt'>                                      He determines
 the length of time for people’s availing themselves of opportunity</span></p>
 
@@ -659,12 +661,12 @@ margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                              (a)   Encourages waiting</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:148.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-112.5pt'><span
+margin-left:min(148.5pt, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(148.5pt, 35vw))'><span
 style='font-size:12.0pt'>                               (b)  Encourages reading
 events as signs to be followed rather than as data to be evaluated</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:148.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-112.5pt'><span
+margin-left:min(148.5pt, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(148.5pt, 35vw))'><span
 style='font-size:12.0pt'>                              (c)   Encourages
 self-justification, hence we may not be sufficiently receptive to advice from
 other Christians</span></p>
@@ -693,18 +695,18 @@ style='font-size:12.0pt'>                           �
 tempting God</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:148.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-112.5pt'><span
+margin-left:min(148.5pt, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(148.5pt, 35vw))'><span
 style='font-size:12.0pt'>                              (e)   Requires secondary
 explanations when things do not work out as planned, guilt often being connected
 to the lack of success.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:148.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-112.5pt'><span
+margin-left:min(148.5pt, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(148.5pt, 35vw))'><span
 style='font-size:12.0pt'>                              (f)    The specific “will
 of God” is not always kept within the general will of God as it should be.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:148.5pt;margin-bottom:.0001pt;text-align:justify;text-indent:-112.5pt'><span
+margin-left:min(148.5pt, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(48px, 35vw) - min(148.5pt, 35vw))'><span
 style='font-size:12.0pt'>                              (g)   Ideas that come to
 mind for no apparent reason are assumed to be revelation.</span></p>
 
@@ -762,7 +764,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.5in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=349 height=183 id="Picture 1"
+style='font-size:12.0pt'><img alt="Holy Spirit → Bible → me, with circumstance and other Christians" width=349 height=183 id="Picture 1"
 src="/images/essays/gods-will-for-my-life/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

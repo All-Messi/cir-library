@@ -11,7 +11,7 @@ next: chapter-20
 
 ## Acts Chapter 19
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And it-happened in [the] Apollos’ being in [the] Corinth (that) Paul, having-gone through the inland/higher parts, came-down to Ephesus and found some disciples,
+<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And it-happened in [the] Apollos’ being in [the] Corinth (that) Paul, having-gone through the inland/higher parts, came-down to Ephesus and found some disciples,
 </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and said to them [whether]. <i>“Did you-receive (the) Holy Spirit having-believed</i>?<i>”</i>
 </span></span></p>

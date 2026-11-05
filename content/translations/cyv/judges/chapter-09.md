@@ -20,7 +20,9 @@ next: chapter-10
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His mother’s relatives circulated that around for him, and the people were inclined to follow him<i> because </i>he was their<i> </i>kin<i>. </i></span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They gave him 70 pieces of silver from Baal-berith’s temple. He used them to hire worthless, reckless fellows </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to go with him to his father’s family at Ophrah and kill his 70 brothers on one stone. But Jotham, Jerubbaal’s youngest son, hid. </span></span>
-<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people in Shechem and Beth-millo gathered and made Abimelech king by the Oak of the Pillar at Shechem.           </span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>Jud 9:1-6</span></b></span></p>
+<span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people in Shechem and Beth-millo gathered and made Abimelech king by the Oak of the Pillar at Shechem.           </span></span></p>
+
+<p class="section-ref">Jud 9:1-6</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Jotham heard about it, he went and stood on top of Mount Gerizim and shouted, </span></span></p>
 
@@ -40,7 +42,9 @@ next: chapter-10
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you’ve acted honorably in good faith with Jerubbaal and his family as his deeds deserved, then be happy with one another. </span></i></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If not, let fire come out from Abimelech and consume the people in Shechem and Beth-millo.” </span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jotham fled to Beer and lived there for fear of his half-brother.                                      </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 9:7-21</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jotham fled to Beer and lived there for fear of his half-brother.                                      </span></span></p>
+
+<p class="section-ref">Jud 9:7-21</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Abimelech ruled Israel for 3 years. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God put animosity between him and the people in Shechem, and they dealt treacherously with him. </span></span>
@@ -53,9 +57,7 @@ next: chapter-10
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Who is Abimelech? Why should we serve him? Didn’t the son of Jerubbaal and Zebul his officer serve the men of Hamor the father of Shechem? Why then should we serve <u>him</u>? </span></i><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If these people were under my command! I’d remove Abimelech. I’d tell him to muster an army and come out and fight.”   </span></i></span></p>
 
-
-### Jud 9:22-29
-
+<p class="section-ref">Jud 9:22-29</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Zebul the ruler of the city heard what Gaal said, he was mad, </span></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and sent ambassadors to Abimelech at Arumah, </span></span></p>
@@ -74,7 +76,9 @@ next: chapter-10
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Zebul said, <i>“Where’s your bragging now, you that said, ‘Who is Abimelech that we should serve him?’ Aren’t these the men you despised? Go fight them.” </i></span></span>
 <span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gaal led the men out to fight him. </span></span>
 <span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Abimelech chased him and he fled. Many fell wounded all the way back to the entrance of the gate. </span></span>
-<span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Abimelech lived at Arumah, and Zebul drove out Gaal and his relatives so they couldn’t keep living in Shechem.               </span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>Jud 9:30-41</span></b></span></p>
+<span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Abimelech lived at Arumah, and Zebul drove out Gaal and his relatives so they couldn’t keep living in Shechem.               </span></span></p>
+
+<p class="section-ref">Jud 9:30-41</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The next day the men went out to the fields. Abimelech heard about it. </span></span>
 <span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He divided his men into three companies and laid in wait there. When the men come out of the city, he attacked them and killed them. </span></span>
@@ -84,7 +88,9 @@ next: chapter-10
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When people in the tower at Shechem heard about it, they went into the fortress of El-berith’s temple. </span></span>
 <span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Abimelech found out they were in the tower, </span></span>
 <span class="verse verse-v48" id="v48"><sup class="verse-num">48</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>he and his men went up to Mount Zalmon. He cut a bundle of brush with an axe and put it on his shoulder. He told his men to hurry and do the same thing<i>.</i> </span></span>
-<span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Each one cut a bundle and followed him. He piled the bundles against the fortress and set it on fire over the ones inside. Everybody in the tower died, about 1,000 men and women.                                                                         </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 9:42-49</span></b></span></p>
+<span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Each one cut a bundle and followed him. He piled the bundles against the fortress and set it on fire over the ones inside. Everybody in the tower died, about 1,000 men and women.                                                                         </span></span></p>
+
+<p class="section-ref">Jud 9:42-49</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v50" id="v50"><sup class="verse-num">50</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Abimelech went to Thebez, camped against it, and took it. </span></span>
 <span class="verse verse-v51" id="v51"><sup class="verse-num">51</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the city had a strong tower. The men and women fled to it, shut themselves in, and went up to the roof. </span></span>
@@ -93,7 +99,9 @@ next: chapter-10
 <span class="verse verse-v54" id="v54"><sup class="verse-num">54</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Right away he called to his young armor bearer, <i>“Draw your sword and kill me so people won’t say a woman killed me.” </i>His young man thrust him through, and he died. </span></span>
 <span class="verse verse-v55" id="v55"><sup class="verse-num">55</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Israel saw Abimelech was dead, they went home. </span></span>
 <span class="verse verse-v56" id="v56"><sup class="verse-num">56</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So God repaid him for his crime against his father in killing his 70 brothers. </span></span>
-<span class="verse verse-v57" id="v57"><sup class="verse-num">57</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God also made the sinfulness of the men in Shechem come back on their heads and made Jotham’s curse fall on them.            </span><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 9:50-57</span></b></span></p>
+<span class="verse verse-v57" id="v57"><sup class="verse-num">57</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God also made the sinfulness of the men in Shechem come back on their heads and made Jotham’s curse fall on them.            </span></span></p>
+
+<p class="section-ref">Jud 9:50-57</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Tola Judges Israel</span></b><b><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>
 </span></b></p>

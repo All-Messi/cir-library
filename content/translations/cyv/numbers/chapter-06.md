@@ -15,7 +15,7 @@ next: chapter-07
 ### The Nazirite Vow
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>        6<sup>:1-2</sup></span></b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Yahveh told Moses to say to Israel, </span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1-2</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Yahveh told Moses to say to Israel, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>         </span></b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“When men or women take a Nazarite vow to dedicate themselves to Yahveh, </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>they must abstain from wine and strong drink and from vinegar made from them. They can’t drink grape juice or eat fresh grapes or raisins. </span></i></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They’re not to eat anything a grapevine produces from seeds to skin. </span></i></span></p>
@@ -77,7 +77,9 @@ next: chapter-07
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>and give you peace.”</span></i></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:4.5pt;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“In that way they’ll invoke my name on the people, and I’ll bless them.”       </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Num 6:22-27</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>        </span></i></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:4.5pt;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“In that way they’ll invoke my name on the people, and I’ll bless them.”</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Num 6:22-27</p>
 
 
 <style>

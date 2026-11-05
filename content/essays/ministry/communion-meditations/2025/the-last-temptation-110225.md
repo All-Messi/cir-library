@@ -1,7 +1,7 @@
 ---
 title: "The Last Temptation"
 date: '2025-11-02'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

@@ -30,7 +30,7 @@ next: chapter-16
 ### Asa Rules in Judah
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126249240"><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the <b>twentieth year of</b> <u>Jeroboam</u>, king of Israel, <b>Asa</b> began to rule in Judah </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the <b>twentieth year of</b> <u>Jeroboam</u>, king of Israel, <b>Asa</b> began to rule in Judah </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and ruled for <b>41 years</b> <b>in Jerusalem</b>. His mother was Maacah daughter of Abishalom. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Asa did what was right like David did. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He
@@ -45,9 +45,11 @@ next: chapter-16
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>cut it down and burned it at the Brook Kidron. </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He didn’t take away the high places, but his heart was true to the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> his whole life. </span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He brought to the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s Temple his and his father’s dedicated gifts—silver, gold, and various articles.<b>
-                                    </b></span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>1 Kg 15:1-15</span></b></span></p>
+                                    </b></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk126249583"></a><a name="_Hlk126249392"><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>War went on between <b>Asa</b> and <u>Baasha</u>, king of Israel, their whole lives. </span></span>
+<p class="section-ref">1 Kg 15:1-15</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>War went on between <b>Asa</b> and <u>Baasha</u>, king of Israel, their whole lives. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Baasha went up against Judah and fortified Ramah to prevent anybody from going out or coming to Asa. </span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Asa took the silver and gold that was left in the treasuries of the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s Temple and delivered it to his officials. He sent them to Benhadad son of Tabrimmon son of Hezion, king of Aram, who lived in Damascus, saying,   </span></span></p>
 
@@ -58,7 +60,9 @@ next: chapter-16
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Asa made a proclamation to Judah—no one was exempt—to carry away the stones of Ramah and its timber and fortify Geba in Benjamin and the town of Mizpah.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of the acts of Asa, the strength of his rule, the towns he built are recorded in <i>The Chronicles of the Kings of Judah</i>. In his old age, he had a disease in his feet. </span></span>
-<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>He died and they buried him with his ancestors in The City of David. His son Jehoshaphat reigned.          </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> 1 Kg 15:16-24</span></b></span></p>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>He died and they buried him with his ancestors in The City of David. His son Jehoshaphat reigned.          </span></span></p>
+
+<p class="section-ref">1 Kg 15:16-24</p>
 
 
 ### Nadab Rules in Israel
@@ -79,7 +83,9 @@ next: chapter-16
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the <b>third year of Asa</b>, Baasha became king of Israel at Tirzah and ruled for <b>24 years</b>. </span></span>
 <span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He did evil like Jeroboam did and got Israel to do.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 15:25-34</span></b></span></p>
+</b></span></span></p>
+
+<p class="section-ref">1 Kg 15:25-34</p>
 
 
 <style>

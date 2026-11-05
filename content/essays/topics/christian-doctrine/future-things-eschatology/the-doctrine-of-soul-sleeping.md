@@ -2,6 +2,7 @@
 title: "THE DOCTRINE OF 'SOUL-SLEEPING'"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-10
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -666,11 +667,6 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                  In these cases, people could have
 come back from an unconscious state, but that is not as likely in light of what
 they did during their appearances.</span></p>
-
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                                                                                                                   
-</span><span style='font-size:11.0pt'>christir.org</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

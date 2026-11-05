@@ -11,10 +11,6 @@ next: chapter-02
 ## 1 Kings Chapter 1
 
 
-### Conversational Yahveh Covenant
-
-
-
 ### David in His Old Age
 
 
@@ -32,7 +28,9 @@ next: chapter-02
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’d conferred with Joab Ben-Jeruiah and Abiathar the priest. They supported him. He was a handsome man, born after Absalom. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Zadok the priest, Benaiah Ben-Jehoiada, Nathan the prophet, Shimei, Rei, and The Three most elite soldiers, belonged to David, didn’t join him. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Adonijah sacrificed sheep, oxen, and young grain-fed animals by the Rock of Zoheleth next to En-rogel. He invited his half-brothers, the king’s sons; and the men of Judah, the king’s aides. </span></span>
-<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But he didn’t invite Nathan, Benaiah, The Three most elite soldiers, or his half-brother Solomon. <b>                             </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 1:1-10</span></b></span></p>
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But he didn’t invite Nathan, Benaiah, The Three most elite soldiers, or his half-brother Solomon. <b>                             </b></span></span></p>
+
+<p class="section-ref">1 Kg 1:1-10</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Nathan told Bathsheba, Solomon’s mother, </span></span></p>
 
@@ -50,7 +48,9 @@ next: chapter-02
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He has sacrificed lots of oxen, grain-fed animals, and sheep, and invited your sons Abiathar and Joab, but not Solomon. </span></i></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>My lord the king, Israel is looking to you to tell them who will sit on your throne. </span></i></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Otherwise, as soon as you die, my son and I will be considered adversaries.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 1:11-21</span></b></span></p>
+</span></b></span></span></p>
+
+<p class="section-ref">1 Kg 1:11-21</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While she was talking, Nathan came. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They told the king, <i>“Nathan’s here.”</i> When he came in, he bowed low </span></span>
@@ -70,7 +70,9 @@ next: chapter-02
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“As sure as Yahveh lives who has redeemed me from distress, </span></i><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>as sure as I swore to you by Yahveh God of Israel that your son Solomon would be king after me, I’ll declare it </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>publicly <i>today.”</i> </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She bowed to the floor and said, <i>“Long live my lord King David!”
-</i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 1:22-31</span></b></span></p>
+</i></span></span></p>
+
+<p class="section-ref">1 Kg 1:22-31</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David said, <i>“Call Zadok, Nathan, and Benaiah.”</i> When they came in, </span></span>
 <span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>he told them, </span></span></p>
@@ -84,7 +86,9 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zadok, Nathan, Benaiah, and the king’s bodyguard went down and had Solomon ride David’s mule to Gihon. </span></span>
 <span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zadok took the horn of oil from the tent and anointed Solomon. They blew the ram’s horn and the people said, <i>“Long live King Solomon!”</i> </span></span>
-<span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people followed him up, playing flutes and celebrating. The ground shook at the sound of them.<b>                         </b></span><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 1:32-40</span></b></span></p>
+<span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people followed him up, playing flutes and celebrating. The ground shook at the sound of them.<b>                         </b></span></span></p>
+
+<p class="section-ref">1 Kg 1:32-40</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Adonijah and his guests heard it as they finished eating. When Joab heard the ram’s horn, he said, <i>“Why is the city in such an uproar?”</i> </span></span>
 <span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While he was speaking, Jonathan Ben-Abiathar came. Adonijah said, <i>“Come in, brave man with good news.” </i></span></span>
@@ -94,14 +98,18 @@ next: chapter-02
 <span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zadok and Nathan anointed him king at Gihon and have come up celebrating. That’s why the city’s in an uproar. </span></i></span>
 <span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Solomon has even taken his seat on the throne. </span></i></span>
 <span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king’s aides came to bless our lord King David and say, ‘May your God make Solomon’s name better than your name and his throne greater than yours!’ </span></i></span>
-<span class="verse verse-v48" id="v48"><sup class="verse-num">48</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king also said, ‘Bless Yahveh God of Israel, who has granted a man to sit on my throne today while I can see it.’” </span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>        </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 1:41-48</span></b></span></p>
+<span class="verse verse-v48" id="v48"><sup class="verse-num">48</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king also said, ‘Bless Yahveh God of Israel, who has granted a man to sit on my throne today while I can see it.’” </span></i><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>        </span></b></span></span></p>
+
+<p class="section-ref">1 Kg 1:41-48</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Adonijah’s guests panicked and fled. </span></span>
 <span class="verse verse-v50" id="v50"><sup class="verse-num">50</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Adonijah was scared of Solomon. He went and held onto the horns of the altar. </span></span>
 <span class="verse verse-v51" id="v51"><sup class="verse-num">51</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Solomon heard<i>, “Adonijah is scared. He’s holding onto the horns of the altar and calling for you to swear to him that you won’t put him to death.” </i></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v52" id="v52"><sup class="verse-num">52</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Solomon said, <i>“If he’ll be a worthy man, not a hair of his will fall to the ground. But if he does anything sinful, he’ll die.”</i> </span></span>
-<span class="verse verse-v53" id="v53"><sup class="verse-num">53</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King Solomon had them bring him down from the altar. He came and prostrated himself to Solomon. He told him to go on home<i>.</i><b>              </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Kg 1:49-53</span></b></span></p>
+<span class="verse verse-v53" id="v53"><sup class="verse-num">53</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King Solomon had them bring him down from the altar. He came and prostrated himself to Solomon. He told him to go on home<i>.</i><b>              </b></span></span></p>
+
+<p class="section-ref">1 Kg 1:49-53</p>
 
 
 <style>

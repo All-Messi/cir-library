@@ -15,15 +15,13 @@ next: chapter-04
 ### The Beginning of John’s Ministry
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In time, John the Baptist came<sup>p</sup> preaching in the desert in Judaea,</span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In time, John the Baptist came<sup>p</sup> preaching in the desert in Judaea,</span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Repent, the kingdom of heaven’s coming.” </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’s the one Isaiah spoke about:</span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                        <b><i>“One shouting in the desert,</i></b></span></p>
 
-
-### ‘Get the road ready for the LORD!
-
+<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    ‘Get the road ready for the L</span></i></b><b><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>!</span></i></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                    Make it straight!’”</span></i></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></b><b><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Is 40:3]</span></b></p>
 

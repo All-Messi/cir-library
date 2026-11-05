@@ -15,7 +15,7 @@ next: chapter-07
 ### Woe to the Complacent
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>     <a name="_Hlk122900672">6<sup>:1</sup></a></span></b><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Misfortune awaits those of you at ease in Zion,</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Misfortune awaits those of you at ease in Zion,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  who feel secure in Samaria,</span></i></p>
 
@@ -35,11 +35,11 @@ next: chapter-07
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Are you trying to push away the time of catastrophe?</span></i></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            You’re only bringing the violence nearer.                 </span></i></span></p>
 
-### You’re only bringing the violence nearer.                 Amos 6:1-3
+<p class="section-ref">Amos 6:1-3</p>
 
-
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122900701"><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Misfortune awaits you that stretch out on ivory beds,</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Misfortune awaits you that stretch out on ivory beds,</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  that lounge on your couches,</span></i></p>
 
@@ -63,7 +63,7 @@ next: chapter-07
 
 <p class="section-ref">Amos 6:4-7</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122900752"><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Lord G</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>OD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> has sworn by himself,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Lord G</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>OD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> has sworn by himself,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God of Hosts has declared:</span></p>
 
@@ -78,7 +78,7 @@ next: chapter-07
 <p class="section-ref">Amos 6:8</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; line-height:normal'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;font-family:"Times New Roman",serif'>It will be that, if ten die in one house </span></span>
-<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>and the relative that comes to dispose of their bodies says, <i>“Is anyone else here?” </i><a name="_Hlk146893093">any<i> survivor</i> may start to swear, </a><i>“No, . . .”
+<span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>and the relative that comes to dispose of their bodies says, <i>“Is anyone else here?” </i>any<i> survivor</i> may start to swear, <i>“No, . . .”
 </i>But <i>the relative</i> will interrupt, <i>“Don’t finish your oath. Don’t even mention the L</i></span><i><span style='font-size:9.0pt;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>.”</span></i></span></span></p>
 
 <p class="section-ref">Amos 6:9-10</p>
@@ -106,6 +106,8 @@ next: chapter-07
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’m going to raise up a nation against you, Israel;</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <i>“they’ll oppress you from Lebo-hamath to the Arabah Valley.” </i></span></p>
+
+<p class="section-ref">Amos 6:11-14</p>
 
 
 <style>

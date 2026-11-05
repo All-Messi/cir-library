@@ -10,10 +10,6 @@ next: chapter-02
 
 ## Exodus Chapter 1
 
-
-### Conversational Yahveh Covenant
-
-
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel’s descendants and their households that went to Egypt with Jacob: </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Reuben, Simeon, Levi, Judah, </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Issachar, Zebulun, Benjamin, </span></span>
@@ -29,7 +25,7 @@ next: chapter-02
 ### The Israelites Oppressed
 
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><a name="_Hlk125539525"><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In time, a new king came to power in Egypt who didn’t know Joseph. </span></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In time, a new king came to power in Egypt who didn’t know Joseph. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told his people, <i>“There are too many Israelites, and they’re too strong. </i></span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let’s deal with them wisely so, if there’s war, they won’t join our enemies and leave.” </span></i></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They appointed taskmasters and subjected the <i>Israelites</i> to hard labor. They built storage cities for Pharaoh: Pithom and Raamses. </span></span>

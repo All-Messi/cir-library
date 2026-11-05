@@ -2,10 +2,12 @@
 title: "FOLLOWING GODS GUIDANCE"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Living'
 - 'Christian Living Book'
+weight: 20
 draft: false
 ---
 
@@ -288,7 +290,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>           <img width=349 height=83 id="Picture 1"
+style='font-size:12.0pt'>           <img alt="Circles A, E, B and A, each with lines to the other letters" width=349 height=83 id="Picture 1"
 src="/images/essays/following-gods-guidance/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

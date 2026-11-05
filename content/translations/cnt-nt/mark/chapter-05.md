@@ -15,7 +15,7 @@ next: chapter-06
 ### Healing the Gadarene Demoniacs
 
 
-<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>5<sup>:</sup></span></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They came to the other side of the lake, to the area of the Gerasenes. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They came to the other side of the lake, to the area of the Gerasenes. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>As soon as he got out of the boat, a man with an unclean spirit met him from the tombs. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He’d been living in the</span><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>
 </span><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>tombs, and nobody could</span><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>

@@ -15,7 +15,7 @@ next: chapter-17
 ### Parable About an Unjust Steward
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He also told his disciples, </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He also told his disciples, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“A rich man had a property manager that was reportedly wasting the </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>rich
 <i>man’s holdings.</i></span><b><i><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></sup></i></b><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He called him in, ‘What’s this I hear about you? Give me your record books for your work; you can’t continue being manager.’ </span></i></span>

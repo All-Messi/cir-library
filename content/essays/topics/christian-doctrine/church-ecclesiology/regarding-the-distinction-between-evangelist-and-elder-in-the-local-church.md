@@ -2,6 +2,7 @@
 title: "REGARDING THE DISTINCTION BETWEEN EVANGELIST AND ELDER IN THE LOCAL CHURCH"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Doctrine'

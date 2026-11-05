@@ -9,6 +9,9 @@
     Usage:
       {{ partial "pdf-link.html" . }}
       {{ partial "pdf-link.html" (dict "page" . "style" "toolbar") }}
+
+    Which PDF belongs to a page (and whether it exists) lives in pdf-path.html
+    (2026-11-04), shared with the citation_pdf_url tag in seo-head.html.
 */}}
 
 {{ $page := . }}
@@ -19,62 +22,29 @@
     {{ $style = .style | default "default" }}
 {{ end }}
 
-{{ $pdfPath := "" }}
+{{ $type := $page.Params.type | default "" }}
 {{ $tooltip := "Download PDF" }}
-
-{{ $rel := $page.RelPermalink }}
-{{ $rel = $rel | replaceRE "^/" "" | replaceRE "/$" "" }}
-
-{{/* ---- HARMONY SECTION ---- */}}
-{{ if eq ($page.Params.type | default "") "harmony-section" }}
-    {{ $pdfPath = "pdfs/translations/harmony/the-harmonized-gospels.pdf" }}
+{{ if eq $type "harmony-section" }}
     {{ $tooltip = "Download Harmony PDF" }}
-
-{{/* ---- BIBLE CHAPTER ---- */}}
-{{ else if eq ($page.Params.type | default "") "chapter" }}
-    {{ $parentRel := $page.Parent.RelPermalink | replaceRE "^/" "" | replaceRE "/$" "" }}
-    {{ if $parentRel }}
-        {{ $pdfPath = printf "pdfs/%s.pdf" $parentRel }}
-    {{ end }}
+{{ else if eq $type "chapter" }}
     {{ $tooltip = printf "Download %s PDF" ($page.Params.book | default "Book") }}
-
-{{/* ---- BIBLE BOOK INDEX ---- */}}
-{{ else if eq ($page.Params.type | default "") "book" }}
-    {{ if $rel }}
-        {{ $pdfPath = printf "pdfs/%s.pdf" $rel }}
-    {{ end }}
+{{ else if eq $type "book" }}
     {{ $tooltip = printf "Download %s PDF" ($page.Params.book | default $page.Title) }}
-
-{{/* ---- ESSAY (default) ---- */}}
-{{ else }}
-    {{ if $rel }}
-        {{ $pdfPath = printf "pdfs/%s.pdf" $rel }}
-    {{ end }}
-    {{ $tooltip = "Download PDF" }}
 {{ end }}
 
-{{/* ---- EXISTENCE GUARD (2026-10-28) ----
-     Only render the button when the PDF is actually in static/. RelPermalink is
-     percent-encoded (Greek/accented slugs), so decode before touching the filesystem.
-     306 PDFs were missing on 2026-09-30 (see CIR-broken-links-2026-09-30.xlsx); this
-     turns those 404s into "no button" until the PDFs are generated. */}}
-{{ $pdfExists := false }}
-{{ if $pdfPath }}
-    {{ $decoded := (urls.Parse (printf "/%s" $pdfPath)).Path | strings.TrimPrefix "/" }}
-    {{ $pdfExists = fileExists (printf "static/%s" $decoded) }}
-{{ end }}
+{{ $pdfPath := partial "pdf-path.html" $page }}
 
 {{/* ---- RENDER ---- */}}
-{{ if $pdfExists }}
+{{ if $pdfPath }}
     {{ if eq $style "toolbar" }}
         {{/* Icon-only for chapter toolbar — borderless, subtle */}}
-        <a href="{{ $pdfPath | relURL }}" target="_blank" class="toolbar-btn pdf-btn-minimal" data-tip="PDF">
-            <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M4 1h5.5L13 4.5V13a2 2 0 01-2 2H5a2 2 0 01-2-2V3a2 2 0 012-2z" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/><path d="M9.5 1v4H13" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/><path d="M8 8v4M6 10l2 2 2-2" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <a href="{{ $pdfPath | relURL }}" target="_blank" class="toolbar-btn pdf-btn-minimal" data-tip="PDF" aria-label="{{ $tooltip }}">
+            <svg aria-hidden="true" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M4 1h5.5L13 4.5V13a2 2 0 01-2 2H5a2 2 0 01-2-2V3a2 2 0 012-2z" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/><path d="M9.5 1v4H13" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/><path d="M8 8v4M6 10l2 2 2-2" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
         </a>
     {{ else }}
         {{/* Small inline text link for essays, book index, harmony */}}
-        <a href="{{ $pdfPath | relURL }}" target="_blank" class="pdf-download" title="{{ $tooltip }}">
-            <svg width="14" height="14" viewBox="0 0 16 16" fill="none"><path d="M4 1h5.5L13 4.5V13a2 2 0 01-2 2H5a2 2 0 01-2-2V3a2 2 0 012-2z" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/><path d="M9.5 1v4H13" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/><path d="M8 8v4M6 10l2 2 2-2" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <a href="{{ $pdfPath | relURL }}" target="_blank" class="pdf-download" title="{{ $tooltip }}" aria-label="{{ $tooltip }}">
+            <svg aria-hidden="true" width="14" height="14" viewBox="0 0 16 16" fill="none"><path d="M4 1h5.5L13 4.5V13a2 2 0 01-2 2H5a2 2 0 01-2-2V3a2 2 0 012-2z" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/><path d="M9.5 1v4H13" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/><path d="M8 8v4M6 10l2 2 2-2" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/></svg>
             <span>PDF</span>
         </a>
     {{ end }}

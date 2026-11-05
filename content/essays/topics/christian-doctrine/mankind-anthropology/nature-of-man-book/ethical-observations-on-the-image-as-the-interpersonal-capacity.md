@@ -2,6 +2,7 @@
 title: "ETHICAL OBSERVATIONS ON THE IMAGE AS THE INTERPERSONAL CAPACITY"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-12
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -166,7 +167,7 @@ of life.</span></p>
 .5in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'><img width=407 height=234
+line-height:18.0pt'><span style='font-size:12.0pt'><img alt="Vertical (A-1), horizontal (A-2) and individual (A-3, inner and outer) dimensions; eschatological (B-1); existential" width=407 height=234
 id="Picture 1" src="/images/essays/ethical-observations-on-the-image-as-the-interpersonal-capacity/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:

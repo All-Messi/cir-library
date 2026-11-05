@@ -18,7 +18,7 @@ prev: chapter-12
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That was </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>because they didn’t provide the Israelites with bread and water, but hired Balaam to curse them. But our God turned the curse into a blessing. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they heard the Law, they excluded all foreigners from Israel. </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.45pt; margin-bottom:0in;margin-left:0in;'><a name="_Hlk124881112"><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Before this, Eliashib the priest—who was responsible for the rooms of God’s Temple and related to Tobiah—</span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.45pt; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Before this, Eliashib the priest—who was responsible for the rooms of God’s Temple and related to Tobiah—</span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>had provided him a large room where they used to put the grain offerings, frankincense, utensils; the tithes of grain, wine, and olive oil prescribed for the Levites, singers, and gatekeepers; and the contributions for the priests. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>During that time I wasn’t in Jerusalem. </span></span></p>
 
@@ -34,7 +34,7 @@ prev: chapter-12
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I appointed Shelemiah the priest, Zadok the scribe, Hanan son of Zaccur son of Mattaniah, and Pedaiah from the Levites to oversee the storehouses because I considered them reliable. They were responsible for distributing to their fellow Levites. </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Remember me for this, God. Don’t blot out my loyal efforts for your Temple and its services. </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.45pt; margin-bottom:0in;margin-left:0in;'><a name="_Hlk124881170"><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, I saw some people in Judah treading winepresses on the Sabbath. They were bringing into Jerusalem sacks of grain loaded on donkeys, as well as wine, grapes, figs—all kinds of merchandise on the Sabbath. I admonished them the day they sold the food. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.45pt; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, I saw some people in Judah treading winepresses on the Sabbath. They were bringing into Jerusalem sacks of grain loaded on donkeys, as well as wine, grapes, figs—all kinds of merchandise on the Sabbath. I admonished them the day they sold the food. </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Men from Tyre were living there too. They were importing fish and other merchandise, and selling them to Judah on the Sabbath, right in Jerusalem. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I reprimanded the nobles of Judah, </span></span></p>
 
@@ -42,7 +42,7 @@ prev: chapter-12
 
 <p class="section-ref">Neh 13:10-18</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.45pt; margin-bottom:0in;margin-left:0in;'><a name="_Hlk124881280"></a><a name="_Hlk145930639"><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I commanded that the gates be shut the day before Sabbath at dusk and not opened till after Sabbath. I stationed some of my guards at the gates so no merchandise would come in on the Sabbath. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.45pt; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I commanded that the gates be shut the day before Sabbath at dusk and not opened till after Sabbath. I stationed some of my guards at the gates so no merchandise would come in on the Sabbath. </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Once or twice the traders and merchants spent the night just outside Jerusalem. </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I warned them, <i>“Why are you spending the night by the wall? Do it again, and I’ll use force on you.” </i>From then on, they didn’t come on the Sabbath. </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I commanded the Levites to purify themselves and come as gatekeepers to sanctify the Sabbath. Remember me for this too, God. Have mercy on me in keeping with your great enduring love. </span></span></p>
@@ -61,8 +61,6 @@ prev: chapter-12
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I arranged for the supply of wood at appointed times and for the firstfruits of harvest <i>to be brought in </i>at the appointed times. Remember me, God, for the good I’ve done.</span></span></p>
 
 <p class="section-ref">Neh 13:19-31</p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
 
 
 <style>

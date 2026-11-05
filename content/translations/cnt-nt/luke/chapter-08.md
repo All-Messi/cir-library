@@ -38,9 +38,7 @@ next: chapter-09
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You can come to know the unrevealed things about God’s kingdom, but to the rest I’m delivering the message in stories so </span></i></p>
 
-
-### ‘though they see, they don’t perceive;
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>‘though they see, they don’t perceive; </b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            though they hear, they don’t understand’</span></i></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Is 6:9-10]</span></b><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>.</span></p>
 
@@ -105,8 +103,9 @@ next: chapter-09
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The whole crowd from the area of the Gerasenes asked him to go away, because fear had overwhelmed them. When he got in the boat to go, </span></span>
 <span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the fellow begged to go with him, but Jesus sent him back, </span></span>
-<span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go home and tell them what great things God has done for you.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> He went away and told in every city what great things Jesus had done for him.
-                                </span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>Lk 8:26-39</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
+<span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go home and tell them what great things God has done for you.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> He went away and told in every city what great things Jesus had done for him.</span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Lk 8:26-39</p>
 
 
 ### Raising Jairus’ Daughter;

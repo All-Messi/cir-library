@@ -11,12 +11,8 @@ next: chapter-06
 
 ## Ezekiel Chapter 5
 
-
-### Ezek 4:9-17
-
-
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Son of man, take a sharp sword and shave off your hair and beard. Divide up the hair on a scales. </span></i></span>
-<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Burn a third of it in the center of the city when the siege is over. Strike a third of it with a sword all around the city. Scatter another third of it in the wind, <a name="_Hlk147245912">because I’m going to chase my people with a drawn sword. </a></span></i></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Burn a third of it in the center of the city when the siege is over. Strike a third of it with a sword all around the city. Scatter another third of it in the wind, because I’m going to chase my people with a drawn sword. </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Attach a few to the hem of your robe. </span></i></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Throw a few in the fire. They’ll spread from the fire to the whole House of Israel.  </span></i></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ve set Jerusalem in the center of the nations. </span></i></span>
@@ -30,8 +26,9 @@ next: chapter-06
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Because of your detestable deeds, I’ll do to you what I’ve never done before or will ever do again. </span></i></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Fathers will eat their own sons and sons will eat their fathers. My condemnations will scatter your remnant in every direction. </span></i></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As I live, I’ll withdraw from you because you’ve defiled my sanctuary with your detestable idols and carved images. I won’t pity or spare. </span></i></span>
-<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A third of you will die by disease and starvation, a third will fall by the sword, a third I’ll scatter in every direction from the drawn sword.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ezek 5:7-12</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                    </span></b></span></p>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A third of you will die by disease and starvation, a third will fall by the sword, a third I’ll scatter in every direction from the drawn sword.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Ezek 5:7-12</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“That’s how I’ll vent my fury on you. You’ll know I’ve said it. </span></i></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll make a wasteland out of you among the nations, something everyone that passes by will consider a disgrace, </span></i></span>

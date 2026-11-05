@@ -1,7 +1,8 @@
 ---
-title: "ADDENDUM: 'MALE AND FEMALE' Old Testament Occurrences Man/ Septuagint Readings: Ralphs & Brentons Editions Combined MT"
-author: "Virgil Warren, christir.org"
+title: "Addendum: “Male and Female” in the Old Testament"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-14
 categories:
 - 'Topics'
 - 'Christian Doctrine'

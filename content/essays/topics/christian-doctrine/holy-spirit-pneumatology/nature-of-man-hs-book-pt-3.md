@@ -1,6 +1,6 @@
 ---
-title: "NATURE OF MAN (HS book) pt 3"
-author: "Virgil Warren, christir.org"
+title: "The Nature of Man"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:
 - 'Topics'

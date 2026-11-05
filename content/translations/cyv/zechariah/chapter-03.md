@@ -15,7 +15,7 @@ next: chapter-04
 ### The Cleansing of Joshua the High Priest
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he showed me Joshua/<i>Jeshua</i> the high priest standing in front of the angel of Yahveh, and Satan standing to his right to accuse him. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he showed me Joshua/<i>Jeshua</i> the high priest standing in front of the angel of Yahveh, and Satan standing to his right to accuse him. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Satan, <i>“Yahveh rebuke you, Satan! I who chose Jerusalem reject your accusations! Isn’t this </i>man<i> a brand snatched out of the fire?”</i> </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joshua’s clothes were dirty, </span></span>
@@ -31,6 +31,8 @@ next: chapter-04
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Listen, Joshua, you and your friends sitting in front of you are symbols, because I’m going to bring in my servant the Branch. </span></i></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Look at the stone I’ve put in front of Joshua, a single stone with seven facets. I’ll engrave an inscription on it and remove the sinfulness of the land in one day. </span></i></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, each one of you will invite your friend to sit under your vine and fig tree.’”   </span></i></span></p>
+
+<p class="section-ref">Zech 3:6-10</p>
 
 
 <style>

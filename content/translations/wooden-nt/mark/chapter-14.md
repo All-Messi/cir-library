@@ -11,7 +11,7 @@ next: chapter-15
 
 ## Mark Chapter 14
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the Passover and [the] (Feast of) Unleavened-(Bread) was after two days, and the chief-priests and the scribes were-trying how, having-arrested him by stealth, they-might-put┘(him)└to-death. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the Passover and [the] (Feast of) Unleavened-(Bread) was after two days, and the chief-priests and the scribes were-trying how, having-arrested him by stealth, they-might-put┘(him)└to-death. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For they-were-saying, <i>“Not during the feast lest-at-any-time (a) riot will-be among the people.”</i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he being in Bethany in the house of-Simon the leper, he-reclining, (a) woman came having (an) alabaster-vial of-expensive, pure nard, (and) she-began-to-pour-(it)-on the head of-him. </span></span>
@@ -52,9 +52,7 @@ next: chapter-15
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And [the] Jesus says to-them [that], <i>“You┘all└will-be-offended because it-is-written,</i></span></span></p>
 
-
-### ‘I-will-strike the shepherd,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                           <b><i>‘I-will-strike the shepherd,</i></b></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and the sheep will-be-scattered.’</span></i></b></p>
 

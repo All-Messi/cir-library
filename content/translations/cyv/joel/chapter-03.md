@@ -11,10 +11,6 @@ prev: chapter-02
 ## Joel Chapter 3
 
 
-### Joel 2:28-32
-
-
-
 ### Judgment Against Enemy Nations
 
 
@@ -28,9 +24,9 @@ prev: chapter-02
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So I’m going to raise them up from where you sold them and pay you back on your own head. </span></i></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll sell <u>your</u> sons and daughters to Judah to sell to the Sabeans far away.</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>       </span></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                        </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I, Yahveh, have spoken.”                             <b> </b></span></p>
 
-### I, Yahveh, have spoken.”                              Joel 3:1-8
-
+<p class="section-ref">Joel 3:1-8</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Declare this among the nations:</span></span></p>
 
@@ -123,8 +119,6 @@ prev: chapter-02
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and make my home with them in Zion.”</span></i></span></p>
 
 <p class="section-ref">Joel 3:18-21</p>
-
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
 
 
 <style>

@@ -11,10 +11,6 @@ prev: chapter-03
 ## Ruth Chapter 4
 
 
-### Ruth 3:9-18
-
-
-
 ### Boaz Marries Ruth
 
 
@@ -28,8 +24,9 @@ prev: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“When you buy the field from Naomi, you also need to acquire Ruth the Moabitess, the widow of the deceased, to maintain title to his inheritance.”</span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The close relative said, </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“I can’t do that. I’d jeopardize my own inheritance. You redeem it. Take my right of redemption.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ruth</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>4:1-6</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The close relative said, </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“I can’t do that. I’d jeopardize my own inheritance. You redeem it. Take my right of redemption.”</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Ruth 4:1-6</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This was the former custom in Israel when they redeemed and exchanged land. To confirm the transaction, a man would remove his sandal and give it to the other one. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The closest relative told Boaz, </span><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>“Buy it.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The other close relative</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> took off his sandal. </span></span>
@@ -56,7 +53,7 @@ prev: chapter-03
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Naomi took the child and laid him on her lap and became his nurse. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The neighbor women said, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“Naomi has a son!” </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They named him Obed, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>who became</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> father of Jesse Avi-David. </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124508283"><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is the genealogy of </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>their ancestor </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Perez:
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is the genealogy of </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>their ancestor </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Perez:
 </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Perez was father of Hezron </span><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Avi-Ram Avi- </span></span></p>
@@ -71,8 +68,6 @@ prev: chapter-03
 </span><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span lang=DA style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Avi-Jesse Avi-David.<b>                                                                  </b></span></span></p>
 
 <p class="section-ref">Ruth 4:13-22</p>
-
-<p class="MsoListBulletCxSpLast" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
 
 
 <style>

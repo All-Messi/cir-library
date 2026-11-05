@@ -19,7 +19,9 @@ next: chapter-04
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and send Timothy, our brother and fellow worker for God in the good news about Christ. He could strengthen and encourage you in your faith </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>so the troubles you were facing wouldn’t disturb any of you. You know we <i>Christians</i> are destined for opposition. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Even when we were there, we kept telling you we’d run into trouble; and that’s what happened. </span></span>
-<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s why I couldn’t contain <i>my concern for you </i>anymore and sent to find out about your faith. I didn’t want your tempter to somehow make our labor be for nothing.</span><b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>                                          1 Th 3:1-5</span></b></span></p>
+<span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s why I couldn’t contain <i>my concern for you </i>anymore and sent to find out about your faith. I didn’t want your tempter to somehow make our labor be for nothing.</span></span></p>
+
+<p class="section-ref">1 Th 3:1-5</p>
 
 
 ### Timothy Returns with Good News
@@ -33,7 +35,9 @@ next: chapter-04
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>May God our Father and Jesus our Lord direct us back to you. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>May the Lord increase your love for one another and everybody else like we <i>abound in love</i> for you. </span></span>
-<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>May he make your hearts blameless in holiness in front of him when our Lord Jesus comes with his saints. Amen.                                                                                                                                               </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Th 3:6-13</span></b></span></p>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>May he make your hearts blameless in holiness in front of him when our Lord Jesus comes with his saints. Amen.                                                                                                                                               </span></span></p>
+
+<p class="section-ref">1 Th 3:6-13</p>
 
 
 <style>

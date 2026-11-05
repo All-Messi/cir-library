@@ -11,7 +11,7 @@ next: chapter-11
 
 ## Acts Chapter 10
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now a-certain man in Caesarea, Cornelius by-name, (a) centurion of (the) cohort [the] called Italian, </span></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now a-certain man in Caesarea, Cornelius by-name, (a) centurion of (the) cohort [the] called Italian, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>devout and fearing [the] God with all the house of-him, doing many alms/gifts-of-mercy-to-needy-people and praying-to/asking-of [the] God </span><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>through everything<sup>2</sup>/continually<sup>2</sup></span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>saw in (a) vision clearly/manifestly at-about/around<sup>2</sup> (the) ninth hour of-the day (an) angel of-[the] God having-come-inside to him and having-said to-him, <i>“Cornelius.” </i></span></span></p>
 

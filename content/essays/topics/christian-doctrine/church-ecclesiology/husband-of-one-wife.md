@@ -2,6 +2,8 @@
 title: "HUSBAND OF ONE WIFE"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2023-07-06
+lastmod: 2025-07-10
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -36,7 +38,7 @@ style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:8.0pt'><img width=380 height=138
+style='font-size:8.0pt'><img alt="Expediency and exegesis: possible and intended meanings, legal and ethical; Titus 1:5-7, 1 Corinthians 7:25-28, Romans 7:1-3" width=380 height=138
 src="/images/essays/husband-of-one-wife/image001.png"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
@@ -131,7 +133,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'><img width=222 height=243
+line-height:18.0pt'><span style='font-size:12.0pt'><img alt="Possible meanings (legal: whether married, a deuterogamist, a scripturally remarried divorcee; moral: whether a polygamist, an adulterer, a flirt) and the intended meaning “blameless”" width=222 height=243
 src="/images/essays/husband-of-one-wife/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

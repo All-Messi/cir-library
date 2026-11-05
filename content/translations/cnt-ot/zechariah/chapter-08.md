@@ -11,10 +11,6 @@ next: chapter-09
 
 ## Zechariah Chapter 8
 
-
-### Zech 7:8-14
-
-
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-top:0in;margin-bottom:0in;margin-left:0in;text-align:center; line-height:normal'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>A Message from the L</span><span style='font-size:9.0pt;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;font-family:"Times New Roman",serif'> </span></span></p>
 
 
@@ -27,7 +23,9 @@ next: chapter-09
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Boys and girls will play in the streets. </span></i></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If that sounds incredible to the remnant that’s left, does that make it incredible for me?  </span></i></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’m going to save my people from lands east and west </span></i></span>
-<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and bring them back to live here. They’ll be my people, and I’ll be their God, faithful and just.’                                                                                         </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zech 8:1-8</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>             </span></i></span></p>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and bring them back to live here. They’ll be my people, and I’ll be their God, faithful and just.’</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Zech 8:1-8</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:31.5pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Be strong, you that are listening to this message from the prophets who spoke when the foundation of my Temple was being laid so it could be completely rebuilt. </span></i></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Before then there weren’t any jobs. Because criminals were everywhere, travelers weren’t safe; everybody was working against everybody else. </span></i></span>
@@ -52,6 +50,8 @@ next: chapter-09
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:31.5pt; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So, many nations and powerful countries will look up to me in Jerusalem and ask for my blessing. </span></i></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Ten men from different languages will clutch one Jew’s cloak and ask, “Can we go along? We’ve heard that God is with you.”’”</span></i><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span></b></span></p>
+
+<p class="section-ref">Zech 8:18-23</p>
 
 
 <style>

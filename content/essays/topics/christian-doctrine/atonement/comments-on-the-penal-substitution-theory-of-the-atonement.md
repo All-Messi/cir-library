@@ -2,6 +2,8 @@
 title: "COMMENTS ON THE PENAL SUBSTITUTION THEORY OF THE ATONEMENT"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2012-09-25
+lastmod: 2026-10-15
 categories:
 - 'Topics'
 - 'Christian Doctrine'

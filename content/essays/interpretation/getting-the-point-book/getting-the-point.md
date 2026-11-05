@@ -2,10 +2,12 @@
 title: "Introduction: The Nature of Language Communication"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2005-07-02
+lastmod: 2025-07-11
 categories:
 - 'Interpretation'
 - 'Getting The Point Book'
-weight: 4
+weight: 3
 draft: false
 subtitle: "GETTING THE POINT"
 ---
@@ -6533,7 +6535,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'><img width=421 height=120
+style='font-size:12.0pt'><img alt="Zigzag line" width=421 height=120
 src="/images/essays/getting-the-point/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -7087,7 +7089,7 @@ hearers conjure up in their own mind when they hear the speaker’s expression. 
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>   <img width=386 height=134 id="Picture 2"
+style='font-size:12.0pt'>   <img alt="Communication: referent → perception → speaker&#x27;s conception → expression (encoding) → hearer&#x27;s decoding of “TREE”" width=386 height=134 id="Picture 2"
 src="/images/essays/getting-the-point/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -7139,7 +7141,7 @@ reference.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>         <img width=331 height=150 id="Picture 1"
+style='font-size:12.0pt'>         <img alt="Theological method and philosophical method: truth, revelation, reason and experience" width=331 height=150 id="Picture 1"
 src="/images/essays/getting-the-point/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:6.0pt;

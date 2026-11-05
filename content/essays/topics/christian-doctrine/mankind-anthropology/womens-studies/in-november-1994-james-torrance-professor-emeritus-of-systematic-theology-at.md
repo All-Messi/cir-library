@@ -1,7 +1,9 @@
 ---
-title: "In November 1994, James Torrance, professor emeritus of systematic theology at the University of Aberdeen, presented the Didsbury Lectures in the Nazarene Theological College, Manchester. InterVarsity Press offers these lectures in written form with a preface and appendix added by the author."
-author: "Virgil Warren, christir.org"
+title: "Worship, Community & the Triune God of Grace by James B. Torrance"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 1998-02-02
+lastmod: 2025-07-14
 categories:
 - 'Topics'
 - 'Christian Doctrine'

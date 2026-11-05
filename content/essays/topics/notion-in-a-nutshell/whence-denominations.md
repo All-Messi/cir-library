@@ -4,6 +4,7 @@ categories:
 - Topics
 - Notion In A Nutshell
 date: '2026-02-16'
+lastmod: 2025-07-10
 draft: false
 title: WHENCE DENOMINATIONS?
 weight: 2

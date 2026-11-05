@@ -11,7 +11,7 @@ next: chapter-18
 
 ## Leviticus Chapter 17
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:.5in;'><a name="_Hlk149401338"><span class="verse verse-v1" id="v1"><sup class="verse-num">1-2</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses to tell Aaron, his sons, and all Israel, </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1-2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses to tell Aaron, his sons, and all Israel, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:40.5pt;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Yahveh has commanded </span></i><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that no one in Israel is to slaughter an ox, lamb, or goat inside or outside the camp </span></i></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>instead of taking it to the Tent of Meeting to present it to Yahveh. </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God

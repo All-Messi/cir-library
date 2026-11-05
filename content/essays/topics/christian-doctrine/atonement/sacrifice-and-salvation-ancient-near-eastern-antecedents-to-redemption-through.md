@@ -2,6 +2,8 @@
 title: "SACRIFICE AND SALVATION: ANCIENT NEAR EASTERN ANTECEDENTS TO REDEMPTION THROUGH CHRIST"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2007-07-09
+lastmod: 2026-08-05
 categories:
 - 'Topics'
 - 'Christian Doctrine'

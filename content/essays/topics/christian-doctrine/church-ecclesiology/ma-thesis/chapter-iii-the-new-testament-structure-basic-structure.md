@@ -1,7 +1,8 @@
 ---
-title: "CHAPTER III THE NEW TESTAMENT STRUCTURE Basic Structure"
-author: "Virgil Warren, christir.org"
+title: "Chapter III: The New Testament Structure"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-11
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -39,14 +40,12 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>CHAPTER III</span></b></p>
+
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
 style='font-size:14.0pt'>&nbsp;</span></b></p>
 
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>THE NEW TESTAMENT STRUCTURE</span></b></p>
+
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
@@ -1001,7 +1000,7 @@ style='font-size:12.0pt'>Fig. 12.  Diaconate:  Deacons and Deaconesses</span><
 .5in'><span style='font-size:12.0pt'>                                      </span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=306 height=128 id="Picture 2"
+style='font-size:12.0pt'><img alt="οἱ διάκονοι: ὁ διάκονος (1 Tim. 3:8-10, 12-13) and ἡ διάκονος (Rom. 16:1; 1 Tim. 3:11 γυνή)" width=306 height=128 id="Picture 2"
 src="/images/essays/chapter-iii-the-new-testament-structure-basic-structure/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
@@ -1226,7 +1225,7 @@ Church</span></p>
 .5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
-.5in'><span style='font-size:12.0pt'><img width=394 height=212 id="Picture 1"
+.5in'><span style='font-size:12.0pt'><img alt="Heaven: Head and Apostles; earth: evangelist, prophet, elders and deacons; general and local" width=394 height=212 id="Picture 1"
 src="/images/essays/chapter-iii-the-new-testament-structure-basic-structure/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
@@ -1870,5 +1869,5 @@ style='font-size:12.0pt'>Galatians <b>1</b>:22; 2 Thessalonians<b> 2</b>:14.</sp
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 .5in'><span style='font-size:12.0pt;position:relative;top:-3.0pt'>46</span><span
 style='font-size:12.0pt'>See Chapter III, fnt. 12.                                                                                  
-</span><span style='font-size:11.0pt'>christir.org</span></p>
+</span></p>
 </div>

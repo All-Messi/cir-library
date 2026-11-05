@@ -15,7 +15,7 @@ next: chapter-07
 ### Daniel in the Lions’ Den
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124457203"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Darius thought it good to appoint 120 satraps to oversee the empire. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Darius thought it good to appoint 120 satraps to oversee the empire. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He put three commissioners over them. (</span><span style='font-family:"Times New Roman",serif'>Daniel was one of them.</span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>) The satraps would report to them, and they would protect the king’s interests. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Daniel soon distinguished himself among the satraps and other commissioners because he had exceptional ability. The king planned to appoint him over the whole empire.
 </span></span>
@@ -24,7 +24,7 @@ next: chapter-07
 
 <p class="section-ref">Dan 6:1-5</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124457543"><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They went to the king together and said, </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They went to the king together and said, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Long live King Darius! </span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The commissioners, prefects and satraps, high officials and governors have agreed that you should enforce a statute that anybody who asks for anything from any mortal or god but you for 30 days will be thrown in the lions’ den. </span></i></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now, establish the injunction and sign the document so it can’t be revoked—like the law of the Medes and Persians.”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></span></p>
@@ -50,7 +50,7 @@ next: chapter-07
 
 <p class="section-ref">Dan 6:14-18</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124457654"><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He got up at dawn and hurried to the lions’ den. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He got up at dawn and hurried to the lions’ den. </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Worried, he called out, <i>“Daniel, servant of the living God, has the God you constantly serve, delivered you from the lions?” </i></span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Daniel said, </span></span></p>
@@ -64,7 +64,7 @@ next: chapter-07
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Darius wrote to the peoples, nations, and language groups in the empire:</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124457710"><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Peace and prosperity! </span></i></a></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Peace and prosperity! </span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I decree that in all my kingdom, people tremble </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>in fear <i>before Daniel’s God.</i></span></span></p>
 

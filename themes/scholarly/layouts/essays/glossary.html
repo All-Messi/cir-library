@@ -1,25 +1,35 @@
 {{ define "main" }}
-<div class="glossary-page">
+<div class="glossary-page" data-pagefind-body>
+    {{- /* Searchable since 2026-11-04 (site comb NAV-03): the letter grid and term panel are
+           data-pagefind-ignore, the header and the full glossary text are indexed. */}}
+    {{ partial "pagefind-tags.html" (dict
+        "filter" (dict "type" "essay")
+        "meta"   (dict "type" "essay" "words" .WordCount "category" "Language")) }}
+    <nav class="gl-breadcrumb" data-pagefind-ignore aria-label="Breadcrumb">
+        <a href="{{ "essays/" | absURL }}">Essays</a> <span aria-hidden="true">›</span>
+        {{ with .Parent }}<a href="{{ .Permalink }}">{{ .Title }}</a>{{ end }}
+    </nav>
     <header class="gl-header">
-        <h1>{{ .Title | lower | title }}</h1>
+        <h1>{{ partial "display-title.html" .Title }}</h1>
         <div class="gl-rule"></div>
         <p class="gl-subtitle">A comprehensive dictionary of language, grammar, and communication terminology</p>
         <p class="gl-author">Virgil Warren, PhD</p>
+        <div class="gl-pdf" data-pagefind-ignore>{{ partial "pdf-link.html" . }}</div>
     </header>
 
     {{/* A-Z Letter Grid */}}
-    <div class="gl-letter-grid" id="letter-grid">
+    <div class="gl-letter-grid" id="letter-grid" data-pagefind-ignore>
         {{ range (slice "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z") }}
         <a href="javascript:void(0)" class="gl-letter-cell" data-letter="{{ . }}">{{ . }}</a>
         {{ end }}
     </div>
 
     {{/* Term dropdown panel — populated by JS */}}
-    <div class="gl-term-panel" id="term-panel" style="display:none;">
+    <div class="gl-term-panel" id="term-panel" style="display:none;" data-pagefind-ignore>
         <div class="gl-term-panel-header">
             <span class="gl-term-panel-letter" id="panel-letter"></span>
             <span class="gl-term-panel-count" id="panel-count"></span>
-            <button class="gl-term-panel-close" id="panel-close">&times;</button>
+            <button type="button" class="gl-term-panel-close" id="panel-close" aria-label="Close">&times;</button>
         </div>
         <div class="gl-term-list" id="term-list"></div>
     </div>
@@ -29,7 +39,7 @@
         {{ .Content }}
     </div>
 
-    <button class="gl-back-top" id="back-top" title="Back to top">↑</button>
+    <button type="button" class="gl-back-top" id="back-top" title="Back to top" aria-label="Back to top" data-pagefind-ignore>↑</button>
 </div>
 
 <style>
@@ -37,8 +47,14 @@
 .gl-header { text-align: center; padding: 3rem 0 1.5rem; }
 .gl-header h1 { font-family: 'Playfair Display', serif; font-size: 2.25rem; font-weight: 700; color: #2f4c3a; margin: 0 0 0.5rem; }
 .gl-rule { width: 64px; height: 1px; background: linear-gradient(90deg, transparent, #c0b8a8, transparent); margin: 0 auto 0.75rem; }
-.gl-subtitle { font-family: 'Source Sans Pro', sans-serif; font-size: 1rem; color: #777; margin: 0 0 0.25rem; }
-.gl-author { font-family: 'Source Sans Pro', sans-serif; font-size: 0.9rem; color: #999; margin: 0; }
+.gl-subtitle { font-family: 'Source Sans Pro', sans-serif; font-size: 1rem; color: #666; margin: 0 0 0.25rem; }
+.gl-author { font-family: 'Source Sans Pro', sans-serif; font-size: 0.9rem; color: #666; margin: 0; }
+.gl-breadcrumb { padding: 0.75rem 0; border-bottom: 1px solid #f0eeea; font-family: 'Source Sans Pro', sans-serif; font-size: 0.85rem; color: #666; }
+.gl-breadcrumb a { color: #666; text-decoration: none; }
+.gl-breadcrumb a:hover { color: #2f4c3a; }
+.gl-pdf { display: flex; justify-content: center; margin-top: 0.75rem; }
+.gl-pdf .pdf-download { display: inline-flex; align-items: center; gap: 0.3rem; font-family: 'Source Sans Pro', sans-serif; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: #666; text-decoration: none; border: 1px solid #e3e0d8; border-radius: 3px; padding: 0.3rem 0.65rem; background: #fff; }
+.gl-pdf .pdf-download:hover { border-color: #2f4c3a; color: #2f4c3a; }
 
 /* Letter Grid — Bible.com chapter grid style */
 .gl-letter-grid {

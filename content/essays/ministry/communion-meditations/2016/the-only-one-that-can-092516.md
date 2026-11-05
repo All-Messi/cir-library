@@ -1,7 +1,7 @@
 ---
 title: "The Only One That Can"
 date: '2016-09-25'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

@@ -15,7 +15,7 @@ next: chapter-24
 ### The Righteous Branch
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk123650688"><b><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>23<sup>:[1] 2</sup></span></b></a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is what Yahveh God of Israel says about<i> </i>shepherds that scatter and destroy his sheep instead of tending to them,<i> “I’m about to tend to <u>you</u> for the evil you’ve done. </i></span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But I’ll gather the remnant of my flock out of the countries where I’ve driven them, and bring them back to their pasture to reproduce and multiply. </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><b><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>23<sup>:[1] 2</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This is what Yahveh God of Israel says about<i> </i>shepherds that scatter and destroy his sheep instead of tending to them,<i> “I’m about to tend to <u>you</u> for the evil you’ve done. </i></span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But I’ll gather the remnant of my flock out of the countries where I’ve driven them, and bring them back to their pasture to reproduce and multiply. </span></i></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’ll raise up shepherds to tend them. They won’t be afraid anymore, and none of them will go missing.</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The time’s coming</span></i></span></p>
@@ -93,9 +93,7 @@ next: chapter-24
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So this is what Yahveh says about the prophets:</span></i></span></p>
 
-
-### ‘I’ll feed them bitter plants to eat
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <b>‘I’ll feed them bitter plants to eat</b></span></i></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and give them poisoned water to drink</span></i></b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>,        </span></i></p>
 

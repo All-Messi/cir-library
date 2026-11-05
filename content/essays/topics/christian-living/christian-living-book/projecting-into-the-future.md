@@ -2,10 +2,12 @@
 title: "PROJECTING INTO THE FUTURE"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Living'
 - 'Christian Living Book'
+weight: 17
 draft: false
 ---
 
@@ -124,7 +126,7 @@ style='font-size:12.0pt'>                           �
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                        <img
+style='font-size:12.0pt'>                                        <img alt="Environment, me, environment: interaction between ourselves and our environment"
 width=217 height=87 id="Picture 4" src="/images/essays/projecting-into-the-future/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -169,7 +171,7 @@ up before us toward future goals.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                        <img
+style='font-size:12.0pt'>                                        <img alt="Environment, me, environment: interaction between ourselves and our future"
 width=214 height=92 src="/images/essays/projecting-into-the-future/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -277,7 +279,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                     <img width=266 height=77
+style='font-size:12.0pt'>                     <img alt="Arrow-shaped band with a wavy line from x" width=266 height=77
 id="Picture 3" src="/images/essays/projecting-into-the-future/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -374,7 +376,7 @@ style='font-size:12.0pt'>                      </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                      <img width=177
+style='font-size:12.0pt'>                                      <img alt="Me → goal; environment" width=177
 height=82 id="Picture 2" src="/images/essays/projecting-into-the-future/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -465,7 +467,7 @@ style='font-size:8.0pt'>                    </span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:8.0pt'>                    </span><span style='font-size:4.0pt'>  </span><span
-style='font-size:8.0pt'> <img width=397 height=69 id="Picture 1"
+style='font-size:8.0pt'> <img alt="1. Selectivity, 2. energy, 3. efficiency: when we work purposefully we do not fritter away time, energy, resources and we work harder; enjoyment + increased output = increased satisfaction" width=397 height=69 id="Picture 1"
 src="/images/essays/projecting-into-the-future/image005.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

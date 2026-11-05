@@ -4,9 +4,11 @@ categories:
 - Interpretation
 - Getting The Point Book
 date: '2026-02-16'
+printed: 2015-03-03
+lastmod: 2025-07-11
 draft: false
 title: "Pitfall: Misidentifying the Intended Referent"
-weight: 23
+weight: 16
 ---
 
 <style>
@@ -37,7 +39,7 @@ span.HeaderChar
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>            E. Misidentifying the Intended Reference
-(frame of reference)      Virgil Warren, PhD</span></p>
+(frame of reference)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span

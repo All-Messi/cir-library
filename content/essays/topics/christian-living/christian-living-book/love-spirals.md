@@ -2,10 +2,13 @@
 title: "LOVE SPIRALS"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-05-21
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Living'
 - 'Christian Living Book'
+weight: 26
 draft: false
 ---
 
@@ -38,7 +41,7 @@ style='font-size:12.0pt'>            </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                 <img width=221 height=60
+style='font-size:12.0pt'>                 <img alt="1. Vertical: revelation, incarnation, Holy Spirit + worship, service" width=221 height=60
 id="Picture 4" src="/images/essays/love-spirals/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -193,7 +196,7 @@ style='font-size:12.0pt'>      </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                 <img width=235
+style='font-size:12.0pt'>                                 <img alt="God&#x27;s love and man&#x27;s love: John 3:16, 1 John 4:19, John 15:10, John 14:15; man&#x27;s act and God&#x27;s act" width=235
 height=101 id="Picture 3" src="/images/essays/love-spirals/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-27.0pt;text-align:justify;text-indent:
@@ -363,7 +366,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                             <img width=266
+style='font-size:12.0pt'>                             <img alt="“I” and “another” as circles with arrows between them" width=266
 height=130 id="Picture 2" src="/images/essays/love-spirals/image003.png">        </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -510,7 +513,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>      <img width=284 height=194 id="Picture 1"
+style='font-size:12.0pt'>      <img alt="God above I, with I and another connected by arrows" width=284 height=194 id="Picture 1"
 src="/images/essays/love-spirals/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

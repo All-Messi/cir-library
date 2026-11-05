@@ -11,10 +11,6 @@ next: chapter-08
 
 ## Zechariah Chapter 7
 
-
-### Zech 6:9-15
-
-
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-top:0in;margin-bottom:0in;margin-left:0in;text-align:center;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
 <b>Fourth Day, Ninth Month (</b></span><b><span style='font-family:"Times New Roman",serif'>Chislev</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>), Fourth Year of King Darius</span></b></span></p>
 
@@ -49,6 +45,8 @@ next: chapter-08
 </span></i></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Just as he called and they wouldn’t listen, so they called and he wouldn’t listen. </span></i></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>With a tornado he scattered them throughout foreign nations. The land they left lay so desolate nobody traveled through it. They’d turned their pleasant land into a wasteland.”</span></i><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                              </span></b></span></p>
+
+<p class="section-ref">Zech 7:8-14</p>
 
 
 <style>

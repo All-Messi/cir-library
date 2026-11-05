@@ -24,9 +24,7 @@ next: chapter-13
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What [then]<sup>ms</sup> will┘the Lord of-the vineyard└do? He-will-come and destroy the farmers and he-will-give the vineyard to-others. </span></i></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Did-you┘not-even└read [the] this scripture,</span></i></span></p>
 
-
-### ‘The stone that the builders rejected—
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b>‘The stone that the builders rejected—</b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        this became [for] (the) head of-(the)-corner.</span></i></b></p>
 
@@ -83,9 +81,7 @@ next: chapter-13
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And [the] Jesus, having-answered, was-saying, teaching in the temple, <i>“How do┘the scribes└say that the Messiah is (the) son of-David? </i></span></span>
 <span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David himself said by the Holy [the] Spirit,</span></i></span></p>
 
-
-### ‘The Lord said to-the Lord of-me,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b><i>‘The Lord said to-the Lord of-me,</i></b></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            “Sit on (the) right-(hand) of-me,</span></i></b></p>
 

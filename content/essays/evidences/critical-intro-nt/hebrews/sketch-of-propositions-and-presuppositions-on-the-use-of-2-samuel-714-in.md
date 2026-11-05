@@ -2,6 +2,7 @@
 title: "SKETCH OF PROPOSITIONS AND PRESUPPOSITIONS on the use of 2 Samuel 7:14 in Hebrews 1:5b"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'
@@ -77,7 +78,7 @@ The successive collective descendants of David in turn fill the slot called
 style='font-size:12.0pt'>            </span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
-style='font-size:12.0pt'>     <img width=399 height=118 id="Picture 4"
+style='font-size:12.0pt'>     <img alt="Seed: the seed in the person of Solomon, who built the temple; the seed in the person of Messiah, who built a temple without hands (Mark 14:58; John 2:13-22)" width=399 height=118 id="Picture 4"
 src="/images/essays/sketch-of-propositions-and-presuppositions-on-the-use-of-2-samuel-714-in/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
@@ -109,7 +110,7 @@ once</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
-style='font-size:12.0pt'>                                                          <img
+style='font-size:12.0pt'>                                                          <img alt="Passage branching to fulfillment (a) Solomon and fulfillment (b) Christ"
 width=154 height=114 id="Picture 3" src="/images/essays/sketch-of-propositions-and-presuppositions-on-the-use-of-2-samuel-714-in/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
@@ -125,7 +126,7 @@ style='font-size:12.0pt'>            B.  Type to antitype</span></p>
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
-style='font-size:12.0pt'>                                                           <img
+style='font-size:12.0pt'>                                                           <img alt="Passage → fulfillment a → fulfillment b: Solomon, then Christ"
 width=204 height=50 id="Picture 2" src="/images/essays/sketch-of-propositions-and-presuppositions-on-the-use-of-2-samuel-714-in/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
@@ -138,7 +139,7 @@ style='font-size:12.0pt'>            C.  Accommodation</span></p>
 style='font-size:10.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span
-style='font-size:12.0pt'>                                                           <img
+style='font-size:12.0pt'>                                                           <img alt="Passage → fulfillment in Solomon → “fulfillment” in Christ"
 width=235 height=50 id="Picture 1" src="/images/essays/sketch-of-propositions-and-presuppositions-on-the-use-of-2-samuel-714-in/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-left:.25in;text-align:justify'><span

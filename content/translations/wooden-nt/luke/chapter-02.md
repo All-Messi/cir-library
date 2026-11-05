@@ -11,7 +11,7 @@ next: chapter-03
 
 ## Luke Chapter 2
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And it-happened in [the] those days, (that) (a) decree went-out from Caesar Augustus to-take-a-census-of all the world. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And it-happened in [the] those days, (that) (a) decree went-out from Caesar Augustus to-take-a-census-of all the world. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>This (was) the first census, Quirinius governing [the] Syria. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And all were-traveling to-be-registered-in-the-census, each to [the] city of-himself. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And Joseph also went-up from [the] Galilee from (the) town of-Nazareth into [the] Judaea into (the) city of-David, which is-called Bethlehem, on-account-of [the] his being from (the) house and lineage of-David, </span></span>

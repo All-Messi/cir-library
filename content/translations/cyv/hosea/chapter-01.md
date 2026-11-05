@@ -10,10 +10,6 @@ next: chapter-02
 
 ## Hosea Chapter 1
 
-
-### Conversational Yahveh Covenant
-
-
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Messages from Yahveh to Hosea Ben-Beeri </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>at <b>the Time of Uzziah, Jotham, Ahaz, and Hezekiah, Kings of Judah, </b></span></p>

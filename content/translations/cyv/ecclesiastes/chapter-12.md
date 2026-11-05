@@ -68,9 +68,7 @@ prev: chapter-11
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Completely pointless,”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> the Preacher says; <i>“it’s all pointless.”</i></span></span></p>
 
-
-### Eccl 12:5-8
-
+<p class="section-ref">Eccl 12:5-8</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Besides being a wise man, the Preacher taught the people. He weighed, studied, and classified lots of proverbs. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He endeavored to write true things and searched for expressive words.</span></span></p>
@@ -82,8 +80,6 @@ prev: chapter-11
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God will judge every act, everything secret, good or bad.                                                                                                           </span></span></p>
 
 <p class="section-ref">Eccl 12:9-13</p>
-
-<p class="MsoListBulletCxSpLast" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
 
 
 <style>

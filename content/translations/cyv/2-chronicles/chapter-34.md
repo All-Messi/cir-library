@@ -23,7 +23,9 @@ next: chapter-35
 </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>people</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> tore down the Baal altars and chopped down the incense altars above them. The Asherah poles, carved images, and molten images he broke in pieces, ground into powder, and scattered on the graves of those who had sacrificed to them. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He burned the bones of the priests on their altars. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the towns and surrounding ruins in Manasseh, Ephraim, and Simeon as far as Naphtali, </span></span>
-<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>he destroyed the altars and Asherah poles, beat the carved images into powder, and chopped down the incense altars everywhere in Israel.                         </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 34:1-7</span></b></span></p>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>he destroyed the altars and Asherah poles, beat the carved images into powder, and chopped down the incense altars everywhere in Israel.                         </span></span></p>
+
+<p class="section-ref">2 Ch 34:1-7</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In <b>his eighteenth year</b>, he sent Shaphan Ben-Azaliah; Maaseiah, an official of the city; and Joah Ben-Joahaz, the recorder, to repair the Temple. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They delivered to Hilkiah the high priest the money that came into God’s Temple that the Levites, the doorkeepers, had collected from Manasseh, Ephraim, the remnant of Israel, Judah and Benjamin, and the people in Jerusalem. </span></span>
@@ -32,7 +34,7 @@ next: chapter-35
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The men did the work faithfully under their foremen: Jahath and Obadiah, Levites descended from Merari; Zechariah and Meshullam from the Kohathites, and the Levites skillful with musical instruments. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They also supervised the carriers and workmen from job to job. Some Levites were secretaries, officials, and gatekeepers.  </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:5.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 34:8-13</span></b></p>
+<p class="section-ref">2 Ch 34:8-13</p>
 
 
 ### The Book of the Law Discovered
@@ -48,7 +50,9 @@ next: chapter-35
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He read it to the king. </span><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the king heard what the Law said, he tore his clothes. </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told Hilkiah, Ahikam Ben-Shaphan, Abdon Ben-Micah, Shaphan the secretary, and Asaiah the king’s aide, </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go ask Yahveh and the ones left in Israel and Judah about what the scroll says. Yahveh poured out his great anger on us because our ancestors haven’t observed what’s written here.”</span></i><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>             2 Ch 34:14-21</span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Go ask Yahveh and the ones left in Israel and Judah about what the scroll says. Yahveh poured out his great anger on us because our ancestors haven’t observed what’s written here.”</span></i></span></span></p>
+
+<p class="section-ref">2 Ch 34:14-21</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hilkiah and the others spoke to Huldah the prophetess, wife of Shallum Ben-Tokhath Ben-Hasrah, the keeper of the wardrobe. (</span><span style='font-family:"Times New Roman",serif'>She lived in Jerusalem’s Second Quarter.</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>) </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She said, </span></span></p>
@@ -61,7 +65,9 @@ next: chapter-35
  </span></i></span>
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>I’ll gather you to your ancestors in peace so you won’t see the disaster I’m going to bring on this place and its people.’” </span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They brought the message back to the king.                                                                  </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 34:22-28</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They brought the message back to the king.                                                                  </span></p>
+
+<p class="section-ref">2 Ch 34:22-28</p>
 
 
 ### Josiah’s Reforms
@@ -72,7 +78,9 @@ next: chapter-35
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He stood in his place to renew the covenant to follow </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh and keep his commandments, testimonies, and statutes with all his heart and soul—like the covenant said in that scroll. </span></span>
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He made everybody present in Jerusalem and Benjamin stand with him. The people in Jerusalem obeyed the covenant with their ancestors’ God. </span></span>
 <span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Josiah removed the detestable things from the territory that belonged to the Israelites and made everybody in Israel serve </span><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh their God. They followed him his whole life.
-</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 34:29-33</span></b></span></p>
+</span></span></p>
+
+<p class="section-ref">2 Ch 34:29-33</p>
 
 
 <style>

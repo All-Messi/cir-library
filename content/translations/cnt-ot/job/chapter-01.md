@@ -10,7 +10,7 @@ next: chapter-02
 
 ## Job Chapter 1
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124931570"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Job lived in the land of Uz, <b>a blameless, godly man that respected God and shunned evil</b>. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Job lived in the land of Uz, <b>a blameless, godly man that respected God and shunned evil</b>. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He had seven sons and three daughters; </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and owned 7,000 sheep, 3,000 camels, 500 yoke of oxen, 500 female donkeys; and servants. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His sons would hold feasts in each other’s houses and invite their three sisters. </span></span>
@@ -35,7 +35,7 @@ next: chapter-02
 
 <p class="section-ref">Job 1:1-12</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk124931632"><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>One day when his sons and daughters were drinking wine and eating in their oldest brother’s house, </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>One day when his sons and daughters were drinking wine and eating in their oldest brother’s house, </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>a messenger came to Job, <i>“The oxen were plowing, the donkeys were feeding alongside them, </i></span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and the Sabeans attacked and stole them. They killed the servants with the sword. <b>I’m the only one that escaped to tell you</b>.” </span></i></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While he was still talking, another servant came, <i>“God’s fire fell from the sky and burned up the sheep and the servants. <b>I’m the only one that escaped to tell you</b>.”</i> </span></span>
@@ -47,7 +47,7 @@ next: chapter-02
 
 <p class="section-ref">Job 1:13-19</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124931714"><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Job got up, tore his robe, and shaved his head; he fell on the ground and worshiped, </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Job got up, tore his robe, and shaved his head; he fell on the ground and worshiped, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> “I came naked from my mother’s womb, </span></i></span></p>
 

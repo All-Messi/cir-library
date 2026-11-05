@@ -15,7 +15,7 @@ next: chapter-47
 ### Joseph Brings His Brothers to Egypt
 
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><a name="_Hlk125321552"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel set out with everything he had. He went to Beersheba and offered sacrifices to the God of his father Isaac. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel set out with everything he had. He went to Beersheba and offered sacrifices to the God of his father Isaac. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God spoke to him in a vision at night, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.5in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“Jacob, Jacob.”</span></i></p>
@@ -30,7 +30,7 @@ next: chapter-47
 
 <p class="section-ref">Gen 46:1-7</p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span><a name="_Hlk125321609"></a><a name="_Hlk125321932"><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The names of Jacob’s sons that went to Egypt </span></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The names of Jacob’s sons that went to Egypt </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.5in;'><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Reuben</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
 <i>Jacob’s</i> firstborn: </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>his sons Hanoch, Pallu, Hezron, and Carmi</span></span></p>
@@ -70,7 +70,7 @@ next: chapter-47
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:1.0in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>The descendants of Rachel born to Jacob <i>were</i> 14.          </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                    </span></b></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span><a name="_Hlk125322037"><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> </a><u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Dan</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>: his son Hushim</span></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Dan</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>: his son Hushim</span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Naphtali</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>: his sons Jahzeel, Guni, Jezer, and Shillem</span></span></p>
 
@@ -85,11 +85,13 @@ next: chapter-47
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joseph prepared his chariot and went there to meet his father. When he met him, he hugged him and cried on his shoulder a long time. </span></span>
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel told him, <i>“Now I can die! I’ve seen you’re still alive!”</i> </span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><a name="_Hlk125322395"><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joseph told his brothers and his father’s family, </span></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joseph told his brothers and his father’s family, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ll go tell Pharaoh you’ve arrived from Canaan </span></i><span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>with your herdsmen, flocks and herds, and everything you have. </span></i></span>
 <span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he calls you and asks what your occupation is, </span></i></span>
-<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>tell him you and your ancestors have always been herdsmen. </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Say that<i> so you can live in Goshen; shepherds have low status in Egypt.”                            </i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gen 46:28-34</span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>     </span></i></span></p>
+<span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>tell him you and your ancestors have always been herdsmen. </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Say that<i> so you can live in Goshen; shepherds have low status in Egypt.”</i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Gen 46:28-34</p>
 
 
 <style>

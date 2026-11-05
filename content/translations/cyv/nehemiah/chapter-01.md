@@ -10,11 +10,7 @@ next: chapter-02
 
 ## Nehemiah Chapter 1
 
-
-### Conversational Yahveh Covenant
-
-
-<p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><b><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>1<sup>;1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Memoirs of Nehemiah Ben-Hacaliah</span></p>
+<p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Memoirs of Nehemiah Ben-Hacaliah</span></span></p>
 
 
 ### Report from Jerusalem
@@ -37,6 +33,11 @@ next: chapter-02
 </span></i></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>They’re the people you’ve redeemed by your power and strength. </span></i></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Please listen to my prayer and the prayer of your servants who delight in honoring you. Make me successful today; grant me mercy from this man.”</span></i></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I was the king’s cupbearer.              <b>
+</b></span></p>
+
+<p class="section-ref">Neh 1:1-11</p>
 
 
 <style>

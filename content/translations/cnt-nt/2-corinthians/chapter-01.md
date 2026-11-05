@@ -57,8 +57,9 @@ next: chapter-02
 </span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>However many promises God has made, in Christ is “Yes.” He’s <i>our</i> Amen, to God’s honor. </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In Christ, God has established us, anointed us and you, </span></span>
-<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>sealed us, and given us the Spirit as a pledge in our hearts.                                                                                                        </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Cor 1:15-22</span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>
-</span></span></p>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>sealed us, and given us the Spirit as a pledge in our hearts.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">2 Cor 1:15-22</p>
 
 
 ### Paul’s Delayed Visit

@@ -15,7 +15,7 @@ next: chapter-28
 ### Paul’s Voyage to Rome
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they decided we would sail to Italy, they turned Paul and some other prisoners over to Julius, a centurion of the Augustan cohort. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they decided we would sail to Italy, they turned Paul and some other prisoners over to Julius, a centurion of the Augustan cohort. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We boarded a ship out of Adramyttium, ready to sail to places along the coast of Asia. We put out to sea along with Aristarchus, a Macedonian from Thessalonica.
 </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The next day we harbored at Sidon. Julius was nice to Paul and let him go to friends and refresh himself. </span></span>

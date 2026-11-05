@@ -2,6 +2,8 @@
 title: "JESUS AND THE LAW"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-05-28
+lastmod: 2025-07-11
 categories:
 - 'Interpretation'
 - 'Commentaries'
@@ -89,7 +91,7 @@ Messiah came in continuity with Moses and the prophets. </span></p>
 18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-18.0pt'><span style='font-size:12.0pt'>                  <img width=349
+18.0pt'><span style='font-size:12.0pt'>                  <img alt="God&#x27;s eternal purposes for mankind: Mosaic and Messianic covenants with civil, ceremonial, moral, historical and ontological strands" width=349
 height=203 id="Picture 1" src="/images/essays/jesus-and-the-law/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:

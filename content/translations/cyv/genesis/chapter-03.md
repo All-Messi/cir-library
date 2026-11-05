@@ -15,7 +15,7 @@ next: chapter-04
 ### The Fall
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The snake was more devious than any other wild animal Yahveh God had made. It asked the woman, <i>“Did God really tell you<sup>pl</sup> not to eat</i> the<i> </i>fruit<i> of any tree in the orchard?”</i> </span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The snake was more devious than any other wild animal Yahveh God had made. It asked the woman, <i>“Did God really tell you<sup>pl</sup> not to eat</i> the<i> </i>fruit<i> of any tree in the orchard?”</i> </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>She said, <i>“We’re free to eat fruit from any tree </i></span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but the one in the middle of the orchard. God said not to eat its fruit or touch it. We’ll die.”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></span></p>

@@ -15,7 +15,7 @@ next: chapter-33
 ### Jacob Travels to Meet Esau
 
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As Jacob was going along, angels from God met him. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As Jacob was going along, angels from God met him. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he saw them, he said, <i>“This is God’s ‘camp’”</i>; so he named the place Mahanaim.
 </span></span></p>
 
@@ -46,7 +46,9 @@ next: chapter-33
 </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>is behind us.’” </span></i></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told the second and third drove, and everybody that followed the droves,<i> </i></span></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell Esau when you meet him, ‘Your servant Jacob is behind us too.’” </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, <i>“I’ll appease him with the gift first. Then when I see him, maybe he’ll accept me.” </i></span></span>
-<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His gift passed on ahead while he spent that night in the camp.             </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gen 32:13-21</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span></p>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His gift passed on ahead while he spent that night in the camp.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Gen 32:13-21</p>
 
 
 ### Jacob Wrestles with a Man

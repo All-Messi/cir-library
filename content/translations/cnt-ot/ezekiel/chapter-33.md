@@ -15,9 +15,9 @@ next: chapter-34
 ### Ezekiel Is Israel’s Watchman
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         33<sup>:1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A message from the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> came to me:</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A message from the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> came to me:</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk147430364"><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell your people, ‘If I bring the sword on a country, and the people’s watchman </span></i></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell your people, ‘If I bring the sword on a country, and the people’s watchman </span></i></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>blows the ram’s horn to warn them—</span></i></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>then those who don’t pay attention are responsible for their own death. </span></i></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If they’d taken warning, they would’ve saved their life. </span></i></span>
@@ -30,7 +30,7 @@ next: chapter-34
 <p class="section-ref">Ezek 33:1-9</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Now, son of man, tell Israel, ‘You’ve said, “Our sins are on us and we’re rotting away in them. How can we survive?”’ </span></i></span>
-<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Tell them, ‘As I live,’ the Lord G</span></i><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>OD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says, <a name="_Hlk147430502">‘I don’t get any satisfaction out of seeing sinful people die. I want them to turn from their way and live. Turn back from your sinful way! Why die, Israel?’ </a></span></i></span>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Tell them, ‘As I live,’ the Lord G</span></i><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>OD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says, ‘I don’t get any satisfaction out of seeing sinful people die. I want them to turn from their way and live. Turn back from your sinful way! Why die, Israel?’ </span></i></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Son of man, tell your fellow citizens, ‘People’s goodness won’t deliver them when they sin. People’s sinfulness won’t prevent them </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from living <i>when they quit doing it. Good people can’t have life from goodness when they practice sin. </i></span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When I say to good people they’ll surely live and they presume on their goodness and keep sinning, I won’t consider their good deeds; they’ll die in that sin. </span></i></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But when I say to sinful people, ‘You’ll surely die,’ and they quit sinning—</span></i></span>
@@ -38,18 +38,14 @@ next: chapter-34
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I won’t hold their past sins against them. They’re doing good; they’ll live.</span></i><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
 </span></b></span></p>
 
-
-### Ezek 33:10-16
-
+<p class="section-ref">Ezek 33:10-16</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Yet your people say, ‘The Lord’s way is not right,’ when it’s their own way that’s not right. </span></i></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When good people turn from their goodness, they’ll die because </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>now<i> they’re practicing sin. </i></span></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When sinful people turn from their sinfulness, they’ll live because they’re practicing goodness. </span></i></span>
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yet you say, ‘The Lord’s way is not right.’ House of Israel, I’ll judge each of you by your own ways.” </span></i></span></p>
 
-
-### Ezek 33:17-20
-
+<p class="section-ref">Ezek 33:17-20</p>
 
 
 ### Israel’s Fall Explained
@@ -74,7 +70,9 @@ next: chapter-34
 </span></i></span>
 <span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>They come and sit with you like my people, but they do the lustful things they talk about and set their hearts on making money. </span></i></span>
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As far as they’re concerned, you’re someone with a beautiful voice that plays an instrument well and sings love songs. They hear what you’re saying, but they don’t do it. </span></i></span>
-<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So when </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>what you say<i> does happen—as it surely will—they’ll know a prophet was among them.”</i></span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>        Ezek 33:30-33                                                                                  </span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i></span></p>
+<span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So when </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>what you say<i> does happen—as it surely will—they’ll know a prophet was among them.”</i></span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Ezek 33:30-33</p>
 
 
 <style>

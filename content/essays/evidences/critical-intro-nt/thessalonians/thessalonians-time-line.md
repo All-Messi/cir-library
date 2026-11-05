@@ -2,6 +2,8 @@
 title: "THESSALONIANS TIME LINE"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-06-30
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'
@@ -110,35 +112,35 @@ style='font-size:12.0pt;font-family:"Times New Roman",serif'>         �
 shortly   after   Gallio’s   proconsulship </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:3.0in;text-indent:.5in;line-height:normal'><span style='font-size:
+margin-left:min(3.0in, 35vw);text-indent:.5in;line-height:normal'><span style='font-size:
 12.0pt;font-family:"Times New Roman",serif'>   begins and near the end of 18
 months)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:3.5in;text-indent:.5in;line-height:normal'><span style='font-size:
+margin-left:min(3.5in, 35vw);text-indent:.5in;line-height:normal'><span style='font-size:
 12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:3.5in;text-indent:.5in;line-height:normal'><span style='font-size:
+margin-left:min(3.5in, 35vw);text-indent:.5in;line-height:normal'><span style='font-size:
 12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:3.5in;text-indent:.5in;line-height:normal'><span style='font-size:
+margin-left:min(3.5in, 35vw);text-indent:.5in;line-height:normal'><span style='font-size:
 12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:3.5in;text-indent:.5in;line-height:normal'><span style='font-size:
+margin-left:min(3.5in, 35vw);text-indent:.5in;line-height:normal'><span style='font-size:
 12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:3.5in;text-indent:.5in;line-height:normal'><span style='font-size:
+margin-left:min(3.5in, 35vw);text-indent:.5in;line-height:normal'><span style='font-size:
 12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:3.5in;text-indent:.5in;line-height:normal'><span style='font-size:
+margin-left:min(3.5in, 35vw);text-indent:.5in;line-height:normal'><span style='font-size:
 12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
@@ -147,24 +149,24 @@ margin-left:1.0in;text-indent:.5in;line-height:normal'><span style='font-size:
 12<sup>th</sup> year of tribunicial power</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:3.0in;text-indent:.5in;line-height:normal'><span style='font-size:
+margin-left:min(3.0in, 35vw);text-indent:.5in;line-height:normal'><span style='font-size:
 12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:3.0in;text-indent:.5in;line-height:normal'><span style='font-size:
+margin-left:min(3.0in, 35vw);text-indent:.5in;line-height:normal'><span style='font-size:
 12.0pt;font-family:"Times New Roman",serif'>Claudius’ 26<sup>th</sup>
 proclamation as emperor</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:3.0in;text-indent:.5in;line-height:normal'><span style='font-size:
+margin-left:min(3.0in, 35vw);text-indent:.5in;line-height:normal'><span style='font-size:
 12.0pt;font-family:"Times New Roman",serif'>   (Delphic inscription)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:3.0in;text-indent:.5in;line-height:normal'><span style='font-size:
+margin-left:min(3.0in, 35vw);text-indent:.5in;line-height:normal'><span style='font-size:
 12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:3.0in;text-indent:.5in;line-height:normal'><span style='font-size:
+margin-left:min(3.0in, 35vw);text-indent:.5in;line-height:normal'><span style='font-size:
 12.0pt;font-family:"Times New Roman",serif'>Claudius’ 27<sup>th</sup>
 proclamation as emperor</span></p>
 

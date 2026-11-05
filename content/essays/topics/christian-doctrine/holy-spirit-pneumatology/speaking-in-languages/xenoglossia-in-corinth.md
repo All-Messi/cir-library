@@ -2,6 +2,8 @@
 title: "XENOGLOSSIA IN CORINTH"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-10-24
+lastmod: 2025-07-10
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -1021,8 +1023,8 @@ The relationship between</span></p>
 <p class=MsoNormal style='margin-right:-.5in'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'><img width=253 height=52 id="Picture 1"
-src="/images/essays/xenoglossia-in-corinth/image001.png" alt=CIR--HS--diag></span></p>
+style='font-size:12.0pt'><img alt="Tongues and prophecy, with tongues within prophecy" width=253 height=52 id="Picture 1"
+src="/images/essays/xenoglossia-in-corinth/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>the terms changes from separate circles to one within

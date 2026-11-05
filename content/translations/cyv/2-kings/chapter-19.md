@@ -15,7 +15,7 @@ next: chapter-20
 ### Jerusalem’s Deliverance Foretold
 
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%'>When Hezekiah heard it, he tore his clothes, covered himself with burlap, and went into Yahveh’s Temple. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%'>When Hezekiah heard it, he tore his clothes, covered himself with burlap, and went into Yahveh’s Temple. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%'>He sent Eliakim with Shebna and the elders of the people, covered with burlap, to the prophet Isaiah Ben-Amoz. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%'>They told him, </span></span></p>
 
@@ -24,7 +24,9 @@ next: chapter-20
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:.25in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%'>Isaiah said, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%'>“Tell your master, ‘Yahveh says, “You don’t have to be afraid of what the Assyrian king’s messengers have blasphemed.
-</span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%'>I’ll put a spirit in him that makes him hear a rumor and go back to his country. He’ll fall by the sword in his own land.”’”</span></i><b><span style='font-size:12.0pt;line-height:115%'>   </span></b><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 19:1-7</span></b></span></p>
+</span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height:115%'>I’ll put a spirit in him that makes him hear a rumor and go back to his country. He’ll fall by the sword in his own land.”’”</span></i><b><span style='font-size:12.0pt;line-height:115%'>   </span></b></span></span></p>
+
+<p class="section-ref">2 Kg 19:1-7</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height: 115%'>The Rabshakeh went back and found the king of Assyria fighting Libnah, because he’d heard that the king had left Lachish. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%'>When he heard them say that Tirhakah [Taharqa], king of Nubia,<i> </i>had set out to fight him<i>,</i> he sent messengers back again to Hezekiah, </span></span></p>
@@ -44,7 +46,9 @@ next: chapter-20
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%'>“Yahveh God of Israel Enthroned Above the Cherubs, you alone are God over the kingdoms. You made earth and sky. </span></i><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%'>Incline your ear and hear; open your eyes and see. Listen to what Sennacherib has sent to disparage the living God. </span></i></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%'>Assyria’s kings <u>have</u> devastated the nations and their lands. </span></i></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%'>They’ve burned their gods because they weren’t gods, just man-made </span></i><span style='font-size:12.0pt; line-height:115%'>pieces of <i>wood and stone. </i></span></span>
-<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%'>But now, Yahveh our God, deliver us from him so the kingdoms can know that you alone are God.”</span></i><b><span style='font-size:12.0pt;line-height:115%'>        </span></b><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 19:8-19</span></b></span></p>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%'>But now, Yahveh our God, deliver us from him so the kingdoms can know that you alone are God.”</span></i><b><span style='font-size:12.0pt;line-height:115%'>        </span></b></span></span></p>
+
+<p class="section-ref">2 Kg 19:8-19</p>
 
 
 ### Isaiah Prophesies Sennacherib’s Fall
@@ -67,9 +71,8 @@ next: chapter-20
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%'>                        proudly lifted up your eyes against?</span></i></p>
 
-
-### The Holy One of Israel!
-
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%'>                  The Holy One of Israel!</span></i><b><span style='font-size:12.0pt;line-height:115%'>
+   </span></b></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%'>                  </span></i><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%'>By your ambassadors you’ve disparaged Yahveh.</span></i></span></p>
 
@@ -87,7 +90,9 @@ next: chapter-20
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%'>                              with the sole</span></i><span style='font-size:12.0pt;line-height:115%'>s<i> of my feet, I dried up</i></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%'>                                    the streams in Egypt.”</span></i><b><span style='font-size:10.0pt;line-height:115%'> 2 Kg 19:20-24</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%'>                                    the streams in Egypt.”</span></i></span></p>
+
+<p class="section-ref">2 Kg 19:20-24</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%'>                  </span></i><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <i><span style='font-size:12.0pt;line-height:115%'>‘But haven’t you heard?</span></i></span></p>
 
@@ -123,7 +128,9 @@ next: chapter-20
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%'>                              my bridle in your jaws,</span></i></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%'>                              and turn you back the way you came.</span></i><b><span style='font-size:12.0pt; line-height:115%'>                  </span></b><b><span style='font-size:10.0pt; line-height:115%'>2 Kg 19:25-28</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%'>                              and turn you back the way you came.</span></i><b><span style='font-size:12.0pt; line-height:115%'>                  </span></b></span></p>
+
+<p class="section-ref">2 Kg 19:25-28</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%'>‘This will show you what I mean: this year you’ll eat what volunteers, next year what sprouts from that, and in the third year sow, reap, plant vineyards, and eat what they produce. </span></i></span>
 <span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%'>The surviving remnant of Judah will take root downward and bear fruit upward. </span></i></span>
@@ -135,7 +142,9 @@ next: chapter-20
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height: 115%'>That night the angel of Yahveh struck 185,000 in the Assyrian camp. When people got up early, the Assyrians were all dead. </span></span>
 <span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%'>Sennacherib went home to live in Nineveh. </span></span>
-<span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%'>As he was worshiping in the temple of his god Nisroch, Adrammelech and Sharezer killed him with the sword and escaped to Ararat. His son Esarhaddon became king.<b>                                                    </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 19:29-37</span></b></span></p>
+<span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%'>As he was worshiping in the temple of his god Nisroch, Adrammelech and Sharezer killed him with the sword and escaped to Ararat. His son Esarhaddon became king.<b>                                                    </b></span></span></p>
+
+<p class="section-ref">2 Kg 19:29-37</p>
 
 
 <style>

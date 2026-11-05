@@ -13,7 +13,7 @@ next: chapter-37
 
 <p class="MsoNormal" align=center style='margin-top:0in; margin-bottom:0in;margin-left:0in;text-align:center'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esau’s (Edom’s) Generations </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esau married Canaanite women: <u>Adah</u> daughter of Elon the Hittite; <u>Oholibamah</u> daughter of Anah and granddaughter of Zibeon the Hivite; </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esau married Canaanite women: <u>Adah</u> daughter of Elon the Hittite; <u>Oholibamah</u> daughter of Anah and granddaughter of Zibeon the Hivite; </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and
 <u>Basemath</u>/</span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Mahalath</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Ishmael’s daughter, sister of Nebaioth. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Adah had Eliphaz; Basemath had Reuel, </span></span>
@@ -90,9 +90,7 @@ next: chapter-37
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                        <u>Jobab</u> son of Zerah from Bozrah ruled. </span><span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died, and                     </span></span></p>
 
-
-### Husham from the land of the Temanites ruled. 35He died, and
-
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        <u>Husham</u> from the land of the Temanites ruled. </span><span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died, and</span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        <u>Hadad</u> son of Bedad (</span><span style='font-family:"Times New Roman",serif'>who defeated Midian in Moab</span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>) ruled. </span><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died, and </span></span></p>
 
@@ -107,7 +105,7 @@ next: chapter-37
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:3.0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>       daughter of Matred, daughter of Mezahab.</span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><a name="_Hlk125370241"><span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The chiefs that descended from Esau by family, locality, and name: Timna, Alvah, Jetheth, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The chiefs that descended from Esau by family, locality, and name: Timna, Alvah, Jetheth, </span></span>
 <span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Oholibamah, Elah, Pinon, </span></span>
 <span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Kenaz, Teman, Mibzar, </span></span>
 <span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Magdiel, and Iram </span></span></p>

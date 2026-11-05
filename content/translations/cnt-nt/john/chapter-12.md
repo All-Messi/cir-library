@@ -38,9 +38,7 @@ next: chapter-13
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>“‘Hosanna!</i></b></span></p>
 
-
-### Blessed be the One that’s coming in the name of the LORD,’
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Blessed be the One that’s coming in the name of the L</span></i></b><b><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i></b><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,’</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> the King of Israel!”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span><b><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>[Ps 118:25-26]</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.</span></p>
 
@@ -48,9 +46,7 @@ next: chapter-13
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t be afraid, people of Zion.</span></i></b></span></p>
 
-
-### Look! Your king’s coming,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Look! Your king’s coming,</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    riding on a donkey’s colt”</span></i></b><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Zech 9:9]</span></b><b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>.</span></b></p>
 

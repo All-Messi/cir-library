@@ -57,9 +57,7 @@ next: chapter-45
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After he’s defiled, he’ll wait a week </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>and then be clean. </span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The day he goes into the inner court of the sanctuary to minister, he’s to offer a sin offering for himself.”  </span></i></span></p>
 
-
-### Ezek 44:15-27
-
+<p class="section-ref">Ezek 44:15-27</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t give them an inheritance in Israel; I’m their possession. </span></i></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’ll eat the grain offering, sin offering, and guilt offering. Every devoted thing in Israel will belong to them. </span></i></span>

@@ -29,7 +29,7 @@
                 {{ end }}
                     <div class="hp-bookcard-body">
                         <div class="hp-bookcard-cat">{{ $book.Parent.Title }}</div>
-                        <h3>{{ $book.Title }}</h3>
+                        <h3>{{ replace $book.Title " (Book)" "" }}</h3>
                         <p>{{ $book.Content | plainify | truncate 80 }}</p>
                         {{ if gt $chapterCount 0 }}
                         <span class="hp-cta">Read</span>

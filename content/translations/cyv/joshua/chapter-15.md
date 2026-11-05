@@ -99,9 +99,7 @@ next: chapter-16
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gederoth, Beth-dagon, Naamah, and Makkedah—16 towns with their villages </span></span></p>
 
-
-### Josh 15:33-41
-
+<p class="section-ref">Josh 15:33-41</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Libnah, Ether, Ashan, </span></span></p>
 

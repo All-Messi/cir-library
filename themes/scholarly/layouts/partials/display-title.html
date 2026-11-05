@@ -1,0 +1,8 @@
+{{- /* display-title.html — a title as readers and search engines should see it (2026-11-04).
+       Mixed-case titles are left exactly as written; ALL-CAPS converter titles go through
+       title-case.html (which restores NT/OT/IP/PhD...). `lower | title` on a mixed-case
+       title would mangle acronyms ("Ip Impact on Topics").
+       Usage: {{ partial "display-title.html" .Title }} */ -}}
+{{- $t := . | default "" -}}
+{{- if not (findRE `\p{Ll}` $t 1) }}{{ $t = partial "title-case.html" $t }}{{ end -}}
+{{- return $t -}}

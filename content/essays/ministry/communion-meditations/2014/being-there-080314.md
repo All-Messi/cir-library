@@ -1,7 +1,7 @@
 ---
 title: "Being There"
 date: '2014-08-03'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

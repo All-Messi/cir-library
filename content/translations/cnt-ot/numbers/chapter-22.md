@@ -15,7 +15,7 @@ next: chapter-23
 ### Balak Summons Balaam
 
 
-<p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><a name="_Hlk126703137"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel traveled and camped in the plains of Moab across the Jordan from Jericho. </span></span>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Israel traveled and camped in the plains of Moab across the Jordan from Jericho. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balak son of Zippor saw what Israel did to the Amorites. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The people of Moab were afraid of them because there were so many of them. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king of Moab told the elders in Midian, </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“This horde will eat up everything around us like an ox eats up grass in a pasture.” </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balak, king of Moab at the time, </span></span>
@@ -41,7 +41,7 @@ next: chapter-23
 
 <p class="section-ref">Num 22:7-13</p>
 
-<p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><a name="_Hlk126703346"><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They went back to Balak, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“Balaam wouldn’t come with us.”</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They went back to Balak, </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>“Balaam wouldn’t come with us.”</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" ><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balak sent a bigger group of more distinguished officials, </span></span></p>
 
@@ -60,7 +60,7 @@ next: chapter-23
 ### Balaam and His Donkey
 
 
-<p class="MsoListBulletCxSpMiddle" ><a name="_Hlk126703518"><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balaam got up in the morning, saddled his donkey, and went with them. </span></span>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balaam got up in the morning, saddled his donkey, and went with them. </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But God was angry because he was going, and the angel of the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> stood in the road to hinder him. He was riding his donkey, and his two servants were with him. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the donkey saw the angel standing there with his sword drawn, she went off the road into a field, but Balaam hit her to get her back on the road. </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then the angel stood in a narrow path between vineyards with a wall on both sides. </span></span>
@@ -91,7 +91,7 @@ next: chapter-23
 
 <p class="section-ref">Num 22:28-35</p>
 
-<p class="MsoListBulletCxSpMiddle" ><a name="_Hlk126703699"><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Balak heard Balaam was coming, he went out to meet him at the city of Moab on the Arnon border. </span></span>
+<p class="MsoListBulletCxSpMiddle" ><span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Balak heard Balaam was coming, he went out to meet him at the city of Moab on the Arnon border. </span></span>
 <span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“Didn’t I urgently call you? Why didn’t you come? Am I really not able to honor you</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>?” </span></span>
 <span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Balaam said, </span><i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>“I’m here! Can I say </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>just
 </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>anything? I’ll say what God tells me.” </span></i></span>

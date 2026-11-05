@@ -11,7 +11,7 @@ next: chapter-11
 
 ## Isaiah Chapter 10
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         <a name="_Hlk86921995"></a><a name="_Hlk123273417">10<sup>:1</sup></a></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Misfortune awaits judges that enact unfair laws</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Misfortune awaits judges that enact unfair laws</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        and render illegal verdicts,</span></p>
 
@@ -37,9 +37,7 @@ next: chapter-11
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              or fall among the slain.</span></p>
 
-
-### Even then, his anger won’t be spent;
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span><b><span style='font-family:"Times New Roman",serif'>Even then, his anger won’t be spent;</span></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-family:"Times New Roman",serif'>                        his fist will still be raised.</span></b><span style='font-family:"Times New Roman",serif'>                                            </span></p>
 
@@ -49,7 +47,7 @@ next: chapter-11
 ### Judgment Against Assyria
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123273532"><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  </span></a><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Misfortune awaits Assyria, </span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>                  </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Misfortune awaits Assyria, </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              the club my anger is using,</span></i></p>
 
@@ -87,7 +85,7 @@ next: chapter-11
 
 <p class="section-ref">Is 10:5-11</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk86922491"></a><a name="_Hlk123273719"><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So when the Lord finishes <i>using Assyria to</i> complete his work on Mount Zion and in Jerusalem, <i>he’ll say, “I’ll punish the arrogant king of Assyria and his pompous pride.”</i> </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So when the Lord finishes <i>using Assyria to</i> complete his work on Mount Zion and in Jerusalem, <i>he’ll say, “I’ll punish the arrogant king of Assyria and his pompous pride.”</i> </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s because</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> he brags,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  <i>            “I did this by my own power and wisdom,</i></span></p>
@@ -112,7 +110,7 @@ next: chapter-11
 
 <p class="section-ref">Is 10:12-14</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123273811"><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>            </span></i></a><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> should an axe brag </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> should an axe brag </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                              about being mightier than the <i>woodsman</i> that chops with it?</span></p>
 
@@ -152,7 +150,7 @@ next: chapter-11
 ### Hope for the Remnant
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><a name="_Hlk86922705"></a><a name="_Hlk123273934"><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, the remnant in Israel and the survivors in Judah that escaped will have the sense to never again rely on allies that want to destroy them. They’ll rely on the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>, the Holy One of Israel, </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At that time, the remnant in Israel and the survivors in Judah that escaped will have the sense to never again rely on allies that want to destroy them. They’ll rely on the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>, the Holy One of Israel, </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21-22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the Mighty God. </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then, even though Israel was as numerous as sand by the sea, only a remnant will return. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Lord G</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>OD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> will carry out the total destruction he’s decreed.</span></span></p>
@@ -166,7 +164,7 @@ next: chapter-11
 
 <p class="section-ref">Is 10:20-27</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><a name="_Hlk123274032"><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>            </span></i></a><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
 <i>Assyrians</i> have passed through Migron,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        attacked Aiath,</span></p>

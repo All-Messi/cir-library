@@ -11,7 +11,7 @@ next: chapter-13
 
 ## Hebrews Chapter 12
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So also having such (a) great cloud of-witnesses, having laid-aside every weight and the easily-besetting sin, through perseverance, let-us-run the set-before us race, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So also having such (a) great cloud of-witnesses, having laid-aside every weight and the easily-besetting sin, through perseverance, let-us-run the set-before us race, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>looking-away to the leader and perfecter of-the/our faith, Jesus, who, for the set-before him joy, endured (the) cross, having-disregarded (the) shame, and has-sat-down on (the) right-(hand) of-the throne of-[the] God.  </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>for consider the-One having-endured such verbal-hostility against himself by [the] sinners, in-order-that you┘not└get-discouraged, fainting in the souls of-you.</span></span></p>
 

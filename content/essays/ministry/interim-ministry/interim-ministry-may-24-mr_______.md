@@ -1,11 +1,14 @@
 ---
-title: "Interim Ministry May 24 Mr._______,"
-author: "Virgil Warren, christir.org"
+title: "Interim Ministry"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-12
 categories:
 - 'Ministry'
 - 'Interim Ministry'
 draft: false
+aliases:
+- /essays/ministry/interim-ministry/interim-ministry/
 ---
 
 <style>
@@ -30,8 +33,7 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Interim Ministry</span></p>
+
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
 style='font-size:12.0pt'>&nbsp;</span></p>

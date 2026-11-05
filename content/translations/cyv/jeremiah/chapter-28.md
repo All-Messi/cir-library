@@ -33,6 +33,9 @@ next: chapter-29
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Hananiah grabbed the yoke off Jeremiah’s neck and broke it. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told the people, <i>“Yahveh says, ‘In the same way, two years from now I’ll break Nebuchadnezzar’s yoke from off the neck of all the nations.’”</i></span></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jeremiah left.<b>
+</b></span></p>
+
 <p class="section-ref">Jer 28:6-11</p>
 
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-bottom:0in; text-align:center'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A Message from Yahveh to Jeremiah</span></span></p>

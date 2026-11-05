@@ -63,6 +63,11 @@ next: chapter-19
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Rekem, Irpeel, Taralah, </span></span>
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Zelah, Haeleph, Jebus (</span><span style='font-family:"Times New Roman",serif'>Jerusalem</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>), Gibeah, and Kiriath-jearim—14 towns with their villages. </span></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That was Benjamin’s inheritance by clans.<b>
+                        </b></span></p>
+
+<p class="section-ref">Josh 18:21-28</p>
+
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

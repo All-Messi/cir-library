@@ -1,7 +1,9 @@
 {{ define "main" }}
 
 {{/* ── BOOK CHAPTER NAV (only if parent section is a book) ── */}}
-{{ $isBook := or (eq .Parent.Params.layout "book-toc") (.Parent.Params.book) }}
+{{ $isBook := or (eq .Parent.Params.layout "book-toc") (.Parent.Params.book) (.Parent.Params.book_redirect) }}
+{{/* Communion meditations are dated: lists and prev/next go by date, and the page shows it (2026-11-04). */}}
+{{ $isMed := strings.Contains .RelPermalink "/communion-meditations/" }}
 {{ $pages := .Parent.RegularPages.ByWeight }}
 {{ $currentIdx := 0 }}
 {{ range $i, $p := $pages }}{{ if eq $p.Permalink $.Permalink }}{{ $currentIdx = $i }}{{ end }}{{ end }}
@@ -12,7 +14,7 @@
 
 {{ if $isBook }}
 <nav class="book-chapter-nav book-chapter-nav-top" data-pagefind-ignore>
-    <a href="{{ with .Parent.Params.book_redirect }}{{ . | absURL }}{{ else }}{{ .Parent.Permalink }}{{ end }}" class="book-nav-back">← {{ .Parent.Title }}</a>
+    <a href="{{ with .Parent.Params.book_redirect }}{{ . | absURL }}{{ else }}{{ .Parent.Permalink }}{{ end }}" class="book-nav-back">← {{ replace .Parent.Title " (Book)" "" }}</a>
     <span class="book-nav-chapter">Ch. {{ add $currentIdx 1 }} of {{ len $pages }}</span>
 </nav>
 {{ if $hasPrev }}<a href="{{ $prev.Permalink }}" class="book-float-arrow book-float-prev" title="Previous chapter">‹</a>{{ end }}
@@ -20,7 +22,7 @@
 {{ end }}
 
 {{- /* Pagefind (2026-10-28): index this page as an essay; filters/meta drive search.html */ -}}
-{{ $cats := slice }}{{ range .Params.categories }}{{ $cats = $cats | append (replace (. | lower | title) "," " /") }}{{ end }}
+{{ $cats := slice }}{{ range .Params.categories }}{{ $cats = $cats | append (replace (partial "category-label.html" .) "," " /") }}{{ end }}
 <div class="es-page" data-pagefind-body>
     {{ partial "pagefind-tags.html" (dict
         "filter" (dict "type" "essay" "kind" .Params.content_kind)
@@ -31,7 +33,7 @@
         {{ range .Ancestors.Reverse }}
             {{ if and (ne .Kind "home") (ne .Kind "taxonomy") }}
                 {{ if ne .RelPermalink ($.FirstSection.RelPermalink) }}
-                <span class="es-sep">›</span> <a href="{{ .Permalink }}">{{ .Title | lower | title }}</a>
+                <span class="es-sep" aria-hidden="true">›</span> <a href="{{ .Permalink }}">{{ partial "display-title.html" .Title }}</a>
                 {{ end }}
             {{ end }}
         {{ end }}
@@ -39,11 +41,14 @@
     {{ end }}
 
     <header class="es-header">
-        <h1>{{ .Title | lower | title }}</h1>
-        {{ with .Params.subtitle }}<p class="es-subtitle">{{ if findRE `[a-z]` . }}{{ . }}{{ else }}{{ partial "title-case.html" . }}{{ end }}</p>{{ end }}
+        <h1>{{ partial "lang-greek.html" (partial "display-title.html" .Title) }}</h1>
+        {{ with .Params.subtitle }}<p class="es-subtitle">{{ if findRE `[a-z]` . }}{{ partial "lang-greek.html" . }}{{ else }}{{ partial "lang-greek.html" (partial "title-case.html" .) }}{{ end }}</p>{{ end }}
         <div class="es-header-accent"></div>
         <div class="es-header-meta" data-pagefind-ignore>
             {{ if .Params.author }}<span class="es-author">{{ .Params.author }}</span>{{ end }}
+            {{ if and $isMed (not .Date.IsZero) }}<time class="es-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>{{ end }}
+            {{/* No "Last revised" line for readers (Allen, 2026-11-04): ~450 essays share one July
+                 2025 review-pass date. lastmod still feeds dateModified and the sitemap. */}}
             {{ partial "pdf-link.html" . }}
         </div>
         {{ with .Params.content_kind }}
@@ -101,18 +106,18 @@
 
     {{ if not $isBook }}
     <nav class="es-bottom-nav" data-pagefind-ignore>
-        <a href="{{ .Parent.Permalink }}" class="es-back-link">← Back to {{ .Parent.Title | lower | title }}</a>
+        <a href="{{ .Parent.Permalink }}" class="es-back-link">← Back to {{ partial "display-title.html" .Parent.Title }}</a>
         <div class="es-prev-next">
-            {{ $siblings := .Parent.RegularPages.ByTitle }}
+            {{ $siblings := cond $isMed .Parent.RegularPages.ByDate .Parent.RegularPages.ByTitle }}
             {{ $sibIdx := 0 }}
             {{ range $i, $p := $siblings }}{{ if eq $p.Permalink $.Permalink }}{{ $sibIdx = $i }}{{ end }}{{ end }}
             {{ if gt $sibIdx 0 }}
                 {{ $sp := index $siblings (sub $sibIdx 1) }}
-                <a href="{{ $sp.Permalink }}" class="es-nav-prev">← {{ $sp.Title | lower | title | truncate 40 }}</a>
+                <a href="{{ $sp.Permalink }}" class="es-nav-prev">← {{ partial "display-title.html" $sp.Title | truncate 40 }}</a>
             {{ end }}
             {{ if lt (add $sibIdx 1) (len $siblings) }}
                 {{ $sn := index $siblings (add $sibIdx 1) }}
-                <a href="{{ $sn.Permalink }}" class="es-nav-next">{{ $sn.Title | lower | title | truncate 40 }} →</a>
+                <a href="{{ $sn.Permalink }}" class="es-nav-next">{{ partial "display-title.html" $sn.Title | truncate 40 }} →</a>
             {{ end }}
         </div>
     </nav>
@@ -128,11 +133,11 @@
     border-bottom: 1px solid #f0eeea;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 0.85rem;
-    color: #888;
+    color: #666;
 }
 .es-breadcrumb a { color: #666; text-decoration: none; }
 .es-breadcrumb a:hover { color: #2f4c3a; }
-.es-sep { margin: 0 0.35rem; color: #ccc; }
+.es-sep { margin: 0 0.35rem; color: #767676; }
 
 /* Header */
 .es-header {
@@ -184,11 +189,14 @@
     justify-content: center;
     gap: 0.75rem;
 }
-.es-author {
+.es-author, .es-date {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 0.9rem;
-    color: #777;
+    color: #666;
 }
+.es-author + .es-date::before { content: "·"; margin-right: 0.75rem; color: #999; }
+.es-revised { white-space: nowrap; }
+@media (max-width: 480px) { .es-header-meta { flex-wrap: wrap; row-gap: 0.4rem; } }
 .es-badges {
     display: flex;
     justify-content: center;
@@ -257,7 +265,7 @@
 .es-toc li:last-child a { border-bottom: none; }
 .es-toc a:hover { color: #2f4c3a; }
 .es-toc ul ul { padding-left: 0.65rem; }
-.es-toc ul ul a { font-size: 0.7rem; color: #888; }
+.es-toc ul ul a { font-size: 0.7rem; color: #6b6b6b; }
 
 /* Content body — narrower for readability */
 .es-content {

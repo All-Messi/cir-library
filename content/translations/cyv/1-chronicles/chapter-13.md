@@ -31,7 +31,9 @@ next: chapter-14
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>David was mad because Yahveh “lashed out against Uzza,” and has called the place Perez-uzza ever since. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David was afraid of God that day, <i>“How </i></span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>can I bring the Ark home to me?” </span></i></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So he didn’t take it to The City of David but to the house of Obed-edom the Gittite nearby. </span></span>
-<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It stayed with his family for three months, and Yahveh blessed them and everybody he had.                                                                                                                              </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 13:1-14</span></b></span></p>
+<span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>It stayed with his family for three months, and Yahveh blessed them and everybody he had.                                                                                                                              </span></span></p>
+
+<p class="section-ref">1 Ch 13:1-14</p>
 
 
 <style>

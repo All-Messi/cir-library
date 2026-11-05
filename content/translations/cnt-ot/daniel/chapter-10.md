@@ -33,15 +33,13 @@ next: chapter-11
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A hand took hold of me and helped me up shaking onto my hands and knees. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, <i>“Daniel, man highly esteemed, understand what I’m about to tell you. Stand up; I’ve been sent to you.”</i> </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124494777"><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> I stood up shaking. </span></a></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> I stood up shaking. </span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t be afraid. You’ve been heard from the first day you determined to understand this and humble yourself before your God. I’ve come in answer to what you’ve said. </span></i></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The prince of Persia resisted me for two days. Then Michael, one of the chief princes, came to help me because I’d been left there with the kings of Persia. </span></i></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now I’ve come to let you understand what will happen to your people later. The vision deals with the future.”</span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> <b>                   </b></span></span></p>
 
-
-### Dan 10:10-14
-
+<p class="section-ref">Dan 10:10-14</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he said that, I looked down at the ground speechless. </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Someone resembling a man touched my lips, and I said to the one standing in front of me, </span></span></p>
@@ -55,7 +53,7 @@ next: chapter-11
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>As soon as he spoke, my strength came back, and I said, <i>“Go ahead and speak; you’ve strengthened me.”</i> </span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk124495442"><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, <i>“Do you understand why I’ve come? I’m going back now to fight the prince of Persia. The prince of Greece is coming, </i></span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, <i>“Do you understand why I’ve come? I’m going back now to fight the prince of Persia. The prince of Greece is coming, </i></span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but I’ll tell you what’s inscribed in the Book of Truth. There’s nobody standing firmly with me against those forces except Michael your prince. </span></i></span></p>
 
 

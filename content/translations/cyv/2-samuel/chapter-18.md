@@ -31,7 +31,7 @@ next: chapter-19
 
 <p class="section-ref">2 Sam 18:1-8</p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><a name="_Hlk126066436"><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> </a><span style='font-size:12.0pt;line-height:115%'>Absalom happened to meet <i>some of</i> David’s men. He was trying to escape on his mule, and it went under the thick branches of a big terebinth tree. His hair got tangled up in them and left him hanging as the mule kept going. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%'>Absalom happened to meet <i>some of</i> David’s men. He was trying to escape on his mule, and it went under the thick branches of a big terebinth tree. His hair got tangled up in them and left him hanging as the mule kept going. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height: 115%'>One fellow told Joab, <i>“I saw Absalom hanging from a terebinth tree.”</i>
 </span></span></p>
 

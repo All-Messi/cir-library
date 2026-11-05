@@ -33,8 +33,6 @@ prev: chapter-30
 
 <p class="section-ref">1 Sam 31:8-13</p>
 
-<p class="MsoListBulletCxSpLast" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

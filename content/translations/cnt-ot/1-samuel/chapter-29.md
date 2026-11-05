@@ -24,10 +24,10 @@ next: chapter-30
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>‘Saul has slain his thousands,</i></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            David his ten thousands!’?”</span></i><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>
+</span></b></span></p>
 
-### David his ten thousands!’?”
-1 Sam 29:1-5
-
+<p class="section-ref">1 Sam 29:1-5</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Achish called David, </span></span></p>
 

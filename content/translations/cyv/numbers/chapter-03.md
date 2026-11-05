@@ -19,7 +19,7 @@ next: chapter-04
 ### Duties of Levites
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt; '><a name="_Hlk126761679"><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of Aaron were Nadab, the firstborn, Abihu, Eleazar, and Ithamar—</span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt; '><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of Aaron were Nadab, the firstborn, Abihu, Eleazar, and Ithamar—</span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>anointed and ordained as priests. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the Wilderness of Sinai, Nadab and Abihu died from offering before Yahveh fire different from what he’d commanded. They didn’t have any children, so Eleazar and Ithamar served as priests during Aaron’s lifetime.
 </span></span></p>
@@ -38,7 +38,9 @@ next: chapter-04
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“I’ve taken the Levites from the people in place of the firstborn. </span></i></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The firstborn belong to me. When I struck down the firstborn in Egypt, I set apart to myself the firstborn people and animals in Israel. The Levites belong to me;
-<u>I’m Yahveh</u>.”        </span></i><i><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Num</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>3:5-13</span></b></span></p>
+<u>I’m Yahveh</u>.”</span></i><i><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Num 3:5-13</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-left:4.5pt;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>          </span><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh told Moses in the Wilderness of Sinai, </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Count the descendants of Levi by families—every male a month old and up.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>

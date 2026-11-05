@@ -22,7 +22,9 @@ next: chapter-11
 <b>Jair</b> from Gilead arose and judged Israel 22 years. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He had 30 sons that rode 30 donkeys and had 30 “towns” people still call Havvoth-jair in Gilead. </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He died and was buried in Kamon.
-</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 10:1-5</span></b></span></p>
+</span></span></p>
+
+<p class="section-ref">Jud 10:1-5</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Again, Israel sinned and served the images of Baal and Ashtoreth, and the gods of Aram, Sidon, Moab, the Ammonites and Philistines. They forsook Yahveh. </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His anger flared at them, and he sold them to the Ammonites and Philistines. </span></span>
@@ -40,7 +42,9 @@ next: chapter-11
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They said to Yahveh, <i>“We’ve sinned. Do whatever you think’s good. Just deliver us today, please.” </i></span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They put away the foreign gods and served Yahveh; he couldn’t bear Israel’s misery any longer.<i> </i></span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Ammonites called to arms and encamped in Gilead. Israel came together and camped in Mizpah. </span></span>
-<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The leaders in Gilead said to one another, <i>“Whoever will lead the fight against the Ammonites will rule everyone in Gilead.”             </i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 10:6-18</span></b></span></p>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The leaders in Gilead said to one another, <i>“Whoever will lead the fight against the Ammonites will rule everyone in Gilead.”             </i></span></span></p>
+
+<p class="section-ref">Jud 10:6-18</p>
 
 
 <style>

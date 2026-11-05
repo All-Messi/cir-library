@@ -34,9 +34,14 @@ jobs:
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
-          HUGO_ENVIRONMENT: production
+          # Staging is a public mirror: build it as NON-production so Google Analytics stays
+          # off and every page carries <meta name="robots" content="noindex,nofollow"> plus a
+          # canonical link to https://christir.org (2026-11-04, site comb 3.1).
+          # Production builds only in deploy-production.yml.
+          HUGO_ENVIRONMENT: staging
         run: |
           hugo \
+            --environment staging \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Build search index (Pagefind)

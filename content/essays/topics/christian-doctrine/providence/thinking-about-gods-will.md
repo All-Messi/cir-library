@@ -2,6 +2,8 @@
 title: "THINKING ABOUT GODS WILL"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2013-10-02
+lastmod: 2025-07-12
 categories:
 - 'Topics'
 - 'Christian Doctrine'

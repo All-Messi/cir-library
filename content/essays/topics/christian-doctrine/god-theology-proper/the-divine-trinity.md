@@ -2,6 +2,7 @@
 title: "THE DIVINE TRINITY"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2026-03-29
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -252,7 +253,7 @@ John<b> 1</b>:33f</span></p>
 procession of the Spirit: John <b>14</b>:16, 26           </span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>      
-                                <img width=219 height=109 id="Picture 2"
+                                <img alt="Triangle: Father, Son, Holy Spirit; pray, send, another (John 14:16, 26)" width=219 height=109 id="Picture 2"
 src="/images/essays/the-divine-trinity/image001.png"></span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>&nbsp;</span></p>
@@ -457,7 +458,7 @@ in which God presents himself. (But see John <b>1</b>:2; <b>17</b>:5.)</span></p
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:12.0pt'>                                   
-<img width=245 height=157 id="Picture 1" src="/images/essays/the-divine-trinity/image002.png"></span></p>
+<img alt="Circle of God with Son and HS going out and returning" width=245 height=157 id="Picture 1" src="/images/essays/the-divine-trinity/image002.png"></span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:8.0pt'>&nbsp;</span></p>
 

@@ -10,10 +10,6 @@ prev: chapter-01
 
 ## Haggai Chapter 2
 
-
-### Hag 1:7-15
-
-
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-top:0in;margin-bottom:0in;margin-left:0in;text-align:center'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The
 <b>Twenty-First Day, Seventh Month</b></span></span></p>
 
@@ -59,13 +55,11 @@ prev: chapter-01
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:1.0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“That’s the way it is with this nation. Everything you do and everything you offer is unclean. </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Think about what was happening before you began to place one stone on another in the L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>’s Temple: </span></i></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>f you went to a grain pile to get 20 measures, there’d only be 10 </span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>left<i>; if you went to a wine vat to draw 50 measures, there’d only be 20 </i>left<i>. </i></span></span>
-<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You and everything you did, I struck with blasting wind, mildew, and hail; but you didn’t come back to me. </span></i><a name="_Hlk148628802"></span>
-<span class="verse verse-v18" id="v18"><sup class="verse-num">18-19</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You and everything you did, I struck with blasting wind, mildew, and hail; but you didn’t come back to me. </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18-19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But
 <i>notice this</i>:<i> The seed is still in the granary; the grapevines, fig trees, pomegranates, and olive trees have not started to bear—but from <b>this twenty-fourth day of the ninth month </b>on, when you’ve begun laying the foundation for the Temple—I’ll be blessing you.”</i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>  </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></b></span></p>
 
-
-### Hag 2:10-19
-
+<p class="section-ref">Hag 2:10-19</p>
 
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-top:0in;margin-bottom:0in;margin-left:0in;text-align:center'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> The
 <i>Same Day:</i> <b>Twenty-Fourth Day of the Month</b></span></span></p>
@@ -82,11 +76,7 @@ prev: chapter-01
 
 <p class="MsoListBulletCxSpLast" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                        </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I, the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> of hosts, have spoken.<i>”</i>       </span></p>
 
-
-### Hag 2:20-23
-
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
+<p class="section-ref">Hag 2:20-23</p>
 
 
 <style>

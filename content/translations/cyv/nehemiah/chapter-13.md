@@ -11,10 +11,6 @@ prev: chapter-12
 ## Nehemiah Chapter 13
 
 
-### Neh 12:44-47
-
-
-
 ### Nehemiah’s Final Reforms
 
 
@@ -62,14 +58,10 @@ prev: chapter-12
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Even one of the sons of Joiada Ben-Eliashib the high priest, was a son-in-law of Sanballat; so I banished him. </span></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Remember them, God, for defiling the priesthood and the covenant between the priesthood and the Levites. <b>                                            </b></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I purified them from everything foreign and appointed specific duties for the priests and the Levites. </span><a name="_Hlk125804907"></span>
-<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I arranged for the supply of wood at appointed times and for the firstfruits of harvest <i>to be brought in </i>at the appointed times. </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Remember me, God, for the good I’ve done.</span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>                 </span></b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I purified them from everything foreign and appointed specific duties for the priests and the Levites. </span></span>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I arranged for the supply of wood at appointed times and for the firstfruits of harvest <i>to be brought in </i>at the appointed times. </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Remember me, God, for the good I’ve done.</span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>                 </span></b></span></p>
 
-
-### Neh 13:19-31
-
-
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
+<p class="section-ref">Neh 13:19-31</p>
 
 
 <style>

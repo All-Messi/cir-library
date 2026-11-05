@@ -61,9 +61,7 @@ next: chapter-07
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Amram</span></u><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> married his father’s sister Jochebed. She had <b>Aaron and </b></span></span></p>
 
-
-### Moses. Amram lived 137 years.
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.5in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Moses</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>. Amram lived 137 years.         </span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The sons of <u>Izhar</u>: <u>Korah</u>, Nepheg, and Zichri</span></span></p>
 

@@ -27,7 +27,9 @@ next: chapter-07
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> has already decided what’s going to happen, including what each of us will be. We can’t argue with him about it; he’s stronger than we are. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The more we say the less it means; so what’s the point of talking? </span></span>
-<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who knows what’s good for us anyway during the few years of our pointless life? They’ll go by like a shadow, and who can tell us what will happen under the sun when they’re done?       </span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>Eccl 6:10-12</span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></span></p>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Who knows what’s good for us anyway during the few years of our pointless life? They’ll go by like a shadow, and who can tell us what will happen under the sun when they’re done?</span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Eccl 6:10-12</p>
 
 
 <style>

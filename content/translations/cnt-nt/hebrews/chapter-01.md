@@ -76,9 +76,7 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and change</span></i></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> <b>them</b> like a robe.</span></i></p>
 
-
-### But you’re the same;
-
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b>But you’re the same; </b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>your years won’t end”</span></i></b><b><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Ps 102:25-27].</span></b></p>
 

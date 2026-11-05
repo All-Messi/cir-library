@@ -2,6 +2,7 @@
 title: "Dictionary of Language Terms and Phrases"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-02-06
 layout: "glossary"
 categories:
 - 'Language'
@@ -14618,7 +14619,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>:
 In Greek and Latin, extent of time is covered by the accusative case on the
 time word with no accompanying preposition: “He worked <i>(for</i>)<i> six
 hours</i>.” The idea can be diagrammed as an arrow: </span><span
-style='font-size:12.0pt;line-height:115%;font-family:Wingdings'></span><span
+style='font-size:12.0pt;line-height:115%;font-family:Wingdings'>→</span><span
 style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.
 English may or may not use <i>for</i> with the time word.         </span></p>
 
@@ -32038,7 +32039,7 @@ within which, indicates the time frame during which some act or event occurred.
 It can be diagrammed as ( . . . ): “She slept <i>during the day</i>.” (3) *Extent
 of time indicates how long some act or event lasted. It can be diagrammed as as
 an arrow </span><span style='font-size:12.0pt;line-height:115%;font-family:
-Wingdings'></span><span style='font-size:12.0pt;line-height:115%;font-family:
+Wingdings'>→</span><span style='font-size:12.0pt;line-height:115%;font-family:
 "Times New Roman",serif'>: “She slept (for) one night.”</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:0in;margin-top:0in;

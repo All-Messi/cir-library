@@ -1,6 +1,6 @@
 ---
 title: "Common Ground and the Distinctive Issue in Atonement Theory"
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 date: '2026-03-13'
 categories:
 - 'Topics'

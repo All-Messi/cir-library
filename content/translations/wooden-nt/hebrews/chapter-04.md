@@ -11,19 +11,15 @@ next: chapter-05
 
 ## Hebrews Chapter 4
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So let-us-fear, lest-at-any-time (a) promise being-left-behind to-enter into the rest of-him, anybody of you would-seem to-fall-short-(of it).  </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So let-us-fear, lest-at-any-time (a) promise being-left-behind to-enter into the rest of-him, anybody of you would-seem to-fall-short-(of it).  </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For we┘also└have-been-given-good-news even-as those-also.  But the word of-[the] hearing did┘not└profit those not having/been/heard.  </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For we┘also└do-enter into [the]<sup>ms</sup> rest, even-as he-has-said,</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b><i>“As I-swore in the wrath of-me,</i></b></span></p>
 
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    </span></i></b><b><i><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>‘if they-will-enter into the rest of-me.’”/     </span></i></b></p>
 
-### ‘if they-will-enter into the rest of-me.’”/
-
-
-
-### ‘they-will-certainly not enter into the rest of-me.’”
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    ‘they-will-certainly not enter into the rest of-me.’”</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>—although the works having-been-brought-into-being from (the) foundation of-(the)-world.
 </span><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For he-has-said in-a-certain-place concerning the seventh (day) thus,</span></span></p>

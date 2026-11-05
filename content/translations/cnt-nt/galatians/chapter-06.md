@@ -14,7 +14,7 @@ prev: chapter-05
 ### Patience with the Sinful
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>6</span></b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>:</span></sup><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If someone gets caught up in some sin, you that are spiritual should humbly restore that person. Keep an eye on yourselves so <u>you</u> don’t get caught up in temptation. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If someone gets caught up in some sin, you that are spiritual should humbly restore that person. Keep an eye on yourselves so <u>you</u> don’t get caught up in temptation. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Share each other’s burdens and fulfill Christ’s ‘law’ that way. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If we think we’re special when we’re not, we’re kidding ourselves. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We each one must examine our own behavior and take pride in it only in respect to ourselves, not </span><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>in comparison t</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>o somebody else. </span></span>
@@ -44,8 +44,6 @@ prev: chapter-05
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The grace of our Lord Jesus Christ </span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>be</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> with your spirit. Amen.</span></span></p>
 
 <p class="section-ref">Gal 6:11-18</p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Translator: Virgil Warren                                                                                                 </span><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
 
 
 <style>

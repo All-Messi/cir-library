@@ -16,7 +16,7 @@ next: chapter-08
 
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>The wall had been rebuilt, and I’d set up the doors and appointed gatekeepers, singers, and Levites. </span></span>
-<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I put Hanani my brother—along with Hananiah commander of the fortress—in charge of Jerusalem <a name="_Hlk146040578">because he was a reliable man that respected God more than most. </a></span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I put Hanani my brother—along with Hananiah commander of the fortress—in charge of Jerusalem because he was a reliable man that respected God more than most. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I told them, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Don’t open the gates till the sun is hot. While they’re standing guard, shut and bolt the doors. Appoint guards from the people that live inside Jerusalem, each at his post by his own house.” </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></p>
@@ -44,10 +44,10 @@ next: chapter-08
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              (descendants of Jeshua and </span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              Joab)                                    2,818
+</span></p>
 
-### Joab)                                    2,818
-Neh 7:6-11
-
+<p class="section-ref">Neh 7:6-11</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Elam                  1,254</span></span></p>
 
@@ -122,10 +122,10 @@ Neh 7:6-11
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              the family of Jehaiah</span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                    (through Jeshua)               973
+</span></p>
 
-### (through Jeshua)               973
-Neh 7:27-39
-
+<p class="section-ref">Neh 7:27-39</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the family of Immer          1,052</span></span></p>
 

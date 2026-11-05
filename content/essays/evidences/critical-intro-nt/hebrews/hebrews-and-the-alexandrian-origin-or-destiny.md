@@ -2,6 +2,8 @@
 title: "HEBREWS AND THE ALEXANDRIAN ORIGIN OR DESTINY"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2023-07-13
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'
@@ -63,7 +65,7 @@ style='font-size:6.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'><img width=332 height=140 id="Picture 1"
+style='font-size:12.0pt'><img alt="Christian teaching linked by allegory to Greek philosophy and Jewish revelation, with heretics and Philo" width=332 height=140 id="Picture 1"
 src="/images/essays/hebrews-and-the-alexandrian-origin-or-destiny/image001.png"></span></p>
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;

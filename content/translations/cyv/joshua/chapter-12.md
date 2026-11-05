@@ -48,6 +48,8 @@ next: chapter-13
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Dor in Naphath-dor, Goiim in Galilee, </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and Tirzah (</span><span style='font-family:"Times New Roman",serif'>31 kings</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>).</span></span></p>
 
+<p class="section-ref">Josh 12:7-24</p>
+
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

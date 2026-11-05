@@ -81,7 +81,7 @@ style='font-size:6.0pt'>                            
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:6.0pt'>                                                                         
-        <img width=157 height=83 src="/images/essays/exercising-leadership-in-the-church/image001.png"></span></p>
+        <img alt="Leadership: leadership → authority; earned → given" width=157 height=83 src="/images/essays/exercising-leadership-in-the-church/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -501,7 +501,7 @@ style='font-size:12.0pt'>                      </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                             <img width=166 height=49
+style='font-size:12.0pt'>                             <img alt="Same matters: authority = influence" width=166 height=49
 src="/images/essays/exercising-leadership-in-the-church/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -609,7 +609,7 @@ style='font-size:6.0pt'><span style='text-decoration:none'>&nbsp;</span></span><
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                   <img width=291
+style='font-size:12.0pt'>                                   <img alt="Same matters: influence; additional matters: authority" width=291
 height=59 src="/images/essays/exercising-leadership-in-the-church/image003.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -746,7 +746,7 @@ responsibility areas.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                         <img
+style='font-size:12.0pt'>                                         <img alt="Purpose → responsibility → authority"
 width=236 height=31 src="/images/essays/exercising-leadership-in-the-church/image004.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
@@ -800,7 +800,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:
 0in;margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                                      <img
+style='font-size:12.0pt'>                                                      <img alt="Responsibility: God → leader → purpose, with members"
 width=144 height=93 src="/images/essays/exercising-leadership-in-the-church/image005.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

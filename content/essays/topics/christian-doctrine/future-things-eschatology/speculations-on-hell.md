@@ -2,6 +2,8 @@
 title: "SPECULATIONS ON HELL"
 author: "Virgil Warren, PhD"
 date: '2026-11-04'
+printed: 2026-09-16
+lastmod: 2026-10-07
 categories:
 - 'Topics'
 - 'Christian Doctrine'

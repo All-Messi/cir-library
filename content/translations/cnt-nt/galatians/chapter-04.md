@@ -15,7 +15,7 @@ next: chapter-05
 ### Slaves and Children
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>4</span></b><sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>:</span></sup><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let me point out that as long as heirs are minors, they’re like servants </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>at present </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>though owners of everything </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>in prospect</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let me point out that as long as heirs are minors, they’re like servants </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>at present </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>though owners of everything </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>in prospect</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’re under guardians and trustees till the time their father specifies. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That’s like us. When we were minors, we were servants to the material-based notions the world operates by. </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But when the time came, God sent out his Son—born by woman under law—</span></span>
@@ -44,7 +44,9 @@ next: chapter-05
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The ones that are confusing you</span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'> aren’t seeking you out for any good reason. They want to lock you out so you’ll look to them </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to get in</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>. </span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But it’s always good to have someone seek you out in a good way, not just when I’m around. </span></span>
 <span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>My children, I’m in labor with you again until Christ forms in you. </span></span>
-<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’d like to be with you now and change my tone. I’m worried about you.           </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gal 4:12-20</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span></p>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I’d like to be with you now and change my tone. I’m worried about you.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Gal 4:12-20</p>
 
 
 ### The Hagar-Sarah Allegory
@@ -63,9 +65,7 @@ next: chapter-05
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        cry out and scream, woman that’s not in labor.</span></i></b></p>
 
-
-### The woman that’s single has more children
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            The woman that’s single has more children</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        than the one with a husband”</span></i></b><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></b><b><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>[Is 54:1].</span></b></p>
 

@@ -11,7 +11,7 @@ next: chapter-12
 
 ## Acts Chapter 11
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the apostles and the brothers the-ones being according-to [the] Judaea heard that the Gentiles also received the word/message of-[the] God. </span></span>
+<p class="MsoNormal" style='margin-top:0in;margin-bottom:0in; margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And the apostles and the brothers the-ones being according-to [the] Judaea heard that the Gentiles also received the word/message of-[the] God. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And when Peter went-up to Jerusalem, the-ones from (the) Circumcision began-to-take-issue with him, </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>saying [that], <i>“You-went-in with men having uncircumcision and ate-with them.”</i> </span></span></p>
 

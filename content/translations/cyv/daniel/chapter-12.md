@@ -24,8 +24,9 @@ prev: chapter-11
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then I saw two others standing on opposite banks of the river. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>One asked the man dressed in linen, who was above the river, <i>“How long will it be till those distressful events end?” </i></span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The man raised his hands toward the sky and swore by the One that lives forever that it would be for a time, times, and half a time. And as soon as they finish shattering the power of the holy people, those things will come to an end. </span></span>
-<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I heard it, but I couldn’t understand it. So I asked, <i>“How will those things end up?”                               </i></span><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Dan 12:5-8</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></i></span></p>
+<span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I heard it, but I couldn’t understand it. So I asked, <i>“How will those things end up?”</i></span><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Dan 12:5-8</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, </span></span></p>
 
@@ -35,8 +36,6 @@ prev: chapter-11
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Live out the rest </span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>of your life<i>. You’ll enter into rest and rise again for your reward at the end of the age.”</i><b>  </b></span></span></p>
 
 <p class="section-ref">Dan 12:9-13</p>
-
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
 
 
 <style>

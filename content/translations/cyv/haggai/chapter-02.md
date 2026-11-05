@@ -54,8 +54,8 @@ prev: chapter-01
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“That’s the way it is with this nation. Everything you do and everything you offer is unclean. </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Think about what was happening before you began to place one stone on another in Yahveh’s Temple: </span></i></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>if you went to a grain pile to get 20 measures, there’d only be 10</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> left<i>. If you went to a wine vat to draw 50 measures, there’d only be 20</i> left<i>. </i></span></span>
-<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You and everything you did, I struck with blasting wind, mildew, and hail; but you didn’t come back to me. </span></i><a name="_Hlk148627665"></span>
-<span class="verse verse-v18" id="v18"><sup class="verse-num">18-19</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You and everything you did, I struck with blasting wind, mildew, and hail; but you didn’t come back to me. </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18-19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But
 <i>notice this</i>:<i> The seed is still in the granary; the grapevines, fig trees, pomegranates, and olive trees have not started to bear—but from <b>this twenty-fourth day of the ninth month </b>on, when you’ve begun laying the foundation for the Temple—I’ll be blessing you.”</i></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>       </span></b></span></span></p>
 
 <p class="section-ref">Hag 2:10-19</p>
@@ -70,15 +70,11 @@ prev: chapter-01
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Tell Zerubbabel, ‘I’m going to shake earth and sky, </span></i></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>overthrow the thrones of kingdoms, destroy powerful nations, defeat chariots and riders; every horse and rider will fall by the sword. </span></i></span>
-<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then I’ll make you my signet ring because I’ve chosen you, Zerubbabel Ben-<a name="_Hlk148629093">Shealtiel.’</a></span></i></span></p>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then I’ll make you my signet ring because I’ve chosen you, Zerubbabel Ben-Shealtiel.’</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                                        </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I, Yahveh of hosts, have spoken.<i>”</i> </span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                       </span></p>
 
-
-### Hag 2:20-23
-
-
-<p class="MsoListBulletCxSpLast" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
+<p class="section-ref">Hag 2:20-23</p>
 
 
 <style>

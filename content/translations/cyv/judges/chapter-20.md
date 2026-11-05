@@ -30,7 +30,9 @@ next: chapter-21
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We’ll take 10 men from 100 from all the tribes, 100 from 1,000, 1,000 from 10,000, to bring provisions for the people, so when they come, they can pay back Gibeah for that awful crime.” </span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The men of Israel gathered in unity against the town.
-</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 20:1-11</span></b></span></p>
+</span></span></p>
+
+<p class="section-ref">Jud 20:1-11</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The tribes of Israel sent men through the whole tribe of Benjamin, and said, </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“What’s this wickedness that’s taken place among you? </span></i></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Give up the base men of Gibeah, so we can put them to death, and purge sin from Israel.” </span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>But the Benjamites wouldn’t listen. </span></span>
@@ -47,7 +49,9 @@ next: chapter-21
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the people took courage and formed the battle line again in the same place. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They went up and cried to </span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>Yahveh till evening, and asked him, <i>“Should we go again against our relatives the Benjamites?”</i> </span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Yes.”                                                                                                                   </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 20:12-23</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Yes.”                                                                                                                   </span></i></span></p>
+
+<p class="section-ref">Jud 20:12-23</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So they attacked the Benjamites the second day. </span></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Benjamin went against them out of Gibeah the second day and felled 18,000 swordsmen. </span></span>
@@ -65,7 +69,9 @@ next: chapter-21
 <span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> They rose up out of their place and set themselves in formation at Baal-tamar, and the men lying in ambush rushed out of their place west of Geba. </span></span>
 <span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>10,000 elite men out of all Israel attacked Gibeah. The battle was hard, but the Benjamites didn’t know that disaster was coming. </span></span>
 <span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh defeated Benjamin in front of Israel. Israel destroyed 25,100 Benjamite swordsmen that day. </span></span>
-<span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then the Benjamites realized they were defeated. </span><b><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 20:24-36a</span></b></span></p>
+<span class="verse verse-v36" id="v36"><sup class="verse-num">36</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then the Benjamites realized they were defeated. </span></span></p>
+
+<p class="section-ref">Jud 20:24-36a</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The men of Israel gave ground, because they relied on the ones in ambush to attack the town. </span><span class="verse verse-v37" id="v37"><sup class="verse-num">37</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The men in ambush hurried out and struck the whole town with the sword. </span></span>
 <span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The signal by the men in ambush was that when they made a big cloud of smoke rise out of the town, </span></span>
@@ -79,7 +85,9 @@ next: chapter-21
 <span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>25,000 Benjamites fell that day, trained soldiers. </span></span>
 <span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But 600 fled toward open country to the Rock of Rimmon and stayed there four months. </span></span>
 <span class="verse verse-v48" id="v48"><sup class="verse-num">48</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The men of Israel turned back and struck them with the sword, people and animals and everybody they found. They set on fire the towns they found.
-</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jud 20:36b-48</span></b></span></p>
+</span></span></p>
+
+<p class="section-ref">Jud 20:36b-48</p>
 
 
 <style>

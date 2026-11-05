@@ -1,7 +1,9 @@
 ---
-title: "Straight Thinking 111967 THE AUTHORITY OF CHRIST"
-author: "Virgil Warren, christir.org"
+title: "The Authority of Christ"
+subtitle: "Straight Thinking, November 19, 1967"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-12
 categories:
 - 'Ministry'
 - 'Straight Thinking For Youth'
@@ -26,14 +28,11 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center'><b><span
-style='font-size:14.0pt;line-height:115%'>Straight Thinking</span></b></p>
 
-<p class=MsoNormal align=center style='margin-bottom:.25in;text-align:center'><span
-style='font-size:10.0pt;line-height:115%'>111967</span></p>
 
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:12.0pt;line-height:115%'>THE AUTHORITY OF CHRIST</span></p>
+
+
+
 
 <p class=MsoNormal style='text-align:justify'><i><span style='font-size:12.0pt;
 line-height:115%'>Sunday.</span></i><span style='font-size:12.0pt;line-height:
@@ -104,6 +103,5 @@ line-height:115%'>Read Revelation <b>5</b>:4-5</span><span style='font-size:
 12.0pt;line-height:115%'>.)</span></p>
 
 <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt;
-line-height:115%'>Virgil Warren, <u>Straight</u>, November 19, 1967, p13                                                                           
-christir.org</span></p>
+line-height:115%'>Virgil Warren, <u>Straight</u>, November 19, 1967, p13</span></p>
 </div>

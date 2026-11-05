@@ -23,7 +23,9 @@ next: chapter-20
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%'>He looked and at his head was a loaf of bread baked on hot stones and a jug of water. He ate and lay back down. </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%'>An angel of Yahveh came a second time and touched him, <i>“Get up and eat some more, or the trip will be too much for you.” </i></span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%'>He ate and on the strength of that food went for 40 days to Horeb/<i>Sinai</i>, the mountain of God.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%'>1 Kg 19:1-8</span></b></span></p>
+</b></span></span></p>
+
+<p class="section-ref">1 Kg 19:1-8</p>
 
 
 ### Yahveh Speaks to Elijah
@@ -38,7 +40,9 @@ next: chapter-20
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height: 115%'>He said, <i>“Go out and stand on the mountain in my presence.”</i> Yahveh was passing by! A gale was tearing the mountains and breaking the rocks in pieces in Yahveh’s presence, but Yahveh wasn’t in the wind. After the wind an earthquake came, but Yahveh wasn’t in the earthquake. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%'>After the earthquake, fire <i>came</i>, but Yahveh wasn’t in the fire. After the fire<i> </i>the sound of a gentle whisper came. </span></span>
-<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%'>When Elijah heard it, he wrapped his face in his mantle, and went out and stood at the entrance to the cave. A voice came to him, <i>“What are you doing here, Elijah?”</i> <b>    </b></span><b><span style='font-size:10.0pt;line-height:115%'>1 Kg 19:9-13</span></b></span></p>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%'>When Elijah heard it, he wrapped his face in his mantle, and went out and stood at the entrance to the cave. A voice came to him, <i>“What are you doing here, Elijah?”</i> <b>    </b></span></span></p>
+
+<p class="section-ref">1 Kg 19:9-13</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%'>He said, </span></span></p>
 
@@ -47,8 +51,8 @@ next: chapter-20
 <p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%'>Yahveh told him, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%'>“Go back on the road to the Wilderness of Damascus. When you get there, anoint Hazael king over Aram, </span></i><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%'>anoint Jehu Ben-Nimshi king of Israel, and anoint Elisha Ben-Shaphat from Abel-meholah to succeed you as prophet. </span></i></span>
-<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%'>The one that escapes from Hazael’s sword, Jehu will kill, and the one that escapes from Jehu’s sword, Elisha will kill. </span></i><a name="_Hlk137218162"></span>
-<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> </a><i><span style='font-size:12.0pt; line-height:115%'>I’ll preserve 7,000 in Israel, who haven’t bowed to Baal and haven’t kissed him.”</span></i></span></p>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%'>The one that escapes from Hazael’s sword, Jehu will kill, and the one that escapes from Jehu’s sword, Elisha will kill. </span></i></span>
+<span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt; line-height:115%'>I’ll preserve 7,000 in Israel, who haven’t bowed to Baal and haven’t kissed him.”</span></i></span></p>
 
 
 ### The Call of Elisha
@@ -58,7 +62,7 @@ next: chapter-20
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%'>He left the oxen and ran after Elijah, <i>“Let me kiss my parents. Then I’ll go with you.”</i> He told him, <i>“Go on back, but think about what I’ve done for you.”</i> </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%'>He went back, took a yoke of oxen, sacrificed them, and boiled their meat with the yokes. He gave it to the people to eat. Then he got up and followed Elijah as his assistant.</span><b><span style='font-size:10.0pt;line-height:115%'>               </span></b></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><b><span style='font-size:10.0pt; line-height:115%'> 1 Kg 19:14-21</span></b></p>
+<p class="section-ref">1 Kg 19:14-21</p>
 
 
 <style>

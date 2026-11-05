@@ -1,7 +1,7 @@
 ---
 title: "A Time to Restart"
 date: '2025-01-26'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

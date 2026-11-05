@@ -31,9 +31,7 @@ next: chapter-03
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height: 115%'>Elijah told him. <i>“Stay here. Yahveh has sent me to the Jordan.” </i></span></span></p>
 
-
-### He said, “As sure as Yahveh lives and you live, I won’t leave you.” They continued on.
-
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height: 115%'>He said, <i>“As sure as Yahveh lives and you live, I won’t leave you.”</i> They continued on.</span><b><span style='font-size:10.0pt;line-height:115%'>  </span></b></p>
 
 
 ### Kg 2:1-6
@@ -52,7 +50,9 @@ next: chapter-03
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%'>Elisha saw it and cried out, <i>“Father! Father! The chariotry of Israel and its drivers!” </i>He never saw him again. He tore his clothes, </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%'>picked up the mantle that Elijah had dropped, and went back to the Jordan. </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%'>He struck the water with it and said,
-<i>“Where’s Yahveh, Elijah’s God?”</i> The water separated from one side to the other, and he went <i>back </i>across.<b>                                        </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 2:7-14</span></b></span></p>
+<i>“Where’s Yahveh, Elijah’s God?”</i> The water separated from one side to the other, and he went <i>back </i>across.<b>                                        </b></span></span></p>
+
+<p class="section-ref">2 Kg 2:7-14</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height: 115%'>The school of the prophets in Jericho saw what happened, <i>“Elijah’s spirit is resting on Elisha.” </i>They came to meet him and bowed to the ground, </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <i><span style='font-size:12.0pt;line-height:115%'>“Please let these fifty strong men go look for your master. Maybe the wind from Yahveh has taken him up and dropped him on some mountain or in some valley.”</span></i><span style='font-size:12.0pt; line-height:115%'> </span></span></p>
@@ -81,7 +81,9 @@ next: chapter-03
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height: 115%'>As he was climbing the road from there to Bethel, some young boys came out of the city to taunt him, <i>“Ascend, baldy! Ascend, baldy!”</i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height: 115%'>When he looked back, he put a curse on them in the name of Yahveh. Two female bears came out of the woods and mauled 42 of them. </span></span>
-<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%'>He went on from there to Mount Carmel and then back to Samaria.<b>                            </b></span><b><span style='font-size:10.0pt;line-height:115%'>2 Kg 2:15-25</span></b></span></p>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%'>He went on from there to Mount Carmel and then back to Samaria.<b>                            </b></span></span></p>
+
+<p class="section-ref">2 Kg 2:15-25</p>
 
 
 <style>

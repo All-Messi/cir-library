@@ -11,10 +11,6 @@ next: chapter-23
 
 ## Job Chapter 22
 
-
-### Your explanations don’t make any sense.”          Job 21:30-34
-
-
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Eliphaz the Temanite answered.</span></b></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>“What benefit can a mortal be to God?</span></i></span></p>
@@ -136,6 +132,8 @@ next: chapter-23
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>He delivers innocent people;</span></i></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:1.25in;'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B050'>so you’ll be delivered because you have clean hands.”</span></i></p>
+
+<p class="section-ref">Job 22:21-30</p>
 
 
 <style>

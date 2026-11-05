@@ -2,6 +2,7 @@
 title: "GALATIANS 3:28: A TEST CASE FOR SOUND HERMENEUTICS"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-14
 categories:
 - 'Topics'
 - 'Christian Doctrine'

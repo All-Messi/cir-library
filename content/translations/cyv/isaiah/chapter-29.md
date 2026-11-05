@@ -15,7 +15,7 @@ next: chapter-30
 ### An Oracle About Jerusalem
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><b><span style='font-size:14.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                       29<sup>:1</sup></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Misfortune awaits you, Ariel, city where David camped!</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Misfortune awaits you, Ariel, city where David camped!</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                    Year after year, you observe the festivals on schedule.</span></i></p>
 
@@ -87,7 +87,7 @@ next: chapter-30
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                          and covered your heads, seers.<b>                             </b></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11-12</sup> <a name="_Hlk148460067"><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>This whole vision won’t mean much to you, either because it’s a <u>sealed scroll</u> to you or because you can’t read. Literate or not, you won’t get it.</span></a><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v11" id="v11"><sup class="verse-num">11-12</sup> <span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>This whole vision won’t mean much to you, either because it’s a <u>sealed scroll</u> to you or because you can’t read. Literate or not, you won’t get it.</span><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>
 </span></i></span></span></p>
 
 <p class="section-ref">Is 29:9-12</p>

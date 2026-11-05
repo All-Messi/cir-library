@@ -36,7 +36,7 @@ next: chapter-45
 
 <p class="section-ref">Gen 44:1-13</p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><a name="_Hlk125363213"><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Judah and his brothers got to Joseph’s house, he was still there. They prostrated themselves on the floor. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Judah and his brothers got to Joseph’s house, he was still there. They prostrated themselves on the floor. </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He asked, <i>“What’ve you done? Don’t you know a man like me can tell fortunes?”</i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Judah said, <i>“What can we say? How can we explain this? God has found out our sin. We’re your slaves, we and the one he found the cup with.”</i></span></span></p>
@@ -68,7 +68,7 @@ next: chapter-45
 
 <p class="section-ref">Gen 44:18-29</p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><a name="_Hlk125361546"><span class="verse verse-v30" id="v30"><sup class="verse-num">30-31</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If I go back and he sees the boy’s not with us, he’ll die. His life is wrapped up in the boy’s life. We’ll send his gray hair down to Sheol in grief. </span></i></span>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v30" id="v30"><sup class="verse-num">30-31</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If I go back and he sees the boy’s not with us, he’ll die. His life is wrapped up in the boy’s life. We’ll send his gray hair down to Sheol in grief. </span></i></span>
 <span class="verse verse-v32" id="v32"><sup class="verse-num">32</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I became a guarantee for the boy, I said I’d bear the blame permanently if I didn’t bring him back. </span></i></span>
 <span class="verse verse-v33" id="v33"><sup class="verse-num">33</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Let me stay in his place so he can go with his half-brothers. </span></i></span>
 <span class="verse verse-v34" id="v34"><sup class="verse-num">34</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>How could I go up to my father if he’s not with me? I’d see how hard it would be on him.”</span></i></span></span></p>

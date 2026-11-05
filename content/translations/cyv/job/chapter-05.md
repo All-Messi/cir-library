@@ -11,11 +11,7 @@ next: chapter-06
 
 ## Job Chapter 5
 
-
-### They die in ignorance.’                             Job 4:12-21
-
-
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>              <span style='color:#00B050'>5<sup>:1</sup></span></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>“Call out for help now; will anybody answer you?</span></i></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>“Call out for help now; will anybody answer you?</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif;color:#00B050'>                        <i>Which of the angels will you turn to?</i></span></p>
 
@@ -41,7 +37,9 @@ next: chapter-06
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                              </span></i><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#00B050'>because adversity doesn’t sprout from the dirt,</span></i></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                              and trouble doesn’t grow out of the ground.  </span></i><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'> Job</span></b><i><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>5:1-6</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B050'>                              and trouble doesn’t grow out of the ground.</span></i><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></b><i><span style='font-size: 10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b></p>
+
+<p class="section-ref">Job 5:1-6</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.25in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  </span></i><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#00B050'>“Mortals are born for trouble</span></i></span></p>
 

@@ -28,9 +28,7 @@ next: chapter-08
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>“Isaiah described you hypocrites well when he wrote:</span></i></p>
 
-
-### ‘This people honors me with their lips,
-
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                    <b>‘This people honors me with their lips,</b></span></i></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:0in;line-height:normal'><b><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                                but their heart is far from me.</span></i></b></p>
 

@@ -688,7 +688,7 @@ next: chapter-120
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      and your commandments are true.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><a name="_Hlk122784988"><span class="verse verse-v152" id="v152"><sup class="verse-num">152</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For</span><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>a long time I’ve known </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><span class="verse verse-v152" id="v152"><sup class="verse-num">152</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For</span><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>a long time I’ve known </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:1.0in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that you’ve laid down your testimonies to last forever.<b>   </b></span></p>
 

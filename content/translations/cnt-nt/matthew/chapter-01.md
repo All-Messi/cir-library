@@ -14,7 +14,7 @@ next: chapter-02
 ### The Genealogy of Jesus (cp. Lk 3:23-38)
 
 
-<p class="MsoNormal" ><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The genealogy of Jesus the Messiah, son of David, son of Abraham    </span></span></p>
+<p class="MsoNormal" ><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The genealogy of Jesus the Messiah, son of David, son of Abraham    </span></span></p>
 
 
 <table class="genealogy-table">

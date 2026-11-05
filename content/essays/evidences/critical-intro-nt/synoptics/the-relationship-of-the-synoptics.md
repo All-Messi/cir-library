@@ -2,6 +2,7 @@
 title: "THE RELATIONSHIP OF THE SYNOPTICS"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-10
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'
@@ -29,7 +30,7 @@ content_kind: chart
 </style>
 
 <div class="word-content">
-<p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
+<p class="cir-diagram" style="text-align:center;margin:1.25rem 0"><img src="/images/diagrams/the-relationship-of-the-synoptics-1.png" alt="Diagram of shared pericopes in the Synoptic Gospels: Mark, Matthew and Luke as overlapping boxes. Peculiar to Mark 2, Matthew and Mark 12, peculiar to Matthew 5; Mark and Luke 5, all three 42, Matthew and Luke 14; peculiar to Luke 9" width="409" style="max-width:100%;height:auto"></p><p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt'><b><span style='font-size:12.0pt'>                   
 </span></b><span style='font-size:12.0pt'>PERICOPES</span></p>
 

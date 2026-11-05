@@ -11,10 +11,6 @@ next: chapter-33
 
 ## Job Chapter 32
 
-
-### Job’s words end here.                                                           Job 31:38-40
-
-
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The three men stopped replying to Job, because he was certain he was innocent. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then
 <span style='color:#0070C0'>Elihu</span> son of Barachel the Buzite from the family of Ram, was mad at Job because he’d justified himself to God. </span></span>
@@ -23,7 +19,7 @@ next: chapter-33
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he saw they didn’t provide an answer, his anger burned inside him. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So he spoke up: </span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <a name="_Hlk125058620"><i><span style='color:#00B0F0'>“I’m young and you’re old;</span></i></a></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i><span style='color:#00B0F0'>“I’m young and you’re old;</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>                  so I’ve been reluctant to tell you what I believed. </span></i></p>
 
@@ -55,7 +51,7 @@ next: chapter-33
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>                  or answered his arguments.</span></i></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>            </span></i><a name="_Hlk125058974"><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> </a><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>Don’t say, ‘We’ve found him too wise for us;</span></i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>            </span></i><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif;color:#00B0F0'>Don’t say, ‘We’ve found him too wise for us;</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>                  God alone will have to refute him, not mortals.’</span></i></p>
 
@@ -63,9 +59,7 @@ next: chapter-33
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; color:#00B0F0'>                  but I wouldn’t have answered him with your arguments.</span></i><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif;color:#00B0F0'> </span></b></p>
 
-
-### Job 32:11-14
-
+<p class="section-ref">Job 32:11-14</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></i><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif;color:#00B0F0'>“You’re discredited;</span></i></span></p>
 

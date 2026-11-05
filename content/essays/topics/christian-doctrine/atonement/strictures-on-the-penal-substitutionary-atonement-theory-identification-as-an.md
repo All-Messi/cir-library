@@ -2,6 +2,8 @@
 title: "STRICTURES ON THE PENAL SUBSTITUTIONARY ATONEMENT THEORY: IDENTIFICATION AS AN ALTERNATIVE PROPOSAL"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2007-07-09
+lastmod: 2026-10-20
 categories:
 - 'Topics'
 - 'Christian Doctrine'

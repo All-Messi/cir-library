@@ -15,7 +15,7 @@ next: chapter-06
 ### Extreme Grace
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We’ve been justified by trusting, and we express trusting God by trusting our Lord Jesus Christ. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We’ve been justified by trusting, and we express trusting God by trusting our Lord Jesus Christ. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Christ</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> gives us access to this grace that we stand in. <i>Because of it</i>, we rejoice in the hope that comes from <i>our</i> glorious God. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Not only that, but we can </span><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>even rejoice in hardships because we know they produce <u>endurance</u>, </span></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>which produces <u>character</u>, which produces a <u>hope</u> </span></span>
@@ -26,7 +26,9 @@ next: chapter-06
 </sup>died for us while we were still <u>sinners</u>. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>More than that, if his blood has justified us, we’re safe from God’s displeasure. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If the <u>death</u> of his Son reconciled us to God while we were estranged, now that he’s reconciled us, his <u>life</u> will save us from condemnation. </span></span>
-<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>All the while, we take pride in God through his Son who reconciled us.                                                                                   </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Rom 5:1-11</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>       </span></span></p>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>All the while, we take pride in God through his Son who reconciled us.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Rom 5:1-11</p>
 
 
 ### Adam and Christ in Contrast

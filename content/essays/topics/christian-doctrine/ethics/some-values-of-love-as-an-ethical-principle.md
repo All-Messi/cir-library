@@ -2,6 +2,8 @@
 title: "SOME VALUES OF LOVE AS AN ETHICAL PRINCIPLE"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-10-28
+lastmod: 2025-07-15
 categories:
 - 'Topics'
 - 'Christian Doctrine'

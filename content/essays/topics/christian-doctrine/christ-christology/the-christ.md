@@ -2,6 +2,8 @@
 title: "THE CHRIST"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2023-07-07
+lastmod: 2025-07-14
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -431,7 +433,7 @@ was the first thing God created.</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                                       <img
+style='font-size:12.0pt'>                                                       <img alt="Circles: God and angel (spiritual); human and animal (physical)"
 width=184 height=236 id="Picture 2" src="/images/essays/the-christ/image001.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -755,7 +757,7 @@ style='font-size:12.0pt'>          </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                      <img width=213
+style='font-size:12.0pt'>                                      <img alt="Deity and man sharing interpersonal capacity; the incarnate condition of deity and humanity" width=213
 height=222 id="Picture 1" src="/images/essays/the-christ/image002.jpg"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

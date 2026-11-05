@@ -16,9 +16,9 @@ prev: chapter-09
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>King Ahasuerus put under tribute the territory and lands by the Sea. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His accomplishments by his authority and strength—as well as the full account of Mordecai’s status that the king advanced him to—are recorded in <i>The Chronicles of the Kings of Media and Persia.</i> </span></span>
-<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mordecai the Jew was second to King Ahasuerus, great among the Jews, and favored by his host of relatives. He sought the good of his people and spoke for the welfare of his whole nation.                                                                                            </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esther 10:1-3</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span></p>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mordecai the Jew was second to King Ahasuerus, great among the Jews, and favored by his host of relatives. He sought the good of his people and spoke for the welfare of his whole nation.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-right:.45pt'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
+<p class="section-ref">Esther 10:1-3</p>
 
 
 <style>

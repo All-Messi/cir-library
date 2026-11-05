@@ -2,6 +2,7 @@
 title: "NATURAL OBSERVATIONS ON THE IMAGE AS THE INTERPERSONAL CAPACITY"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-12
 categories:
 - 'Topics'
 - 'Christian Doctrine'
@@ -798,14 +799,14 @@ interpersonal capacity forms the distinctive</span></p>
 .5in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'><img width=230 height=99
+line-height:18.0pt'><span style='font-size:12.0pt'><img alt="Deity and man sharing interpersonal capacity" width=230 height=99
 id="Picture 2" src="/images/essays/natural-observations-on-the-image-as-the-interpersonal-capacity/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;text-indent:
 .5in;line-height:18.0pt'><span style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center;
-line-height:18.0pt'><span style='font-size:12.0pt'><img width=237 height=118
+line-height:18.0pt'><span style='font-size:12.0pt'><img alt="Incarnate condition: deity and humanity sharing interpersonal capacity" width=237 height=118
 id="Picture 1" src="/images/essays/natural-observations-on-the-image-as-the-interpersonal-capacity/image002.png"></span></p>
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:

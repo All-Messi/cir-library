@@ -1,7 +1,8 @@
 ---
 title: "COLOSSIANS 1 Jump Starters 2 Thanks for the Colossians 1:3, 12"
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Book Studies'

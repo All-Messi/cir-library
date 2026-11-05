@@ -87,9 +87,7 @@ next: chapter-20
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And having-entered into the temple, he-began to-cast-out the-ones selling, </span></span>
 <span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>saying to-them, <i>“It-is-written,</i></span></span></p>
 
-
-### ‘And the house of-me will-be (a) house of-prayer,’
-
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    <b><i>‘And the house of-me will-be (a) house of-prayer,’</i></b></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                                <i>but
 <u>you</u> made-it (a) den of thieves.”</i></span></p>

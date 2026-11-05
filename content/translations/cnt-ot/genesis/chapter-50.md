@@ -12,9 +12,11 @@ prev: chapter-49
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joseph fell on his father’s face and cried and kissed him. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told the physicians to embalm him. </span></span>
-<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The embalming took 40 days, and the Egyptians mourned him 70 days.                                                                                                                                        </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Gen 49:33-50:3</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span></p>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The embalming took 40 days, and the Egyptians mourned him 70 days.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span><a name="_Hlk125319781"><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After the time of mourning, Joseph told Pharaoh’s advisors, </span></span></p>
+<p class="section-ref">Gen 49:33-50:3</p>
+
+<p class="MsoNormal" style='margin-top:0in;margin-bottom: 0in;margin-left:0in;'><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After the time of mourning, Joseph told Pharaoh’s advisors, </span></span></p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If I’m pleasing to you, tell Pharaoh </span></i><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>my father had me swear, ‘I’m about to die. Bury me in the grave I dug for myself in Canaan.’ Let me go up and bury him. Then I’ll be back.”</span></i></span></p>
 
@@ -22,7 +24,7 @@ prev: chapter-49
 
 <p class="section-ref">Gen 50:4-6</p>
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span><a name="_Hlk125319925"><span class="verse verse-v7" id="v7"><sup class="verse-num">7-8</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So Joseph went up to bury him. Pharaoh’s officials, the senior members of his household, the senior officers of Egypt, Joseph’s household, his brothers, and his father’s family went with him. They left only their little ones, flocks, and herds in Goshen. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span><span class="verse verse-v7" id="v7"><sup class="verse-num">7-8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So Joseph went up to bury him. Pharaoh’s officials, the senior members of his household, the senior officers of Egypt, Joseph’s household, his brothers, and his father’s family went with him. They left only their little ones, flocks, and herds in Goshen. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A large company of chariots and cavalry also went up. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they came to Atad’s threshing floor, not far from the Jordan, they mourned greatly. <i>Joseph</i> observed a week of mourning. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the Canaanites saw the mourning, they said, <i>“This is extreme ‘mourning’ for ‘Egyptians’”</i>;<i>
@@ -37,7 +39,7 @@ prev: chapter-49
 ### Joseph Reassures His Brothers
 
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><a name="_Hlk125320038"><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Joseph’s brothers thought about the fact that their father was dead, they said <i>“What if Joseph holds a grudge against us and pays us back for what we did to him?”</i>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>            </span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Joseph’s brothers thought about the fact that their father was dead, they said <i>“What if Joseph holds a grudge against us and pays us back for what we did to him?”</i>
 </span></span>
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They sent him a message, <i>“Before our father died, he charged </i>us </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to tell you, ‘Forgive your brothers’ sin; they did wrong.’ Forgive the servants of your father’s God.”</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> Joseph cried when they spoke to him. </span></span>
@@ -55,15 +57,13 @@ prev: chapter-49
 ### The Death of Joseph
 
 
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><a name="_Hlk125320125"><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joseph and his father’s family stayed in Egypt. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joseph and his father’s family stayed in Egypt. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He saw three generations of Ephraim’s descendants and claimed the sons of Machir son of Manasseh as his own. </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He told his brothers, <i>“I’m about to die, but God will take care of you, and take you up to the land he swore to Abraham, Isaac, and Jacob.”</i> </span></span>
 <span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He had the sons of Israel swear, “<i>Take my bones up from here.” </i></span></span>
 <span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Joseph died at 110; his body was embalmed and placed in a coffin in Egypt.</span></span></p>
 
 <p class="section-ref">Gen 50:22-26</p>
-
-<p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
 
 
 <style>

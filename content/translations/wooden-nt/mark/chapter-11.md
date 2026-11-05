@@ -42,9 +42,7 @@ next: chapter-12
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and he-would┘not└allow [in-order]-that anybody should-carry (a) vessel through the temple. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And he-began-to-teach and to-say to-them, <i>“Is-it┘not└written [that],</i></span></span></p>
 
-
-### ‘The house of-me will-be-called (a) house of-prayer
-
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <b><i>‘The house of-me will-be-called (a) house of-prayer</i></b></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        for-all (the) nations’?</span></i></b></p>
 

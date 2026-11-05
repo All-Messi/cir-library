@@ -18,7 +18,9 @@ next: chapter-14
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>In the <b>eighteenth year of King Jeroboam</b>, <b>Abijah</b> became king in Judah. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He ruled for <b>3 years in Jerusalem</b>. His mother was Micaiah, daughter of Uriel of Gibeah. War arose between Abijah and Jeroboam. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Abijah entered the battle with 400,000 trained soldiers; Jeroboam drew up in battle formation against him with 800,000 trained soldiers.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 13:1-3</span></b></span></p>
+</b></span></span></p>
+
+<p class="section-ref">2 Ch 13:1-3</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Abijah stood on Mount Zemaraim in the hill country of Ephraim and shouted, </span></span></p>
 
@@ -31,7 +33,9 @@ next: chapter-14
 </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> is <u>our</u> God. We haven’t left him. The descendants of Aaron are serving him as priests and the Levites are doing their work. </span></i></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Every morning they burn burnt offerings and fragrant incense to him. They set the showbread on the clean table, and the golden lampstand with its lamps is ready to light every evening, because we’re keeping the charge of the </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> our God. But you’ve left him. </span></i></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>God is at our head and his priests with the signal bugles to sound the alarm against you, Israel. Don’t fight with the </span></i><i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> God of your ancestors; you won’t prevail.”</span></i><b><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 13:4-12</span></b></span></p>
+</span></b></span></span></p>
+
+<p class="section-ref">2 Ch 13:4-12</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Jeroboam had set an ambush from the rear, so Israel lay in front of Judah and behind. </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Judah turned around, Israel attacked them from the front and back. <i>Israel</i> cried out to the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>, the priests blew the bugles, </span></span>
@@ -44,7 +48,9 @@ next: chapter-14
 <span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jeroboam didn’t regain strength during Abijah’s reign. The L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> struck him, and he died. </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Abijah became more powerful and took 14 wives and became father of 22 sons and 16 daughters. </span></span>
-<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of the acts of Abijah, his ways and words, are recorded in <i>The Account of the Prophet Iddo</i>.<b>                                      </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'> 2 Ch 13:13-22</span></b></span></p>
+<span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The rest of the acts of Abijah, his ways and words, are recorded in <i>The Account of the Prophet Iddo</i>.<b>                                      </b></span></span></p>
+
+<p class="section-ref">2 Ch 13:13-22</p>
 
 
 <style>

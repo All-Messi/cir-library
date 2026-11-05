@@ -11,7 +11,7 @@ next: chapter-21
 
 ## John Chapter 20
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>20</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:</span></sup></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And on-the first (day) of-the week, Mary the Magdalene comes early to-the tomb, darkness still being, and sees the stone removed from the tomb. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And on-the first (day) of-the week, Mary the Magdalene comes early to-the tomb, darkness still being, and sees the stone removed from the tomb. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then she-runs and comes to Simon Peter and to the other disciple whom [the] Jesus loved, and says to-them, <i>“They-took the Lord out-of the tomb, and we-do┘not└ know where they-put him.”</i> </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then [the] Peter went-out and the other disciple, and were-coming to the tomb. </span></span>

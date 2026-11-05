@@ -1,7 +1,8 @@
 ---
 title: "IV. Verbs A. Tenses 1. present"
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-02-04
 categories:
 - 'Topics'
 - 'Greek Features'
@@ -135,7 +136,7 @@ style='font-size:12.0pt'>                      e.  customa
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                       f.  unusual - for
+style='font-size:12.0pt'>                       f.  unusual -σαν for
 third-person plural: John <b>15</b>:22, 24</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -241,7 +242,7 @@ style='font-size:12.0pt'>                1.  Indicative</span></
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                      a.  after </span></p>
+style='font-size:12.0pt'>                      a.  after ινα</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -261,7 +262,7 @@ style='font-size:12.0pt'>                      a.  command
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                (1)   +
+style='font-size:12.0pt'>                                (1)  δευτε +
 imperative:  Matthew<b> 28</b>:6</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -384,7 +385,7 @@ style='font-size:12.0pt'>                           �
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                (2)  introduced by
-//:  Luke </span><b><span style='font-size:12.0pt;
+θελεις/θελετε/βουλεσθε:  Luke </span><b><span style='font-size:12.0pt;
 color:windowtext'>22</span></b><span style='font-size:12.0pt'>:9</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -398,12 +399,12 @@ subjunctive: Jn. <b>14</b>:31; Galatians <b>5</b>:26</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                (2)  / +
+style='font-size:12.0pt'>                                (2)  αφες/αφετε +
 subjunctive:  Matthew <b>7</b>:4</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                (3)  / +
+style='font-size:12.0pt'>                                (3)  δευρο/δευτε +
 subjunctive</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -424,7 +425,7 @@ style='font-size:12.0pt'>                           �
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                      d.  emphatic negative:   +
+style='font-size:12.0pt'>                      d.  emphatic negative:  ου μη +
 subjunctive: Matthew <b>23</b>:39; <b>24</b>:21;</span><b><span
 style='font-size:12.0pt;color:windowtext'> 26</span></b><span style='font-size:
 12.0pt'>:29; Luke <b>22</b>:16;      Hebrews <b>13</b>:5</span></p>
@@ -450,7 +451,7 @@ style='font-size:12.0pt'>                      c.  attaina
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                <u></u>: Luke
+style='font-size:12.0pt'>                                <u>Μη γενοιτο</u>: Luke
 <b>20</b>:16; Romans<b> 3</b>:4, 6, 31; <b>6</b>:2, 15;<b> 7</b>:7, 13; <b>9</b>:14;<b>
 11</b>:1, 11; 1 Corinthians <b>6</b>:15; Galatians <b>2</b>:17; <b>3</b>:21;<b>
 6</b>:14</span></p>
@@ -584,7 +585,7 @@ constructions</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                (1)   + present
+style='font-size:12.0pt'>                                (1)  ειμι + present
 participle with elements to be taken together:  Matthew <b>10</b>:22; <b>12</b>:4;
 2 Corinthians 9:12</span></p>
 
@@ -601,7 +602,7 @@ elements not to be taken together: Mark <b>3</b>:1; Acts<b> 9</b>:9</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                (4)   + present
+style='font-size:12.0pt'>                                (4)  εχω + present
 participle: Matthew <b>9</b>:36; <b>19</b>:22; <b>24</b>:9; Luke <b>19</b>:20</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -611,13 +612,13 @@ periphrastic participles: Matthew <b>10</b>:26, 30; <b>18</b>:20; <b>26</b>:43</
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                (6)   +
+style='font-size:12.0pt'>                                (6)  υπαρχω +
 participle: Acts<b> 8</b>:16</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                (7)   + aorist
-participles (): Luke <b>23</b>:19; Acts <b>12</b>:25</span></p>
+style='font-size:12.0pt'>                                (7)  ειμι + aorist
+participles (γινομαι): Luke <b>23</b>:19; Acts <b>12</b>:25</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -626,7 +627,7 @@ imperative: Luke <b>19</b>:17</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                (9)   + 
+style='font-size:12.0pt'>                                (9)  ειμι + γινομαι
 periphrastic</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -716,7 +717,7 @@ style='font-size:12.0pt'>(1)  usually chronologically prior to the main verb</s
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                (2)  not necessarily
 prior to the main verb time-wise: Matthew<i> 10</i>:4; 1 Corinthians <b>2</b>:1;
-and most instances</span></p>
+and most αποκριθεις instances</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -896,8 +897,8 @@ style='font-size:12.0pt'>                  a  articular infini
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
 style='font-size:12.0pt'>                      </span><span style='font-size:
-12.0pt'>b. anarthrous infinitive: Matthew <b>17</b>:4 (); Acts <b>1</b>:16
-(); Ephesians <b>6</b>:20 ()</span></p>
+12.0pt'>b. anarthrous infinitive: Matthew <b>17</b>:4 (ειμι); Acts <b>1</b>:16
+(δει); Ephesians <b>6</b>:20 (δει)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -935,13 +936,13 @@ style='font-size:12.0pt'>                5.  dative articular in
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                      6.  after prepositions: Luke <b>24</b>:51
-(); Acts. <b>1</b>:3 (); <b>4</b>:2 (A); <b>8</b>:40 ();            Romans
-<b>3</b>:26 (); Galatians <b>3</b>:23 (); 2 Corinthians <b>7</b>:12 ();
-<b>8</b>:11 (); Ephesians <b>6</b>:11 (); James <b>4</b>:15 ()</span></p>
+(εν); Acts. <b>1</b>:3 (μετα); <b>4</b>:2 (δια + A); <b>8</b>:40 (εως);            Romans
+<b>3</b>:26 (εις); Galatians <b>3</b>:23 (προ); 2 Corinthians <b>7</b>:12 (ενεκεν);
+<b>8</b>:11 (εκ); Ephesians <b>6</b>:11 (προς); James <b>4</b>:15 (αντι)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                7.  after  to mean result (see
+style='font-size:12.0pt'>                7.  after ωστε to mean result (see
 &quot;Clauses:  result&quot;)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -962,7 +963,7 @@ style='font-size:12.0pt'>              10. imperatival infinitive (
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>              11.  anarthrous infinitive after
-to mean before (see &quot;Basic Concept Construction:   Time&quot;)</span></p>
+πριν [η] to mean before (see &quot;Basic Concept Construction:   Time&quot;)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -984,40 +985,40 @@ style='font-size:12.0pt'>              13.  with certain verbs </s
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                      a.    2 Corinthians<b> 1</b>:15</span></p>
+style='font-size:12.0pt'>                      a.  βουλομαι  2 Corinthians<b> 1</b>:15</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                      b.  : 1 Corinthians <b>3</b>:18</span></p>
+style='font-size:12.0pt'>                      b.  δοκεω: 1 Corinthians <b>3</b>:18</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                      c.  : Matthew <b>9</b>:28;
+style='font-size:12.0pt'>                      c.  δυναμαι:  : Matthew <b>9</b>:28;
 Mark <b>4</b>:33; Mark <b>9</b>:39</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                      d.  : Romans <b>15</b>:22
+style='font-size:12.0pt'>                      d.  εγκοπτομαι:  : Romans <b>15</b>:22
 </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                      e.  :Matthew <b>12</b>:38</span></p>
+style='font-size:12.0pt'>                      e.  θελω:  :Matthew <b>12</b>:38</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                       f.   (see &quot;Verbs: 
+style='font-size:12.0pt'>                       f.  μελλω (see &quot;Verbs: 
 infinitives&quot;)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                      g.  : 1 John <b>3</b>:16;
+style='font-size:12.0pt'>                      g.  οφειλω: 1 John <b>3</b>:16;
 Hebrews <b>2</b>:17</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>              14.  adjuncts of certain nouns: Matthew<b>
-3</b>:14 (); John<b> 1</b>:12 ()</span></p>
+3</b>:14 (χρειαν); John<b> 1</b>:12 (εξουσια)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -1094,7 +1095,7 @@ style='font-size:12.0pt'>                      a.  with a 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                      b.  with a plural verb: Luke <b>19</b>:37
-(also with plural participle–)</span></p>
+(also with plural participle–χαιποντες)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -1121,7 +1122,7 @@ style='font-size:12.0pt'>                  verb: Acts <b>15</b>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>()</span></p>
+style='font-size:12.0pt'>(ουτε οι πατερες ημων ουτε ημεις ισχυσαμεν βαστασαι)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -1278,7 +1279,7 @@ John <b>8</b>:42</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                      b.  instances where  is
+style='font-size:12.0pt'>                      b.  instances where αν is
 omitted from the protasis: John <b>9</b>:33; <b>15</b>:22; Acts </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -1296,7 +1297,7 @@ style='font-size:12.0pt'>                5.  <u>Miscellaneous</u
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                      1.  subjunctive  Revelation
+style='font-size:12.0pt'>                      1.  ει + subjunctive  Revelation
 <b>11</b>:5b</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -1313,72 +1314,72 @@ style='font-size:12.0pt'>      </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                1.  // +  plus subjunctive: </span></p>
+style='font-size:12.0pt'>                1.  ος/η/ο + αν plus subjunctive: </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                2.  //+ </span></p>
+style='font-size:12.0pt'>                2.  ος/η/ο + εαν</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                3.  //+ </span></p>
+style='font-size:12.0pt'>                3.  οστις/ητις/ο τι + αν</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                4.  //+ </span></p>
+style='font-size:12.0pt'>                4.  οστις/ητις/ο τι + εαν</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                5.  </span></p>
+style='font-size:12.0pt'>                5.  οταν</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                6.   plus aorist subjunctive</span></p>
+style='font-size:12.0pt'>                6.  εως plus aorist subjunctive</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                7.   +  plus aorist subjunctive:
+style='font-size:12.0pt'>                7.  εως + αν plus aorist subjunctive:
 Matthew<b> 2</b>:13; <b>10</b>:23</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                8.  plus subjunctive</span></p>
+style='font-size:12.0pt'>                8.  εως ου plus subjunctive</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                9.   plus subjunctive</span></p>
+style='font-size:12.0pt'>                9.  εως οτου plus subjunctive</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>              10.   plus subjunctive</span></p>
+style='font-size:12.0pt'>              10.  αχρι(ς) plus subjunctive</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>              11.   plus subjunctive</span></p>
+style='font-size:12.0pt'>              11.  αχρις ου plus subjunctive</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>              12.   plus subjunctive</span></p>
+style='font-size:12.0pt'>              12.  μεχρι(ς) plus subjunctive</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>              13.    plus subjunctive</span></p>
+style='font-size:12.0pt'>              13.  μεχρις ου plus subjunctive</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>              10.   + : Revelation <b>11</b>:6</span></p>
+style='font-size:12.0pt'>              10.  οσακις + εαν: Revelation <b>11</b>:6</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>              11. subjunctive</span></p>
+style='font-size:12.0pt'>              11.  οπου + αν + subjunctive</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>              12.  indicative: Mark <b>6</b>:56</span></p>
+style='font-size:12.0pt'>              12.  οπου + αν + indicative: Mark <b>6</b>:56</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>              13.  </span></p>
+style='font-size:12.0pt'>              13.  οπου + εαν</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -1401,7 +1402,7 @@ Indirect discourse constructions</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
 style='font-size:12.0pt'>                1.  </span><span style='font-size:
-12.0pt'></span><span lang=FR style='font-size:12.0pt'>finite verb</span></p>
+12.0pt'>οτι + </span><span lang=FR style='font-size:12.0pt'>finite verb</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
@@ -1425,16 +1426,16 @@ style='font-size:12.0pt'>                3.  infinitive: Acts <b
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                4.  subjunctive: Matthew <b>4</b>:3</span></p>
+style='font-size:12.0pt'>                4.  ινα + subjunctive: Matthew <b>4</b>:3</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                5.  indicative: Revelation <b>6</b>:4,
+style='font-size:12.0pt'>                5.  ινα + indicative: Revelation <b>6</b>:4,
 11;<b> 8</b>:3;<b> 14</b>:13;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                6.   omitted + subjunctive: Mark<b>
+style='font-size:12.0pt'>                6.  οτι omitted + subjunctive: Mark<b>
 1</b>:44</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -1451,15 +1452,15 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                1.  preceded by </span></p>
+style='font-size:12.0pt'>                1.  preceded by οτι</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                2.  not preceded by </span></p>
+style='font-size:12.0pt'>                2.  not preceded by οτι</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>             present-tense indirect-discourse verb
+style='font-size:12.0pt'>            3.  present-tense indirect-discourse verb
 means simultaneous with the main verb:  Luke<b> 18</b>:9</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -1478,7 +1479,7 @@ style='font-size:12.0pt'>                1.  direct questions</s
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
 style='font-size:12.0pt'>                      a.  </span><span
-style='font-size:12.0pt'>introduced by   Matthew <b>19</b>:3; Mark <b>12</b>:10;
+style='font-size:12.0pt'>introduced by ει:  Matthew <b>19</b>:3; Mark <b>12</b>:10;
 Luke <b>22</b>:49; <b>13</b>:23; Acts <b>1</b>:6; <b>7</b>:1;<b> 19</b>:2<b>;    21</b>:37;
 <b>22</b>:25</span></p>
 
@@ -1493,7 +1494,7 @@ style='font-size:12.0pt'>                2.  indirect questions<
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                      a.  introduced by Matthew <b>12</b>:10;
+style='font-size:12.0pt'>                      a.  introduced by ει:  Matthew <b>12</b>:10;
 Mark <b>10</b>:2</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -1504,20 +1505,20 @@ interrogatives:</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                3.  questions anticipating negative
-response ( <i>etc</i>.): Matthew <b>12</b>:23; Luke <b>6</b>:39; John <b>9</b>:40;<b>
+response (μη <i>etc</i>.): Matthew <b>12</b>:23; Luke <b>6</b>:39; John <b>9</b>:40;<b>
 18</b>:35; 1 Corinthians <b>11</b>:22;<b> 12</b>:30</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                4.  questions anticipating positive
-response (, <i>etc</i>.): Matthew <b>10</b>:29;<b> 13</b>:55; </span><b><span
+response (ου, <i>etc</i>.): Matthew <b>10</b>:29;<b> 13</b>:55; </span><b><span
 style='font-size:12.0pt;color:windowtext'>21</span></b><span style='font-size:
 12.0pt'>:42; Lk. <b>4</b>:22; <b>17</b>:17; Hebrews <b>3</b>:16</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                5.  double-negative questions:
-Romans<b> 10</b>:18; 1 Corinthians <b>9</b>:4-5; <b>11</b>:22</span></p>
+μη ου:  Romans<b> 10</b>:18; 1 Corinthians <b>9</b>:4-5; <b>11</b>:22</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -1581,7 +1582,7 @@ Philippians <b>3</b>:16; Titus <b>2</b>:2 (<i>Didache</i> <b>14</b>:3)</span></p
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                5.   plus subjunctive (Turner,
+style='font-size:12.0pt'>                5.  ινα plus subjunctive (Turner,
 145-47)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -1603,16 +1604,16 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                1.   plus present imperative</span></p>
+style='font-size:12.0pt'>                1.  μη plus present imperative</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                2.   plus aorist subjunctive (see
+style='font-size:12.0pt'>                2.  μη plus aorist subjunctive (see
 under &quot;Verb-Mood:  Subjunctive&quot;)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                3.   plus future indicative</span></p>
+style='font-size:12.0pt'>                3.  ου plus future indicative</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -1628,20 +1629,20 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                1.   + subjunctive:</span></p>
+style='font-size:12.0pt'>                1.  ινα + subjunctive:</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                2.   + subjunctive: Matthew<b> 5</b>:16;<b>
+style='font-size:12.0pt'>                2.  οπως + subjunctive: Matthew<b> 5</b>:16;<b>
 6</b>:17-18</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                3.   + subjunctive: Romans<b> 3</b>:4</span></p>
+style='font-size:12.0pt'>                3.  οπως αν + subjunctive: Romans<b> 3</b>:4</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                3.   + future indicative: Acts <b>21</b>:19</span></p>
+style='font-size:12.0pt'>                3.  ινα + future indicative: Acts <b>21</b>:19</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -1650,7 +1651,7 @@ style='font-size:12.0pt'>                4.  future participle (
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                5.   </span></p>
+style='font-size:12.0pt'>                5.  εις </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -1676,11 +1677,11 @@ Mark <b>13</b>:35-36; 2 Corinthians <b>12</b>:20</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                2.  : 2 Corinthians <b>12</b>:20</span></p>
+style='font-size:12.0pt'>                2.  μη πως: 2 Corinthians <b>12</b>:20</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                3.  : Matthew<b> 27</b>:64</span></p>
+style='font-size:12.0pt'>                3.  μη ποτε: Matthew<b> 27</b>:64</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -1689,7 +1690,7 @@ style='font-size:12.0pt'>                4.  with indicative: 1 
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                5.  negative fear clause ( +
+style='font-size:12.0pt'>                5.  negative fear clause (ου +
 subjunctive): Hebrews <b>3</b>:12</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -1708,19 +1709,19 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
 style='font-size:12.0pt'>                1.  </span><span style='font-size:
-12.0pt'></span><span lang=FR style='font-size:12.0pt'> plus infinitive: Matthew
+12.0pt'>ωστε</span><span lang=FR style='font-size:12.0pt'> plus infinitive: Matthew
 <b>15</b>:31; 1 Corinthians <b>13</b>:2</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
 style='font-size:12.0pt'>            </span><span style='font-size:12.0pt'>2. 
- plus indicative: Matthew <b>19</b>:6; Mark <b>2</b>:28 (inferential
+ωστε plus indicative: Matthew <b>19</b>:6; Mark <b>2</b>:28 (inferential
 &quot;so&quot;); <b>4</b>:1 (inferential &quot;so&quot;?); John <b>3</b>:16; 1
 Corinthians <b>3</b>:7; <b>14</b>:22; Galatians 2:13; <b>4</b>:16</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                3.   plus imperative: 1 Corinthians
+style='font-size:12.0pt'>                3.  ωστε plus imperative: 1 Corinthians
 <b>3</b>:21;<b> 4</b>:5</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -1730,7 +1731,7 @@ style='font-size:12.0pt'>                4.  infinitives (see un
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                5.   + subjunctive: Mark <b>5</b>:23
+style='font-size:12.0pt'>                5.  ινα + subjunctive: Mark <b>5</b>:23
 (inferential &quot;so&quot;); Luke <b>20</b>:28; Revelations <b>8</b>:12</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -1755,11 +1756,11 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                1.  subjunctive:</span></p>
+style='font-size:12.0pt'>                1.  ουτος + ειμι:  ινα + subjunctive:</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                2.  subjunctive subject of main
+style='font-size:12.0pt'>                2.  ινα + subjunctive subject of main
 clause: 1 Corinthians <b>4</b>:2, 3</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -1791,7 +1792,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>         A.  With nominative (see above under
-&quot;nominative&quot;):  Romans <b>12</b>:5 (')</span></p>
+&quot;nominative&quot;):  Romans <b>12</b>:5 (καθ' εις)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -1799,11 +1800,11 @@ style='font-size:12.0pt'>         B.  With genitive</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                1.  </span></p>
+style='font-size:12.0pt'>                1.  απο</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                2.  </span></p>
+style='font-size:12.0pt'>                2.  εκ</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -1816,7 +1817,7 @@ style='font-size:12.0pt'>                      b.  some &q
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                3.  </span></p>
+style='font-size:12.0pt'>                3.  εν</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -1848,12 +1849,12 @@ style='font-size:12.0pt'>          F.  With genitive, dative, and accu
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                1.  </span></p>
+style='font-size:12.0pt'>                1.  επι</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                       aTwo
-uses of  in the same verse:  Revelation <b>14</b>:6</span></p>
+style='font-size:12.0pt'>                                               a.  Two
+uses of επι in the same verse:  Revelation <b>14</b>:6</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -1897,7 +1898,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>          1.  </span></p>
+style='font-size:12.0pt'>          1.  δε</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -1910,7 +1911,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>          2.  </span></p>
+style='font-size:12.0pt'>          2.  και</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -1928,7 +1929,7 @@ style='font-size:12.0pt'>                b.  situations of real 
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>          3.  phrase conjunction:  : Matthew <b>11</b>:27;
+style='font-size:12.0pt'>          3.  phrase conjunction:  ει μη: Matthew <b>11</b>:27;
 <b>17</b>:8</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -1957,7 +1958,7 @@ style='font-size:12.0pt'>                1.  &quot;than&quot;</s
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                      a.   plus same case: Matthew <b>10</b>:15;
+style='font-size:12.0pt'>                      a.  η plus same case: Matthew <b>10</b>:15;
 John<b> 3</b>:19;<b> 4</b>:1</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -1968,24 +1969,24 @@ style='font-size:12.0pt'>                      b.  genitiv
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                      </span><span lang=FR
-style='font-size:12.0pt'>c.  </span><span style='font-size:12.0pt'></span><span
+style='font-size:12.0pt'>c.  </span><span style='font-size:12.0pt'>υπερ</span><span
 lang=FR style='font-size:12.0pt'> plus accusative: Luke <b>16</b>:8</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
 style='font-size:12.0pt'>                      d.  </span><span
-style='font-size:12.0pt'></span><span lang=FR style='font-size:12.0pt'>
+style='font-size:12.0pt'>παρα</span><span lang=FR style='font-size:12.0pt'>
 plus accusative: Hebrews <b>9</b>:23; <b>11</b>:4</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
 style='font-size:12.0pt'>                      e.  </span><span
-style='font-size:12.0pt'></span></p>
+style='font-size:12.0pt'>υπερνικαω (); ηπερ (); ει μη (); επανω ()</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
 style='font-size:12.0pt'>                       f.  </span><span
-style='font-size:12.0pt'>&quot;rather than&quot;: (Luke <b>18</b>:14; Romans
+style='font-size:12.0pt'>&quot;rather than&quot;: παρα (Luke <b>18</b>:14; Romans
 <b>1</b>:26, 27)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -2008,17 +2009,17 @@ comparative-degree adjectives</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                (2)  positive
+style='font-size:12.0pt'>                                (2)  μαλλον + positive
 degree: Acts <b>20</b>:35</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                (3)  positive
+style='font-size:12.0pt'>                                (3)  σφοδρα + positive
 degree:</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                (4)  positive
+style='font-size:12.0pt'>                                (4)  λιαν + positive
 degree:</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -2032,7 +2033,7 @@ superlative-degree adjectives</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                (2)  
+style='font-size:12.0pt'>                                (2)  μαλιστα +
 positive degree: Acts<b> 20</b>:38</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -2063,7 +2064,7 @@ style='font-size:12.0pt'>                4.  &quot;so . . . that
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                      a. 
-&quot;&quot;: John <b>3</b>:16; Hebrews<b> 12</b>:21</span></p>
+&quot;ουτως . . . ωστε&quot;: John <b>3</b>:16; Hebrews<b> 12</b>:21</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -2083,23 +2084,23 @@ style='font-size:12.0pt'>                1.  words</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                      a.   + indicative: Matthew <b>7</b>:6
-(); Johnh <b>3</b>:18; Acts <b>28</b>:27 ()</span></p>
+style='font-size:12.0pt'>                      a.  μη() + indicative: Matthew <b>7</b>:6
+(μηποτε); Johnh <b>3</b>:18; Acts <b>28</b>:27 (μηποτε)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                      b.  + <u>subjunctive</u>
+style='font-size:12.0pt'>                      b.  ου μη + <u>subjunctive</u>
 for emphatic future:  Matthew<b> 23</b>:39; <b>24</b>:21; <b>26</b>:29; <b>22</b>:16;
 Hebrews <b>13</b>:5; Revelation<b> 3</b>:5(I/S?)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                      c.  + <u>future indicative</u>
-for emphatic futureLuke <b>1</b>:15; Revelation <b>3</b>:5 (i/S?)</span></p>
+style='font-size:12.0pt'>                      c.  ου μη + <u>future indicative</u>
+for emphatic future:  Luke <b>1</b>:15; Revelation <b>3</b>:5 (i/S?)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                2.  privative</span></p>
+style='font-size:12.0pt'>                2.  α−privative</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -2131,12 +2132,12 @@ style='font-size:12.0pt'>                      a.  with ac
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                (1)  G + active
+style='font-size:12.0pt'>                                (1)  υπο + G + active
 verb: Hebrews <b>12</b>:3</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                (2)  D + active
+style='font-size:12.0pt'>                                (2)  εν  +  D + active
 verb: Mark <b>3</b>:22 (personal)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -2165,36 +2166,36 @@ style='font-size:12.0pt'>                           �
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                (3)   + G: Matthew<b>
+style='font-size:12.0pt'>                                (3)  απο + G: Matthew<b>
 11</b>:19</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                (4)  G: Matthew<b>
+style='font-size:12.0pt'>                                (4)  επι + G: Matthew<b>
 28</b>:14</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                (5)     Matthew <b>28</b>:15</span></p>
+style='font-size:12.0pt'>                                (5)  παρα +   Matthew <b>28</b>:15</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                (6)  G:  Galatians
+style='font-size:12.0pt'>                                (6)  εκ + G:  Galatians
 <b>2</b>:16; 1 John <b>2</b>:29</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                (7)  G (usually
+style='font-size:12.0pt'>                                (7)  δια + G (usually
 intermediate agent) John <b>1</b>:10; Hebrews <b>7</b>:23 (impersonal)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                (8)  G: Matthew <b>4</b>:1;
+style='font-size:12.0pt'>                                (8)  υπο + G: Matthew <b>4</b>:1;
 1 Corinthians <b>10</b>:29 (impersonal);</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                (9)  D: Romans <b>10</b>:20
+style='font-size:12.0pt'>                                (9)  εν  + D: Romans <b>10</b>:20
 (personal)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -2203,7 +2204,7 @@ style='font-size:12.0pt'>                      c.  with li
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                (1)  G + linking
+style='font-size:12.0pt'>                                (1)  υπο + G + linking
 verb: Luke <b>10</b>:17; Acts<b> 12</b>:5</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -2225,8 +2226,8 @@ style='font-size:12.0pt'>                      a.  with ac
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                (1)  Matthew <b>1</b>:18
-(  ); <b>3</b>:11? (en); John<b> 1</b>:26? (en); Acts <b>3</b>:21 () Romans
-3:30 (and); Hebrews <b>9</b>:12 (); <b>9</b>:25 (; cp. <b>9</b>:12)</span></p>
+( εκ ); <b>3</b>:11? (en); John<b> 1</b>:26? (en); Acts <b>3</b>:21 (δια) Romans
+3:30 (εκ and δια); Hebrews <b>9</b>:12 (δια); <b>9</b>:25 (εν; cp. <b>9</b>:12)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -2239,7 +2240,7 @@ style='font-size:12.0pt'>                      c.  with li
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                                (1)  Matthew <b>1</b>:20
-()</span></p>
+(εκ)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -2278,7 +2279,7 @@ style='font-size:12.0pt'>                2.  future participle</
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
 style='font-size:12.0pt'>                3.  prepositional phrase (</span><span
-style='font-size:12.0pt'></span><span lang=FR style='font-size:12.0pt'>)</span></p>
+style='font-size:12.0pt'>εις</span><span lang=FR style='font-size:12.0pt'>)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
@@ -2291,7 +2292,7 @@ style='font-size:12.0pt'>                5.  genitive articular 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
 style='font-size:12.0pt'>                6.  </span><span style='font-size:
-12.0pt'>// + subjunctive</span></p>
+12.0pt'>ινα/ως/οπως + subjunctive</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -2335,7 +2336,7 @@ style='font-size:12.0pt'>           I.  Possession</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
 style='font-size:12.0pt'>                1.  </span><span style='font-size:
-12.0pt'></span></p>
+12.0pt'>εχω</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -2348,7 +2349,7 @@ style='font-size:12.0pt'>                3.  possessive genitive
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>                4.  possessive adjective: 
-////</span></p>
+εμος/ημετερος/σος/υμετερος/ιδιος</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -2356,7 +2357,7 @@ style='font-size:12.0pt'>          J.  Condition</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                1.  /</span></p>
+style='font-size:12.0pt'>                1.  ει/εαν</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -2374,12 +2375,12 @@ style='font-size:12.0pt'>                1.  conjunction</span><
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
 style='font-size:12.0pt'>                      a.  </span><span
-style='font-size:12.0pt'></span></p>
+style='font-size:12.0pt'>ει και</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
 style='font-size:12.0pt'>                      b. </span><span
-style='font-size:12.0pt'></span></p>
+style='font-size:12.0pt'>και εαν</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
@@ -2408,7 +2409,7 @@ style='font-size:12.0pt'>                      b.  conjunc
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span lang=FR
 style='font-size:12.0pt'>                                (1)  before (</span><span
-style='font-size:12.0pt'></span><span lang=FR style='font-size:12.0pt'>
+style='font-size:12.0pt'>πριν  [η] +</span><span lang=FR style='font-size:12.0pt'>
 anarthrous infinitive): Mark <b>1</b>:18; John </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

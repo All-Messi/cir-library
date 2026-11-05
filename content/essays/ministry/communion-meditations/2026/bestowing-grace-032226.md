@@ -1,7 +1,7 @@
 ---
 title: "Bestowing Grace"
 date: '2026-03-22'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

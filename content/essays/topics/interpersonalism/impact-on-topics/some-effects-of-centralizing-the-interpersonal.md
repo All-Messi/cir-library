@@ -5,8 +5,10 @@ categories:
 - Interpersonalism
 - Impact On Topics
 date: '2026-02-16'
+lastmod: 2025-07-16
 draft: false
-title: SOME EFFECTS OF CENTRALIZING THE INTERPERSONAL
+title: "Some Effects of Centralizing the Interpersonal Category in Biblical-Systematic Theology"
+subtitle: "An Outline"
 weight: 3
 content_kind: chart
 aliases:
@@ -45,17 +47,13 @@ ul
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>CATEGORY IN BIBLICAL-SYSTEMATIC THEOLOGY:</span></b></p>
+
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
 style='font-size:14.0pt'> </span></b></p>
 
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
-style='font-size:14.0pt'>AN OUTLINE</span></b></p>
+
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span
@@ -65,9 +63,7 @@ style='font-size:12.0pt'>&nbsp;</span></b></p>
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
-margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD </span></p>
+
 
 <p class=MsoNormal align=center style='margin-top:0in;margin-right:-.5in;
 margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt;text-align:center'><b><span

@@ -1,7 +1,9 @@
 ---
 title: "2. Xenoglossia"
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 1997-05-01
+lastmod: 2025-07-10
 categories:
 - 'Topics'
 - 'Christian Doctrine'

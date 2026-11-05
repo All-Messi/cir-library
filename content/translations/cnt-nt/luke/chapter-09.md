@@ -15,7 +15,7 @@ next: chapter-10
 ### The Mission of the Twelve
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He called the Twelve together and gave them power and authority to cast out demons and heal sicknesses. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He called the Twelve together and gave them power and authority to cast out demons and heal sicknesses. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He sent them out to announce <i>the coming of </i>God’s kingdom and to heal the sick. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>“Don’t take anything with you—no staff, sack for extra clothes, bread, money, or two shirts apiece. </span></i></span>
 <span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Stay in whatever house you enter till you leave the area. </span></i></span>
@@ -168,8 +168,9 @@ next: chapter-10
 <span class="verse verse-v53" id="v53"><sup class="verse-num">53</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but they wouldn’t welcome him because he was heading for Jerusalem. </span></span>
 <span class="verse verse-v54" id="v54"><sup class="verse-num">54</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the disciples James and John saw it, they said, <i>“Do you want us to call down fire from the sky to consume them?”</i> </span></span>
 <span class="verse verse-v55" id="v55"><sup class="verse-num">55</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He turned and reprimanded them, </span></span>
-<span class="verse verse-v56" id="v56"><sup class="verse-num">56</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and they went on to another village.                                                                                                                                              </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Lk 9:51-56</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>
-                                                                                                                                                                                                                      </span></span></p>
+<span class="verse verse-v56" id="v56"><sup class="verse-num">56</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and they went on to another village.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Lk 9:51-56</p>
 
 
 ### Conversation About Following Jesus
@@ -187,7 +188,9 @@ next: chapter-10
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v61" id="v61"><sup class="verse-num">61</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Another fellow said, <i>“I’ll go with you; let me go say goodbye to the ones in my house.”</i></span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v62" id="v62"><sup class="verse-num">62</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus told him, <i>“Nobody that takes hold of a plow and looks back is fit for the kingdom.”          </i></span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'>Lk 9:57-62</span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></i></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v62" id="v62"><sup class="verse-num">62</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus told him, <i>“Nobody that takes hold of a plow and looks back is fit for the kingdom.”</i></span><b><span style='font-size:10.0pt;line-height: 115%;font-family:"Times New Roman",serif'></span></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></i></span></p>
+
+<p class="section-ref">Lk 9:57-62</p>
 
 
 <style>

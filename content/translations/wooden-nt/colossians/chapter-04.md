@@ -33,13 +33,6 @@ prev: chapter-03
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The salutation of-Paul with-[the] may-own hand. Remember the bonds of-me. [The] grace (be) with you.</span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Virgil Warren, PhD</span></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>translator</span><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>       </span></b></p>
-
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-family:"Times New Roman",serif'>
-</span></b><span style='font-family:"Times New Roman",serif'>christir.org</span></p>
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

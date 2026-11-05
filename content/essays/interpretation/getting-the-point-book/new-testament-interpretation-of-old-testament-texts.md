@@ -1,11 +1,13 @@
 ---
-title: "Appendix: NT Interpretation of OT Texts"
+title: "Appendix: New Testament Interpretation of Old Testament Texts"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-03-04
+lastmod: 2025-07-11
 categories:
 - 'Interpretation'
 - 'Getting The Point Book'
-weight: 106
+weight: 28
 draft: false
 ---
 
@@ -31,17 +33,14 @@ span.HeaderChar
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>NEW TESTAMENT INTERPRETATION </span></b></p>
 
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
-style='font-size:14.0pt'>OF OLD TESTAMENT TEXTS</span></b></p>
+
+
 
 <p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><b><span
 style='font-size:14.0pt'>&nbsp;</span></b></p>
 
-<p class=MsoNormal align=center style='margin-right:-.5in;text-align:center'><span
-style='font-size:12.0pt'>Virgil Warren, PhD</span></p>
+
 
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>

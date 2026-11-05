@@ -6,6 +6,8 @@ categories:
 - Impact On Topics
 - Unity Christian And Ip
 date: '2026-02-16'
+printed: 2015-01-17
+lastmod: 2025-07-16
 draft: false
 title: CHRISTIAN UNITY
 weight: 4

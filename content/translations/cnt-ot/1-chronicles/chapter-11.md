@@ -32,7 +32,9 @@ next: chapter-12
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David lived in the fortress; so they called it The City of David. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He built the city all around from the Millo to the surrounding area, and Joab repaired the rest of Jerusalem. </span></span>
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David became greater and greater because the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> was with him.<b>
-</b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 11:1-9</span></b></span></p>
+</b></span></span></p>
+
+<p class="section-ref">1 Ch 11:1-9</p>
 
 
 ### David’s Mighty Men
@@ -48,15 +50,19 @@ next: chapter-12
 <span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Davd was in the stronghold while the Philistine garrison was in Bethlehem. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David was thirsty and said<i>, “Oh that somebody would give me a drink from the well by the gate at Bethlehem!” </i></span></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The three broke through the Philistine camp and drew water from the well at Bethlehem and took it to David. But he wouldn’t drink it; he poured it out to the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.
-</span><a name="_Hlk145342340"></span>
-<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> </a><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“In the presence of my God, I can’t do that. Should I, in effect, drink these men’s blood who risked their lives to bring it?”</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Those were exploits the three powerful men did.</span><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>    </span></b><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 11:10-19</span></b></span></p>
+</span></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“In the presence of my God, I can’t do that. Should I, in effect, drink these men’s blood who risked their lives to bring it?”</span></i><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'> Those were exploits the three powerful men did.</span><b><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>    </span></b></span></span></p>
+
+<p class="section-ref">1 Ch 11:10-19</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Abishai, Joab’s brother, was leader of the 30. He killed 300 with a spear; he had a reputation as well as the 30. </span></span>
 <span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Of the three in the second rank, he had the greatest honor and became their commander. But he didn’t measure up to the three.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Benaiah son of Jehoiada, son of a fearless warrior from Kabzeel, powerful in deeds, struck down the two sons of Ariel of Moab. He also went down and killed a lion inside a pit on a snowy day. </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He killed an Egyptian that was 7ft 6. The Egyptian had a spear like a weaver’s beam, but <i>Benaiah</i> went down to him with a club and snatched the spear from him and killed him with it.   </span></span>
-<span class="verse verse-v24" id="v24"><sup class="verse-num">24-25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Benaiah was renowned among the 30, but he didn’t measure up to the three. David appointed him over his guard.<b>                            </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 11:20-25</span></b></span></p>
+<span class="verse verse-v24" id="v24"><sup class="verse-num">24-25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Benaiah was renowned among the 30, but he didn’t measure up to the three. David appointed him over his guard.<b>                            </b></span></span></p>
+
+<p class="section-ref">1 Ch 11:20-25</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v26" id="v26"><sup class="verse-num">26</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The elite soldiers in the armies were Asahel brother of Joab, Elhanan son of Dodo from Bethlehem, </span></span>
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Shammoth the Harorite, Helez the Pelonite, </span></span>
@@ -79,7 +85,9 @@ next: chapter-12
 <span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Uzzia the Ashterathite, Shama and Jeiel sons of Hotham the Aroerite, </span></span>
 <span class="verse verse-v45" id="v45"><sup class="verse-num">45</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jediael son of Shimri and Joha his brother, the Tizite; </span></span>
 <span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Eliel the Mahavite and Jeribai and Joshaviah sons of Elnaam, and Ithmah the Moabite; </span></span>
-<span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Eliel, Obed, and Jaasiel the Mezobaite.<b>                                                                                                                      </b></span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>1 Ch 11:26-47</span></b></span></p>
+<span class="verse verse-v47" id="v47"><sup class="verse-num">47</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Eliel, Obed, and Jaasiel the Mezobaite.<b>                                                                                                                      </b></span></span></p>
+
+<p class="section-ref">1 Ch 11:26-47</p>
 
 
 <style>

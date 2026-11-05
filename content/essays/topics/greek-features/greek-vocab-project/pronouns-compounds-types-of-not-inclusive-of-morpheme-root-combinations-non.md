@@ -1,7 +1,8 @@
 ---
-title: "PRONOUNS Compounds, types of (not inclusive of morpheme-root combinations) non-prepositional compounds"
-author: "Virgil Warren, christir.org"
+title: "Pronouns: Types of Compounds"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
+lastmod: 2025-02-04
 categories:
 - 'Topics'
 - 'Greek Features'
@@ -108,27 +109,27 @@ style='font-size:10.0pt;font-family:"Arial",sans-serif'>            i
 margin-left:117.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-81.0pt'><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'>                    first-second
 declension (adjectives capable of being used also as ) pronouns with -</span><span
-style='font-size:10.0pt;font-family:SuperGreek'>o</span><span style='font-size:
+style='font-size:10.0pt;font-family:SuperGreek'>ο</span><span style='font-size:
 10.0pt;font-family:"Arial",sans-serif'> rather than -</span><span
-style='font-size:10.0pt;font-family:SuperGreek'>on</span><span
+style='font-size:10.0pt;font-family:SuperGreek'>ον</span><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'> in neuter nom and acc
-sg  [</span><span style='font-size:10.0pt;font-family:SuperGreek'>aujtov</span><span
+sg  [</span><span style='font-size:10.0pt;font-family:SuperGreek'>αὐτό</span><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'>, </span><span
-style='font-size:10.0pt;font-family:SuperGreek'>ejkei'no</span><span
+style='font-size:10.0pt;font-family:SuperGreek'>ἐκεῖνο</span><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'>, </span><span
-style='font-size:10.0pt;font-family:SuperGreek'>e{tero</span><span
+style='font-size:10.0pt;font-family:SuperGreek'>ἕτερο</span><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'>, </span><span
-style='font-size:10.0pt;font-family:SuperGreek'>o{</span><span
+style='font-size:10.0pt;font-family:SuperGreek'>ὅ</span><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'> (and </span><span
-style='font-size:10.0pt;font-family:SuperGreek'>o{ti</span><span
+style='font-size:10.0pt;font-family:SuperGreek'>ὅτι</span><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'>), </span><span
-style='font-size:10.0pt;font-family:SuperGreek'>tov</span><span
+style='font-size:10.0pt;font-family:SuperGreek'>τό</span><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'>, </span><span
-style='font-size:10.0pt;font-family:SuperGreek'>tou'to</span><span
+style='font-size:10.0pt;font-family:SuperGreek'>τοῦτο</span><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'>, </span><span
-style='font-size:10.0pt;font-family:SuperGreek'>a[llo</span><span
+style='font-size:10.0pt;font-family:SuperGreek'>ἄλλο</span><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'>, </span><span
-style='font-size:10.0pt;font-family:SuperGreek'>tovde</span><span
+style='font-size:10.0pt;font-family:SuperGreek'>τόδε</span><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'>]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -142,13 +143,13 @@ style='font-size:10.0pt;font-family:"Arial",sans-serif'>Demonstrative pronouns</
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'>            as
-aforesaid  [</span><span style='font-size:10.0pt;font-family:SuperGreek'>ouJto&quot;</span><span
+aforesaid  [</span><span style='font-size:10.0pt;font-family:SuperGreek'>οὑτος</span><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'> in classical usage]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'>            as to be
-said  [</span><span style='font-size:10.0pt;font-family:SuperGreek'>o{de</span><span
+said  [</span><span style='font-size:10.0pt;font-family:SuperGreek'>ὅδε</span><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'> in classical usage]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -168,7 +169,7 @@ style='font-size:10.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'>Differential pronouns [</span><span
-style='font-size:10.0pt;font-family:SuperGreek'>a[llo&quot;, e{tero&quot;</span><span
+style='font-size:10.0pt;font-family:SuperGreek'>ἄλλος, ἕτερος</span><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'>]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -233,7 +234,7 @@ style='font-size:10.0pt;font-family:"Arial",sans-serif'>&nbsp;</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'>Negative pronouns  [</span><span
-style='font-size:10.0pt;font-family:SuperGreek'>oujdeiv&quot;</span><span
+style='font-size:10.0pt;font-family:SuperGreek'>οὐδείς</span><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'>]</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
@@ -256,9 +257,9 @@ covering more than one person</span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.5in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'>            [</span><span
-style='font-size:10.0pt;font-family:SuperGreek'>aujtov&quot; </span><span
+style='font-size:10.0pt;font-family:SuperGreek'>αὐτός </span><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'>(intensive usage only)]
-[</span><span style='font-size:10.0pt;font-family:SuperGreek'>i[dio&quot;</span><span
+[</span><span style='font-size:10.0pt;font-family:SuperGreek'>ἴδιος</span><span
 style='font-size:10.0pt;font-family:"Arial",sans-serif'> intensive reflexive
 pronominal adj and                     substantive?]</span></p>
 

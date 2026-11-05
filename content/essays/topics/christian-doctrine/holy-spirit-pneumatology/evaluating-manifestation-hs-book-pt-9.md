@@ -1,12 +1,12 @@
 ---
-title: "EVALUATING Manifestation (HS book pt 9)"
-author: "Virgil Warren, christir.org"
+title: "Evaluating Manifestation"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:
 - 'Topics'
 - 'Christian Doctrine'
 - 'Holy Spirit Pneumatology'
-weight: 8
+weight: 9
 draft: false
 subtitle: "EVALUATING CURRENT MANIFESTATION"
 ---
@@ -311,7 +311,7 @@ style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:12.0pt'>                                          <img
+style='font-size:12.0pt'>                                          <img alt="Not in previous revelation; confirms previous revelation; false"
 width=194 height=136 id="Picture 1" src="/images/essays/evaluating-manifestation-hs-book-pt-9/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;

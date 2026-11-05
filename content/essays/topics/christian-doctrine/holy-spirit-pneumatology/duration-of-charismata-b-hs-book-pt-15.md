@@ -1,6 +1,6 @@
 ---
-title: "DURATION of Charismata, B (HS book pt 15)"
-author: "Virgil Warren, christir.org"
+title: "Duration of the Charismata, B"
+author: "Virgil Warren, PhD"
 date: '2026-04-02'
 categories:
 - 'Topics'

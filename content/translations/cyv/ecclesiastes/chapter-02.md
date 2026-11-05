@@ -11,7 +11,8 @@ next: chapter-03
 
 ## Ecclesiastes Chapter 2
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         2<b><sup>:1</sup></b></span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I said to myself,<i> “Try pleasure; enjoy yourself.” </i>That turned out to have no purpose either. </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Laughing’s silly and pleasure’s pointless. </span></span>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I said to myself,<i> “Try pleasure; enjoy yourself.” </i>That turned out to have no purpose either. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Laughing’s silly and pleasure’s pointless. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I cast about in my mind how to cheer myself up with wine and embrace foolishness while thinking wisely.  </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I tried to find out what’s worth doing under the sky during the few years we’re alive. </span><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I undertook big projects: </span></span></p>

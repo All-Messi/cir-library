@@ -4,7 +4,7 @@ chapters: 29
 title: 1 Chronicles
 translation: CYV
 type: book
-weight: 52
+weight: 13
 ---
 
 ## 1 Chronicles

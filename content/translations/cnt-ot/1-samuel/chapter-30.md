@@ -44,7 +44,7 @@ next: chapter-31
 
 <p class="section-ref">1 Sam 30:11-15</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><a name="_Hlk200125715"><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>David Defeats the Amalekites</span></b></a><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></sup></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>David Defeats the Amalekites</span></b><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></sup></b></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he’d taken him down; they found them spread out all over the ground eating and drinking and dancing because of the large amount of spoil they’d taken from the Philistines and Judah. </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>David slaughtered them from twilight till evening the next day. Not a man escaped, except for 400 young men that fled on camels. </span></span>

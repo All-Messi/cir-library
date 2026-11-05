@@ -4,9 +4,10 @@ categories:
 - Interpretation
 - Getting The Point Book
 date: '2026-02-16'
+lastmod: 2025-07-11
 draft: false
 title: "Hindrances: Presuppositions"
-weight: 8
+weight: 6
 ---
 
 <style>
@@ -42,10 +43,8 @@ ul
 
 <div class="word-content">
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
-style='font-size:10.0pt'>                        </span><span style='font-size:
-12.0pt'>b. Presuppositions (accompanying misinformation)         Virgil Warren,
-PhD</span></p>
+margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span style='font-size:
+12.0pt'>b. Presuppositions (accompanying misinformation)</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
 margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
@@ -143,7 +142,7 @@ out and are not aware of till the noises stop—like the refrigerator going off.
 similar can happen in the thinking-interpreting process.            </span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:2.25in;margin-bottom:.0001pt;text-align:justify;text-indent:-2.0in'><span
+margin-left:min(2.25in, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(24px, 35vw) - min(2.25in, 35vw))'><span
 style='font-size:12.0pt'>                                       (e) Being
 unwilling to listen and understand what someone is saying</span></p>
 
@@ -252,7 +251,7 @@ style='font-size:12.0pt'>                           �
 <u>better</u> than what I have?”</span></i></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:2.5in;margin-bottom:.0001pt;text-align:justify;text-indent:-2.25in'><span
+margin-left:min(2.5in, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(24px, 35vw) - min(2.5in, 35vw))'><span
 style='font-size:12.0pt'>                                                [2]  <i>“I
 do not want friends and relatives to ostracize me.”</i></span></p>
 
@@ -290,13 +289,13 @@ margin-left:.25in;margin-bottom:.0001pt;text-align:justify'><span
 style='font-size:12.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:189.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-171.0pt'><span
+margin-left:min(189.0pt, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(24px, 35vw) - min(189.0pt, 35vw))'><span
 style='font-size:9.0pt'>                                                                         </span><span
 style='font-size:12.0pt;color:#7030A0'>[1] A divorced man’s interpretation of
 the passages about divorce</span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-.5in;margin-bottom:0in;
-margin-left:189.0pt;margin-bottom:.0001pt;text-align:justify;text-indent:-171.0pt'><span
+margin-left:min(189.0pt, 35vw);margin-bottom:.0001pt;text-align:justify;text-indent:calc(min(24px, 35vw) - min(189.0pt, 35vw))'><span
 style='font-size:12.0pt;color:#7030A0'>                                                [2]
 A homosexual’s interpretation of the passages that deal with homosexual
 behavior</span></p>

@@ -11,10 +11,6 @@ next: chapter-02
 ## Esther Chapter 1
 
 
-### Conversational Yahveh Covenant
-
-
-
 ### King Xerxes’ Banquet
 
 
@@ -27,7 +23,9 @@ next: chapter-02
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>There were white cotton curtains and blue hangings held up by cords of fine purple linen on silver rings and marble pillars. There were gold and silver couches on a mosaic pavement made out of porphyry, marble, mother-of-pearl, and precious stones. </span></span>
 <span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Drinks were served in gold cups of different kinds, and the royal wine was plentiful according to the king’s bounty. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The drinking was done by law: attendees were not compelled, because the king had ordered each official of his household to follow each person’s wishes. </span></span>
-<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Queen Vashti also gave a banquet for the women in the king’s palace.</span><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        <b>Esther 1:1-9</b></span></span></p>
+<span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Queen Vashti also gave a banquet for the women in the king’s palace.</span><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Esther 1:1-9</p>
 
 
 ### Queen Vashti Deposed
@@ -39,7 +37,9 @@ next: chapter-02
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He consulted the wise men who understood customs.  It was his custom so to speak to everybody that knew law and justice. </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Those close to him were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media who had access to him and sat in first place in the kingdom. </span></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He asked <i>them</i>, <i>“By law, what should be done with Queen Vashti? She didn’t obey my command sent through the eunuchs.”</i> </span></span>
-<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the presence of the king and princes, Memucan said,                                                     </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Esther 1:10-16a</span></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></b></span></p>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the presence of the king and princes, Memucan said,</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">Esther 1:10-16a</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“She has not only wronged you but your</span></i><i><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'> </span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>officials and the people groups in your provinces. </span></i><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Women will find out what she’s done and look with contempt on their husbands and say King Ahasuerus commanded Queen Vashti to be brought into his presence, but she didn’t come. </span></i></span>
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Today the ladies of Persia and Media who have heard about what she did will speak the same way to your officials, and there’ll be plenty of contempt and anger. </span></i></span>
@@ -48,6 +48,8 @@ next: chapter-02
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king and the officials liked the idea, and he did what Memucan proposed. </span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He sent letters to all his provinces, to each province in its script and to every people in their language, that every man should be the master in his house and speak in the language of his own people.</span></span></p>
+
+<p class="section-ref">Esther 1:16b-22</p>
 
 
 <style>

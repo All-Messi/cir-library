@@ -2,6 +2,8 @@
 title: "ORTHODOX CHRISTIANITY"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2023-07-14
+lastmod: 2025-07-15
 categories:
 - 'Evidences'
 - 'Critical Intro Nt'
@@ -25,7 +27,7 @@ draft: false
 </style>
 
 <div class="word-content">
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
+<p class="cir-diagram" style="text-align:center;margin:1.25rem 0"><img src="/images/diagrams/orthodox-christianity-1.png" alt="Diagram: Jesus of Nazareth branching to Ebionites (ended), Petrine Christianity, Pauline Christianity and Gnostics (ended); Petrine and Pauline lines merge into the Roman Catholic Church" width="355" style="max-width:100%;height:auto"></p><p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 150%'><span style='font-size:12.0pt;line-height:150%'>                  A prevalent
 idea in current religious studies is that Christianity as we know it became
 associated by way of historical process with the Roman government. The line of
@@ -42,6 +44,4 @@ other traditions did.</span></p>
 <p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
 150%'><span style='font-size:12.0pt;line-height:150%'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-right:-.5in;text-align:justify;line-height:
-150%'><span style='font-size:11.0pt;line-height:150%'>chiristir.org</span></p>
 </div>

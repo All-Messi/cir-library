@@ -10,7 +10,7 @@ next: chapter-02
 
 ## 2 Thessalonians Chapter 1
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Paul and Silvanus and Timothy to the church of-[the] Thessalonians in God (the) Father of-us and (the) Lord Jesus Christ.  </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Paul and Silvanus and Timothy to the church of-[the] Thessalonians in God (the) Father of-us and (the) Lord Jesus Christ.  </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Grace to-you and peace from God (the) Father [of-us]<sup>ms</sup> and (the) Lord Jesus Christ.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We-are-obliged to-give-thanks to-[the] God always about you, brothers, even-as is appropriate, because the faith of-you is-greatly-growing, and the love of-each one of-you all for one-another is-increasing, </span></span>

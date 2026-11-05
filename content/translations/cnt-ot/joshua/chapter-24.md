@@ -30,9 +30,7 @@ prev: chapter-23
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I sent hornets to drive out the two Amorite kings. Your sword and bow didn’t do it. </span></i></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I gave you a land you hadn’t worked and towns you didn’t build, and you lived in them. You’re eating the fruit from vineyards and olive orchards you didn’t plant.’</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>                                                                                                        </span></b></span></p>
 
-
-### Josh 24:1-13
-
+<p class="section-ref">Josh 24:1-13</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Now then, respect the </span></i><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size: 9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>, serve him sincerely and faithfully. Put away the gods your ancestors served beyond the River and in Egypt. </span></i></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If you won’t serve him, choose today who you <u>will</u> serve: the gods of your ancestors beyond the River or the gods of the Amorites where you’re living. <u>My house and I</u> will serve the </span></i><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>L</span></i><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.”</span></i></span></p>
@@ -83,8 +81,6 @@ prev: chapter-23
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>son, which had been given to him in the hill country of Ephraim.<b>                                 </b></span></p>
 
 <p class="section-ref">Josh 24:25-33</p>
-
-<p class="MsoNormal" style='margin-bottom:0in;margin-top:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Version by Virgil Warren: christir.org</span></p>
 
 
 <style>

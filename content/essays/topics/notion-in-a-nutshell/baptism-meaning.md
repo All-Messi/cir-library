@@ -2,6 +2,8 @@
 title: "BAPTISM: MEANING"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2013-03-22
+lastmod: 2025-07-10
 categories:
 - 'Topics'
 - 'Notion In A Nutshell'

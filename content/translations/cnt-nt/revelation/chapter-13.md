@@ -38,9 +38,9 @@ next: chapter-14
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    will be killed with a sword.</span></p>
 
+<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> That’s why the saints stay confident.                                            </span></p>
 
-### That’s why the saints stay confident.                                            Rev 13:5-10
-
+<p class="section-ref">Rev 13:5-10</p>
 
 
 ### The Beast from the Land
@@ -56,6 +56,8 @@ next: chapter-14
 <span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif; display:none'>ere is insight; let the discerJHere</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Here’s a hint for a discerning person to calculate its number. It’s the number in use among people: 666.</span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></b></p>
+
+<p class="section-ref">Rev 13:11-18</p>
 
 
 <style>

@@ -10,7 +10,7 @@ next: chapter-02
 
 ## Mark Chapter 1
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The beginning of-the gospel of-Jesus Messiah, (the) Son of-God.</span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The beginning of-the gospel of-Jesus Messiah, (the) Son of-God.</span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Even-as it-is-written in [the] Isaiah the prophet, </span></span></p>
 
@@ -20,9 +20,7 @@ next: chapter-02
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></i></b><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>(the) voice of-one-calling-out in the desert,</span></i></b></span></p>
 
-
-### ‘Prepare the way of-(the)-Lord;
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    ‘Prepare the way of-(the)-Lord;</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    make the paths </span></i></b><i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>of-him<b> straight.’”</b></span></i></p>
 

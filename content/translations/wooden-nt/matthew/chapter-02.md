@@ -11,7 +11,7 @@ next: chapter-03
 
 ## Matthew Chapter 2
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And [the] Jesus having-been-born in Bethlehem of-[the] Judaea in (the) days of-Herod the king, behold, mage from (the) East arrived in Jerusalem, </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And [the] Jesus having-been-born in Bethlehem of-[the] Judaea in (the) days of-Herod the king, behold, mage from (the) East arrived in Jerusalem, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>saying,
 <i>“Where is the-one having-been-born king of-the Jews? For we-saw the star of-him in the East and we-came to-worship him.” </i></span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And having-heard, Herod the king was-troubled and all Jerusalem with him; </span></span>
@@ -47,9 +47,7 @@ next: chapter-03
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    weeping and great mourning;</span></i></b></p>
 
-
-### Rachel weeping-for the children of-her,
-
+<p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        Rachel weeping-for the children of-her,</span></i></b></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                                    and she-did┘not└want to-be</span></i></b></p>
 

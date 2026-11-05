@@ -13,7 +13,7 @@ next: chapter-31
 
 <p class="MsoListBulletCxSpMiddle" align=center style='margin-top:0in;margin-bottom:0in;margin-left:0in;text-align:center'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Words of Agur Son of Jakeh, an Oracle</span></span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122422315"><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Agur</span></i></a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says to Ithiel and Ucal:</span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Agur</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> says to Ithiel and Ucal:</span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Surely I’m too stupid to be human;</span></span></p>
 
@@ -34,9 +34,9 @@ next: chapter-31
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      What’s his name? What’s his son’s name?</span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            Tell me if you know!<b>                                                  </b></span></p>
 
-### Tell me if you know!                                                  Prov 30:1-4
-
+<p class="section-ref">Prov 30:1-4</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;line-height:normal'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Every message from God proves true;</span></span></p>
 
@@ -57,7 +57,7 @@ next: chapter-31
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            just give me what I need;</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122422693"><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span></a><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>so, on the one hand, I won’t be full and deny you, saying,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>so, on the one hand, I won’t be full and deny you, saying,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            <i>“Who needs the </i>L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>?”</span></i></p>
 
@@ -91,7 +91,7 @@ next: chapter-31
 
 <p class="section-ref">Prov 30:11-14</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122422754"><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A leech has two daughters</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A leech has two daughters</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            that cry, <i>“More, give me more.”</i></span></p>
 
@@ -109,7 +109,7 @@ next: chapter-31
 
 <p class="section-ref">Prov 30:15-16</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;line-height:normal'><a name="_Hlk117545208"><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> </a><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The eye that mocks father or scorns mother </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;line-height:normal'><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The eye that mocks father or scorns mother </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      the ravens in the valley will pluck out,</span></p>
 
@@ -135,7 +135,7 @@ next: chapter-31
 
 <p class="section-ref">Prov 30:17-20</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><a name="_Hlk122422820"><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> </a><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Under three things the ground trembles,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Under three things the ground trembles,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>no, make that</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> four, it can’t endure:    </span></p>
 
@@ -167,7 +167,7 @@ next: chapter-31
 
 <p class="section-ref">Prov 30:21-28</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;line-height:normal'><a name="_Hlk122422914"><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> </a><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Three things are stately in their stride,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;line-height:normal'><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Three things are stately in their stride,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>no,</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> four that walk with majestic bearing:</span></p>
 
@@ -192,14 +192,6 @@ next: chapter-31
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      so stirring up anger causes quarrels.</span></p>
 
 <p class="section-ref">Prov 30:29-33</p>
-
-<p class="MsoListBulletCxSpMiddle" align=center style='margin-top:0in;margin-bottom:0in;margin-left:0in;text-align:center'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>31<sup>;1</sup></span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Words of King Lemuel </span></p>
-
-<p class="MsoListBulletCxSpMiddle" align=center style='margin-top:0in;margin-bottom:0in;margin-left:0in;text-align:center'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Oracle His Mother Taught Him</span></p>
-
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>2</span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Please listen, son, </span></p>
-
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in;'><span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      son of my womb, son of my vows;</span></p>
 
 
 <style>

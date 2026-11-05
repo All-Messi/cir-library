@@ -4,7 +4,7 @@ chapters: 12
 title: Ecclesiastes
 translation: CYV
 type: book
-weight: 60
+weight: 21
 ---
 
 ## Ecclesiastes

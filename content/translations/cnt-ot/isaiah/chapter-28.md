@@ -15,14 +15,12 @@ next: chapter-29
 ### An Oracle About Samaria
 
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><a name="_Hlk123221299"><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>         </span></b></a><a name="_Hlk86928788"><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Misfortune awaits <b>the proud crown of Ephraim’s drunks</b>,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Misfortune awaits <b>the proud crown of Ephraim’s drunks</b>,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><b><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>              </span></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>      <b>the fading flower of its glorious beauty,</b> </span></p>
 
-
-### Samaria,
-that’s at the head of the fertile valley
-
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              <i>Samaria</i>,
+<b>that’s at the head of the fertile valley</b> </span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              of those drunk with wine.</span></p>
 
@@ -44,7 +42,7 @@ that’s at the head of the fertile valley
 
 <p class="section-ref">Is 28:1-4</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><a name="_Hlk123221445"><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></a><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At a later time, the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> of Hosts will finally become Israel’s crown <i>instead</i>,</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>At a later time, the L</span><span style='font-size:9.0pt;line-height:115%; font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'> of Hosts will finally become Israel’s crown <i>instead</i>,</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              a beautiful diadem for his remnant people.</span></p>
 
@@ -66,7 +64,7 @@ that’s at the head of the fertile valley
 
 <p class="section-ref">Is 28:5-8</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                  </span><a name="_Hlk86928892"><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> </a><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yet they say, <i>“Who’s</i> the <i>L</i></span><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> think he’s going to teach?</span></i></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                  </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yet they say, <i>“Who’s</i> the <i>L</i></span><i><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> think he’s going to teach?</span></i></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                           </span></sup></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            Who’s he going to explain the message to?</span></i></p>
 
@@ -105,7 +103,7 @@ that’s at the head of the fertile valley
 
 <p class="section-ref">Is 28:9-13</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><a name="_Hlk123221699"><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></a><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So listen to the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>’s message, </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>So listen to the L</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>’s message, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                             </span></sup></b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>you scoffing rulers in Jerusalem:</span></p>
 
@@ -160,7 +158,7 @@ that’s at the head of the fertile valley
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                          once you get what that means.”</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><a name="_Hlk123222092"><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></a><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The bed <i>you’ve built is</i> too short to stretch out on;</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The bed <i>you’ve built is</i> too short to stretch out on;</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                    your blanket’s too narrow to cover up with.</span></p>
 
@@ -183,7 +181,7 @@ that’s at the head of the fertile valley
 
 <p class="section-ref">Is 28:19-22</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><a name="_Hlk123222200"><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></a><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Listen to my question.</span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Listen to my question.</span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When it’s planting time, </span></span></p>
 
@@ -207,7 +205,7 @@ that’s at the head of the fertile valley
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                              he beats out dill and cummin with a stick.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><a name="_Hlk123222265"><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span></a><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Does he crush grain for bread?                                </span></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                        </span><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Does he crush grain for bread?                                </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:.5in'><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>                                    <i>No, he</i> doesn’t keep threshing it over and over;</span></p>
 

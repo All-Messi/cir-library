@@ -1,7 +1,7 @@
 ---
 title: "The Power of Joy"
 date: '2026-08-02'
-author: "Virgil Warren, christir.org"
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations

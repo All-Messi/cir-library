@@ -33,10 +33,10 @@ next: chapter-03
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But he told her,<i> “You talk like a foolish woman. Will we accept good from God and not adversity?”</i> </span></span></p>
 
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>In all that, <span style='color:gray'>Job</span> didn’t sin in what he said.<b>
+</b></span></p>
 
-### In all that, Job didn’t sin in what he said.
-Job 2:1-10
-
+<p class="section-ref">Job 2:1-10</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His three friends <span style='color:#00B050'>Eliphaz</span> the Temanite, <span style='color:#7030A0'>Bildad</span> the Shuhite, and <span style='color:#C00000'>Zophar</span> the Naamathite heard about all the terrible things that had happened to him. They made an appointment together to come and sympathize with him and comfort him. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When they looked up from a distance and didn’t recognize him, they wailed loudly, tore their robes, and threw dust over their heads. </span></span>

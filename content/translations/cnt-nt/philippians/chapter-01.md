@@ -14,9 +14,10 @@ next: chapter-02
 ### Salutation
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>1</span></b><sup><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>:</span></sup><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Paul and Timothy, servants of Christ<sup>Messiah</sup> Jesus, to the saints in Philippi and <i>their</i> bishops and deacons. </span></span>
-<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Grace and peace from God our Father and the Lord Jesus Christ.                                                                                         </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Phil 1:1-2</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>
-</span></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Paul and Timothy, servants of Christ<sup>Messiah</sup> Jesus, to the saints in Philippi and <i>their</i> bishops and deacons. </span></span>
+<span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Grace and peace from God our Father and the Lord Jesus Christ.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Phil 1:1-2</p>
 
 
 ### Prayer for the Philippians
@@ -65,8 +66,9 @@ next: chapter-02
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Make sure you conduct yourselves in a way that’s appropriate for the good news about Christ. Then, whether I can come to see you or not, I can hear that you’re standing firm in one spirit with one mind, that you’re striving together by trusting in the good news, </span></span>
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and that you’re not alarmed by your opponents. Their opposition is evidence for their destruction and your salvation—a situation that comes from God. </span></span>
 <span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>For the sake of Christ, you’ve had the opportunity to believe in him and suffer for him. </span></span>
-<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>You’re facing the same struggle you saw me face and hear that I’m facing now.                                                                                                                        </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Phil 1:27-30</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>
-</span></span></p>
+<span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>You’re facing the same struggle you saw me face and hear that I’m facing now.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Phil 1:27-30</p>
 
 
 <style>

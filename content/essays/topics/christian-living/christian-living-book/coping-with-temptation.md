@@ -2,10 +2,13 @@
 title: "COPING WITH TEMPTATION"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2015-05-18
+lastmod: 2025-07-09
 categories:
 - 'Topics'
 - 'Christian Living'
 - 'Christian Living Book'
+weight: 45
 draft: false
 ---
 
@@ -383,7 +386,7 @@ a generalized habit.</span></p>
 style='font-size:8.0pt'>&nbsp;</span></p>
 
 <p class=MsoNormal style='margin-right:-27.0pt;text-align:justify'><span
-style='font-size:12.0pt'>               <img width=386 height=73 id="Picture 1"
+style='font-size:12.0pt'>               <img alt="D. exchanges the welfare of everyone for the welfare of myself; E. the eternal for the temporary/immediate; F. the intangible for the tangible: appeals to what we can see most easily" width=386 height=73 id="Picture 1"
 src="/images/essays/coping-with-temptation/image001.png"></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:-27.0pt;margin-bottom:

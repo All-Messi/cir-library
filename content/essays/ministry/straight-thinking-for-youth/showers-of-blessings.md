@@ -1,12 +1,15 @@
 ---
-author: Virgil Warren, Straight, April 17, 1966, p6
+author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Straight Thinking For Youth
 date: '2026-02-16'
+lastmod: 2025-07-12
 draft: false
-title: Showers of Blessings
+title: "Showers of Blessings (April 3, 1966)"
 weight: 2
+aliases:
+- /essays/ministry/straight-thinking-for-youth/showers-of-blessings-040366/
 ---
 
 <style>
@@ -27,8 +30,7 @@ weight: 2
 </style>
 
 <div class="word-content">
-<p class=MsoNormal align=center style='margin-bottom:.25in;text-align:center'><span
-style='font-size:10.0pt;line-height:115%'>040366</span></p>
+
 
 <p class=MsoNormal style='text-align:justify'><i><span style='font-size:12.0pt;
 line-height:115%'>Sunday. </span></i><span style='font-size:9.0pt;line-height:

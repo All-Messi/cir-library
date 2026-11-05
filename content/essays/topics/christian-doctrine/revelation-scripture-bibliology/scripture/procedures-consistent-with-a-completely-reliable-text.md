@@ -2,6 +2,8 @@
 title: "PROCEDURES CONSISTENT WITH A COMPLETELY RELIABLE TEXT"
 author: "Virgil Warren, PhD"
 date: '2026-04-02'
+printed: 2020-10-20
+lastmod: 2025-07-17
 categories:
 - 'Topics'
 - 'Christian Doctrine'

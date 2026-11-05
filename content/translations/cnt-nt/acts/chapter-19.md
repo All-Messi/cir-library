@@ -15,7 +15,7 @@ next: chapter-20
 ### Paul Enters Ephesus
 
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While Apollos was in Corinth, Paul took the route through the higher country, and came down to Ephesus and found some disciples. </span></span>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While Apollos was in Corinth, Paul took the route through the higher country, and came down to Ephesus and found some disciples. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said, <i>“Did you receive the Holy Spirit when you believed?”</i></span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            They said, <i>“We’ve not even heard if the Holy Spirit has come.”</i></span></p>

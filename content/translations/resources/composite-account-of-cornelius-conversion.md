@@ -4,7 +4,7 @@ categories:
 - Bible Resources
 date: '2026-02-16'
 draft: false
-title: COMPOSITE ACCOUNT OF CORNELIUS' CONVERSION
+title: "Composite Account of Cornelius' Conversion"
 weight: 1
 ---
 
@@ -65,5 +65,3 @@ For a parallel layout in the Greek, see elsewhere on this site the supplement to
 
 
 Translator and Compiler
-
-christir.org
