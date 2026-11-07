@@ -1,0 +1,69 @@
+@charset "UTF-8";
+/* meditations.css — Communion Meditations landing, grouped by month (2026-11-06).
+   Loaded only by layouts/essays/communion-meditations.html (its "head" block).
+   The .essays-landing / .el-* rules repeat the ones inlined in essays/section.html so
+   the page looks like every other essay section; .cm-* are the month groups.
+   The site has no dark mode, so this file has none either. */
+
+/* ── shared essay-section frame (same values as essays/section.html) ── */
+.essays-landing { max-width: 1100px; margin: 0 auto; padding: 0 2rem; }
+.el-header { text-align: center; padding: 3rem 0 2.5rem; border-bottom: 1px solid #ebebeb; }
+.el-header h1 { font-family: 'Playfair Display', serif; font-size: 2.25rem; font-weight: 700; color: #000; margin: 0 0 0.5rem; }
+.el-rule { width: 64px; height: 1px; background: linear-gradient(90deg, transparent, #c0b8a8, transparent); margin: 0 auto 0.75rem; }
+.el-desc { font-family: 'Source Sans Pro', sans-serif; font-size: 1rem; color: #666; text-align: center; }
+.el-desc p { margin: 0; }
+.el-breadcrumb { padding: 0.75rem 0; border-bottom: 1px solid #f0eeea; font-family: 'Source Sans Pro', sans-serif; font-size: 0.85rem; color: #666; }
+.el-breadcrumb a { color: #666; text-decoration: none; }
+.el-breadcrumb a:hover { color: #2f4c3a; }
+.el-sep { margin: 0 0.35rem; color: #767676; }
+.el-bc-current { color: #000; font-weight: 600; }
+.el-body { background: #f8f6f2; padding: 2rem; margin: 0 -2rem; }
+.el-sec-head { padding-left: 0.85rem; border-left: 3px solid #2f4c3a; }
+.el-sec-title { font-family: 'Source Sans Pro', sans-serif; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.16em; color: #2f4c3a; margin: 0; line-height: 1.6; }
+
+/* ── heading row: "Browse by month" + Expand all ── */
+.cm-bar { display: flex; align-items: center; justify-content: space-between; gap: 1rem; margin-bottom: 0.6rem; }
+.cm-expand { font-family: 'Source Sans Pro', sans-serif; font-size: 0.8rem; font-weight: 600; color: #2f4c3a; background: #fff; border: 1px solid #d6d1c6; border-radius: 3px; padding: 0.4rem 0.8rem; min-height: 36px; cursor: pointer; transition: border-color .15s, background .15s; white-space: nowrap; }
+.cm-expand:hover { border-color: #2f4c3a; background: #f3f6f4; }
+.cm-expand[hidden] { display: none; }
+.cm-hint { font-family: 'Source Sans Pro', sans-serif; font-size: 0.88rem; line-height: 1.55; color: #666; margin: 0 0 1rem; max-width: 46rem; }
+
+/* ── month groups ── */
+.cm-months { background: #fff; border: 1px solid #e3e0d8; border-radius: 3px; padding: 0.25rem 1rem; }
+.cm-month { border-bottom: 1px solid #f0eeea; scroll-margin-top: 5.5rem; }   /* #april links: clear the sticky header */
+.cm-month:last-child { border-bottom: none; }
+
+.cm-month-head { display: flex; align-items: center; gap: 0.5rem; min-height: 44px; padding: 0.55rem 0; list-style: none; cursor: pointer; user-select: none; -webkit-user-select: none; font-family: 'Source Sans Pro', sans-serif; color: #333; transition: color .15s; }
+.cm-month-head::-webkit-details-marker { display: none; }
+.cm-month-head::marker { content: ""; }
+.cm-month-head:hover { color: #2f4c3a; }
+.cm-month-head:focus { outline: none; }
+.cm-month-head:focus-visible { outline: 2px solid #2f4c3a; outline-offset: 2px; border-radius: 2px; }
+
+.cm-toggle { flex-shrink: 0; width: 0.9rem; font-size: 0.7rem; color: #767676; transition: transform .2s; }
+.cm-month[open] > .cm-month-head .cm-toggle { transform: rotate(90deg); color: #2f4c3a; }
+.cm-month-name { flex: 1; font-family: 'Playfair Display', serif; font-size: 1.12rem; font-weight: 600; line-height: 1.3; }
+.cm-month-unknown .cm-month-name { font-style: italic; font-weight: 400; }
+.cm-month-count { flex-shrink: 0; min-width: 1.9rem; text-align: center; font-size: 0.76rem; font-weight: 600; color: #6b6b6b; background: #f3f1ec; border-radius: 999px; padding: 0.1rem 0.5rem; }
+.cm-month-head:hover .cm-month-count, .cm-month[open] > .cm-month-head .cm-month-count { color: #2f4c3a; background: #e9efeb; }
+
+/* ── meditations inside an open month ── */
+.cm-list { list-style: none; margin: 0 0 0.75rem 0.4rem; padding: 0 0 0 1.1rem; border-left: 2px solid #eceae6; }
+.cm-list li { margin: 0; padding: 0; border-bottom: 1px solid #f5f3ef; }
+.cm-list li:last-child { border-bottom: none; }
+.cm-item { display: flex; align-items: baseline; gap: 0.75rem; padding: 0.5rem 0; font-family: 'Source Sans Pro', sans-serif; font-size: 0.92rem; line-height: 1.4; color: #444; text-decoration: none; transition: color .15s; }
+.cm-item:hover { color: #2f4c3a; }
+.cm-item:hover .cm-title { text-decoration: underline; text-underline-offset: 2px; }
+.cm-item:focus-visible { outline: 2px solid #2f4c3a; outline-offset: 2px; border-radius: 2px; }
+.cm-title { flex: 1; min-width: 0; overflow-wrap: anywhere; }
+.cm-date { flex-shrink: 0; font-size: 0.8rem; color: #6b6b6b; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.cm-item:hover .cm-date { color: #2f4c3a; }
+
+@media (max-width: 768px) { .el-body { padding: 1.5rem 1rem; margin: 0 -1rem; } }
+@media (max-width: 540px) {
+    .el-header h1 { font-size: 1.75rem; }
+    .essays-landing { padding: 0 1.1rem; }
+    .cm-months { padding: 0.25rem 0.75rem; }
+    .cm-list { margin-left: 0.2rem; padding-left: 0.8rem; }
+}
+@media (prefers-reduced-motion: reduce) { .cm-toggle, .cm-item, .cm-month-head, .cm-expand { transition: none; } }

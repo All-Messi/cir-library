@@ -49,11 +49,7 @@ next: chapter-12
 <p class="section-ref">Lk 11:1-13</p>
 
 
-### The Pharisees’ Charge That Jesus
-
-
-
-### Was in League with the Devil
+### The Pharisees’ Charge That Jesus Was in League with the Devil
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He was casting a demon out that made a man mute. When he’d cast it out, the man could speak, and the crowd was surprised. </span></span>

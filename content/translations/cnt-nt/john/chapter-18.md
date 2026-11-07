@@ -12,11 +12,7 @@ next: chapter-19
 ## John Chapter 18
 
 
-### Agony in the Garden;
-
-
-
-### The Arrest; Peter’s First Denial
+### Agony in the Garden; The Arrest; Peter’s First Denial
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Jesus finished, he went out with his disciples past the wadi Kidron to an orchard </span></span>

@@ -11,6 +11,10 @@ next: chapter-14
 
 ## 1 Samuel Chapter 13
 
+
+### Saul Fights the Philistines
+
+
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Saul was </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>40</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> when he began to rule and ruled for 32 years. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He chose 3,000 men from Israel, 2,000 to be with him in Michmash and the hill country around Bethel and 1,000 to be with Jonathan at Gibeah in Benjamin. He sent the rest home. </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jonathan struck the Philistine garrison in Geba, and the Philistines heard about it. Then Saul blew the ram’s horn all over the land and said, </span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Hebrews, listen.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span>

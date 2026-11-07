@@ -44,11 +44,7 @@ next: chapter-13
 <p class="section-ref">Mt 12:9-14</p>
 
 
-### Jesus and the Multitudes:
-
-
-
-### Teaching and Healing
+### Jesus and the Multitudes: Teaching and Healing
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus knew it and left. Many [crowds]<sup>ms</sup> followed him, and he healed them all </span></span>
@@ -131,11 +127,7 @@ next: chapter-13
 <p class="section-ref">Mt 12:38-45</p>
 
 
-### Jesus’ Mother and Brothers
-
-
-
-### Interrupt His Ministry
+### Jesus’ Mother and Brothers Interrupt His Ministry
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v46" id="v46"><sup class="verse-num">46</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While Jesus was talking to the crowd, his mother and brothers were standing outside of the crowd, trying to get to him to talk to him. </span></span>

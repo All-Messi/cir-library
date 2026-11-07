@@ -33,9 +33,7 @@ next: chapter-03
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span style='font-size:12.0pt;line-height: 115%'>He said, <i>“As sure as Yahveh lives and you live, I won’t leave you.”</i> They continued on.</span><b><span style='font-size:10.0pt;line-height:115%'>  </span></b></p>
 
-
-### Kg 2:1-6
-
+<p class="section-ref">Kg 2:1-6</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height: 115%'>Fifty men from the company of prophets came and stood at a distance on the other side <i>of the Jordan</i> while the two of them stood on this side. </span></span>
 <span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup> <span style='font-size:12.0pt;line-height:115%'>Elijah took his mantle, rolled it up, and struck the water. It separated from one side to the other, so the two of them crossed on dry riverbed. </span></span>

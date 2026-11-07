@@ -26,7 +26,9 @@ weight: 1
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>You know that once and for all, but I want to remind you that after the L</span><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> saved a people out of Egypt, he destroyed the ones that didn’t trust <i>him</i>.
 </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Angels that didn’t keep their place he has held under darkness in permanent bonds till the great judgment day. </span></span>
-<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Likewise, Sodom and Gomorrah and the cities around them lived immorally, going after other flesh. They serve as examples of being subjected to eternal punishment by fire.                                                                                                                                         </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jude 1-7</span></b></span></p>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Likewise, Sodom and Gomorrah and the cities around them lived immorally, going after other flesh. They serve as examples of being subjected to eternal punishment by fire.                                                                                                                                         </span></span></p>
+
+<p class="section-ref">Jude 1-7</p>
 
 
 ### Describing Some False Teachers
@@ -37,11 +39,15 @@ weight: 1
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>People like them rail out about what they don’t understand, about what they know by instinct like animals that can’t reason—and therefore destroy themselves. </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>What consequences await them! They’ve followed Cain’s way; they’ve plunged into Balaam’s deception for money; they’ve perished in Korah’s rebellion. </span></span>
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’re hidden pieces of gravel in your love-feast <i>food</i>; without qualms they carouse among <i>you</i>, shepherding themselves. They’re clouds with no moisture, driven around by the wind. <i>They’re </i>late autumn trees with no fruit, uprooted, and doubly dead. </span></span>
-<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’re</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> wild waves of the sea, foaming up shameful acts. <i>They’re </i>stars out of orbit that the gloom of darkness is reserved for.            </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jude 8-13</span></b></span></p>
+<span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They’re</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> wild waves of the sea, foaming up shameful acts. <i>They’re </i>stars out of orbit that the gloom of darkness is reserved for.            </span></span></p>
+
+<p class="section-ref">Jude 8-13</p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Enoch, the seventh from Adam, prophesied about them, <i>“The L</i></span><i><span style='font-size:9.0pt;line-height:115%;font-family:"Times New Roman",serif'>ORD</span></i><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> will come with 10,000 holy ones </span></i></span>
 <span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to convict sinners of their ungodly deeds and terrible blasphemies against him.”</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></span>
-<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They grumble, complain, pursue lusts, talk arrogantly, flatter people for gain.   </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jude 14-16</span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'>           </span></span></p>
+<span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They grumble, complain, pursue lusts, talk arrogantly, flatter people for gain.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:12.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Jude 14-16</p>
 
 
 ### Maintaining Faithfulness Despite Competition
@@ -57,16 +63,16 @@ weight: 1
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Have mercy on some that doubt; </span></span>
 <span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>save some by snatching them out of the fire; have mercy on others cautiously, hating even their clothes stained by the flesh. </span></span></p>
 
-
-### Jude 17-23
-
+<p class="section-ref">Jude 17-23</p>
 
 
 ### Benediction
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now to him who can keep you from stumbling and stand you blameless in front of his glory with great joy, </span></span>
-<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to the only God our Savior through Jesus Christ our Lord <i>be</i> glory and majesty, dominion and authority before all time, now, and forever. Amen.     </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jude 24-25</span></b></span></p>
+<span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to the only God our Savior through Jesus Christ our Lord <i>be</i> glory and majesty, dominion and authority before all time, now, and forever. Amen.     </span></span></p>
+
+<p class="section-ref">Jude 24-25</p>
 
 
 <style>

@@ -56,11 +56,7 @@ next: chapter-04
 <p class="section-ref">Mk 3:13-19</p>
 
 
-### The Pharisees’ Charge That
-
-
-
-### Jesus Was in League with the Devil
+### The Pharisees’ Charge That Jesus Was in League with the Devil
 
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He came<sup>p</sup> home, and again such a crowd gathered<sup>p</sup> that <i>he and his disciples</i> couldn’t even eat. </span></span>
@@ -80,11 +76,7 @@ next: chapter-04
 <p class="section-ref">Mk 3:20-30</p>
 
 
-### Jesus’ Mother and Brothers
-
-
-
-### Interrupt His Ministry
+### Jesus’ Mother and Brothers Interrupt His Ministry
 
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>His mother and brothers came<sup>p</sup> and stood outside and sent a message, calling him. </span></span>

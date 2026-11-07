@@ -12,11 +12,7 @@ next: chapter-07
 ## John Chapter 6
 
 
-### Retirement with the Apostles;
-
-
-
-### Feeding the 5,000
+### Retirement with the Apostles; Feeding the 5,000
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After that, Jesus went to the other side of Lake Galilee (</span><i><span style='font-family:"Times New Roman",serif'>Lake </span></i><span style='font-family:"Times New Roman",serif'>Tiberias</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>).

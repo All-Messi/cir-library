@@ -12,11 +12,7 @@ next: chapter-08
 ## Mark Chapter 7
 
 
-### Attack by the Jerusalem
-
-
-
-### Pharisees About Traditions
+### Attack by the Jerusalem Pharisees About Traditions
 
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Pharisees and some scribes from Jerusalem </span></span>
@@ -77,11 +73,7 @@ next: chapter-08
 <p class="section-ref">Mk 7:24-30</p>
 
 
-### Ministry in Decapolis;
-
-
-
-### Feeding the 4,000
+### Ministry in Decapolis; Feeding the 4,000
 
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>He left the area around Tyre and traveled through Sidon to Lake Galilee in the territory of Decapolis. </span></span>

@@ -10,6 +10,10 @@ prev: chapter-47
 
 ## Ezekiel Chapter 48
 
+
+### Division of the Land
+
+
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“These are the names of the tribes. Beginning on the northern boundary, from the sea by way of Hethlon to Lebo-hamath, as far as Hazar-enon (on the northern boundary of Damascus beside Hamath) running from the east side to the west: one portion each for <b>Dan</b>, </span></i></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Asher</span></i></b><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>,
 </span></i></span>

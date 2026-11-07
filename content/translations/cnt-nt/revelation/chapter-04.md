@@ -11,6 +11,12 @@ next: chapter-05
 
 ## Revelation Chapter 4
 
+
+### The Throne Room in Heaven
+
+
+<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>             </span></b><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> <span style='display:none'>eaven</span></span></b></p>
+
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After that, I saw a door standing open in heaven. The first voice I heard sounded like a trumpet, <i>“Come up here, and I’ll show you what needs to happen.”</i> </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Right away I was in the spirit and saw a throne in heaven and One sitting on it </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>that looked like jasper and cardelian with an emerald rainbow arching over the throne. </span></span>

@@ -49,11 +49,7 @@ next: chapter-06
 <p class="section-ref">Mk 5:1-20</p>
 
 
-### Raising Jairus’ Daughter;
-
-
-
-### Healing a Woman with Chronic Hemorrhaging
+### Raising Jairus’ Daughter; Healing a Woman with Chronic Hemorrhaging
 
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>When Jesus crossed back over to the other side in the boat, a big crowd had gathered beside the lake. </span></span>

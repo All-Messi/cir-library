@@ -53,7 +53,9 @@ next: chapter-32
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Hezekiah did that throughout Judah. What he did was good, right, and true in front of </span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh.
 </span></span>
-<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He looked to his God, in the service of God’s Temple in law and commandment, and did everything with all his heart and succeeded. </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Ch 31:15:21</span></b></span></p>
+<span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He looked to his God, in the service of God’s Temple in law and commandment, and did everything with all his heart and succeeded. </span></span></p>
+
+<p class="section-ref">2 Ch 31:15:21</p>
 
 
 <style>

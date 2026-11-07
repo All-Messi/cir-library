@@ -63,11 +63,7 @@ next: chapter-27
 <p class="section-ref">Mt 26:17-19</p>
 
 
-### The Passover Meal;
-
-
-
-### Judas Identified as Traitor
+### The Passover Meal; Judas Identified as Traitor
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>That evening, Jesus was reclining at table with the Twelve. </span></span></p>
@@ -170,11 +166,7 @@ next: chapter-27
 <p class="section-ref">Mt 26:47-56</p>
 
 
-### The Trial Before Caiaphas; Peter’s Denials;
-
-
-
-### The Final Condemnation by the Sanhedrin
+### The Trial Before Caiaphas; Peter’s Denials; The Final Condemnation by the Sanhedrin
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v57" id="v57"><sup class="verse-num">57</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The ones that arrested Jesus took him to Caiaphas the high priest, where the scribes and elders had assembled. </span></span>

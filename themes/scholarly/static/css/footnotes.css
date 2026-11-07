@@ -1,0 +1,103 @@
+/* Footnote popovers for essays (2026-11-07). Loaded by partials/footnotes.html, only on essay pages
+   whose body has a note block; the script is js/footnotes.js. Shape and timing follow the Bible
+   reference popup (reading-ui.html .scripture-popup); colours follow the essay page (#2f4c3a). */
+
+/* The number in the text. The raised span around it is Virgil's own (sup or position:relative). */
+.es-content a.fn-ref {
+    position: relative;
+    color: #2f4c3a;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 0 0.1em;
+    border-radius: 2px;
+    cursor: pointer;
+    /* the note's back-link scrolls here (main.js smooth scroll): stay below the sticky header */
+    scroll-margin-top: calc(var(--header-height, 70px) + 2rem);
+}
+/* Bigger tap target without moving the text. */
+.es-content a.fn-ref::after {
+    content: "";
+    position: absolute;
+    inset: -10px -8px;
+}
+.es-content a.fn-ref:hover,
+.es-content a.fn-ref[aria-expanded="true"] {
+    background: rgba(47, 76, 58, 0.12);
+    text-decoration: none;
+}
+.es-content a.fn-ref:focus { outline: none; }
+.es-content a.fn-ref:focus-visible { outline: 2px solid #2f4c3a; outline-offset: 1px; }
+
+/* The note's own number at the bottom links back to the text. */
+.es-content a.fn-back { color: #2f4c3a; text-decoration: none; font-weight: 700; }
+.es-content a.fn-back:hover { text-decoration: underline; }
+.es-content .fn-note { scroll-margin-top: calc(var(--header-height, 70px) + 1.5rem); }
+.es-content .fn-note:target { background: rgba(47, 76, 58, 0.08); transition: background 1.5s; }
+.es-content a.fn-ref:target { background: rgba(47, 76, 58, 0.16); }
+
+/* The popover */
+.fn-popover {
+    position: absolute;
+    z-index: 2000;
+    width: 360px;
+    max-width: calc(100vw - 24px);
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    border-radius: 12px;
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+    animation: fnFadeIn 0.15s ease;
+}
+@keyframes fnFadeIn {
+    from { opacity: 0; transform: translateY(4px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+@media (prefers-reduced-motion: reduce) { .fn-popover { animation: none; } }
+
+.fn-pop-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.55rem 0.75rem 0.55rem 1rem;
+    border-bottom: 1px solid #e5e5e5;
+    background: #f8f6f2;
+}
+.fn-pop-label {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: #2f4c3a;
+}
+.fn-pop-close {
+    background: none;
+    border: none;
+    font-size: 0.85rem;
+    line-height: 1;
+    color: #888;
+    cursor: pointer;
+    padding: 0.35rem 0.5rem;
+    border-radius: 4px;
+    transition: background 0.15s, color 0.15s;
+}
+.fn-pop-close:hover { background: #2f4c3a; color: #fff; }
+.fn-pop-close:focus { outline: none; }
+.fn-pop-close:focus-visible { outline: 2px solid #2f4c3a; outline-offset: 1px; }
+
+.fn-pop-body {
+    padding: 0.8rem 1rem 0.9rem;
+    max-height: min(50vh, 320px);
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    font-family: 'Source Serif Pro', Georgia, serif;
+    font-size: 0.92rem;
+    line-height: 1.65;
+    color: #333;
+    overflow-wrap: break-word;
+}
+.fn-pop-body p { margin: 0; }
+.fn-pop-body p + p { margin-top: 0.5rem; }
+.fn-pop-body a { color: #2f4c3a; }
+
+@media print { .fn-popover { display: none; } }

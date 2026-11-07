@@ -16,11 +16,7 @@ next: chapter-12
 <p class="section-ref">Mt 10:34-11:1</p>
 
 
-### John’s Question and
-
-
-
-### Jesus’ Comments on John
+### John’s Question and Jesus’ Comments on John
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In prison John heard what the Messiah was doing and sent disciples </span></span>
@@ -61,11 +57,7 @@ next: chapter-12
 <p class="section-ref">Mt 11:16-19</p>
 
 
-### Cities Denounced for Unbelief:
-
-
-
-### The Great Invitation
+### Cities Denounced for Unbelief: The Great Invitation
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He began to denounce the towns where many of his miracles had happened, because they didn’t repent. </span></span></p>

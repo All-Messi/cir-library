@@ -12,9 +12,11 @@
   {{- $isEssay := not .Params.book -}}
   {{- $index = $index | append (dict "title" (cond (eq .Type "essays") (partial "title-case.html" .Title) .Title) "permalink" .Permalink "content" (.Plain | truncate $trunc) "categories" $titleCats "book" .Params.book "translation" .Params.translation "isEssay" $isEssay "pageType" "page" "kind" (.Params.content_kind | default "") "words" .WordCount) -}}
 {{- end -}}
-{{- /* Also index section pages (_index.md) so category browsing pages appear in search */ -}}
+{{- /* Also index section pages (_index.md) so category browsing pages appear in search.
+       Not redirect pages: the communion-meditation year sections (titled "2025" ...) only forward
+       to the month view (2026-11-07). */ -}}
 {{- range .Site.Pages -}}
-  {{- if and (eq .Kind "section") (ne .Title "") -}}
+  {{- if and (eq .Kind "section") (ne .Title "") (ne .Params.layout "redirect") -}}
     {{- $parts := split .RelPermalink "/" -}}
     {{- $parentTitle := "" -}}
     {{- if .Parent }}{{ if ne .Parent.Kind "home" }}{{ $parentTitle = .Parent.Title }}{{ end }}{{ end -}}

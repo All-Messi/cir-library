@@ -48,11 +48,7 @@ next: chapter-23
 <p class="section-ref">Lk 22:7-13</p>
 
 
-### The Passover Meal;
-
-
-
-### The Lord’s Supper Instituted
+### The Passover Meal; The Lord’s Supper Instituted
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When the time came, he and his disciples reclined at table. </span></span>
@@ -148,11 +144,7 @@ next: chapter-23
 <p class="section-ref">Lk 22:47-53</p>
 
 
-### The Trial Before Caiaphas;
-
-
-
-### Peter’s Denials; Condemnation by the Sanhedrin
+### The Trial Before Caiaphas; Peter’s Denials; Condemnation by the Sanhedrin
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v54" id="v54"><sup class="verse-num">54</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They arrested him and led him <i>away </i>to the high priest’s residence. Peter followed at a distance. </span></span>

@@ -50,11 +50,7 @@ next: chapter-08
 <p class="section-ref">Lk 7:11-17</p>
 
 
-### John’s Question and
-
-
-
-### Jesus’ Comments on John
+### John’s Question and Jesus’ Comments on John
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>John’s disciples reported to him what was going on. He called two of them </span></span>

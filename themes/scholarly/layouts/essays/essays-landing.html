@@ -27,6 +27,16 @@
                 <div class="el-card-section">
                     <span class="el-card-label">Subcategories</span>
                     {{ range .Sections }}
+                    {{ if eq .Params.layout "communion-meditations" }}
+                    {{/* Meditations: one link to the month view, no year rows (Virgil, 2026-11-07) */}}
+                    <div class="el-subcat-group">
+                        <a href="{{ .Permalink }}" class="el-subcat-row el-direct-link">
+                            <span class="el-subcat-toggle" aria-hidden="true">›</span>
+                            <span class="el-subcat-name">{{ .Title | lower | title }}</span>
+                            <span class="el-subcat-count">{{ len .RegularPagesRecursive }} →</span>
+                        </a>
+                    </div>
+                    {{ else }}
                     <div class="el-subcat-group">
                         <div class="el-subcat-row" onclick="this.parentElement.classList.toggle('el-open')">
                             <span class="el-subcat-toggle">▸</span>
@@ -47,6 +57,7 @@
                             {{ end }}
                         </div>
                     </div>
+                    {{ end }}
                     {{ end }}
                 </div>
                 {{ end }}
@@ -103,6 +114,7 @@
     user-select: none;
 }
 .el-subcat-row:hover { color: #2f4c3a; }
+.el-direct-link { text-decoration: none; }
 .el-subcat-toggle {
     font-size: 0.65rem;
     color: #767676;

@@ -1,7 +1,7 @@
 {{- /* seo-title.html — the page's <title> text without the site suffix (2026-11-04).
        Used by baseof <title>, og:title and twitter:title. Disambiguates pages that used to
        share a title: Bible chapters/books carry their translation ("Genesis 1 — Conversational
-       Old Testament"), communion meditations their date, year sections their parent,
+       Old Testament"), communion meditations their month and day (never the year: Virgil, 2026-11-07), year sections their parent,
        category pages a "Category:" prefix. ALL-CAPS titles are title-cased. */ -}}
 {{- $p := . -}}
 {{- $t := partial "display-title.html" $p.Title -}}
@@ -15,9 +15,9 @@
     {{- $t = printf "%s — Gospel Harmony, Section %v" $p.Title $p.Params.section -}}
 {{- else if and $p.IsPage (strings.Contains $p.RelPermalink "/communion-meditations/") -}}
     {{- if not $p.Date.IsZero -}}
-        {{- $t = printf "%s — Communion Meditation, %s" $t ($p.Date.Format "January 2, 2006") -}}
+        {{- $t = printf "%s — Communion Meditation, %s" $t ($p.Date.Format "January 2") -}}
     {{- else -}}
-        {{- $t = printf "%s — Communion Meditation, %s" $t (path.Base $p.Parent.RelPermalink) -}}
+        {{- $t = printf "%s — Communion Meditation" $t -}}
     {{- end -}}
 {{- else if eq $p.Kind "term" -}}
     {{- if eq $p.Layout "book-toc" -}}

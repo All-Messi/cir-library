@@ -47,11 +47,7 @@ next: chapter-22
 <p class="section-ref">Mt 21:1-11</p>
 
 
-### Second Cleansing of the Temple;
-
-
-
-### Cursing the Fig Tree
+### Second Cleansing of the Temple; Cursing the Fig Tree
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus went into the Temple and drove out the ones that were buying and selling, and turned over the tables of the moneychangers and the chairs of men selling doves. </span></span></p>

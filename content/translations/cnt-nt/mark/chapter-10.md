@@ -12,11 +12,7 @@ next: chapter-11
 ## Mark Chapter 10
 
 
-### Jesus in Perea;
-
-
-
-### Teaching About Divorce
+### Jesus in Perea; Teaching About Divorce
 
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>From there he went<sup>p</sup> to places in Judaea and beyond the Jordan. Again, crowds went<sup>p</sup> with him; and he was teaching them like usual.</span></span></p>

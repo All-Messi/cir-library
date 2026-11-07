@@ -11,11 +11,7 @@ prev: chapter-23
 ## Luke Chapter 24
 
 
-### The Resurrection; The Women’s Report;
-
-
-
-### Peter and John’s Visit
+### The Resurrection; The Women’s Report; Peter and John’s Visit
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But early in the morning on the first day of the week, <i>the women</i> went to the tomb, carrying the spices they’d prepared. </span></span>
@@ -30,7 +26,9 @@ prev: chapter-23
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and left the tomb to tell the eleven and the rest. (</span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>They were Mary the Magdalene, Joanna, Mary mother of James, and others.) They told the apostles, </span></span>
 <span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but it seemed to them like idle talk. </span></span>
-<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Peter ran to the tomb, stooped down, and saw only the linen wrappings. He went back puzzled.                                                                           </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Lk 24: 1-12</span></b></span></p>
+<span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Peter ran to the tomb, stooped down, and saw only the linen wrappings. He went back puzzled.                                                                           </span></span></p>
+
+<p class="section-ref">Lk 24: 1-12</p>
 
 
 ### Appearance to Two

@@ -11,11 +11,7 @@ next: chapter-02
 ## John Chapter 1
 
 
-### The Pre-Existence and
-
-
-
-### Incarnation of the Messiah
+### The Pre-Existence and Incarnation of the Messiah
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>In the beginning the Word was <i>there</i>. The Word was with God, and the Word was <u>deity</u>. </span></span>

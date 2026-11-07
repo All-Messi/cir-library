@@ -11,6 +11,10 @@ next: chapter-38
 
 ## Ezekiel Chapter 37
 
+
+### A Valley of Dry Bones
+
+
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1-2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Yahveh’s hand was on me. He took me out in spirit and put me down in a valley full of dry bones, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and had me walk around among them. </span></span></p>
 

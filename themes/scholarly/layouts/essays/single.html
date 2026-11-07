@@ -2,8 +2,11 @@
 
 {{/* ── BOOK CHAPTER NAV (only if parent section is a book) ── */}}
 {{ $isBook := or (eq .Parent.Params.layout "book-toc") (.Parent.Params.book) (.Parent.Params.book_redirect) }}
-{{/* Communion meditations are dated: lists and prev/next go by date, and the page shows it (2026-11-04). */}}
+{{/* Communion meditations are dated: the page shows month and day, prev/next follow the calendar
+     order of the month view (partials/meditations-ordered.html). Never the year (Virgil, 2026-11-07):
+     not in the date line, the breadcrumb or the back link. */}}
 {{ $isMed := strings.Contains .RelPermalink "/communion-meditations/" }}
+{{ $medHome := cond $isMed (site.GetPage "/essays/ministry/communion-meditations") nil }}
 {{ $pages := .Parent.RegularPages.ByWeight }}
 {{ $currentIdx := 0 }}
 {{ range $i, $p := $pages }}{{ if eq $p.Permalink $.Permalink }}{{ $currentIdx = $i }}{{ end }}{{ end }}
@@ -31,7 +34,7 @@
     <nav class="es-breadcrumb" data-pagefind-ignore>
         <a href="{{ "essays/" | absURL }}">Essays</a>
         {{ range .Ancestors.Reverse }}
-            {{ if and (ne .Kind "home") (ne .Kind "taxonomy") }}
+            {{ if and (ne .Kind "home") (ne .Kind "taxonomy") (not (and $isMed (findRE `^\d{4}$` .Title 1))) }}
                 {{ if ne .RelPermalink ($.FirstSection.RelPermalink) }}
                 <span class="es-sep" aria-hidden="true">›</span> <a href="{{ .Permalink }}">{{ partial "display-title.html" .Title }}</a>
                 {{ end }}
@@ -46,7 +49,7 @@
         <div class="es-header-accent"></div>
         <div class="es-header-meta" data-pagefind-ignore>
             {{ if .Params.author }}<span class="es-author">{{ .Params.author }}</span>{{ end }}
-            {{ if and $isMed (not .Date.IsZero) }}<time class="es-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>{{ end }}
+            {{ if and $isMed (not .Date.IsZero) }}<time class="es-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2" }}</time>{{ end }}
             {{/* No "Last revised" line for readers (Allen, 2026-11-04): ~450 essays share one July
                  2025 review-pass date. lastmod still feeds dateModified and the sitemap. */}}
             {{ partial "pdf-link.html" . }}
@@ -90,6 +93,7 @@
             {{ .Content }}
         </div>
     </div>
+    {{ partial "footnotes.html" . }}{{/* footnote popovers, 2026-11-07 */}}
 
     {{ if .Params.scripture_references }}
     <aside class="es-scripture-refs">
@@ -106,16 +110,24 @@
 
     {{ if not $isBook }}
     <nav class="es-bottom-nav" data-pagefind-ignore>
+        {{ if $medHome }}
+        <a href="{{ $medHome.Permalink }}{{ if not .Date.IsZero }}#{{ lower (.Date.Format "January") }}{{ end }}" class="es-back-link">← Back to {{ partial "display-title.html" $medHome.Title }}</a>
+        {{ else }}
         <a href="{{ .Parent.Permalink }}" class="es-back-link">← Back to {{ partial "display-title.html" .Parent.Title }}</a>
+        {{ end }}
         <div class="es-prev-next">
-            {{ $siblings := cond $isMed .Parent.RegularPages.ByDate .Parent.RegularPages.ByTitle }}
-            {{ $sibIdx := 0 }}
+            {{ $siblings := .Parent.RegularPages.ByTitle }}
+            {{ if $medHome }}
+                {{ $siblings = slice }}
+                {{ range partialCached "meditations-ordered.html" $medHome }}{{ $siblings = $siblings | append .page }}{{ end }}
+            {{ end }}
+            {{ $sibIdx := -1 }}{{/* stays -1 for a page not in the list (an undated meditation): no prev/next */}}
             {{ range $i, $p := $siblings }}{{ if eq $p.Permalink $.Permalink }}{{ $sibIdx = $i }}{{ end }}{{ end }}
             {{ if gt $sibIdx 0 }}
                 {{ $sp := index $siblings (sub $sibIdx 1) }}
                 <a href="{{ $sp.Permalink }}" class="es-nav-prev">← {{ partial "display-title.html" $sp.Title | truncate 40 }}</a>
             {{ end }}
-            {{ if lt (add $sibIdx 1) (len $siblings) }}
+            {{ if and (ge $sibIdx 0) (lt (add $sibIdx 1) (len $siblings)) }}
                 {{ $sn := index $siblings (add $sibIdx 1) }}
                 <a href="{{ $sn.Permalink }}" class="es-nav-next">{{ partial "display-title.html" $sn.Title | truncate 40 }} →</a>
             {{ end }}

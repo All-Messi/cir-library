@@ -72,9 +72,6 @@ next: chapter-37
 
 <p class="section-ref">Ezek 36:33-38</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>A Valley of Dry Bones</span></b><i><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-</span></i></p>
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

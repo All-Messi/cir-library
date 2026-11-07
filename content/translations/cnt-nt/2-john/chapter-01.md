@@ -15,7 +15,9 @@ weight: 1
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Elder to the elect lady and her children that<sup>pl</sup> I really love—as does everybody that knows the truth—</span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>because of the truth that’s in us and with us forever. </span></span>
-<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We’ll have grace, mercy, and peace from God the Father and Jesus Christ<sup>Messiah</sup>, the Son of the Father in truth and love.                                                                                                                                      </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Jn 1-3</span></b></span></p>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>We’ll have grace, mercy, and peace from God the Father and Jesus Christ<sup>Messiah</sup>, the Son of the Father in truth and love.                                                                                                                                      </span></span></p>
+
+<p class="section-ref">2 Jn 1-3</p>
 
 
 ### Remaining in Truth and Love
@@ -30,7 +32,9 @@ weight: 1
 <span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Anybody that goes out on his own and doesn’t stay in Christ’s teaching doesn’t have God. The one that stays in <i>his</i> teaching has both the Father and the Son.
 </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>If a person doesn’t bring that teaching, don’t invite him into your house or greet him. </span></span>
-<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Whoever greets him shares in his evil work.  </span><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>2 Jn 4-11</span></b></span></p>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Whoever greets him shares in his evil work.  </span></span></p>
+
+<p class="section-ref">2 Jn 4-11</p>
 
 
 ### Farewell
@@ -38,7 +42,9 @@ weight: 1
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I have lots to tell you<sup>pl</sup> but not in writing. I hope to speak to you in person to make your joy complete.</span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The children of your elect sister say hello.                                                           </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>2 Jn 12-13</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The children of your elect sister say hello.                                                           </span></span></p>
+
+<p class="section-ref">2 Jn 12-13</p>
 
 
 <style>

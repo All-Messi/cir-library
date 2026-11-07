@@ -29,11 +29,7 @@ next: chapter-10
 <p class="section-ref">Mt 9:1-8</p>
 
 
-### Calling Matthew;
-
-
-
-### Controversy About Table Fellowship
+### Calling Matthew; Controversy About Table Fellowship
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus went along from there and saw a man called Matthew sitting at the tax booth, and said<sup>p</sup>, <i>“Come with me.”</i> He got up and went with him. </span></span>
@@ -59,11 +55,7 @@ next: chapter-10
 <p class="section-ref">Mt 9:14-17</p>
 
 
-### Healing a Woman from Hemorrhaging;
-
-
-
-### Raising of Jairus’ Daughter
+### Healing a Woman from Hemorrhaging; Raising of Jairus’ Daughter
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While he was saying that, a ruler came and knelt to him, <i>“My daughter has just died. If you come and put your hand on her, she’ll come back to life.”</i> </span></span>
@@ -83,11 +75,7 @@ next: chapter-10
 <p class="section-ref">Mt 9:18-26</p>
 
 
-### Healing Two Blind Men and a Mute
-
-
-
-### Man with a Demon
+### Healing Two Blind Men and a Mute Man with a Demon
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As Jesus was leaving, two blind men followed him, shouting, <i>“Son of David, have mercy on us!” </i></span></span>
@@ -108,11 +96,7 @@ next: chapter-10
 <p class="section-ref">Mt 9:27-34</p>
 
 
-### The Mission of the Twelve;
-
-
-
-### Jesus’ Third Tour of Galilee
+### The Mission of the Twelve; Jesus’ Third Tour of Galilee
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v35" id="v35"><sup class="verse-num">35</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus was traveling around the towns and villages, teaching in their synagogues, delivering the good news about the kingdom, and healing all <i>kinds of</i> disease and illness. </span></span>

@@ -6,7 +6,6 @@ author: "Virgil Warren, PhD"
 categories:
 - Ministry
 - Communion Meditations
-- '2025'
 draft: false
 ---
 

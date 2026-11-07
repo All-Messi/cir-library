@@ -12,11 +12,7 @@ next: chapter-07
 ## Luke Chapter 6
 
 
-### Controversy About
-
-
-
-### Breaking Sabbath
+### Controversy About Breaking Sabbath
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus was passing along between grain fields on a Sabbath, and his disciples were picking off heads, rubbing them in their hands, and eating the seeds.</span></span></p>

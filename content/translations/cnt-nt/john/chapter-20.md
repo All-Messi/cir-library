@@ -12,15 +12,7 @@ next: chapter-21
 ## John Chapter 20
 
 
-### The Resurrection of Messiah;
-
-
-
-### The Report of the Women;
-
-
-
-### The Visit of Peter and John
+### The Resurrection of Messiah; The Report of the Women; The Visit of Peter and John
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>On the first day of the week, Mary the Magdalene came</span><sup><span style='font-family:"Times New Roman",serif'>p</span></sup><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> to the tomb while it was still pretty dark and saw that the stone was rolled away from it. </span></span>
@@ -76,7 +68,9 @@ next: chapter-21
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He said again, <i>“Peace to you. I’m sending you like the Father sent me.” </i></span></span>
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he blew on them, <i>“Receive the Holy Spirit. </i></span></span>
-<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The ones whose sins you forgive are forgiven; the ones whose sins you hold against them are held against them.”  </span></i><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>Jn 20: 19-23</span></b></span></p>
+<span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The ones whose sins you forgive are forgiven; the ones whose sins you hold against them are held against them.”  </span></i></span></span></p>
+
+<p class="section-ref">Jn 20: 19-23</p>
 
 
 ### Appearance to the Eleven
@@ -97,8 +91,9 @@ next: chapter-21
 </span></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v30" id="v30"><sup class="verse-num">30</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus did an endless number of signs in front of his disciples that I haven’t recorded here. </span></span>
-<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>I’ve written these down so you’ll believe he’s the Messiah, God’s Son, and have life by believing in him.</span><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>
-                                        <b>Jn 20: 24-31</b></span></span></p>
+<span class="verse verse-v31" id="v31"><sup class="verse-num">31</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>I’ve written these down so you’ll believe he’s the Messiah, God’s Son, and have life by believing in him.</span><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Jn 20: 24-31</p>
 
 
 <style>

@@ -56,11 +56,7 @@ next: chapter-09
 <p class="section-ref">Lk 8:4-18</p>
 
 
-### Jesus’ Mother and Brothers
-
-
-
-### Interrupt His Ministry
+### Jesus’ Mother and Brothers Interrupt His Ministry
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>His mother and brothers came but couldn’t get to him because of the crowd. </span></span>
@@ -108,11 +104,7 @@ next: chapter-09
 <p class="section-ref">Lk 8:26-39</p>
 
 
-### Raising Jairus’ Daughter;
-
-
-
-### Healing Woman with Hemorrhaging
+### Raising Jairus’ Daughter; Healing Woman with Hemorrhaging
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Jesus returned, the crowd welcomed him; they’d been waiting for him. </span></span>

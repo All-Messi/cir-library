@@ -12,11 +12,7 @@ next: chapter-08
 ## John Chapter 7
 
 
-### Attack of the Jerusalem Pharisees
-
-
-
-### About Traditions
+### Attack of the Jerusalem Pharisees About Traditions
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After that, Jesus was traveling around in Galilee. He didn’t want to travel around in Judaea because the Jews were trying to kill him.                                                                                                                                                    </span></span></p>

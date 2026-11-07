@@ -11,6 +11,10 @@ next: chapter-29
 
 ## 1 Chronicles Chapter 28
 
+
+### David’s Charge to Israel
+
+
 <p class="MsoNormal" style='margin-bottom:0in;margin-bottom:0in;margin-top:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%'>David gathered to Jerusalem the officials in Israel, the leaders of the tribes, the commanders of the divisions that served the king, the commanders over thousands and hundreds, the overseers of the property and livestock that belong to the king and his sons, the officials and elite soldiers, all the brave warriors. </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height: 115%'>He stood up and said, </span></span></p>
 

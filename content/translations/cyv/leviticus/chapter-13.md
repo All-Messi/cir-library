@@ -89,8 +89,11 @@ next: chapter-14
 <span class="verse verse-v49" id="v49"><sup class="verse-num">49</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>if the mark is greenish or reddish, show it to the priest. </span></i></span>
 <span class="verse verse-v50" id="v50"><sup class="verse-num">50</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He’ll examine it and quarantine it for a week. </span></i></span>
 <span class="verse verse-v51" id="v51"><sup class="verse-num">51</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then he’ll examine it on the seventh day. If it has spread, it’s infectious and unclean. </span></i></span>
-<span class="verse verse-v52" id="v52"><sup class="verse-num">52</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Burn it. </span></i><b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'>Lev 13:45-52</span></b><i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>    </span></i></span>
-<span class="verse verse-v53" id="v53"><sup class="verse-num">53</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“But if the spot hasn’t spread, </span></i></span>
+<span class="verse verse-v52" id="v52"><sup class="verse-num">52</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Burn it. </span></i></span></p>
+
+<p class="section-ref">Lev 13:45-52</p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v53" id="v53"><sup class="verse-num">53</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“But if the spot hasn’t spread, </span></i></span>
 <span class="verse verse-v54" id="v54"><sup class="verse-num">54</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>the priest will have them wash it. He’ll quarantine it for another week </span></i></span>
 <span class="verse verse-v55" id="v55"><sup class="verse-num">55</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and examine it again. If the spot hasn’t changed color, it’s unclean even though it hasn’t spread. Burn it whether the spot is on the front or back.</span></i></span></p>
 

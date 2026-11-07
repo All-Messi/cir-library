@@ -70,11 +70,7 @@ next: chapter-37
 <p class="MsoNormal" align=center style='margin-bottom:0in;margin-bottom:0in; margin-top:0in;text-align:center'><span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A Message from Yahveh to Jeremiah</span></span></p>
 
 
-### After the King Burned the Scroll
-
-
-
-### Baruch Had Written at Jeremiah’s Dictation
+### After the King Burned the Scroll Baruch Had Written at Jeremiah’s Dictation
 
 
 

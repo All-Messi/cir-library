@@ -11,6 +11,10 @@ next: chapter-05
 
 ## Ezra Chapter 4
 
+
+### Enemies Oppose the Rebuilding
+
+
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>When the enemies of Judah and Benjamin heard that the exiles were rebuilding a temple to Yahveh God of Israel, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>they approached Zerubbabel and the other leaders, <i>“Let us build with you. We worship your God too. We’ve been sacrificing to him since Esarhaddon, king of Assyria, sent us here.”</i> </span></span>
 <span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But Zerubbabel, Jeshua, and the other leaders said, <i>“You don’t have anything in common with us building a temple to our God. We’ll build it like King Cyrus decreed.”</i> </span></span></p>

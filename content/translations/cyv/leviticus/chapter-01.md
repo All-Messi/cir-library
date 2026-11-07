@@ -45,8 +45,6 @@ next: chapter-02
 
 <p class="section-ref">Lev 1:14-17</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in; line-height:normal'><b><sup><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>Grain Offerings</span></sup></b></p>
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

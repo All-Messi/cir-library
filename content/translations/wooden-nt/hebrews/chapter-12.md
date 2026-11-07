@@ -54,6 +54,14 @@ next: chapter-13
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But the ‘yet once’ makes-evident the removal of-the-things being-‘shaken’ as of-things-made, in-order-that the-things not being-shaken might-remain.  </span></span>
 <span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Wherefore let-us-have grace, receiving (an) unshakable kingdom, through which we-may-serve [the] God well-pleasingly with reverence and godly-fear.</span></span></p>
 
+<!-- verse-supplement:wooden-nt/hebrews/12:29 -->
+
+<div class="supplied-note">Verse 29 is missing from this translation’s source file and is shown here from the Conversational New Testament until Dr. Warren supplies it.</div>
+
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>he’s a consuming fire.            </span></span></p>
+
+<!-- /verse-supplement:wooden-nt/hebrews/12:29 -->
+
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
@@ -66,4 +74,5 @@ next: chapter-13
 .genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
 .genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
 .genealogy-table .spacer-row td { height: 0.8em; }
+.supplied-note { font-size: 0.85rem; font-style: italic; color: #666; line-height: 1.5; margin: 0.75rem 0 0.5rem 0; padding-left: 0.6rem; border-left: 2px solid #ccc; }
 </style>

@@ -10,6 +10,10 @@ prev: chapter-23
 
 ## 2 Samuel Chapter 24
 
+
+### David’s Ill-Advised Census
+
+
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Again Yahveh’s anger burned against Israel, and he aroused David to count the people in Israel and Judah. </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The king told Joab the commander of the army, <i>“Go through the tribes from Dan to Beersheba, and register the people so I can know how many there are.”</i> </span></span></p>

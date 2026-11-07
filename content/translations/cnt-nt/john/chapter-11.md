@@ -123,11 +123,7 @@ next: chapter-12
 <p class="section-ref">Jn 11:45-54</p>
 
 
-### Jesus’ Arrival in Bethany;
-
-
-
-### The Anointing by Mary
+### Jesus’ Arrival in Bethany; The Anointing by Mary
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v55" id="v55"><sup class="verse-num">55</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Now the Jews’ Passover was coming up, and people from around Ephraim went up to Jerusalem ahead of time to purify themselves ceremonially. </span></span>

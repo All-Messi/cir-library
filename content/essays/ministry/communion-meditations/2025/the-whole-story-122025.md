@@ -5,7 +5,6 @@ author: "Virgil Warren, christir.org"
 categories:
 - Ministry
 - Communion Meditations
-- '2025'
 draft: false
 ---
 

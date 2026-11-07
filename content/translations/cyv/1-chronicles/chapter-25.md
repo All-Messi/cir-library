@@ -11,6 +11,10 @@ next: chapter-26
 
 ## 1 Chronicles Chapter 25
 
+
+### Duties of Musicians
+
+
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>David and the commanders of the army set apart some sons of Asaph, Heman, and Jeduthun to prophesy with lyres, harps, and cymbals. Those who performed their service were as follows: </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>from the sons of Asaph: Zaccur, Joseph, Nethaniah, and Asharelah <i>were </i>under the direction of Asaph, who prophesied under the direction of the king; </span></span></p>

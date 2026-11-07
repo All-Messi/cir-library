@@ -73,12 +73,6 @@ next: chapter-04
 <p class="section-ref">Rev 3:14-22</p>
 
 
-### The Throne Room in Heaven
-
-
-<p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>             </span></b><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> <span style='display:none'>eaven</span></span></b></p>
-
-
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
 .verse sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }

@@ -11,6 +11,10 @@ next: chapter-03
 
 ## Leviticus Chapter 2
 
+
+### Grain Offerings
+
+
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:10.0pt;margin-left:.5in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“A
 <b>grain offering</b> to Yahveh will consist of fine flour with olive oil and frankincense added. </span></i></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Take it to the sons of Aaron the priests. </span></i><span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>The priest</span><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> will take a handful of the mix and offer it up in smoke on the altar as God’s portion, an aroma pleasing to Yahveh. </span></i></span>

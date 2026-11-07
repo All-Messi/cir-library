@@ -37,11 +37,7 @@ next: chapter-03
 <p class="section-ref">Mk 2:1-13</p>
 
 
-### Calling Matthew;
-
-
-
-### Controversy About Eating with Sinners
+### Calling Matthew; Controversy About Eating with Sinners
 
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>As he was going along, he saw Levi son of Alphaeus sitting at the tax booth. He said<sup>p</sup>,

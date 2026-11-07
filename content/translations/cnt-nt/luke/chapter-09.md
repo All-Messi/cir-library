@@ -26,11 +26,7 @@ next: chapter-10
 <p class="section-ref">Lk 9:1-6</p>
 
 
-### Herod’s Conscience;
-
-
-
-### Confusing John the Baptist and Jesus
+### Herod’s Conscience; Confusing John the Baptist and Jesus
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt; line-height:115%;font-family:"Times New Roman",serif'>Herod <i>[Antipas] </i>the tetraarch heard about what was happening and was puzzled because some were saying John had risen from the dead, </span></span>

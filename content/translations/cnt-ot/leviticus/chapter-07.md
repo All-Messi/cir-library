@@ -85,8 +85,6 @@ next: chapter-08
 
 <p class="section-ref">Lev 7:35-38</p>
 
-<p class="MsoListBulletCxSpMiddle" ><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Ordination of Aaron and His Sons</span></b><b><sup><span style='font-size:14.0pt; line-height:115%;font-family:"Times New Roman",serif'>         </span></sup></b></p>
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

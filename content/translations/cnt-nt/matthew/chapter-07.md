@@ -52,7 +52,9 @@ next: chapter-08
 <span class="verse verse-v27" id="v27"><sup class="verse-num">27</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Rain fell, floods came, winds blew and beat on it, and it collapsed—a total loss.”</span></i></span></p>
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v28" id="v28"><sup class="verse-num">28</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Jesus finished, the crowd was amazed at his teaching. </span></span>
-<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He taught them like somebody that had authority, not like their scribes.                                                                                                                                           </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mt 7:24:29</span></b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'> </span></span></p>
+<span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>He taught them like somebody that had authority, not like their scribes.</span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'></span></b><span style='font-size:10.0pt;line-height:115%;font-family: "Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">Mt 7:24:29</p>
 
 
 <style>

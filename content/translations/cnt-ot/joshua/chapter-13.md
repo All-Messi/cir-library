@@ -11,6 +11,10 @@ next: chapter-14
 
 ## Joshua Chapter 13
 
+
+### Land Still to Be Taken
+
+
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When Joshua was getting along I years, the L</span><span style='font-size:9.0pt; line-height:115%;font-family:"Times New Roman",serif'>ORD</span><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'> told him, </span></span></p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“You’re getting old, and there’s </span></i><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>still <i>a lot of land to take: </i></span></p>

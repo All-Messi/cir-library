@@ -14,19 +14,7 @@ next: chapter-41
 <p class="MsoNormal" align=center style='margin-bottom:0in;margin-bottom:0in; margin-top:0in;text-align:center'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>A Message from Yahveh to Jeremiah </span></span></p>
 
 
-### After Nebuzaradan Released Him from Ramah,
-
-
-
-### When He’d Taken Him Bound in Chains
-
-
-
-### Among the Exiles from Jerusalem and Judah
-
-
-
-### That Were Being Exiled to Babylon
+### After Nebuzaradan Released Him from Ramah, When He’d Taken Him Bound in Chains Among the Exiles from Jerusalem and Judah That Were Being Exiled to Babylon
 
 
 

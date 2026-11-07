@@ -71,11 +71,7 @@ next: chapter-02
 <p class="section-ref">Mk 1:12-13</p>
 
 
-### Introductory Statements
-
-
-
-### About the Galilean Ministry
+### Introductory Statements About the Galilean Ministry
 
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>After John was arrested, Jesus went to Galilee, delivering God’s good news: </span></span>

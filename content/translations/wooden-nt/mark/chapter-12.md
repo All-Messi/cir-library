@@ -93,6 +93,23 @@ next: chapter-13
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>And [the]<sup>ms</sup> big crowd were-listening-to him gladly.  </span></p>
 
+<!-- verse-supplement:wooden-nt/mark/12:38-44 -->
+
+<div class="supplied-note">Verses 38–44 are missing from this translation’s source file and are shown here from the Conversational New Testament until Dr. Warren supplies them.</div>
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v38" id="v38"><sup class="verse-num">38</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>In his teaching, he was saying, <i>“Watch out for the Pharisees. They like to walk around in long robes, receive greetings in marketplaces, </i></span></span>
+<span class="verse verse-v39" id="v39"><sup class="verse-num">39</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>occupy prominent seats in synagogues and places of honor at banquets. </span></i></span>
+<span class="verse verse-v40" id="v40"><sup class="verse-num">40</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They confiscate widows’ houses and offer long prayers for show. They’ll receive more severe condemnation.”</span></i><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                                                               </span></b></span></span></p>
+
+<p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v41" id="v41"><sup class="verse-num">41</sup> <span style='font-size:12.0pt; font-family:"Times New Roman",serif'>He sat down across from the treasury box, watching
+<i>people from </i>the crowd put copper coins in the treasury box. Wealthy people were putting in big amounts. </span></span>
+<span class="verse verse-v42" id="v42"><sup class="verse-num">42</sup> <span style='font-size: 12.0pt;font-family:"Times New Roman",serif'>A poor widow came and put in two leptons, which equal a quadrans. </span></span>
+<span class="verse verse-v43" id="v43"><sup class="verse-num">43</sup> <span style='font-size: 12.0pt;font-family:"Times New Roman",serif'>He called his disciples over, <i>“That poor widow put in more than all the others. </i></span></span>
+<span class="verse verse-v44" id="v44"><sup class="verse-num">44</sup> <i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>They donated out of their abundance, but she donated out of her poverty—everything she had to live on.”</span></i><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>
+</span></b></span></span></p>
+
+<!-- /verse-supplement:wooden-nt/mark/12:38-44 -->
+
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
@@ -105,4 +122,5 @@ next: chapter-13
 .genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
 .genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
 .genealogy-table .spacer-row td { height: 0.8em; }
+.supplied-note { font-size: 0.85rem; font-style: italic; color: #666; line-height: 1.5; margin: 0.75rem 0 0.5rem 0; padding-left: 0.6rem; border-left: 2px solid #ccc; }
 </style>

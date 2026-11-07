@@ -11,6 +11,10 @@ next: chapter-11
 
 ## Judges Chapter 10
 
+
+### Tola Judges Israel
+
+
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After Abimelech, <b>Tola</b> Ben-Puah Ben-Dodo from Issachar, rose up to deliver Israel. He lived at Shamir in the hill country of Ephraim, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>and judged Israel 23 years. He died and was buried at Shamir.</span></span></p>
 

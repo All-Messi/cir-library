@@ -1,0 +1,115 @@
+{{/* ── COMMUNION MEDITATIONS LANDING (2026-11-06) ──────────────────────────────────────────
+     Allen, after talking with Virgil: hide the year and group by month, so readers can find
+     meditations near Easter, Christmas and other seasons. Chosen by `layout: communion-meditations`
+     in content/essays/ministry/communion-meditations/_index.md. The year sections (/2025/ ...)
+     keep their folders (meditation URLs still contain the year) but their pages redirect here.
+
+     - Every meditation under the section (all years) goes into one of twelve month groups
+       (<details>, closed by default), January to December; empty months are skipped.
+     - Inside a month: day of month ascending; same day: newest year first; then the date code
+       in the filename (062925a before 062925b), then title.
+     - Date = front matter `date` (the converter derives it from the MMDDYY code). Order and the
+       month field come from partials/meditations-ordered.html (also used for prev/next).
+     - No "Date unknown" group (Allen, 2026-11-07): undated meditations (the 2016 A/B/C series)
+       are not listed until Virgil supplies their dates.
+     - No year anywhere (Virgil, 2026-11-07): not here, not on the meditation pages, not in
+       categories; the year sections redirect here.
+     - Each row shows the title and "March 30". No year is printed anywhere; <time datetime>
+       uses the HTML yearless form "03-30".
+     - Styles: themes/scholarly/static/css/meditations.css (linked via the "head" block).
+       "Expand all" button and #month links (/communion-meditations/#april opens April) are a
+       small script; without JS the groups still open and close natively. */}}
+{{ define "head" }}<link rel="stylesheet" href="{{ "css/meditations.css" | relURL }}">{{ end }}
+
+{{ define "main" }}
+{{ $months := slice "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December" }}
+{{ $dated := partial "meditations-ordered.html" . }}
+
+<div class="essays-landing cm-landing">
+    <header class="el-header" data-pagefind-body>
+        {{ $parent := "" }}{{ with .Parent }}{{ if ne .Kind "home" }}{{ $parent = partial "display-title.html" .Title }}{{ end }}{{ end }}
+        {{ partial "pagefind-tags.html" (dict "filter" (dict "type" "section") "meta" (dict "type" "section" "parent" $parent "pages" (len .RegularPagesRecursive))) }}
+        <h1>{{ partial "display-title.html" .Title }}</h1>
+        <div class="el-rule"></div>
+        {{ with .Content }}<div class="el-desc">{{ . }}</div>{{ end }}
+    </header>
+
+    <nav class="el-breadcrumb" aria-label="Breadcrumb">
+        <a href="{{ "essays/" | absURL }}">Essays</a>
+        {{ range .Ancestors.Reverse }}
+            {{ if and (ne .Kind "home") (ne .Kind "taxonomy") }}
+                {{ if ne .RelPermalink ($.FirstSection.RelPermalink) }}
+                <span class="el-sep" aria-hidden="true">›</span> <a href="{{ .Permalink }}">{{ partial "display-title.html" .Title }}</a>
+                {{ end }}
+            {{ end }}
+        {{ end }}
+        <span class="el-sep" aria-hidden="true">›</span> <span class="el-bc-current" aria-current="page">{{ partial "display-title.html" .Title }}</span>
+    </nav>
+
+    <div class="el-body">
+        <div class="cm-bar">
+            <div class="el-sec-head"><h2 class="el-sec-title">Browse by month</h2></div>
+            <button type="button" class="cm-expand" aria-controls="cm-months" aria-expanded="false" hidden>Expand all</button>
+        </div>
+        <p class="cm-hint">Meditations from every year, gathered by the month they were given, so those for Easter, Christmas and other seasons are easy to find. Select a month to open it.</p>
+
+        <div class="cm-months" id="cm-months">
+            {{ range $i, $name := $months }}
+            {{ $inMonth := where $dated "month" (add $i 1) }}
+            {{ with $inMonth }}
+            {{ $n := len . }}
+            <details class="cm-month" id="{{ lower $name }}">
+                <summary class="cm-month-head">
+                    <span class="cm-toggle" aria-hidden="true">▸</span>
+                    <span class="cm-month-name">{{ $name }}</span>
+                    <span class="cm-month-count">{{ $n }}<span class="visually-hidden"> {{ cond (eq $n 1) "meditation" "meditations" }}</span></span>
+                </summary>
+                <ul class="cm-list" role="list">
+                    {{ range . }}
+                    {{ $p := .page }}
+                    <li><a href="{{ $p.Permalink }}" class="cm-item">
+                        <span class="cm-title">{{ partial "lang-greek.html" (partial "display-title.html" $p.Title) }}</span>
+                        <time class="cm-date" datetime="{{ $p.Date.Format "01-02" }}">{{ $p.Date.Format "January 2" }}</time>
+                    </a></li>
+                    {{ end }}
+                </ul>
+            </details>
+            {{ end }}
+            {{ end }}
+
+        </div>
+    </div>
+</div>
+{{ end }}
+
+{{ define "scripts" }}
+<script>
+(function () {
+    var root = document.getElementById('cm-months');
+    var btn = document.querySelector('.cm-expand');
+    if (!root || !btn) return;
+    var groups = root.querySelectorAll('details.cm-month');
+    function sync() {
+        var allOpen = Array.prototype.every.call(groups, function (d) { return d.open; });
+        btn.textContent = allOpen ? 'Collapse all' : 'Expand all';
+        btn.setAttribute('aria-expanded', allOpen ? 'true' : 'false');
+    }
+    btn.addEventListener('click', function () {
+        var open = btn.getAttribute('aria-expanded') !== 'true';
+        Array.prototype.forEach.call(groups, function (d) { d.open = open; });
+        sync();
+    });
+    root.addEventListener('toggle', sync, true);   // toggle does not bubble; capture sees it
+    // /communion-meditations/#april opens April
+    function openHash() {
+        var id = decodeURIComponent(location.hash.slice(1));
+        var d = id && document.getElementById(id);
+        if (d && d.tagName === 'DETAILS') { d.open = true; d.scrollIntoView(); }
+    }
+    openHash();
+    window.addEventListener('hashchange', openHash);
+    btn.hidden = false;
+    sync();
+})();
+</script>
+{{ end }}

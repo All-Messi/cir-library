@@ -32,7 +32,9 @@ prev: chapter-15
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span style='font-family:"Times New Roman",serif'>[[</span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup> <span style='font-family:"Times New Roman",serif'>After he’d resurrected early on the first <i>day</i> of the week, he appeared first to Mary the Magdalene, that he’d cast seven demons out of. </span></span>
 <span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup> <span style='font-family: "Times New Roman",serif'>She reported it to the ones that had been with him, who were mourning and crying. </span></span>
-<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-family: "Times New Roman",serif'>When they heard she’d seen him alive, they didn’t believe it.</span><b><span style='font-family:"Times New Roman",serif'>    </span></b><b><span style='font-size:10.0pt;font-family:"Times New Roman",serif'>[Mk 16:9-11]</span></b><span style='font-family:"Times New Roman",serif'>                                                                                                                                                                      </span></span></p>
+<span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-family: "Times New Roman",serif'>When they heard she’d seen him alive, they didn’t believe it.</span><b><span style='font-family:"Times New Roman",serif'></span></b><b><span style='font-size:10.0pt;font-family:"Times New Roman",serif'></span></b><span style='font-family:"Times New Roman",serif'></span></span></p>
+
+<p class="section-ref">[Mk 16:9-11]</p>
 
 
 ### Appearance to Two Disciples
@@ -43,7 +45,7 @@ prev: chapter-15
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-family:"Times New Roman",serif'>After that, he appeared to two of them in a different form as they were walking<sup>p</sup> into <i>the</i> countryside. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-family: "Times New Roman",serif'>They went back <i>to Jerusalem </i>to report it to the rest, <i>but</i> they didn’t believe them either. </span></span></p>
 
-<p class="section-ref">Mk 16:12-13</p>
+<p class="section-ref">[Mk 16:12-13]</p>
 
 
 ### Appearance in Jerusalem
@@ -65,14 +67,18 @@ prev: chapter-15
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;line-height:normal'><i><span style='font-family:"Times New Roman",serif'>if they drink any deadly poison, it won’t hurt them; </span></i></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;line-height:normal'><i><span style='font-family:"Times New Roman",serif'>they’ll lay hands on sick people, and they’ll recover.”</span></i><b><span style='font-size:12.0pt;font-family: "Times New Roman",serif'>                                 </span></b><b><span style='font-size:10.0pt;font-family:"Times New Roman",serif'>[Mk 16:14-18]</span></b></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.5in;line-height:normal'><i><span style='font-family:"Times New Roman",serif'>they’ll lay hands on sick people, and they’ll recover.”</span></i><b><span style='font-size:12.0pt;font-family: "Times New Roman",serif'>                                 </span></b></span></p>
+
+<p class="section-ref">[Mk 16:14-18]</p>
 
 
 ### The Ascension
 
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height:normal'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-family:"Times New Roman",serif'>After the Lord Jesus had spoken to them, he was taken up into heaven and sat down on God’s right hand. </span></span>
-<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-family:"Times New Roman",serif'>The disciples </span></i><span style='font-family:"Times New Roman",serif'>went out and delivered the good news everywhere, and the Lord worked with them by confirming the message with the signs that followed.]]</span><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>  </span><span style='font-size:10.0pt;font-family:"Times New Roman",serif'>[</span><b><span style='font-size:10.0pt;font-family:"Times New Roman",serif'>Mk 16:19-20]</span></b></span></p>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-family:"Times New Roman",serif'>The disciples </span></i><span style='font-family:"Times New Roman",serif'>went out and delivered the good news everywhere, and the Lord worked with them by confirming the message with the signs that followed.]]</span><span style='font-size:12.0pt;font-family:"Times New Roman",serif'></span><span style='font-size:10.0pt;font-family:"Times New Roman",serif'></span><b><span style='font-size:10.0pt;font-family:"Times New Roman",serif'></span></b></span></p>
+
+<p class="section-ref">[Mk 16:19-20]</p>
 
 
 <style>

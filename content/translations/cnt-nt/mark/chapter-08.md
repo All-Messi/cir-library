@@ -31,11 +31,7 @@ next: chapter-09
 <p class="section-ref">Mk 8:1-10</p>
 
 
-### Visit to Magadan;
-
-
-
-### Demand for a Sign from the Sky
+### Visit to Magadan; Demand for a Sign from the Sky
 
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The Pharisees came and started arguing with him and demanding a sign from the sky—testing him. </span></span>
@@ -45,11 +41,7 @@ next: chapter-09
 <p class="section-ref">Mk 8:11-13</p>
 
 
-### Fourth Withdrawal East of the Lake;
-
-
-
-### Warning to the Disciples
+### Fourth Withdrawal East of the Lake; Warning to the Disciples
 
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The disciples had forgotten to take bread along and only had one loaf left in the boat. </span></span>

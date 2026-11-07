@@ -1,0 +1,19 @@
+{{- /* meditations-ordered.html (2026-11-07): every dated communion meditation, in calendar order
+       with no year: month, day, then newest year first on the same day, then the date code in the
+       filename (062925a before 062925b), then title. Returns a slice of dicts {page, month, key}.
+       Context: the communion-meditations section page. Shared by essays/communion-meditations.html
+       (month groups) and essays/single.html (prev/next), so both use one order.
+       Undated pages (.Date.IsZero: the 2016 A/B/C series) are left out until Virgil dates them
+       (Allen: no "Date unknown" group). */ -}}
+{{- $dated := slice -}}
+{{- range .RegularPagesRecursive -}}
+    {{- if not .Date.IsZero -}}
+        {{- $m := int (.Date.Format "1") -}}
+        {{- $d := int (.Date.Format "2") -}}
+        {{- $code := "" -}}
+        {{- with .File }}{{ with findRE `\d{6}[a-z]?$` .ContentBaseName 1 }}{{ $code = index . 0 }}{{ end }}{{ end -}}
+        {{- $key := printf "%02d-%02d-%04d-%s-%s" $m $d (sub 9999 .Date.Year) $code (lower .Title) -}}
+        {{- $dated = $dated | append (dict "page" . "month" $m "key" $key) -}}
+    {{- end -}}
+{{- end -}}
+{{- return (sort $dated "key") -}}

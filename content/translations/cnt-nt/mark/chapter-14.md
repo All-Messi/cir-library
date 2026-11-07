@@ -58,11 +58,7 @@ next: chapter-15
 <p class="section-ref">Mk 14:12-16</p>
 
 
-### The Passover Meal;
-
-
-
-### Judas Identified as Traitor
+### The Passover Meal; Judas Identified as Traitor
 
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>He arrived<sup>p</sup> that evening with the Twelve. </span></span>

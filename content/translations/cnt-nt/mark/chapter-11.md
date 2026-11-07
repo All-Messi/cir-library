@@ -40,11 +40,7 @@ next: chapter-12
 <p class="section-ref">Mk 11:1-11</p>
 
 
-### Cursing the Fig Tree;
-
-
-
-### Second Cleansing of the Temple
+### Cursing the Fig Tree; Second Cleansing of the Temple
 
 
 <p class="MsoNormal" style='margin-bottom:0in;line-height: normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>The next day, when they left Bethany, he was hungry. </span></span>

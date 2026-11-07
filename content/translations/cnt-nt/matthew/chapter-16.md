@@ -12,11 +12,7 @@ next: chapter-17
 ## Matthew Chapter 16
 
 
-### Visit to Magadan;
-
-
-
-### Demand for a Sign from the Sky
+### Visit to Magadan; Demand for a Sign from the Sky
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The Pharisees and Sadducees came, testing him, asking for a sign from the sky. </span></span></p>
@@ -28,11 +24,7 @@ next: chapter-17
 <p class="section-ref">Mt 16:1-4</p>
 
 
-### Fourth Withdrawal East of the Lake;
-
-
-
-### Warning to the Disciples
+### Fourth Withdrawal East of the Lake; Warning to the Disciples
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The disciples went to the other side <i>of the lake </i>and had forgotten to take bread. </span></span>

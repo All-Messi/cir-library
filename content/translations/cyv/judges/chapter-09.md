@@ -103,9 +103,6 @@ next: chapter-10
 
 <p class="section-ref">Jud 9:50-57</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Tola Judges Israel</span></b><b><span style='font-size:14.0pt;line-height:115%; font-family:"Times New Roman",serif'>
-</span></b></p>
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }

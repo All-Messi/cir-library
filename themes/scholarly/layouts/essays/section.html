@@ -1,5 +1,6 @@
 {{ define "main" }}
-{{/* Communion meditation years list newest first, like the year sections themselves (2026-11-04). */}}
+{{/* Communion meditations: newest first wherever a section lists them by date (2026-11-04). Their own
+     landing is month-grouped (essays/communion-meditations.html) and no year is shown (2026-11-07). */}}
 {{ $dated := strings.Contains .RelPermalink "/communion-meditations" }}
 {{ $kindLabel := dict "study-prompt" "Study prompts" "title-page" "Title page" "outline" "Outline" "chart" "Chart" "notes" "Notes" }}
 {{/* ── ESSAYS SECTION LAYOUT — always essay-style drilldown ── */}}
@@ -37,6 +38,15 @@
                     <span class="el-book-icon">📖</span>
                     <span class="el-subcat-name">{{ with .Params.book_title }}{{ . }}{{ else }}{{ partial "display-title.html" .Title }}{{ end }}</span>
                     <span class="el-subcat-count">View Book →</span>
+                </a>
+            </div>
+            {{ else if eq .Params.layout "communion-meditations" }}
+            {{/* Meditations are browsed by month on their own page, never by year (Virgil, 2026-11-07) */}}
+            <div class="el-subcat-group">
+                <a href="{{ .Permalink }}" class="el-subcat-row el-book-link">
+                    <span class="el-subcat-toggle" aria-hidden="true">›</span>
+                    <span class="el-subcat-name">{{ partial "display-title.html" .Title }}</span>
+                    <span class="el-subcat-count">{{ len .RegularPagesRecursive }} →</span>
                 </a>
             </div>
             {{ else }}

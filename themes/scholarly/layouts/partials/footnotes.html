@@ -1,0 +1,9 @@
+{{- /* Footnote popovers (2026-11-07). Included once by essays/single.html after the essay body.
+     Loads only when the body has what a note block starts with: a run of underscores (Virgil's short
+     rule above the notes) or a paragraph that is just "Notes" / "End Notes" / "Footnotes". The script
+     itself decides whether the notes really match (js/footnotes.js header); on ~1,000 essays without
+     notes nothing is loaded. Bump ?v= when either file changes (Chrome caches hard). */ -}}
+{{- if findRE `_{3,}|(?i)>(?:\s|\x{00a0}|&nbsp;)*(end\s?notes?|foot\s?notes?|notes?)(?:\s|\x{00a0}|&nbsp;|:)*<` .Content 1 -}}
+<link rel="stylesheet" href="{{ "css/footnotes.css" | relURL }}?v=1">
+<script src="{{ "js/footnotes.js" | relURL }}?v=1"></script>
+{{- end -}}

@@ -12,11 +12,7 @@ next: chapter-15
 ## Matthew Chapter 14
 
 
-### Herod’s Conscience Stricken;
-
-
-
-### Confusion of John the Baptist and Jesus
+### Herod’s Conscience Stricken; Confusion of John the Baptist and Jesus
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Herod the tetraarch heard about Jesus </span></span>

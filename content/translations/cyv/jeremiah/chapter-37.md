@@ -39,6 +39,24 @@ next: chapter-38
 
 <p class="section-ref">Jer 37:6-15</p>
 
+<!-- verse-supplement:cyv/jeremiah/37:16-21 -->
+
+<div class="supplied-note">Verses 16–21 are missing from this translation’s source file and are shown here from the Conversational Old Testament, with the divine name as in this version, until Dr. Warren supplies them.</div>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he’d been in the dungeon many days, </span></span>
+<span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King Zedekiah secretly brought him to his palace to ask him if<i> </i>any message had come from Yahveh</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'></span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>.<i> </i></span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in;margin-right:.5in; margin-bottom:0in;margin-left:.5in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“Yes! You’ll be turned over to the king of Babylon! </span></i><span class="verse verse-v18" id="v18"><sup class="verse-num">18</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>How have I sinned against you, your attendants, or the people that you’ve put me in prison? </span></i></span>
+<span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Where are your prophets now that said the king of Babylon wouldn’t attack you or this land? </span></i></span>
+<span class="verse verse-v20" id="v20"><sup class="verse-num">20</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But listen now, my lord the king. Don’t put me back in Jonathan’s house to die</span></i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>.”
+</span></span></p>
+
+<p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King Zedekiah commanded them to commit him to the courtyard of the guard. They gave him a loaf of bread each day from the bakers’ street till the bread in the city ran out. So he remained in the courtyard of the guard. </span></span></p>
+
+<p class="section-ref">Jer 37:16-21</p>
+
+<!-- /verse-supplement:cyv/jeremiah/37:16-21 -->
+
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
@@ -51,4 +69,5 @@ next: chapter-38
 .genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
 .genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
 .genealogy-table .spacer-row td { height: 0.8em; }
+.supplied-note { font-size: 0.85rem; font-style: italic; color: #666; line-height: 1.5; margin: 0.75rem 0 0.5rem 0; padding-left: 0.6rem; border-left: 2px solid #ccc; }
 </style>

@@ -12,11 +12,7 @@ next: chapter-16
 ## Matthew Chapter 15
 
 
-### Attack by the Jerusalem Pharisees
-
-
-
-### About Traditions
+### Attack by the Jerusalem Pharisees About Traditions
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Then Pharisees and scribes came<sup>p</sup> from Jerusalem, </span></span>
@@ -80,11 +76,7 @@ next: chapter-16
 <p class="section-ref">Mt 15:21-28</p>
 
 
-### Ministry in Decapolis;
-
-
-
-### Feeding the 4,000
+### Ministry in Decapolis; Feeding the 4,000
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v29" id="v29"><sup class="verse-num">29</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Jesus crossed Lake Galilee and went up on a hill and sat down. </span></span>

@@ -37,7 +37,9 @@ weight: 1
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  and put your nest among the stars,</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I’ll bring you down.</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                                   Obad 1-4</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            I’ll bring you down.</span></i><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'> </span></p>
+
+<p class="section-ref">Obad 1-4</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“If thieves came to you at night—</span></i></span></p>
 
@@ -76,7 +78,9 @@ weight: 1
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            so everybody from Esau’s mountains </span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  will be cut down in the slaughter.</span></i><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>                        <b>Obad 5-9</b></span></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  will be cut down in the slaughter.</span></i><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'></span></p>
+
+<p class="section-ref">Obad 5-9</p>
 
 
 ### Edom’s Violence Against Israel
@@ -112,7 +116,9 @@ weight: 1
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  to cut down their refugees</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            or have betrayed the survivors in their misfortune.</span></i><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>   Obad 10-14</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            or have betrayed the survivors in their misfortune.</span></i></span></p>
+
+<p class="section-ref">Obad 10-14</p>
 
 
 ### Edom’s Destruction, Israel’s Restoration
@@ -146,7 +152,9 @@ weight: 1
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>                  there’ll be no survivors in Edom.”</span></i></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in; line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                                            </span></i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Yahveh has said it.      </span><b><span style='font-size:10.0pt;font-family:"Times New Roman",serif'>Obad 15-18</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in; line-height:normal'><i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>                                                            </span></i><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Yahveh has said it.      </span></p>
+
+<p class="section-ref">Obad 15-18</p>
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in; line-height:normal'><span class="verse verse-v19" id="v19"><sup class="verse-num">19</sup> <span style='font-size:12.0pt;font-family:"Times New Roman",serif'>Then <i>my</i> people in the Negev will take over Esau’s mountains;</span></span></p>
 
@@ -168,7 +176,9 @@ weight: 1
 
 <p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            and extend its dominion over Esau’s mountains.</span></p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The kingdom will belong to Yahveh.</span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>                                     Obad 19-21</span></b></p>
+<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The kingdom will belong to Yahveh.</span></p>
+
+<p class="section-ref">Obad 19-21</p>
 
 
 <style>

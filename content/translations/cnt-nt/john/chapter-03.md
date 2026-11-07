@@ -49,11 +49,7 @@ next: chapter-04
 <p class="section-ref">Jn 3:1-21</p>
 
 
-### Jesus’ Growing Ministry and
-
-
-
-### John’s Waning Ministry at Aenon
+### Jesus’ Growing Ministry and John’s Waning Ministry at Aenon
 
 
 <p class="MsoNormal" style='margin-bottom:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span></b><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>After that, Jesus and his disciples went to Judaea, and he stayed there baptizing. </span></span>

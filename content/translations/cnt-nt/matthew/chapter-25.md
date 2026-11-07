@@ -48,7 +48,9 @@ next: chapter-26
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v21" id="v21"><sup class="verse-num">21</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“‘Well done, good, dependable servant. You were dependable in handling a few things; I’ll put you in charge of many. Enjoy my approval.’</span></i></span></p>
 
-<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The one he gave two talents came up, ‘You entrusted me with two talents; I’ve earned two more.’</span></i><b><span style='font-size:10.0pt;line-height:115%; font-family:"Times New Roman",serif'>            Mt 25: 14-22</span></b></span></p>
+<p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“The one he gave two talents came up, ‘You entrusted me with two talents; I’ve earned two more.’</span></i></span></span></p>
+
+<p class="section-ref">Mt 25: 14-22</p>
 
 <p class="MsoNormal" style='margin-top:0in;margin-right:.5in;margin-bottom:0in; margin-left:.5in;'><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <i><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>“‘Well done, good, reliable servant. You were reliable in handling a few things; I’ll put you in charge of many. Enjoy my approval.’</span></i></span></p>
 

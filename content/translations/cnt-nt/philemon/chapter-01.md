@@ -15,7 +15,9 @@ weight: 1
 
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v1" id="v1"><sup class="verse-num">1</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Paul, prisoner of Christ<sup>Messiah</sup> Jesus, and brother Timothy, to our dear fellow worker Philemon, </span></span>
 <span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>to sister Apphia, to fellow soldier Archippus, and to your<sup>sg</sup> house church. </span></span>
-<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Grace and peace from God our Father and the Lord Jesus Christ.    </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Phil 1-3</span></b></span></p>
+<span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Grace and peace from God our Father and the Lord Jesus Christ.    </span></span></p>
+
+<p class="section-ref">Phil 1-3</p>
 
 
 ### Paul’s Prayer for Philemon
@@ -24,7 +26,9 @@ weight: 1
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I always thank God <i>for you</i>, mentioning you<sup>sg</sup> in my prayers, </span></span>
 <span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>because I hear about your love and faith toward the Lord Jesus and all the saints. </span></span>
 <span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I pray that fellowshiping with your<sup>sg</sup> faith will lead to our experiencing everything good for Christ’s sake. </span></span>
-<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Brother, I’m so happy and encouraged by your love, because you refresh the hearts of the saints.                                  </span><b><span style='font-size:10.0pt; line-height:115%;font-family:"Times New Roman",serif'>Phil 4-7</span></b></span></p>
+<span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Brother, I’m so happy and encouraged by your love, because you refresh the hearts of the saints.                                  </span></span></p>
+
+<p class="section-ref">Phil 4-7</p>
 
 
 ### Requesting Freedom for Onesimus
@@ -38,7 +42,9 @@ weight: 1
 <span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>As my own heart, I’ve sent him back to you in person. </span></span>
 <span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>I wanted to keep him here to help me on your behalf while I’m in prison because of the good news. </span></span>
 <span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>But I didn’t want to do anything without your consent. I wanted your goodness to be because you wanted to, not because you had to. </span></span>
-<span class="verse verse-v15" id="v15"><sup class="verse-num">15-16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Maybe he left you for a while so you could have him forever physically and in the Lord, not as a servant, but as a dear brother—to me too.                                                                                                                                   </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Phil 8-16</span></b></span></p>
+<span class="verse verse-v15" id="v15"><sup class="verse-num">15-16</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Maybe he left you for a while so you could have him forever physically and in the Lord, not as a servant, but as a dear brother—to me too.                                                                                                                                   </span></span></p>
+
+<p class="section-ref">Phil 8-16</p>
 
 
 ### Additional Urgings About Onesimus
@@ -53,9 +59,7 @@ weight: 1
 <span class="verse verse-v22" id="v22"><sup class="verse-num">22</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>While you’re at it, prepare<sup>sg</sup> a place for me to stay, because I’m hoping by your<sup>pl</sup> prayers to be released to you<sup>pl</sup>.
 </span></span></p>
 
-
-### Phil 17-22
-
+<p class="section-ref">Phil 17-22</p>
 
 
 ### Greetings
@@ -64,7 +68,9 @@ weight: 1
 <p class="MsoNormal" style='margin-bottom:0in;'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>            </span><span class="verse verse-v23" id="v23"><sup class="verse-num">23</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Epaphras, my fellow prisoner in Christ Jesus, sends you<sup>sg</sup> greetings. </span></span>
 <span class="verse verse-v24" id="v24"><sup class="verse-num">24</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Mark, Aristarchus, Demas, Luke—my fellow workers—<i>greet you</i> <i>as well</i>.</span></span></p>
 
-<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The grace of the Lord Jesus Christ <i>be</i> with your<sup>pl</sup> spirit.                                      </span><b><span style='font-size:10.0pt;line-height:115%;font-family:"Times New Roman",serif'>Phil 23-25</span></b></span></p>
+<p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v25" id="v25"><sup class="verse-num">25</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>The grace of the Lord Jesus Christ <i>be</i> with your<sup>pl</sup> spirit.                                      </span></span></p>
+
+<p class="section-ref">Phil 23-25</p>
 
 
 <style>

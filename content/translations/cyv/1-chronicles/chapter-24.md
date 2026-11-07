@@ -94,8 +94,6 @@ next: chapter-25
 
 <p class="section-ref">1 Ch 24:24-31</p>
 
-<p class="MsoListBulletCxSpMiddle" style='margin-top:0in; margin-bottom:0in;margin-left:0in;'><b><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Duties of Musicians</span></b><b><span style='font-size:12.0pt;line-height:115%; font-family:"Times New Roman",serif'>                                                                                                                          </span></b><b><span style='font-size:14.0pt;line-height:115%;font-family:"Times New Roman",serif'> </span></b></p>
-
 
 <style>
 .verse { display: block; margin-bottom: 0.5em; line-height: 1.8; }
