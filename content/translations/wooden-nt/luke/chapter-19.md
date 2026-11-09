@@ -96,8 +96,6 @@ next: chapter-20
 
 <!-- verse-supplement:wooden-nt/luke/19:48 -->
 
-<div class="supplied-note">Verse 48 is missing from this translation’s source file and is shown here from the Conversational New Testament until Dr. Warren supplies it.</div>
-
 <p class="MsoNormal" style='margin-bottom:0in;'><span class="verse verse-v48" id="v48"><sup class="verse-num">48</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>but they couldn’t find one; the people were eagerly listening to him.                                    </span></span></p>
 
 <!-- /verse-supplement:wooden-nt/luke/19:48 -->
@@ -114,5 +112,4 @@ next: chapter-20
 .genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
 .genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
 .genealogy-table .spacer-row td { height: 0.8em; }
-.supplied-note { font-size: 0.85rem; font-style: italic; color: #666; line-height: 1.5; margin: 0.75rem 0 0.5rem 0; padding-left: 0.6rem; border-left: 2px solid #ccc; }
 </style>

@@ -41,8 +41,6 @@ next: chapter-38
 
 <!-- verse-supplement:cyv/jeremiah/37:16-21 -->
 
-<div class="supplied-note">Verses 16–21 are missing from this translation’s source file and are shown here from the Conversational Old Testament, with the divine name as in this version, until Dr. Warren supplies them.</div>
-
 <p class="MsoListBulletCxSpMiddle" style='margin-bottom:0in; '><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup> <span style='font-size: 12.0pt;line-height:115%;font-family:"Times New Roman",serif'>When he’d been in the dungeon many days, </span></span>
 <span class="verse verse-v17" id="v17"><sup class="verse-num">17</sup> <span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>King Zedekiah secretly brought him to his palace to ask him if<i> </i>any message had come from Yahveh</span><span style='font-size:9.0pt;line-height:115%;font-family: "Times New Roman",serif'></span><span style='font-size:12.0pt;line-height: 115%;font-family:"Times New Roman",serif'>.<i> </i></span></span></p>
 
@@ -69,5 +67,4 @@ next: chapter-38
 .genealogy-table .verse { display: inline; margin-bottom: 0; padding: 0.1em 0; }
 .genealogy-table sup.verse-num { color: var(--secondary-color, #8b6914); font-weight: bold; font-size: 0.65em; vertical-align: super; margin-right: 0.15em; }
 .genealogy-table .spacer-row td { height: 0.8em; }
-.supplied-note { font-size: 0.85rem; font-style: italic; color: #666; line-height: 1.5; margin: 0.75rem 0 0.5rem 0; padding-left: 0.6rem; border-left: 2px solid #ccc; }
 </style>

@@ -1,11 +1,13 @@
 /* Footnote popovers for essays (2026-11-07). Loaded by partials/footnotes.html, only on essay pages
    whose body has a note block; the script is js/footnotes.js. Shape and timing follow the Bible
-   reference popup (reading-ui.html .scripture-popup); colours follow the essay page (#2f4c3a). */
+   reference popup (reading-ui.html .scripture-popup); colours follow the essay page (#2f4c3a), except the
+   numbers, which use the site's gold accent like scripture refs so readers see they open something
+   (Allen, 2026-11-09). */
 
 /* The number in the text. The raised span around it is Virgil's own (sup or position:relative). */
 .es-content a.fn-ref {
     position: relative;
-    color: #2f4c3a;
+    color: var(--color-accent, #9c7c38);
     font-weight: 700;
     text-decoration: none;
     padding: 0 0.1em;
@@ -22,18 +24,18 @@
 }
 .es-content a.fn-ref:hover,
 .es-content a.fn-ref[aria-expanded="true"] {
-    background: rgba(47, 76, 58, 0.12);
+    background: rgba(156, 124, 56, 0.15);
     text-decoration: none;
 }
 .es-content a.fn-ref:focus { outline: none; }
-.es-content a.fn-ref:focus-visible { outline: 2px solid #2f4c3a; outline-offset: 1px; }
+.es-content a.fn-ref:focus-visible { outline: 2px solid var(--color-accent, #9c7c38); outline-offset: 1px; }
 
 /* The note's own number at the bottom links back to the text. */
-.es-content a.fn-back { color: #2f4c3a; text-decoration: none; font-weight: 700; }
+.es-content a.fn-back { color: var(--color-accent, #9c7c38); text-decoration: none; font-weight: 700; }
 .es-content a.fn-back:hover { text-decoration: underline; }
 .es-content .fn-note { scroll-margin-top: calc(var(--header-height, 70px) + 1.5rem); }
 .es-content .fn-note:target { background: rgba(47, 76, 58, 0.08); transition: background 1.5s; }
-.es-content a.fn-ref:target { background: rgba(47, 76, 58, 0.16); }
+.es-content a.fn-ref:target { background: rgba(156, 124, 56, 0.2); }
 
 /* The popover */
 .fn-popover {
