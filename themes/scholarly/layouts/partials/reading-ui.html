@@ -477,6 +477,32 @@ body.overlay-open {
     .chapter-content p[data-bl] { --step: 0.5em; --cap: 4.5em; }
 }
 
+/* Matthew 1 genealogy table on phones (2026-11-17). Its 3 fixed columns are ~110px on a phone, and
+   overflow-wrap split names and commas ("Abraham / ,", "Amminad / ab"). On phones the table becomes a
+   staircase: each cell its own line, the column shown as its indent (col 2 = 1.5em, col 3 = 3em), empty
+   cells dropped, wrapped lines hanging 1em deeper. Reading order (row by row, left to right) is the
+   genealogy's own order. Allen chose this over a shrunk 3-column table. Desktop keeps the table.
+   Only cnt-nt and wooden-nt Matthew 1 have .genealogy-table. */
+@media (max-width: 640px) {
+    .chapter-content .genealogy-table,
+    .chapter-content .genealogy-table tbody,
+    .chapter-content .genealogy-table tr {
+        display: block;
+        width: auto;
+    }
+    .chapter-content .genealogy-table colgroup { display: none; }
+    .chapter-content .genealogy-table td {
+        display: block;
+        line-height: 1.6;
+        padding: 0.1em 0 0.1em 1em !important;
+        text-indent: -1em;
+    }
+    .chapter-content .genealogy-table td:empty { display: none; }
+    .chapter-content .genealogy-table td:nth-child(2) { padding-left: 2.5em !important; }
+    .chapter-content .genealogy-table td:nth-child(3) { padding-left: 4em !important; }
+    .chapter-content .genealogy-table .spacer-row { display: none; }
+}
+
 /* Word superscripts that are not verse numbers (Virgil's "p" marks, footnote letters/numbers).
    Word draws a superscript at about 2/3 of the text size; the browser default (83%) looked too big
    (Allen, 2026-11-04). line-height:0 keeps them from opening up the line spacing. */
