@@ -15,7 +15,7 @@ next: chapter-02
 <p class="MsoNormal" align=center style='margin-bottom:0in;text-align:center'><span style='font-size:12.0pt;line-height:115%;font-family:"Times New Roman",serif'>Son of-David, Son of-Abraham</span></p>
 
 
-<table class="genealogy-table">
+<table class="genealogy-table genealogy-columns">
 <colgroup>
   <col style="width:33%">
   <col style="width:34%">
@@ -23,131 +23,65 @@ next: chapter-02
 </colgroup>
 <tbody>
 <tr>
-  <td><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup>Abraham, father of</span></td>
-  <td><span class="verse verse-v2">Isaac, father of</span></td>
-  <td><span class="verse verse-v2">Jacob, father of</span></td>
-</tr>
-<tr>
-  <td><span class="verse verse-v2">Judah and his brothers;</span></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup>Judah was father of</span></td>
-  <td><span class="verse verse-v3">Peres and Zerah by Tamar;</span></td>
-  <td></td>
-</tr>
-<tr>
-  <td></td>
-  <td><span class="verse verse-v3">Peres was father of</span></td>
-  <td><span class="verse verse-v3">Hezron, father of</span></td>
-</tr>
-<tr>
-  <td><span class="verse verse-v3">Ram, </span><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup>father of</span></td>
-  <td><span class="verse verse-v4">Amminadab, father of</span></td>
-  <td><span class="verse verse-v4">Nahshon, father of</span></td>
-</tr>
-<tr>
-  <td><span class="verse verse-v4">Salmon, </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup>father of</span></td>
-  <td><span class="verse verse-v5">Boaz by Rahab;</span></td>
-  <td></td>
-</tr>
-<tr>
-  <td></td>
-  <td><span class="verse verse-v5">Boaz was father of</span></td>
-  <td><span class="verse verse-v5">Obed by Ruth;</span></td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td><span class="verse verse-v5">Obed was father of</span></td>
-</tr>
-<tr>
-  <td><span class="verse verse-v5">Jesse, </span><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup>father of</span></td>
-  <td><span class="verse verse-v6">David the king.</span></td>
-  <td></td>
-</tr>
-<tr class="spacer-row"><td colspan="3"></td></tr>
-<tr>
-  <td><span class="verse verse-v6">David was father of</span></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td><span class="verse verse-v6">Solomon by his wife, who</span></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td><span class="verse verse-v6">had been Uriah’s wife.</span></td>
-  <td><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup>Solomon was father of</span></td>
-  <td><span class="verse verse-v7">Rehoboam, father of</span></td>
-</tr>
-<tr>
-  <td><span class="verse verse-v7">Abijah, father of</span></td>
-  <td><span class="verse verse-v7">Asaph, </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup>father of</span></td>
-  <td><span class="verse verse-v8">Jehoshaphat, father of</span></td>
-</tr>
-<tr>
-  <td><span class="verse verse-v8">Joram, father of</span></td>
-  <td><span class="verse verse-v8">Uzziah, </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup>father of</span></td>
-  <td><span class="verse verse-v9">Jotham, father of</span></td>
-</tr>
-<tr>
-  <td><span class="verse verse-v9">Ahaz, father of</span></td>
-  <td><span class="verse verse-v9">Hezekiah, </span><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup>father of</span></td>
-  <td><span class="verse verse-v10">Manasseh, father of</span></td>
-</tr>
-<tr>
-  <td><span class="verse verse-v10">Amos, father of</span></td>
-  <td><span class="verse verse-v10">Josiah, </span><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup>father of</span></td>
-  <td><span class="verse verse-v11">Jechoniah and his brothers</span></td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td><span class="verse verse-v11">at the exile to Babylon.</span></td>
-</tr>
-<tr class="spacer-row"><td colspan="3"></td></tr>
-<tr>
-  <td><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup>After the exile,</span></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td><span class="verse verse-v12">Jechoniah was father of</span></td>
-  <td><span class="verse verse-v12">Shealtiel, father of</span></td>
-  <td><span class="verse verse-v12">Zerubbabel, </span><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup>father of</span></td>
-</tr>
-<tr>
-  <td><span class="verse verse-v13">Abiud, father of</span></td>
-  <td><span class="verse verse-v13">Eliakim, father of</span></td>
-  <td><span class="verse verse-v13">Azor, </span><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup>father of</span></td>
-</tr>
-<tr>
-  <td><span class="verse verse-v14">Zadok, father of</span></td>
-  <td><span class="verse verse-v14">Achim, father of</span></td>
-  <td><span class="verse verse-v14">Eliud, </span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup>father of</span></td>
-</tr>
-<tr>
-  <td><span class="verse verse-v15">Eleazar, father of</span></td>
-  <td><span class="verse verse-v15">Matthan, father of</span></td>
-  <td><span class="verse verse-v15">Jacob, </span><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup>father of Joseph</span></td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td><span class="verse verse-v16">husband of Mary,</span></td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td><span class="verse verse-v16">who gave birth to Jesus,</span></td>
-</tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td><span class="verse verse-v16">called Messiah.</span></td>
+  <td>
+    <div class="gen-line"><span class="verse verse-v2" id="v2"><sup class="verse-num">2</sup>Abraham was father of</span></div>
+    <div class="gen-line"><span class="verse verse-v2">Isaac, father of</span></div>
+    <div class="gen-line"><span class="verse verse-v2">Jacob, father of</span></div>
+    <div class="gen-line"><span class="verse verse-v2">Judah and his brothers;</span></div>
+    <div class="gen-line gen-indent"><span class="verse verse-v3" id="v3"><sup class="verse-num">3</sup>Judah was father of</span></div>
+    <div class="gen-line"><span class="verse verse-v3">Peres and Zerah by Tamar;</span></div>
+    <div class="gen-line gen-indent"><span class="verse verse-v3">Peres was father of</span></div>
+    <div class="gen-line"><span class="verse verse-v3">Hezron, father of</span></div>
+    <div class="gen-line"><span class="verse verse-v3">Ram, </span><span class="verse verse-v4" id="v4"><sup class="verse-num">4</sup>father of</span></div>
+    <div class="gen-line"><span class="verse verse-v4">Aminidab, father of</span></div>
+    <div class="gen-line"><span class="verse verse-v4">Nahshon, father of</span></div>
+    <div class="gen-line"><span class="verse verse-v4">Salmon, </span><span class="verse verse-v5" id="v5"><sup class="verse-num">5</sup>father of</span></div>
+    <div class="gen-line"><span class="verse verse-v5">Boaz by Rahab;</span></div>
+    <div class="gen-line gen-indent"><span class="verse verse-v5">Boaz was father of</span></div>
+    <div class="gen-line"><span class="verse verse-v5">Obed by Ruth;</span></div>
+    <div class="gen-line gen-indent"><span class="verse verse-v5">Obed was father of</span></div>
+    <div class="gen-line"><span class="verse verse-v5">Jesse, </span><span class="verse verse-v6" id="v6"><sup class="verse-num">6</sup>father of</span></div>
+    <div class="gen-line"><span class="verse verse-v6">David the king.</span></div>
+  </td>
+  <td>
+    <div class="gen-line"><span class="verse verse-v6">David was father of</span></div>
+    <div class="gen-line"><span class="verse verse-v6">Solomon by his wife, who</span></div>
+    <div class="gen-line gen-indent"><span class="verse verse-v6">had been the wife of Uriah.</span></div>
+    <div class="gen-line gen-indent"><span class="verse verse-v7" id="v7"><sup class="verse-num">7</sup>Solomon was father of</span></div>
+    <div class="gen-line"><span class="verse verse-v7">Rehoboam, father of</span></div>
+    <div class="gen-line"><span class="verse verse-v7">Abijah, father of</span></div>
+    <div class="gen-line"><span class="verse verse-v7">Asa, </span><span class="verse verse-v8" id="v8"><sup class="verse-num">8</sup>father of</span></div>
+    <div class="gen-line"><span class="verse verse-v8">Jehoshaphat, father of</span></div>
+    <div class="gen-line"><span class="verse verse-v8">Joram, father of</span></div>
+    <div class="gen-line"><span class="verse verse-v8">Uzziah, </span><span class="verse verse-v9" id="v9"><sup class="verse-num">9</sup>father of</span></div>
+    <div class="gen-line"><span class="verse verse-v9">Jotham, father of</span></div>
+    <div class="gen-line"><span class="verse verse-v9">Ahaz, father of</span></div>
+    <div class="gen-line"><span class="verse verse-v9">Hezekiah, </span><span class="verse verse-v10" id="v10"><sup class="verse-num">10</sup>father of</span></div>
+    <div class="gen-line"><span class="verse verse-v10">Manasseh, father of</span></div>
+    <div class="gen-line"><span class="verse verse-v10">Amon, father of</span></div>
+    <div class="gen-line"><span class="verse verse-v10">Josiah, </span><span class="verse verse-v11" id="v11"><sup class="verse-num">11</sup>father of</span></div>
+    <div class="gen-line"><span class="verse verse-v11">Jechoniah and his brothers</span></div>
+    <div class="gen-line gen-indent"><span class="verse verse-v11">at the exile to Babylon.</span></div>
+    <div class="gen-line gen-indent"><span class="verse verse-v12" id="v12"><sup class="verse-num">12</sup>After the exile to</span></div>
+    <div class="gen-line gen-indent"><span class="verse verse-v12">Babylon, Jechoniah</span></div>
+    <div class="gen-line gen-indent"><span class="verse verse-v12">was father of</span></div>
+  </td>
+  <td>
+    <div class="gen-line"><span class="verse verse-v12">Shealtiel, father of</span></div>
+    <div class="gen-line"><span class="verse verse-v12">Zerubbabel, </span><span class="verse verse-v13" id="v13"><sup class="verse-num">13</sup>father of</span></div>
+    <div class="gen-line"><span class="verse verse-v13">Abiud, father of</span></div>
+    <div class="gen-line"><span class="verse verse-v13">Eliakim, father of</span></div>
+    <div class="gen-line"><span class="verse verse-v13">Azer, </span><span class="verse verse-v14" id="v14"><sup class="verse-num">14</sup>father of</span></div>
+    <div class="gen-line"><span class="verse verse-v14">Sadoc, father of</span></div>
+    <div class="gen-line"><span class="verse verse-v14">Achim, father of</span></div>
+    <div class="gen-line"><span class="verse verse-v14">Eliud, </span><span class="verse verse-v15" id="v15"><sup class="verse-num">15</sup>father of</span></div>
+    <div class="gen-line"><span class="verse verse-v15">Eleazar, father of</span></div>
+    <div class="gen-line"><span class="verse verse-v15">Mattham, father of</span></div>
+    <div class="gen-line"><span class="verse verse-v15">Jacob, </span><span class="verse verse-v16" id="v16"><sup class="verse-num">16</sup>father of Joseph,</span></div>
+    <div class="gen-line gen-indent"><span class="verse verse-v16">husband of Mary, who</span></div>
+    <div class="gen-line gen-indent"><span class="verse verse-v16">gave birth to Jesus,</span></div>
+    <div class="gen-line gen-indent"><span class="verse verse-v16">called Messiah.</span></div>
+  </td>
 </tr>
 </tbody>
 </table>

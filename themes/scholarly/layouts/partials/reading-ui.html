@@ -501,7 +501,33 @@ body.overlay-open {
     .chapter-content .genealogy-table td:nth-child(2) { padding-left: 2.5em !important; }
     .chapter-content .genealogy-table td:nth-child(3) { padding-left: 4em !important; }
     .chapter-content .genealogy-table .spacer-row { display: none; }
+    /* Column-reading tables (Wooden Matthew 1) stack their columns, which is their reading
+       order, with no column indent: the lines below carry the layout. */
+    .chapter-content .genealogy-columns td,
+    .chapter-content .genealogy-columns td:nth-child(2),
+    .chapter-content .genealogy-columns td:nth-child(3) {
+        padding: 0 !important;
+        text-indent: 0;
+    }
 }
+
+/* Wooden Matthew 1 genealogy (2026-11-17): Virgil's three columns read top to bottom, so the converter
+   (build_column_table) writes one row with a cell per column and a div per line. gen-indent is his
+   small continuation indent; wrapped lines hang 1em. */
+.chapter-content .genealogy-columns td { vertical-align: top; }
+@media (min-width: 641px) {
+    /* Desktop: unwrapped, Virgil's lines need ~860px at full size and the column is 600px, so lines
+       may wrap (hanging); slightly smaller text and content-sized columns keep that to a few. */
+    .chapter-content .genealogy-columns { table-layout: auto; font-size: 0.88em; }
+    .chapter-content .genealogy-columns col { width: auto !important; }
+    .chapter-content .genealogy-columns td { padding: 0 1em 0 0 !important; }
+}
+.chapter-content .genealogy-columns .gen-line {
+    padding-left: 1em;
+    text-indent: -1em;
+    line-height: 1.6;
+}
+.chapter-content .genealogy-columns .gen-indent { padding-left: 1.75em; }
 
 /* Word superscripts that are not verse numbers (Virgil's "p" marks, footnote letters/numbers).
    Word draws a superscript at about 2/3 of the text size; the browser default (83%) looked too big
