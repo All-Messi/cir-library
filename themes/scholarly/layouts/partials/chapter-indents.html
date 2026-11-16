@@ -1,0 +1,55 @@
+{{- /* chapter-indents.html (2026-11-17): Word's indents on the Bible pages, made phone-friendly.
+   Virgil's Bible files indent with two Word devices: runs of spaces at the start of a line (Word exports
+   a tab as about 12 &nbsp;/space characters) and the paragraph's margin-left in inches. On a phone the
+   space runs cannot shrink or wrap: the first line is pushed far right and the wrapped rest falls back
+   to the left edge, and half-inch margins eat the screen (Allen's screenshots, 2026-11-17; about 34,000
+   lines in 1,600 chapters). Both are measured here in quarter-inch steps (6 spaces = margin .25in) and
+   handed to the CSS in reading-ui.html as --b (margin steps) and --k (space-run steps), which draws
+   them full size on desktop and compact on phones. The <p> is marked:
+     data-ind  short line (under 100 characters after the run): poetry; wrapped lines hang under it;
+     data-fi   longer paragraph with a run: prose whose tab was a first-line indent (Mt 2:16);
+     data-bl   longer paragraph with only a margin: a block indent.
+   The space run is removed; Word's margin-left stays in the style but the CSS overrides it. Space runs
+   at the END of a paragraph are removed too: they glued onto the last word and wrapped it ("[Jer /
+   31:15]." in Mt 2:18).
+   Done at render time so every reconversion gets it. Input: the chapter's .Content.
+   Called by chapter/single.html. */ -}}
+{{- $parts := split (string .) "<p" -}}
+{{- $out := slice (index $parts 0) -}}
+{{- range after 1 $parts -}}
+    {{- $m := findRESubmatch `^((?:\s[^>]*)?)(>(?:<[^>]+>)*)([\x{a0} \n]{4,})?` . 1 -}}
+    {{- if not $m -}}
+        {{- $out = $out | append (printf "<p%s" .) -}}
+    {{- else -}}
+        {{- $attrs := index $m 0 1 -}}
+        {{- $run := index $m 0 3 -}}
+        {{- if not (in $run " ") }}{{ $run = "" }}{{ end -}}
+        {{- $k := 0 -}}
+        {{- with $run -}}
+            {{- $k = int (math.Round (div (float (strings.RuneCount (replace . "\n" ""))) 6)) -}}
+            {{- $k = cond (lt $k 1) 1 $k -}}
+        {{- end -}}
+        {{- $b := 0 -}}
+        {{- with findRESubmatch `margin-left:\s*([\d.]+)in` $attrs 1 -}}
+            {{- $b = int (math.Round (mul (float (index . 0 1)) 4)) -}}
+        {{- end -}}
+        {{- if or $k $b -}}
+            {{- $rest := strings.TrimPrefix (index $m 0 0) . -}}
+            {{- $len := strings.RuneCount (trim (plainify (index (split $rest "</p>") 0)) " \n ") -}}
+            {{- $kind := cond (lt $len 100) "data-ind" (cond (gt $k 0) "data-fi" "data-bl") -}}
+            {{- $vars := printf "--b:%d;--k:%d;" (cond (gt $b 24) 24 $b) (cond (gt $k 24) 24 $k) -}}
+            {{- $a := $attrs -}}
+            {{- if findRE `style=['"]` $a 1 -}}
+                {{- $a = replaceRE `style=(['"])` (printf "style=${1}%s" $vars) $a 1 -}}
+            {{- else -}}
+                {{- $a = printf "%s style=\"%s\"" $a $vars -}}
+            {{- end -}}
+            {{- $out = $out | append (printf "<p %s%s%s%s" $kind $a (index $m 0 2) $rest) -}}
+        {{- else -}}
+            {{- $out = $out | append (printf "<p%s" .) -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+{{- $html := delimit $out "" -}}
+{{- $html = replaceRE `[\x{a0} ]*\x{a0}[\x{a0} ]*((?:<[^>]+>|\s)*</p>)` "$1" $html -}}
+{{- return ($html | safeHTML) -}}

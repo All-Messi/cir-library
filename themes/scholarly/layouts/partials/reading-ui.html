@@ -443,6 +443,39 @@ body.overlay-open {
     font-family: inherit !important;
     line-height: inherit !important;
 }
+/* ...except Word's 8-9pt runs, which keep their smaller size: the "ORD" of Virgil's small-caps
+   L<small>ORD</small> (and G<small>OD</small>) and his bracketed OT references like [Deut 6:13]
+   (Allen, 2026-11-17: full-size bold refs looked wrong on mobile). Minified pages write 9pt, local 9.0pt. */
+.chapter-content span[style*="font-size:9"],
+.chapter-content span[style*="font-size: 9"],
+.chapter-content span[style*="font-size:8"],
+.chapter-content span[style*="font-size: 8"] {
+    font-size: 0.75em !important;
+}
+
+/* Word indents (2026-11-17). partials/chapter-indents.html measures each Bible paragraph's Word margin
+   (--b) and leading space run (--k) in quarter-inch steps and marks it data-ind (poetry line: wrapped
+   lines hang 1em deeper), data-fi (prose: the run is a first-line indent) or data-bl (block margin).
+   Desktop step 1.25em is about Word's quarter inch; phones use 0.5em and a cap so the text keeps the
+   screen. !important beats Word's inline margin-left and enhancements.css's text-indent:0 reset. */
+.chapter-content p[data-ind],
+.chapter-content p[data-fi],
+.chapter-content p[data-bl] {
+    --step: 1.25em;
+    --cap: 50%;
+    --hang: 0em;
+    --first: 0;
+    margin-left: 0 !important;
+    padding-left: calc(min((var(--b) + var(--k) - var(--first)) * var(--step), var(--cap)) + var(--hang)) !important;
+    text-indent: calc(min(var(--first) * var(--step), var(--cap)) - var(--hang)) !important;
+}
+.chapter-content p[data-ind] { --hang: 1em; }
+.chapter-content p[data-fi] { --first: var(--k); }
+@media (max-width: 640px) {
+    .chapter-content p[data-ind],
+    .chapter-content p[data-fi],
+    .chapter-content p[data-bl] { --step: 0.5em; --cap: 4.5em; }
+}
 
 /* Word superscripts that are not verse numbers (Virgil's "p" marks, footnote letters/numbers).
    Word draws a superscript at about 2/3 of the text size; the browser default (83%) looked too big
